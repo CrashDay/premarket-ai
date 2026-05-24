@@ -1,0 +1,916 @@
+{
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-04T13:51:03.944Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Breakfast News: Abel Takes Berkshire Center Stage",
+      "file": "2026-05-03-market-briefcnbcbreaking-news-breakfast-news-abel-takes-berkshire-center-stage-19df2c17197f0b8d.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Mon, 04 May 2026 11:30:55 +0000",
+      "profile": "Motley Fool Stock Advisor",
+      "role": "source-backed recommendation",
+      "weight": 18,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/35N2-UOtTX11iee4DB1-Zg~~/AAQRxRA~/KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_-DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK-JVTW0r01Zq6KX-4W9-7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd-rYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs-ysQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+          "title": "KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_ DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK JVTW0r01Zq6KX 4W9 7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd RYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs YsQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/ygXq5Y43YmrnMYbj03JDEA~~/AAQRxRA~/jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3-rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx-zGj3hSxclHQIae-nahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95-pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+          "title": "Jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3 Rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx ZGj3hSxclHQIae NahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95 Pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/aXDR3tKvtVaTBLYSIDzPYg~~/AAQRxRA~/95b9dXVT-m2Q-1hJmEFBv5uqNwuuXdeI-1c1xhoi6W4Qr0m0FdlXA-LqwUROvYSECxmbtSeA3RzoJ8ne-KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz-aZze8iKtwWAPQqGphqh-3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n-NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3-MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+          "title": "95b9dXVT M2Q 1hJmEFBv5uqNwuuXdeI 1c1xhoi6W4Qr0m0FdlXA LqwUROvYSECxmbtSeA3RzoJ8ne KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz AZze8iKtwWAPQqGphqh 3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3 MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/p5kKAq6gT92K4piBu8QT1g~~/AAQRxRA~/TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8-1Q-7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5-2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N-wZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO-Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+          "title": "TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8 1Q 7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5 2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N WZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Cw8pTcb3ct1EiPs6UbSKog~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg-dv-8TgMaxOi-8ehhI-JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK-9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+          "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg Dv 8TgMaxOi 8ehhI JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK 9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/fd1qu88QzRka7NQZIJIcRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N-ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3-4YrkVl2BitB2CUtvHEyMw3lNJsCkn-qyShjEOWMLm_QG234A~~",
+          "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3 4YrkVl2BitB2CUtvHEyMw3lNJsCkn QyShjEOWMLm_QG234A~~",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/WLtqvX-yDIUV_Bhmbo2J4A~~/AAQRxRA~/DSoIDL1N44y6_3mXiZ12-_FV-DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr-irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au-DsizhCvJfH5irhQhxhO-DpGIf5HVS5hqq",
+          "title": "DSoIDL1N44y6_3mXiZ12 _FV DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr Irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au DsizhCvJfH5irhQhxhO DpGIf5HVS5hqq",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/gGk_lNDcFp1-zwcgMpG4xw~~/AAQRxRA~/IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH-ETq_IVYcdiwEtYYvvLFQNBScjNIC-HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1-LfHPs-mQTZbvThdqkrDQKSDytzhfHTc-rpS9xTLln9Y9ZuNhubWBGf-beuFE1GO6f8gJfgQYjTscS7AAKp",
+          "title": "IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH ETq_IVYcdiwEtYYvvLFQNBScjNIC HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1 LfHPs MQTZbvThdqkrDQKSDytzhfHTc RpS9xTLln9Y9ZuNhubWBGf BeuFE1GO6f8gJfgQYjTscS7AAKp",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/vnYYdXbAF-Sasnk1rChhkw~~/AAQRxRA~/2z-4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx-QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg-xpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n-sZXshj3_ixnBSk5T5MlBI9cOu9aC-b-PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N-Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r-qPIuC5B6z-Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ-KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE-w~~",
+          "title": "2z 4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg XpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n SZXshj3_ixnBSk5T5MlBI9cOu9aC B PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r QPIuC5B6z Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE W~~",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/2gqHu1nfeL4KDw8BKvgftA~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO-P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2-8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH-uO9SkviCxgRmA2eazzNWzU-Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+          "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2 8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH UO9SkviCxgRmA2eazzNWzU Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/fI3oEHzL484A3jb6g9bEtw~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni-Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU-Mn6DjiuY-4-VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90-c2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K-O5FvOmKTCtgH3b-1h-yCzEiPDyQp",
+          "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU Mn6DjiuY 4 VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90 C2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K O5FvOmKTCtgH3b 1h YCzEiPDyQp",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/7K5jWKzP1quUTICUb3xeRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m-LN9DPGTAZTL5ILi2PXYXGwR2-fULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI-nH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu-pO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi-k5sjQ8brqxlVuhcG1X0Z-jLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1-lY-gvS3psIOIPngNrD5g8B7lBaA~~",
+          "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m LN9DPGTAZTL5ILi2PXYXGwR2 FULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI NH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu PO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi K5sjQ8brqxlVuhcG1X0Z JLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1 LY GvS3psIOIPngNrD5g8B7lBaA~~",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1298,
+      "summaryHints": [
+        "Berkshire Hathaway shareholders meet, GameStop launches bid for eBay, and more… Breakfast NewsClick here to read online .",
+        "MAY 4, 2026Friday's MarketsS&P 500 7,230 (+0.29%)Nasdaq 25,114 (+0.89%)Dow 49,499 (-0.31%)Bitcoin 78,172 (+2.23%)Image shows chart of Berkshire Hathaway vs.",
+        "the S&P 500 over 3 years ******************************************",
+        "New Berkshire Hathaway Era Gets Underway ******************************************",
+        "* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "New Berkshire Hathaway Era Gets Underway ******************************************* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO. Revenue grew 4% year over year, with earnings per B share up 120%. Both, however, missed expectations – as much of the headline gains came from investment holdings revaluations. A Stock Advisor recommendation by Team Hidden Gems, Berkshire saw no real pre-market share price movement as a result. * “There are no bigger shoes to fill”: On Warren Buffett’s last day as CEO, TMF Chief Investment Officer Andy Cross hinted at the task facing Greg Abel. The new boss reassured shareholders he’ll continue to seek targets for the company’s cash pile – now at a record $380 billion – but only at the right valuations. And he dismissed any talk of a Berkshire breakup. * “We've never had more people in a gambling mood than now”: Buffett had wise words for investors relating to current market conditions, adding, “That doesn't mean investing is terrible, but it does mean that prices for an awful lot of things will look awfully silly.” Dig deeper into Berkshire’s Q1 -----------------------------",
+          "links": [],
+          "tickers": [
+            "BRKB"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close. eBay jumped 8% in pre-market trading – still some way short of the offer value – as GameStop was largely unmoved. * “It could be a legit competitor to Amazon”: Gamestop CEO Ryan Cohen told The Wall Street Journal a merger could boost earnings and cut costs – expecting $2 billion of annual savings within 12 months if it goes ahead. He plans to take the bid hostile with a direct approach to shareholders if necessary. * “Highly confident letter” from TD Bank: GameStop says it’s secured around $20 billion in debt funding in its attempt to take control of a target valued close to 4 times its own market cap. Read about eBay’s Q1 earnings A message from The Motley Fool <p><strong>When AI Hype Fades, a Few Companies Will Still Be Standing</strong></p> <p>Market pullbacks strip away speculation and leave behind fundamentals. For long-term investors, that's clarifying.</p> <p>The AI companies we're most interested in right now aren't chasing headlines. They're embedding AI into industries like digital advertising and law enforcement, where demand is driven by necessity, not hype cycles.</p> <p>They're smaller, quieter, and still early enough that most investors haven't noticed them yet.</p> <p>We've highlighted five in our latest research report so you know exactly where to look while everyone else is watching the mega-caps.</p> <p><a href=\" the <em>Epic</em> membership to get the report</a></p> ************************************",
+          "links": [],
+          "tickers": [
+            "EBAY",
+            "GME"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy",
+            "Financials",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Markets Surge as Jobs Print Looms ************************************ The S&P 500 ended Friday with a 0.91% rise on the week, with the Nasdaq gaining 1.12% to take it above 25,000 points. Both hit new record highs. Bitcoin (CRYPTO:BTC ) broke back above $80,000 for the first time in over three months. Optimism appears to be continuing – as S&P 500 futures ticked up 0.1% pre-market, and Nasdaq futures rose 0.2%, as hopes for talks on the Iran conflict emerge – though WTI crude remained above $100 per barrel. * Cautious April jobs print: After March’s nonfarm payrolls soared above expectations with 178,000 new jobs added, Friday’s April figure is expected to come in significantly lower – with a 53,000 count predicted. The April unemployment rate is expected to hold steady from March at 4.3%. * Earnings season in full flood: This week brings a number of scheduled reports from key Fool favorites – more than we can cover in today’s Breakfast News weekly look-ahead. We’ll bring them to you on a day-by-day basis. Review last week’s inflation report --------------------------------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Selected Earnings to Start the Week -------------------------------------- * Vertex Pharmaceuticals (NASDAQ:VRTX ) will report its first quarter of fiscal 2026 after markets close today. The SA recommendation by Team Rule Breakers develops medicines for serious genetic diseases. At Q4 time, the company anticipated approximately 7% revenue growth year over year (YOY) in Q1. * Shopify (NASDAQ:SHOP ) reports Q1 before Tuesday’s opening bell, after closing out fiscal 2025 with a 31% rise in Q4 revenue YOY . That made it 11 consecutive quarters of 25% or greater revenue growth. Investors should watch how planned new product spend might impact profitability in fiscal 2026. * Arista Networks (NYSE:ANET ) is due to post a Q1 update after Tuesday’s close, following a record Q4. Management has set a $3.25 billion AI networking target for 2026, so investors should watch for progress on that front. Arista, also recommended by Team Hidden Gems, is beating the S&P 500 by 477% since its 2022 Rule Breakers recommendation. Preview Arista’s Q1 earnings **************************************************",
+          "links": [],
+          "tickers": [
+            "ANET",
+            "SHOP",
+            "VRTX"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Today’s Take: Avoiding Earnings Season Overload ************************************************** Jose Najarro I keep a simple list of the companies I actually want to follow, usually my top positions, and that is the only thing I pay attention to until I have the time for everything else. — JOSE NAJARRO • TEAM HIDDEN GEMS Jason Moser I enjoy catching up with the companies I keep under coverage and even learning about what’s going on with companies I don’t follow so closely as well. I’ve found it more manageable now with all of the AI-driven tools at our disposal. — JASON MOSER • TEAM RULE BREAKERS Here’s a sneak preview, but head to the article to share how you cope with the sheer barrage of info during earnings season or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 6",
+          "text": "Your Take ************** FRIDAY'S TOP RESPONSE We asked, what earnings reports, economic data, or company developments are you most interested in following this month? P Member Plasma16 said, “I'm really looking forward for some companies' reports, but I could say that Novo Nordisk (NYSE:NVO ) is one of those that I'm the most interested in. It's the position I've put the most money in (though not the biggest because of the negative returns). Also, I believe they will crush guidance this year (yes, that terrible guidance). With the business running (apparently) better, some good news from their pipeline, and some approvals, I think that some better than expected results could help change the sentiment around NVO!” See more great answers from our Foolish community TODAY’S QUESTION What's your top investing priority this month – learning something new, making a move you've been considering, or simply staying patient? Share with us in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [
+            "NVO"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "ANET",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Arista Networks (NYSE:ANET ) is due to post a Q1 update after Tuesday’s close, following a record Q4."
+          ]
+        },
+        {
+          "symbol": "BRKB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO."
+          ]
+        },
+        {
+          "symbol": "EBAY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close."
+          ]
+        },
+        {
+          "symbol": "GME",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close."
+          ]
+        },
+        {
+          "symbol": "NVO",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "P Member Plasma16 said, “I'm really looking forward for some companies' reports, but I could say that Novo Nordisk (NYSE:NVO ) is one of those that I'm the most interested in. With the business running (apparently) better, some good news from their pipeline, and some approvals, I think that some better than expected results could help change the sentiment around NVO!” See more great answers from our Foolish community TODAY’S QUESTION What's your top investing priority this month – learning something new, making a move you've been considering, or simply staying patient?"
+          ]
+        },
+        {
+          "symbol": "SHOP",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Shopify (NASDAQ:SHOP ) reports Q1 before Tuesday’s opening bell, after closing out fiscal 2025 with a 31% rise in Q4 revenue YOY ."
+          ]
+        },
+        {
+          "symbol": "VRTX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Vertex Pharmaceuticals (NASDAQ:VRTX ) will report its first quarter of fiscal 2026 after markets close today."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Financials",
+        "Earnings"
+      ],
+      "events": [
+        {
+          "text": "* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO."
+        },
+        {
+          "text": "Revenue grew 4% year over year, with earnings per B share up 120%."
+        },
+        {
+          "text": "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close."
+        },
+        {
+          "text": "* “It could be a legit competitor to Amazon”: Gamestop CEO Ryan Cohen told The Wall Street Journal a merger could boost earnings and cut costs – expecting $2 billion of annual savings within 12 months if it goes ahead."
+        },
+        {
+          "text": "Read about eBay’s Q1 earnings A message from The Motley Fool         <p><strong>When AI Hype Fades, a Few Companies Will Still Be Standing</strong></p> <p>Market pullbacks strip away speculation and leave behind fundamentals."
+        },
+        {
+          "text": "* The S&P 500 ended Friday with a 0.91% rise on the week, with the Nasdaq gaining 1.12% to take it above 25,000 points."
+        },
+        {
+          "text": "* Cautious April jobs print: After March’s nonfarm payrolls soared above expectations with 178,000 new jobs added, Friday’s April figure is expected to come in significantly lower – with a 53,000 count predicted."
+        },
+        {
+          "text": "* Earnings season in full flood: This week brings a number of scheduled reports from key Fool favorites – more than we can cover in today’s Breakfast News weekly look-ahead."
+        }
+      ]
+    }
+  ],
+  "macro": {
+    "tone": "Risk-Off",
+    "score": 6,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Abel Takes Berkshire Center Stage",
+        "note": "New Berkshire Hathaway Era Gets Underway ******************************************* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO. Revenue grew 4% year over year, with earnings per B share up 120%. Both, however, missed expectations – as much of the headline gains came from investment holdings revaluations. A Stock Advisor recommendation by Team Hidden Gems, Berkshire saw no real pre-market share price movement as a result. * “There are no bigger shoes to fill”: On Warren Buffett’s last day as CEO, TMF Chief Investment Officer Andy Cross hinted at the task facing Greg Abel. The new boss reassured shareholders he’ll continue to seek targets for the company’s cash pile – now at a record $380 billion – but only at the right valuations. And he dismissed any talk of a Berkshire breakup. * “We've never had more people in a gambling mood than now”: Buffett had wise words for investors relating to current market conditions, adding, “That doesn't mean investing is terrible, but it does mean that prices for an awful lot of things will look awfully silly.” Dig deeper into Berkshire’s Q1 -----------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/35N2-UOtTX11iee4DB1-Zg~~/AAQRxRA~/KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_-DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK-JVTW0r01Zq6KX-4W9-7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd-rYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs-ysQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "title": "KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_ DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK JVTW0r01Zq6KX 4W9 7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd RYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs YsQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ygXq5Y43YmrnMYbj03JDEA~~/AAQRxRA~/jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3-rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx-zGj3hSxclHQIae-nahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95-pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "title": "Jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3 Rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx ZGj3hSxclHQIae NahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95 Pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aXDR3tKvtVaTBLYSIDzPYg~~/AAQRxRA~/95b9dXVT-m2Q-1hJmEFBv5uqNwuuXdeI-1c1xhoi6W4Qr0m0FdlXA-LqwUROvYSECxmbtSeA3RzoJ8ne-KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz-aZze8iKtwWAPQqGphqh-3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n-NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3-MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "title": "95b9dXVT M2Q 1hJmEFBv5uqNwuuXdeI 1c1xhoi6W4Qr0m0FdlXA LqwUROvYSECxmbtSeA3RzoJ8ne KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz AZze8iKtwWAPQqGphqh 3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3 MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p5kKAq6gT92K4piBu8QT1g~~/AAQRxRA~/TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8-1Q-7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5-2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N-wZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO-Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "title": "TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8 1Q 7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5 2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N WZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Cw8pTcb3ct1EiPs6UbSKog~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg-dv-8TgMaxOi-8ehhI-JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK-9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg Dv 8TgMaxOi 8ehhI JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK 9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fd1qu88QzRka7NQZIJIcRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N-ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3-4YrkVl2BitB2CUtvHEyMw3lNJsCkn-qyShjEOWMLm_QG234A~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3 4YrkVl2BitB2CUtvHEyMw3lNJsCkn QyShjEOWMLm_QG234A~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/WLtqvX-yDIUV_Bhmbo2J4A~~/AAQRxRA~/DSoIDL1N44y6_3mXiZ12-_FV-DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr-irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au-DsizhCvJfH5irhQhxhO-DpGIf5HVS5hqq",
+            "title": "DSoIDL1N44y6_3mXiZ12 _FV DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr Irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au DsizhCvJfH5irhQhxhO DpGIf5HVS5hqq",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/gGk_lNDcFp1-zwcgMpG4xw~~/AAQRxRA~/IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH-ETq_IVYcdiwEtYYvvLFQNBScjNIC-HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1-LfHPs-mQTZbvThdqkrDQKSDytzhfHTc-rpS9xTLln9Y9ZuNhubWBGf-beuFE1GO6f8gJfgQYjTscS7AAKp",
+            "title": "IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH ETq_IVYcdiwEtYYvvLFQNBScjNIC HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1 LfHPs MQTZbvThdqkrDQKSDytzhfHTc RpS9xTLln9Y9ZuNhubWBGf BeuFE1GO6f8gJfgQYjTscS7AAKp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/vnYYdXbAF-Sasnk1rChhkw~~/AAQRxRA~/2z-4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx-QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg-xpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n-sZXshj3_ixnBSk5T5MlBI9cOu9aC-b-PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N-Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r-qPIuC5B6z-Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ-KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE-w~~",
+            "title": "2z 4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg XpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n SZXshj3_ixnBSk5T5MlBI9cOu9aC B PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r QPIuC5B6z Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE W~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2gqHu1nfeL4KDw8BKvgftA~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO-P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2-8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH-uO9SkviCxgRmA2eazzNWzU-Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2 8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH UO9SkviCxgRmA2eazzNWzU Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fI3oEHzL484A3jb6g9bEtw~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni-Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU-Mn6DjiuY-4-VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90-c2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K-O5FvOmKTCtgH3b-1h-yCzEiPDyQp",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU Mn6DjiuY 4 VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90 C2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K O5FvOmKTCtgH3b 1h YCzEiPDyQp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7K5jWKzP1quUTICUb3xeRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m-LN9DPGTAZTL5ILi2PXYXGwR2-fULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI-nH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu-pO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi-k5sjQ8brqxlVuhcG1X0Z-jLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1-lY-gvS3psIOIPngNrD5g8B7lBaA~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m LN9DPGTAZTL5ILi2PXYXGwR2 FULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI NH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu PO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi K5sjQ8brqxlVuhcG1X0Z JLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1 LY GvS3psIOIPngNrD5g8B7lBaA~~",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Abel Takes Berkshire Center Stage",
+        "note": "Markets Surge as Jobs Print Looms ************************************ The S&P 500 ended Friday with a 0.91% rise on the week, with the Nasdaq gaining 1.12% to take it above 25,000 points. Both hit new record highs. Bitcoin (CRYPTO:BTC ) broke back above $80,000 for the first time in over three months. Optimism appears to be continuing – as S&P 500 futures ticked up 0.1% pre-market, and Nasdaq futures rose 0.2%, as hopes for talks on the Iran conflict emerge – though WTI crude remained above $100 per barrel. * Cautious April jobs print: After March’s nonfarm payrolls soared above expectations with 178,000 new jobs added, Friday’s April figure is expected to come in significantly lower – with a 53,000 count predicted. The April unemployment rate is expected to hold steady from March at 4.3%. * Earnings season in full flood: This week brings a number of scheduled reports from key Fool favorites – more than we can cover in today’s Breakfast News weekly look-ahead. We’ll bring them to you on a day-by-day basis. Review last week’s inflation report --------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/35N2-UOtTX11iee4DB1-Zg~~/AAQRxRA~/KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_-DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK-JVTW0r01Zq6KX-4W9-7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd-rYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs-ysQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "title": "KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_ DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK JVTW0r01Zq6KX 4W9 7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd RYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs YsQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ygXq5Y43YmrnMYbj03JDEA~~/AAQRxRA~/jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3-rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx-zGj3hSxclHQIae-nahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95-pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "title": "Jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3 Rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx ZGj3hSxclHQIae NahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95 Pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aXDR3tKvtVaTBLYSIDzPYg~~/AAQRxRA~/95b9dXVT-m2Q-1hJmEFBv5uqNwuuXdeI-1c1xhoi6W4Qr0m0FdlXA-LqwUROvYSECxmbtSeA3RzoJ8ne-KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz-aZze8iKtwWAPQqGphqh-3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n-NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3-MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "title": "95b9dXVT M2Q 1hJmEFBv5uqNwuuXdeI 1c1xhoi6W4Qr0m0FdlXA LqwUROvYSECxmbtSeA3RzoJ8ne KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz AZze8iKtwWAPQqGphqh 3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3 MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p5kKAq6gT92K4piBu8QT1g~~/AAQRxRA~/TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8-1Q-7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5-2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N-wZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO-Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "title": "TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8 1Q 7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5 2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N WZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Cw8pTcb3ct1EiPs6UbSKog~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg-dv-8TgMaxOi-8ehhI-JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK-9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg Dv 8TgMaxOi 8ehhI JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK 9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fd1qu88QzRka7NQZIJIcRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N-ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3-4YrkVl2BitB2CUtvHEyMw3lNJsCkn-qyShjEOWMLm_QG234A~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3 4YrkVl2BitB2CUtvHEyMw3lNJsCkn QyShjEOWMLm_QG234A~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/WLtqvX-yDIUV_Bhmbo2J4A~~/AAQRxRA~/DSoIDL1N44y6_3mXiZ12-_FV-DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr-irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au-DsizhCvJfH5irhQhxhO-DpGIf5HVS5hqq",
+            "title": "DSoIDL1N44y6_3mXiZ12 _FV DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr Irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au DsizhCvJfH5irhQhxhO DpGIf5HVS5hqq",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/gGk_lNDcFp1-zwcgMpG4xw~~/AAQRxRA~/IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH-ETq_IVYcdiwEtYYvvLFQNBScjNIC-HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1-LfHPs-mQTZbvThdqkrDQKSDytzhfHTc-rpS9xTLln9Y9ZuNhubWBGf-beuFE1GO6f8gJfgQYjTscS7AAKp",
+            "title": "IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH ETq_IVYcdiwEtYYvvLFQNBScjNIC HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1 LfHPs MQTZbvThdqkrDQKSDytzhfHTc RpS9xTLln9Y9ZuNhubWBGf BeuFE1GO6f8gJfgQYjTscS7AAKp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/vnYYdXbAF-Sasnk1rChhkw~~/AAQRxRA~/2z-4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx-QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg-xpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n-sZXshj3_ixnBSk5T5MlBI9cOu9aC-b-PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N-Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r-qPIuC5B6z-Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ-KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE-w~~",
+            "title": "2z 4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg XpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n SZXshj3_ixnBSk5T5MlBI9cOu9aC B PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r QPIuC5B6z Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE W~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2gqHu1nfeL4KDw8BKvgftA~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO-P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2-8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH-uO9SkviCxgRmA2eazzNWzU-Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2 8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH UO9SkviCxgRmA2eazzNWzU Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fI3oEHzL484A3jb6g9bEtw~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni-Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU-Mn6DjiuY-4-VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90-c2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K-O5FvOmKTCtgH3b-1h-yCzEiPDyQp",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU Mn6DjiuY 4 VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90 C2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K O5FvOmKTCtgH3b 1h YCzEiPDyQp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7K5jWKzP1quUTICUb3xeRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m-LN9DPGTAZTL5ILi2PXYXGwR2-fULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI-nH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu-pO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi-k5sjQ8brqxlVuhcG1X0Z-jLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1-lY-gvS3psIOIPngNrD5g8B7lBaA~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m LN9DPGTAZTL5ILi2PXYXGwR2 FULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI NH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu PO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi K5sjQ8brqxlVuhcG1X0Z JLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1 LY GvS3psIOIPngNrD5g8B7lBaA~~",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Oil Shock",
+        "source": "Breakfast News: Abel Takes Berkshire Center Stage",
+        "note": "Markets Surge as Jobs Print Looms ************************************ The S&P 500 ended Friday with a 0.91% rise on the week, with the Nasdaq gaining 1.12% to take it above 25,000 points. Both hit new record highs. Bitcoin (CRYPTO:BTC ) broke back above $80,000 for the first time in over three months. Optimism appears to be continuing – as S&P 500 futures ticked up 0.1% pre-market, and Nasdaq futures rose 0.2%, as hopes for talks on the Iran conflict emerge – though WTI crude remained above $100 per barrel. * Cautious April jobs print: After March’s nonfarm payrolls soared above expectations with 178,000 new jobs added, Friday’s April figure is expected to come in significantly lower – with a 53,000 count predicted. The April unemployment rate is expected to hold steady from March at 4.3%. * Earnings season in full flood: This week brings a number of scheduled reports from key Fool favorites – more than we can cover in today’s Breakfast News weekly look-ahead. We’ll bring them to you on a day-by-day basis. Review last week’s inflation report --------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/35N2-UOtTX11iee4DB1-Zg~~/AAQRxRA~/KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_-DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK-JVTW0r01Zq6KX-4W9-7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd-rYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs-ysQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "title": "KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_ DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK JVTW0r01Zq6KX 4W9 7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd RYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs YsQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ygXq5Y43YmrnMYbj03JDEA~~/AAQRxRA~/jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3-rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx-zGj3hSxclHQIae-nahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95-pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "title": "Jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3 Rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx ZGj3hSxclHQIae NahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95 Pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aXDR3tKvtVaTBLYSIDzPYg~~/AAQRxRA~/95b9dXVT-m2Q-1hJmEFBv5uqNwuuXdeI-1c1xhoi6W4Qr0m0FdlXA-LqwUROvYSECxmbtSeA3RzoJ8ne-KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz-aZze8iKtwWAPQqGphqh-3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n-NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3-MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "title": "95b9dXVT M2Q 1hJmEFBv5uqNwuuXdeI 1c1xhoi6W4Qr0m0FdlXA LqwUROvYSECxmbtSeA3RzoJ8ne KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz AZze8iKtwWAPQqGphqh 3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3 MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p5kKAq6gT92K4piBu8QT1g~~/AAQRxRA~/TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8-1Q-7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5-2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N-wZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO-Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "title": "TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8 1Q 7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5 2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N WZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Cw8pTcb3ct1EiPs6UbSKog~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg-dv-8TgMaxOi-8ehhI-JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK-9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg Dv 8TgMaxOi 8ehhI JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK 9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fd1qu88QzRka7NQZIJIcRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N-ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3-4YrkVl2BitB2CUtvHEyMw3lNJsCkn-qyShjEOWMLm_QG234A~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3 4YrkVl2BitB2CUtvHEyMw3lNJsCkn QyShjEOWMLm_QG234A~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/WLtqvX-yDIUV_Bhmbo2J4A~~/AAQRxRA~/DSoIDL1N44y6_3mXiZ12-_FV-DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr-irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au-DsizhCvJfH5irhQhxhO-DpGIf5HVS5hqq",
+            "title": "DSoIDL1N44y6_3mXiZ12 _FV DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr Irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au DsizhCvJfH5irhQhxhO DpGIf5HVS5hqq",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/gGk_lNDcFp1-zwcgMpG4xw~~/AAQRxRA~/IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH-ETq_IVYcdiwEtYYvvLFQNBScjNIC-HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1-LfHPs-mQTZbvThdqkrDQKSDytzhfHTc-rpS9xTLln9Y9ZuNhubWBGf-beuFE1GO6f8gJfgQYjTscS7AAKp",
+            "title": "IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH ETq_IVYcdiwEtYYvvLFQNBScjNIC HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1 LfHPs MQTZbvThdqkrDQKSDytzhfHTc RpS9xTLln9Y9ZuNhubWBGf BeuFE1GO6f8gJfgQYjTscS7AAKp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/vnYYdXbAF-Sasnk1rChhkw~~/AAQRxRA~/2z-4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx-QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg-xpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n-sZXshj3_ixnBSk5T5MlBI9cOu9aC-b-PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N-Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r-qPIuC5B6z-Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ-KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE-w~~",
+            "title": "2z 4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg XpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n SZXshj3_ixnBSk5T5MlBI9cOu9aC B PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r QPIuC5B6z Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE W~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2gqHu1nfeL4KDw8BKvgftA~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO-P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2-8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH-uO9SkviCxgRmA2eazzNWzU-Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2 8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH UO9SkviCxgRmA2eazzNWzU Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fI3oEHzL484A3jb6g9bEtw~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni-Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU-Mn6DjiuY-4-VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90-c2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K-O5FvOmKTCtgH3b-1h-yCzEiPDyQp",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU Mn6DjiuY 4 VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90 C2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K O5FvOmKTCtgH3b 1h YCzEiPDyQp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7K5jWKzP1quUTICUb3xeRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m-LN9DPGTAZTL5ILi2PXYXGwR2-fULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI-nH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu-pO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi-k5sjQ8brqxlVuhcG1X0Z-jLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1-lY-gvS3psIOIPngNrD5g8B7lBaA~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m LN9DPGTAZTL5ILi2PXYXGwR2 FULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI NH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu PO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi K5sjQ8brqxlVuhcG1X0Z JLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1 LY GvS3psIOIPngNrD5g8B7lBaA~~",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Market Strength",
+        "source": "Breakfast News: Abel Takes Berkshire Center Stage",
+        "note": "Markets Surge as Jobs Print Looms ************************************ The S&P 500 ended Friday with a 0.91% rise on the week, with the Nasdaq gaining 1.12% to take it above 25,000 points. Both hit new record highs. Bitcoin (CRYPTO:BTC ) broke back above $80,000 for the first time in over three months. Optimism appears to be continuing – as S&P 500 futures ticked up 0.1% pre-market, and Nasdaq futures rose 0.2%, as hopes for talks on the Iran conflict emerge – though WTI crude remained above $100 per barrel. * Cautious April jobs print: After March’s nonfarm payrolls soared above expectations with 178,000 new jobs added, Friday’s April figure is expected to come in significantly lower – with a 53,000 count predicted. The April unemployment rate is expected to hold steady from March at 4.3%. * Earnings season in full flood: This week brings a number of scheduled reports from key Fool favorites – more than we can cover in today’s Breakfast News weekly look-ahead. We’ll bring them to you on a day-by-day basis. Review last week’s inflation report --------------------------------------",
+        "risk": -2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/35N2-UOtTX11iee4DB1-Zg~~/AAQRxRA~/KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_-DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK-JVTW0r01Zq6KX-4W9-7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd-rYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs-ysQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "title": "KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_ DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK JVTW0r01Zq6KX 4W9 7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd RYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs YsQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ygXq5Y43YmrnMYbj03JDEA~~/AAQRxRA~/jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3-rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx-zGj3hSxclHQIae-nahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95-pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "title": "Jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3 Rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx ZGj3hSxclHQIae NahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95 Pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aXDR3tKvtVaTBLYSIDzPYg~~/AAQRxRA~/95b9dXVT-m2Q-1hJmEFBv5uqNwuuXdeI-1c1xhoi6W4Qr0m0FdlXA-LqwUROvYSECxmbtSeA3RzoJ8ne-KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz-aZze8iKtwWAPQqGphqh-3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n-NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3-MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "title": "95b9dXVT M2Q 1hJmEFBv5uqNwuuXdeI 1c1xhoi6W4Qr0m0FdlXA LqwUROvYSECxmbtSeA3RzoJ8ne KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz AZze8iKtwWAPQqGphqh 3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3 MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p5kKAq6gT92K4piBu8QT1g~~/AAQRxRA~/TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8-1Q-7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5-2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N-wZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO-Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "title": "TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8 1Q 7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5 2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N WZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Cw8pTcb3ct1EiPs6UbSKog~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg-dv-8TgMaxOi-8ehhI-JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK-9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg Dv 8TgMaxOi 8ehhI JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK 9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fd1qu88QzRka7NQZIJIcRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N-ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3-4YrkVl2BitB2CUtvHEyMw3lNJsCkn-qyShjEOWMLm_QG234A~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3 4YrkVl2BitB2CUtvHEyMw3lNJsCkn QyShjEOWMLm_QG234A~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/WLtqvX-yDIUV_Bhmbo2J4A~~/AAQRxRA~/DSoIDL1N44y6_3mXiZ12-_FV-DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr-irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au-DsizhCvJfH5irhQhxhO-DpGIf5HVS5hqq",
+            "title": "DSoIDL1N44y6_3mXiZ12 _FV DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr Irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au DsizhCvJfH5irhQhxhO DpGIf5HVS5hqq",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/gGk_lNDcFp1-zwcgMpG4xw~~/AAQRxRA~/IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH-ETq_IVYcdiwEtYYvvLFQNBScjNIC-HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1-LfHPs-mQTZbvThdqkrDQKSDytzhfHTc-rpS9xTLln9Y9ZuNhubWBGf-beuFE1GO6f8gJfgQYjTscS7AAKp",
+            "title": "IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH ETq_IVYcdiwEtYYvvLFQNBScjNIC HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1 LfHPs MQTZbvThdqkrDQKSDytzhfHTc RpS9xTLln9Y9ZuNhubWBGf BeuFE1GO6f8gJfgQYjTscS7AAKp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/vnYYdXbAF-Sasnk1rChhkw~~/AAQRxRA~/2z-4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx-QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg-xpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n-sZXshj3_ixnBSk5T5MlBI9cOu9aC-b-PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N-Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r-qPIuC5B6z-Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ-KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE-w~~",
+            "title": "2z 4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg XpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n SZXshj3_ixnBSk5T5MlBI9cOu9aC B PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r QPIuC5B6z Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE W~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2gqHu1nfeL4KDw8BKvgftA~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO-P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2-8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH-uO9SkviCxgRmA2eazzNWzU-Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2 8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH UO9SkviCxgRmA2eazzNWzU Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fI3oEHzL484A3jb6g9bEtw~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni-Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU-Mn6DjiuY-4-VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90-c2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K-O5FvOmKTCtgH3b-1h-yCzEiPDyQp",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU Mn6DjiuY 4 VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90 C2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K O5FvOmKTCtgH3b 1h YCzEiPDyQp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7K5jWKzP1quUTICUb3xeRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m-LN9DPGTAZTL5ILi2PXYXGwR2-fULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI-nH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu-pO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi-k5sjQ8brqxlVuhcG1X0Z-jLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1-lY-gvS3psIOIPngNrD5g8B7lBaA~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m LN9DPGTAZTL5ILi2PXYXGwR2 FULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI NH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu PO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi K5sjQ8brqxlVuhcG1X0Z JLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1 LY GvS3psIOIPngNrD5g8B7lBaA~~",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Abel Takes Berkshire Center Stage",
+        "note": "Your Take ************** FRIDAY'S TOP RESPONSE We asked, what earnings reports, economic data, or company developments are you most interested in following this month? P Member Plasma16 said, “I'm really looking forward for some companies' reports, but I could say that Novo Nordisk (NYSE:NVO ) is one of those that I'm the most interested in. It's the position I've put the most money in (though not the biggest because of the negative returns). Also, I believe they will crush guidance this year (yes, that terrible guidance). With the business running (apparently) better, some good news from their pipeline, and some approvals, I think that some better than expected results could help change the sentiment around NVO!” See more great answers from our Foolish community TODAY’S QUESTION What's your top investing priority this month – learning something new, making a move you've been considering, or simply staying patient? Share with us in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/35N2-UOtTX11iee4DB1-Zg~~/AAQRxRA~/KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_-DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK-JVTW0r01Zq6KX-4W9-7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd-rYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs-ysQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "title": "KS68BY5KYsEvL9V71Ktr9qYAQkp3FJz_bN8tyJgdbbyBZn1r9Hc8BD0wxsRJcxG79PdW7xb3Z0He5_ DRdMNo8ua5tQEWUIxN7tkqn7lJRov8M4AoO_xZSfUzA8kW2ZZK JVTW0r01Zq6KX 4W9 7qIsLoiRR11yykcf6gv10WUuscJY9_KoXVgSXM0hc5lx2dZvcOOFjqA05EsK5nMg9tzgZogenfmMJd RYZqPdb2dvt3vfiwfvZ23wWZnCIXMM6yYf6THF9qKmI02wzAmSWJb4DKQpJEAdYkoT7j9kHEJ4wxtvTemMypoTUhBZs YsQ9l_1jVjOtrMQ6TtfChROa9Td9HzOBS3la_byk_CWJB5G6iVaK7o3WYcojmrLNDoCGKYKqOv8kbb80WRZHfq2flRX52cPUV0OudgsXs1iDyQmJXb0uFn4Nxy1EDUohu",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ygXq5Y43YmrnMYbj03JDEA~~/AAQRxRA~/jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3-rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx-zGj3hSxclHQIae-nahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95-pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "title": "Jl38UDygawGPoJIAi5CWCD3yQ78jbXyUWZVngXR9a2905RihvAkMu3 Rv4ko_wWOWckjhso_PnaQdwUF9PuRaVWV5IxndBF9TTlT86B9Gx ZGj3hSxclHQIae NahcHzkDW2iFvfmry1Dyg2E_OGZ6Al941Gv562ylMVmXx6N6q8g0y0tvA4KET7m3XsC7LVU21Ocr5f_SG8geCmvQle5G69jK9pLmcyKaBxdOY622IdGZy5QMW3rOU9MocYvCnkIKt0sVyF611H95 Pyz9iQ7eM77e9XQ11oln8hBG0VtqTP1kXfj6XY3Kyd_e0sknyspdpi16Jk8CRTAk445q7_CzbXtbDW9DoKoCvbMrd92arepAuM0jN9dNWbgdEUqikLfCItVC8ncxEJQK1lMExbumlMQ0sR5I6g7Hpt80cEgpiFUwCns7J3DQ7W03s3Bw3",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aXDR3tKvtVaTBLYSIDzPYg~~/AAQRxRA~/95b9dXVT-m2Q-1hJmEFBv5uqNwuuXdeI-1c1xhoi6W4Qr0m0FdlXA-LqwUROvYSECxmbtSeA3RzoJ8ne-KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz-aZze8iKtwWAPQqGphqh-3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n-NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3-MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "title": "95b9dXVT M2Q 1hJmEFBv5uqNwuuXdeI 1c1xhoi6W4Qr0m0FdlXA LqwUROvYSECxmbtSeA3RzoJ8ne KI20thsYB9UK0N3fpXHiOnPV8eZFm_6YNteoPEvh3TNacYm268eVHX6hXjHTvQLPi2itMq0t2sqP5uB4isx0fxm7iJoblcmK4pSfzpRJrBRTquR5c9pGXB6ExcsJIkyIn5Iq5rvMUFBkSuDOcfDJa9oawOWfxXCPt2S5MdmcMR9EsN_ZUUJz AZze8iKtwWAPQqGphqh 3QmjKy4TfWgk7mM61FXrLAYL2ccIkWbpZ3EUPf22WMBLvrW4n NlP_zCUruTLmiwSPu1QCGXe9LFmctmxXhP2fRGYX5fTH6dtXh2FTOQtMO_TT3 MsgGr8Z2Bnh4h5P2m79TNsCgDewzuohSGREJ309WN0Owz9BArNyCNq5QLmO2zO6wnyUfkvOCVugUhrHEUK8uUwF0TjdpDtLn4~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p5kKAq6gT92K4piBu8QT1g~~/AAQRxRA~/TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8-1Q-7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5-2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N-wZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO-Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "title": "TaTPbcrnK_nfXlcImM7bL3ANqxHMalPc9JH9o3oYZw9jd8 1Q 7ZCQ5jwqJIQ2A_aE44x3lim5KFQJJDZ6X977kcxZiKcsjwyZV2r4rVhShaA4umkYcPZg0a7FqndDqqLu7YNiC7cQEuwb38d9Aj9VWHutBqDBFz8MJWrKXmRL5MfUU9UXW2TBX65BSYbvYy85Cs4RX9jJz9DxAB4KxmBUvD6BpRtyS939n1G2BYCqTBC9MVyGY2zggxiFIFN7qWbHuLRmCOyd91S5 2MpShhwfbdLrqySyRC6wbeoqMvXRkkYlUdAZXtHI49N WZwCGXpvrXWJBvci0VskFCBt3iIpiFM_6kbq0mrkJbGpO Y89nxLcCBY9QHhmRS2Z7QpWOqgsbYZzHJqcBubTTsEDjFDzYA11760QsuJxP53BAZ33C5dyR37eKuSWIUlRfxRk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Cw8pTcb3ct1EiPs6UbSKog~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg-dv-8TgMaxOi-8ehhI-JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK-9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KK9f1DfEquNVVcqtR27JxlBP5I9klODYpcmmd1uod5FeEcs1VAMbNnXoiT_o2rSWsCvulNg Dv 8TgMaxOi 8ehhI JFw0wUK3rURFrZ5gSQKXYoFfMIeCXnQL_BMDzuqNosx77TsNiAtGUmuXXRqHQDE534KvKGLbMCplUvBz22UB3Ni6QrFz1r9k5Yu2QpZNsPHiTboqIFPpgR8QyfDMWg2PP1oyty0DpK1abkEa9kqnx262MDDCTzz0RrU8Br0uUu54xFMYUSfvgZML2PCWmzvPWZf0nWcUKxoi7QfukS8m8G5BvkqkZJwB61fQCgT1kvJ6hWEJfKoK 9AQOrPB2uKtSLsi1zltYjdaUgEQO7s754knRHWE4lvk7xUVQ4h",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fd1qu88QzRka7NQZIJIcRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N-ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3-4YrkVl2BitB2CUtvHEyMw3lNJsCkn-qyShjEOWMLm_QG234A~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGsI5BB5DDUmmY6eiWaR2Rek6lc9UJcAJEtmqG6vBqM9U4U6CVJ4NkeeqHQZ928dCv7T6n4StuprnWkQN8FViUeLlw5vWmzQl4nCe4f0_5uroVPXr6wupKbCLgZJVXI5N ZFz4J1Wi4FP_ZqA3g4XChFm_gwLMYkM9WlosxO2M8wBXjFvuZjVS2EGMWwN1nWSwq9TzXvHEeUuYlM6OqHCQR9c0mS6wF64S_e4X8zuS_Zg9QFX2xoabOFvlncs7swzHH4vCQBeaQ99ttUs7rMb9dZjxLCTFtj8n66v_66IT_WBlSUrjv9IC5RFtmZA4UYebTVkEZKOuOcf8JM_qsRdbja2WewKNFsVofHqm3 4YrkVl2BitB2CUtvHEyMw3lNJsCkn QyShjEOWMLm_QG234A~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/WLtqvX-yDIUV_Bhmbo2J4A~~/AAQRxRA~/DSoIDL1N44y6_3mXiZ12-_FV-DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr-irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au-DsizhCvJfH5irhQhxhO-DpGIf5HVS5hqq",
+            "title": "DSoIDL1N44y6_3mXiZ12 _FV DtlZL2FguwU5H1yXqJRmyWEOo6m9wMQFFLCod8usiDrrAHianWbd9yNExUYnPL82GQoh2wIkXmQr Irsvrs09k4F2qU3fdYinoAlgjGrMr6TGnVV1MV3r85jW9ETXt8rXi_au DsizhCvJfH5irhQhxhO DpGIf5HVS5hqq",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/gGk_lNDcFp1-zwcgMpG4xw~~/AAQRxRA~/IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH-ETq_IVYcdiwEtYYvvLFQNBScjNIC-HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1-LfHPs-mQTZbvThdqkrDQKSDytzhfHTc-rpS9xTLln9Y9ZuNhubWBGf-beuFE1GO6f8gJfgQYjTscS7AAKp",
+            "title": "IJtqK4wHYL8GMn4ZcDw5NVHsFOt6jZw9CbdsntYPvK0e24fiRoKxjFIwpQPHLYH ETq_IVYcdiwEtYYvvLFQNBScjNIC HDAe7vSC8bxN9TFaZfRwUXtWDA2dHtBbpDUTU4eQXW9_N33YfzV1ZTH3ycFwKwTLwukf0iJ3DR949PCbuHMZkZJ7EWSQVIK_DJZQ07N7frvr15hxYYpXM0SXTQWvDwbDUnH1vtkD1z92_4XF1QQEw04dkl_6DWM6__WUYpZ7rlg5rcEipa1HH7_xYGhmH6iXnuljQBl5PxG912Rw3iV6pq8sePf1SdjfcfmRudZxswpxkAmiE5KlyxzYqmaaapkmzcOXAUWD5AXdgxw1 LfHPs MQTZbvThdqkrDQKSDytzhfHTc RpS9xTLln9Y9ZuNhubWBGf BeuFE1GO6f8gJfgQYjTscS7AAKp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/vnYYdXbAF-Sasnk1rChhkw~~/AAQRxRA~/2z-4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx-QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg-xpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n-sZXshj3_ixnBSk5T5MlBI9cOu9aC-b-PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N-Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r-qPIuC5B6z-Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ-KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE-w~~",
+            "title": "2z 4apTjPa0rti2nk50zJhKEr2jXSr8ks8B8VDWuQvMEbeBrfKziPossx0yQ3fP2LJdDEdFvOnneXQtcOx QHhNPLvSFn5VOcnCuSRK0E5q6s1MQE6SYTBEZmgHrMM8pbP_17nNKPg XpwW_VYOaHZcJs2P1TmGv085HP4SJIoBgemtv46QCXeJBIddVD4I8R7I1_n SZXshj3_ixnBSk5T5MlBI9cOu9aC B PMIrl1RQ2IZnQDmylYAqphDf4yPrZwTGi0rY9WnLRYg25b8N Iavz80X5kfgyPSXGpFvUmkhBfA3XGyOBgJZZV8r QPIuC5B6z Z7uETNEAg8NjZViCRXsbV0YSEohLbwyry_r0TZ KoUOSneYa1AayhCXH9meIa0OIvOHUJur_VTrxP32haEeXW4ylCXyMwsSymi2jMzWR6VD7HDWQ1CvJT6ExFtKhuupwo_uG1YKskiE W~~",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2gqHu1nfeL4KDw8BKvgftA~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO-P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2-8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH-uO9SkviCxgRmA2eazzNWzU-Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KXAcGwtNaC0kO P9QlwRxTQEVl19xq6IIZONJOqqrQ4mJNTbRSSj2rwMa2BHeGnhD2qKYkQGLv2Mg5lY8PZDM5fn2pnMDAST6BzhybssewFXl3T9_BbIgl9E4akcMo3HQPPZ2 8DAy8OglQKflodijvupQ3HB3nQg7IFsl0131DwzGUxoMlFTZf1qXSs1zGBieG5F8azQpCp0_a0ARFH UO9SkviCxgRmA2eazzNWzU Ez10OH9mgyPodAvNT_c3j1ljY4hsrsP1KK2AV7Nt_udxkFlv2imBeRMCOLByise0uTdYdjRS7GBPPFCbKVLuIDUulccXLoaA9i6pG4DD8t1opVxkWMtDFdMG_y0tsEWKzJiwjy4POPudCMu7Namd5",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fI3oEHzL484A3jb6g9bEtw~~/AAQRxRA~/XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni-Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU-Mn6DjiuY-4-VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90-c2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K-O5FvOmKTCtgH3b-1h-yCzEiPDyQp",
+            "title": "XfZXdKtWejgcvrXjMc3Kwv5r9MkQBZqDj8tmT6ubjFMEpLWFRoJddxzhnYsMkh2KejZdHMzacryGqZcaM2S14mMoBJ8_cRfDqLnSeKPFBjw2yfTgcPjMlpcvGWRNHsJqPucZEWYni Jmzu9Hpn9EdqO_aPV6gm_782lAhxId_5d8js3cEY9erS_EKpAYOdNQyzKdBV__zsY5ClHy_OtgOcA3OpHJdSPbqjH1HDxBgRiU1eKWRtDmUOaLnof85lGzSDb_KdhGYiSmDfF2n2A9dU6cckIsJDSVp_r8M9KwTU Mn6DjiuY 4 VZeni2_fhtMiPOLSFLpDoIXtVcgLLYwQJrTIb90 C2wDpQ23awAREUQZNQ6NtT0n87vc6da8QIzrYtQ6WCtaAimW93RWbyLa2exNzV4elhK8K O5FvOmKTCtgH3b 1h YCzEiPDyQp",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7K5jWKzP1quUTICUb3xeRQ~~/AAQRxRA~/gBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m-LN9DPGTAZTL5ILi2PXYXGwR2-fULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI-nH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu-pO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi-k5sjQ8brqxlVuhcG1X0Z-jLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1-lY-gvS3psIOIPngNrD5g8B7lBaA~~",
+            "title": "GBv1gvvAw1ToPyvi4HUwXJoNV2IIvj7R76QVnFw7jo57zyAGSiYzxlbGlgoBgQxGWBxagGJgHbwvzvY0NFzyM5mSlZdIsySnMMnnJJjR1m LN9DPGTAZTL5ILi2PXYXGwR2 FULP6Nk1pkZHF2gN6jbD_Q9pxyZGoqX_aGiGiqCLRHzWCABYbW_ybT0GkSo0hNFDCL9dKLl7XNmXWUpYot8BML9PGfA4uWFzBlSwVj59rNelQPnaweKTJWJF8WUu3ImTXoQwlyWKyDgDvTVLGI NH78ajEQxWfggCbXsBSlsXewlxTZFKcOdySMmXowj5WPx2CLz0AsciGrsuH2yu PO0X7C1V1TcMVlPGV3mkXD8o0gRFr06nC81Jsi K5sjQ8brqxlVuhcG1X0Z JLkkqLCcLgyBqYn5LF8tNtpiBLfc6JmHV_oRGfw1 LY GvS3psIOIPngNrD5g8B7lBaA~~",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "If breadth confirms, prioritize candidates with fresh catalysts and relative strength.",
+      "Consider smaller initial size until macro pressure cools."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "EBAY",
+      "score": 79,
+      "stance": "Buy Candidate",
+      "evidence": "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close.",
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GME",
+      "score": 79,
+      "stance": "Buy Candidate",
+      "evidence": "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close.",
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVO",
+      "score": 61,
+      "stance": "Research Watch",
+      "evidence": "P Member Plasma16 said, “I'm really looking forward for some companies' reports, but I could say that Novo Nordisk (NYSE:NVO ) is one of those that I'm the most interested in. With the business running (apparently) better, some good news from their pipeline, and some approvals, I think that some better than expected results could help change the sentiment around NVO!” See more great answers from our Foolish community TODAY’S QUESTION What's your top investing priority this month – learning something new, making a move you've been considering, or simply staying patient?",
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ANET",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Arista Networks (NYSE:ANET ) is due to post a Q1 update after Tuesday’s close, following a record Q4.",
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BRKB",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO.",
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SHOP",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Shopify (NASDAQ:SHOP ) reports Q1 before Tuesday’s opening bell, after closing out fiscal 2025 with a 31% rise in Q4 revenue YOY .",
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "VRTX",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Vertex Pharmaceuticals (NASDAQ:VRTX ) will report its first quarter of fiscal 2026 after markets close today.",
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "NVO",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "P Member Plasma16 said, “I'm really looking forward for some companies' reports, but I could say that Novo Nordisk (NYSE:NVO ) is one of those that I'm the most interested in. With the business running (apparently) better, some good news from their pipeline, and some approvals, I think that some better than expected results could help change the sentiment around NVO!” See more great answers from our Foolish community TODAY’S QUESTION What's your top investing priority this month – learning something new, making a move you've been considering, or simply staying patient?"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ANET",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "* Arista Networks (NYSE:ANET ) is due to post a Q1 update after Tuesday’s close, following a record Q4."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BRKB",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "EBAY",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GME",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SHOP",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "* Shopify (NASDAQ:SHOP ) reports Q1 before Tuesday’s opening bell, after closing out fiscal 2025 with a 31% rise in Q4 revenue YOY ."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "VRTX",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "* Vertex Pharmaceuticals (NASDAQ:VRTX ) will report its first quarter of fiscal 2026 after markets close today."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Abel Takes Berkshire Center Stage"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "text": "* Berkshire Hathaway (NYSE:BRKB ) posted first-quarter earnings Saturday, the day Greg Abel hosted his first annual shareholder meeting as CEO.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    },
+    {
+      "text": "Revenue grew 4% year over year, with earnings per B share up 120%.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    },
+    {
+      "text": "GameStop Bids Big for eBay ----------------------------- GameStop (NYSE:GME ) announced Sunday it’s launched an audacious bid for Dividend Investor recommendation eBay (NASDAQ:EBAY ), with a nonbinding offer of $125 per share – spread 50/50 between cash and stock – valuing eBay at around 20% higher than at Friday’s close.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    },
+    {
+      "text": "* “It could be a legit competitor to Amazon”: Gamestop CEO Ryan Cohen told The Wall Street Journal a merger could boost earnings and cut costs – expecting $2 billion of annual savings within 12 months if it goes ahead.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    },
+    {
+      "text": "Read about eBay’s Q1 earnings A message from The Motley Fool         <p><strong>When AI Hype Fades, a Few Companies Will Still Be Standing</strong></p> <p>Market pullbacks strip away speculation and leave behind fundamentals.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    },
+    {
+      "text": "* The S&P 500 ended Friday with a 0.91% rise on the week, with the Nasdaq gaining 1.12% to take it above 25,000 points.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    },
+    {
+      "text": "* Cautious April jobs print: After March’s nonfarm payrolls soared above expectations with 178,000 new jobs added, Friday’s April figure is expected to come in significantly lower – with a 53,000 count predicted.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    },
+    {
+      "text": "* Earnings season in full flood: This week brings a number of scheduled reports from key Fool favorites – more than we can cover in today’s Breakfast News weekly look-ahead.",
+      "source": "Breakfast News: Abel Takes Berkshire Center Stage"
+    }
+  ]
+}

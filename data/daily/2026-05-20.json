@@ -1,0 +1,985 @@
+{
+  "date": "2026-05-20",
+  "generatedAt": "2026-05-21T15:51:09.980Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Breakfast News: Target's Turnaround Hits Bullseye",
+      "file": "2026-05-20-market-brieffoolbreakfast-news-breakfast-news-targets-turnaround-hits-bullseye-19e45278a646f4d0.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Wed, 20 May 2026 11:31:19 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/hwC3kDtsGYmoSalty1Yayw~~/AAQRxRA~/hpxm0cRnCGLHyadv7t9h_HWXTJhzUqMfjWWw32iJyx7nc9l0fy7Ul9Gk3n2ij261b9mLFPX13NtOVUPzpyBN83HpX4aYuOfGSVCiKMQsH6feOTvmTvjbA6pkjnWSt509hRFToOSFNOy4Li2IEByws4nlOJ6hbnB3DFtXSkGp5_M9Xs_cdFpBNolDq5iwYpqWIo3fKionvuZlFLANeLrxuZJ58l-T8gqYPVTrk9fM3n2CKZHCaEz8SeC2Q7UfrpDPzsjdz5F8pK_cUQtBtMpgD_KqJbD2jd3R7jXgysU5gx9RUG5zj8ZsC8KiuAc8ns5dtqWmHID6D71Xoj_5UwLoRTUJulBriynsySrLr-j-cDRviL5InqBrQwNJC1t6JLRLu1DvhRyMbbQ8vUsQf4M1yD0uhjAWRkTYs3rbjl_VXvbpLPnoTfTbD0CINAf3g4km",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/EUa6VBKW5a-1OGHNNy2J-Q~~/AAQRxRA~/PMLIqhHVVz_kpisDEUmN2VikxfuCUyl9wD9ToZJ5_A8FMPgHJ4McDVUs8wN4lJ3ZFx3lPkGJrprEHUcrWklQfsMVv9LW7K2J_o-1UfJjLgXkHIzW-QbGsLurgYNWmdnyz9PWpFySNVb3LlcQm6TcQqwRxwt4NLAQet2xhBCQfk7x5RwvmyogiSNRh8cPYwpskDK3g1HwPYBnZFSlk_JYouY3VuzbncNJ2ub6PSFIoERn0XBlHP33Ke8nRihMPPyTJr9wuLx7FzLvwktTAveHpHy_72GkRBuQujIxlOvAc7L49ThIEMjL5lN-X5cykHhlZtj_EmKDwSp3Tz4FJs90DuQebRA2uN5_dcjUebS_CR8v0ADsTmHFAOXpGHVkCMt5YleGSNmDzoEVWUwOOsvlUfXkm3Wq4aT-SQQrj9qzzWVgJa9TiMP_1smHidT3Y_2c",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/ZaBm5V159t81TbFf_jIPlQ~~/AAQRxRA~/PMLIqhHVVz_kpisDEUmN2VikxfuCUyl9wD9ToZJ5_A8FMPgHJ4McDVUs8wN4lJ3Z0sDyNAWJhXuJVupQN3cbz5YNGygunRM3TVa8fnQJ9FtN4DigtFbad2SGBjjs7ZPSnSs_5DgwVaUW1YRAyb_-xLDhXd6gyLOFwo2YKFDAtomvzS9cE22eCmAb_e8IxYGCyQrHUYtv3o9kuGMLyAm6zBj0lEin_GZ1SXNQbVYwKjMISSrTB0P3nFfdcx9JF8f87gOKzeYY-SGJ523OQLKQIvBCBEIMuFWaWwFN_mvmTCMunIRJdr_YJbpDWOGrMvgpc2Cxf6nv1W8T0kPOiNAzZm4hGizT8sQCQkfQ_gnIzTmw3CLk5VG3iHS5uuSJaLKqtelwYiedblai_NkQYJLWqb1flv2p3V11_jRA6BdHVPrPwuz_F37hpo01v4hFYyJV",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/VblGAg0B5Uqozk5vXrqyeA~~/AAQRxRA~/PMLIqhHVVz_kpisDEUmN2VikxfuCUyl9wD9ToZJ5_A8FMPgHJ4McDVUs8wN4lJ3ZSxklPSnw51f4eC45PONRI15i23542fs-qpP00ldcbc3tlKqKhxmAWcrgULMOLIIZ6Ko7mXq-ivcV6NiSi46a6pOl2l8t_nQZJKyRXj00rpbPE0ArSSJYns4Wqyti8XPuN0bK5qU5NyHa7x81XCdOUn2dX2aRQIDcJ9WN8EuRCKbqClzk-00SRfs5c72kCgAvAWkldvKzGEkkraELL-DMOCGWyPPuQdVgrFmhuUdq67o-yyTFYxqoxSDwrfnyO56fG9LU3Iiy3aJ0tKjO4H7PauELzC9kaN8upA6rvHNlGFI9pSZgRjOcSjZUX5yaO12Q5KddRMh4nZ48LHPxTU6wgjkyIytEfLntdrVCWrKIqKxZDrox-5LKbrkq_bReyHv4",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/sWqXpp7LC2s09uKkdPvcWA~~/AAQRxRA~/qZVdJe9wHcSzew6eqSyXh346-NQrJdianSZFJWhsEXdSoRyJeWIhESRd7KhihkW4NPcHprBiJSZVCehG9jmgIyVj9GqkFCnaFhtlO389xvIY0yGrNPuh1vcsSZ_6sFN3nhrwR7vnKbjIYtmw0vj2R0rPIAftZY_glys4aiwIYy_2HTdGp703oQa9_8C6dP99Wz1KIGsabV6sKHeQrnQuTEn3DNHGYV9N_pimlFhoGev2hD2paZJhFrX-GDmx1gl76-leSKMdWhUC75ANOMyf1UUStECjMnJqNEtzTG4J8naUKD3V-aZVCWbGtfan7nKlSLCc0ZRh5EuMFu8PQ3kjQ5GXQwd9XNzB0eQf8HTmxlPvo6yomIkab9CkEHPBH5A7eHxUrpU-lvLhR_GiiT7SEH1yyqdluxjELqpn2YrgogvV_dkYuaHqcUY4wwCifTEysl0Cyw26KvJ56lGdttwtsQ~~",
+          "title": "Review TJX's 2026 full-year roundup",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Ksd1uONwaP3r6M5zQRM-nA~~/AAQRxRA~/cTwP4-WGDwYB_5qeJeWaHrr6A60nayulFmAzm39mAmBy0s3IyQ7NOsQlTrYYFLh3DrSMWHTe6vlRVp19k-UHAsFnu8fHk23PlRsX59yavpMe0lZElHUdu-FP8HP0azi9LpXSPlRi7eKsWdRlhr6zwjzeFGiqzxZ0wKxr4flZ9M1tPf0MJrwu9UnOXRd0xtlddCDzyEBq49rrW-41OdOxpNAX8EMQMPov7A23oeR834yKl5emgx601jXIg7DSAu4xes8ki7TmAsreT0r_NpNEakzslk_RjbxwCFQOsNudxg4xqqWeGgahs9mEQhk2G01TSwixLpJtcYdls-dM084X_pHf_cHFn4mnMH6UQctxviK9XMhQnMoNp5kF4rPNWSCJdTGTnJFBBvdNLfQOH7V0eC64cr90elx_XrWVTfR231MgpUXyATMs-1OvNg53NYiR",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/rgQuZtPG_20VOeF09DxbUQ~~/AAQRxRA~/PBloW4zh7PKo4qQnAdUjV6AdkvcQ9B_Ky7-6xjj0Wq27NEGra196GN3Ba3uJL2jKdDhOmOfS276YlzN97nExIWEjTcSGFzUVE-S30vJFjDXVl11LoCYV7WtKjy2HDBFbGGxEAjbFTMSyzNu_3EQc3hrRr0PUQnnz2OfWksRxXW3CW4GxNPKNLo5UPmo1BJtphcny0iQ2aMdV3vHA0EaIbUEtHwbzTYzhNJDe4SbGwUsNo7eb60u_CrfRYexBJQQD7nF6Fn0uxm7MvcPq7_hy2ywt_3Y0AZJFLbrNhV6zmWrtSwUSfFlL9igoithKslNhvMamGjUBkpBhZEnOLLAOT4gbbTiWsPzEe9wozOrT45lwZLAr9xkpPQGUtzGF10mVw40DdKrJig78NUdwAtZUOkIcB0uUyQo-J06BhspxClIBKSr-8AoERLBIWT7KipqOhITmUnSeS0Np2e2I86kzMYCZ0V4DVEzyNbRJ3Qieibo~",
+          "title": "Learn more about Google Cloud’s power",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/TpZdM2NHGG-kFIPyt0bxhQ~~/AAQRxRA~/cTwP4-WGDwYB_5qeJeWaHrr6A60nayulFmAzm39mAmBy0s3IyQ7NOsQlTrYYFLh3eDzmVwlMKEjSwSGH55N714UQA-ugZPLrmCJKi84t9exBqXkVc9UNqY9d7ag6qjHlb1yzEaDx4lCNv4gz581a6znjxc--Q2vGJiKCSzWkxh3apRhFB1_QWd5mWxNxqeeTKCKAkWUqcqlh2Aqc8KGFOVmXglJbOUhI24uGYmk2qIR6kyodc308fp_5kXKrotiGX4ycA-qJEACk91Me_nJPIB92_temIi1PJn4qvITRaJc2dzZypesC9ekQ_aYQg4KSgUJCJVG6fMm8MMYhsyaD_ZNo0lF_9lcSZCPlBywUTMn5SCLipPbYwUB01zQTpTRBAdlvwlEYKw_SJQgZUD9lllyx7IljMTiOulopj2E8GM2vNB_aQOJTCGJLOH3fUhxt",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/vrneiqssBvjtrX7MXhXNSw~~/AAQRxRA~/A8bWdnrN-uyKzb4EIEnZe4rLmftWBIjUXvV-7ogdLFznFiYKCbBYr0cwfCxc3rsXiUrGp_L4eWXaYMQtFNRvw8y1ZJU9miVA3jcYgTK_WMvd-51MYjfyFEkDh78WOKW8tRxyOv3b1XWGMW6e7Zq7nPAQAr0i1fPv3BL8IxC0lKUfYpGUaLr3BTcHFhWZdv8HQE3qbHrUfnAVfPhMVJOv2wvjqb11yC6ZQJAbHOZHxhCpM2o6KxvzkyFZXCzhWte-FBaNr0rgxergyg0oRwMCs0zc5tPsIkWFQha_Mp5q_LJ_AIG2m7pnws_gNBR0k8h-xTZUU2C0sIHRZa7hUgqGsQV-TUBnRDy744JrUbm_52Z65ZuDOqZHBglgeRAb7DpJslbYXzbgYcO_eutOwFJ8rBS5vTv8gGkCIrTBWispiw803Zcywrau7qjnjic0hSM4",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/0hLtVBYz6VrH0QHXoxDy2w~~/AAQRxRA~/cTwP4-WGDwYB_5qeJeWaHrr6A60nayulFmAzm39mAmBy0s3IyQ7NOsQlTrYYFLh34S9IrtbEg2BeMVhTpZ9TwII4DJoNlW0UXcXCCnC5v_AFe1_xlntWR6xgq-Vv540Yiv8Kwqf75SKfQt89kJ-JSwBzzPgmaoQIrr1YGevoO8AlYI5HCSRfrY04p3hDft6RNj9IkY_HXDPDAuFK5UdPt7iQZj7cfhihhg20aLGz1O679r9sZE5l5nPdmmNvEquqIrTp8SNMJ6_09ec_1xHkpok3OKAUGBJaNJ3wigGi1CLzutgSJVU0QWytKh-bWp_riTJDmRlO7rENfFsvUtI2NUuVpHdzQEgE5qJucUW8klASAkImss71xkj5rTPMTCEXnQ2U6khNsbmkRsjLPfeM1pszyqVqQKSup11f8cOtAZQy3IhASwNNbYNkSnfTZDiB",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/8VkjBYwBgmedSiVlReZAFw~~/AAQRxRA~/agTGL5HggSnozuPwzxui08oRXYkFzh1OZI1lEaObeGfc9BSQ8nId1KVWGUs5fTYAgL-lMKxzdj7OaDUqaw0UIPXE2KYcT23TnMjpC9Zt3-_5EJEFiyD4DOHhGz-hJ7EGwYlhrO2IIVvADRyl32Kl84GMgo2eYy4igAQkVtpmtobhAk3Lg1VQqKBjmIq3pgMu8XwVz7SrEXjK-T6fPCVMpqH3ylcbHXmzJHRyFBUlctah5R3igSXKGexadBjhpiDgZYjN1oJe-a-JJfUAcVoZYzGmw9t8Tn2LFAghVROHq3GdgiXQbifQ1nMI79PKD1O6-OtQfhv99PuU2x_-dE1rkawDMFc-Zf4-v27u8l3mHrXj-sbULQyGtuPF9k6vw4mUjbfpvD1lH-puzw59CksUZMUKI4ZnSjspCVjSz3DkXfm4rmE193lGrRn1XJ8oKMSxAYTimTwemckNfSO1jsp7dg~~",
+          "title": "last week’s IPO",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/GuY0gi-O744LLefd0187Wg~~/AAQRxRA~/5CR5y_LY8AlF5v_EBLYKBENmfGMX0bPAp_9IRmWsMHX_6X5l2VFi_uWpiwXXxcv4exYRY4ZcXF_k8jgE43tj30lWWd_q6IPjXudCUgtVSBBKp6hQzhQa86QE53uo_LuXJLvUVXrxAtFtYkH-La-kR4Uvs_wTFtpjpAYJ8Knrt4gZiJA5PFPTOAT2JMPmTc4Z3YAML3yFfyDhLlZvc9OmM7mczMvFWXpID8iA6_hf6QcXGLBs0Z7kD0d6TrPreoiJbjClhnbiv80hIIIipkDfK4i0tBXhYTVsQtp5or_YCq7YVBA3qbSUyEDiJWYZ6VTVZgfubLBjc76god4klYU954hqrmPacw8dqv_AulbAHkVu3ScKz4OfwmrR7idYFUdctZb67Q7sfz-B5lJPBKd_Fu9rjxiOyC2ecUrZPIgNPRC-v6IwhDwHxBh0Y9sX1jRq",
+          "title": "Motley Fool link",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1252,
+      "summaryHints": [
+        "Lowe’s dips despite Q1 revenue rise, news from the Google I/O conference, and more… Breakfast NewsClick here to read online .",
+        "MAY 20, 2026Tuesday's MarketsS&P 500 7,354 (-0.67%)Nasdaq 25,871 (-0.84%)Dow 49,364 (-0.65%)Bitcoin 76,858 (-0.28%)Image shows chart of Target's revenue over 5 years **********************************",
+        "Retail Earnings Season Continues **********************************",
+        "* Target (NYSE:TGT ) beat first-quarter expectations, with same-store sales up 5.6% year over year – positive for the first time in five quarters, and following a sales fall in Q4.",
+        "Management raised the outlook, guiding for full-year net sales growth of 4%."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Retail Earnings Season Continues *********************************** * Target (NYSE:TGT ) beat first-quarter expectations, with same-store sales up 5.6% year over year – positive for the first time in five quarters, and following a sales fall in Q4. Management raised the outlook, guiding for full-year net sales growth of 4%. The stock gained around 3% in early trading. * Lowe’s (NYSE:LOW ) first-quarter sales hit $23.1 billion, up 10.5% from the same period last year, as CEO Marvin R. Ellison spoke of “Strong spring execution and continued momentum in Pro, Appliances, Online, and Home Services.” A cautious full-year outlook based on a weak housing market led to an early 2% stock dip. * TJX (NYSE:TJX ) – 3% behind the S&P 500 since a 2024 Stock Advisor recommendation by Team Hidden Gems – releases results this morning, following a 9% rise in net sales year over year (YoY) in the final quarter of fiscal 2026. Investors should keep an eye on plans for $2.75 billion in stock repurchases in fiscal 2027. Review TJX's 2026 full-year roundup ------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/sWqXpp7LC2s09uKkdPvcWA~~/AAQRxRA~/qZVdJe9wHcSzew6eqSyXh346-NQrJdianSZFJWhsEXdSoRyJeWIhESRd7KhihkW4NPcHprBiJSZVCehG9jmgIyVj9GqkFCnaFhtlO389xvIY0yGrNPuh1vcsSZ_6sFN3nhrwR7vnKbjIYtmw0vj2R0rPIAftZY_glys4aiwIYy_2HTdGp703oQa9_8C6dP99Wz1KIGsabV6sKHeQrnQuTEn3DNHGYV9N_pimlFhoGev2hD2paZJhFrX-GDmx1gl76-leSKMdWhUC75ANOMyf1UUStECjMnJqNEtzTG4J8naUKD3V-aZVCWbGtfan7nKlSLCc0ZRh5EuMFu8PQ3kjQ5GXQwd9XNzB0eQf8HTmxlPvo6yomIkab9CkEHPBH5A7eHxUrpU-lvLhR_GiiT7SEH1yyqdluxjELqpn2YrgogvV_dkYuaHqcUY4wwCifTEysl0Cyw26KvJ56lGdttwtsQ~~",
+              "title": "Review TJX's 2026 full-year roundup",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "LOW",
+            "TGT",
+            "TJX"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "Google’s AI Takes The Stage ------------------------------ Alphabet (NASDAQ:GOOG ) rolled out the biggest update to its search bar in 25 years at its annual Google I/O conference yesterday. Powered by Gemini 3.5 Flash AI, the new-look search is being rolled out immediately. Featuring AI agents and AI-generated interface tools, it expands the range of media we can search for – photos, videos, files, etc. * Gemini now has 900 million monthly users: CEO Sundar Pichai said the user count has more than doubled from around 400 million this time last year. He added power users could save money using Google AI, which it’s claimed matches top-end performance at up to a third of the cost of competitors. * “Our eighth generation TPUs”: Google also announced two new AI tensor processor units, the TPU 8i designed for running AI software, and the TPU 8t targeted at training models. Learn more about Google Cloud’s power -----------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/rgQuZtPG_20VOeF09DxbUQ~~/AAQRxRA~/PBloW4zh7PKo4qQnAdUjV6AdkvcQ9B_Ky7-6xjj0Wq27NEGra196GN3Ba3uJL2jKdDhOmOfS276YlzN97nExIWEjTcSGFzUVE-S30vJFjDXVl11LoCYV7WtKjy2HDBFbGGxEAjbFTMSyzNu_3EQc3hrRr0PUQnnz2OfWksRxXW3CW4GxNPKNLo5UPmo1BJtphcny0iQ2aMdV3vHA0EaIbUEtHwbzTYzhNJDe4SbGwUsNo7eb60u_CrfRYexBJQQD7nF6Fn0uxm7MvcPq7_hy2ywt_3Y0AZJFLbrNhV6zmWrtSwUSfFlL9igoithKslNhvMamGjUBkpBhZEnOLLAOT4gbbTiWsPzEe9wozOrT45lwZLAr9xkpPQGUtzGF10mVw40DdKrJig78NUdwAtZUOkIcB0uUyQo-J06BhspxClIBKSr-8AoERLBIWT7KipqOhITmUnSeS0Np2e2I86kzMYCZ0V4DVEzyNbRJ3Qieibo~",
+              "title": "Learn more about Google Cloud’s power",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "GOOG"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Streaming And Media"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Nvidia’s Earnings To Hit the Headlines ----------------------------------------- Nvidia’s (NASDAQ:NVDA ) hotly anticipated first-quarter earnings will be with us after market close, as the leading AI chip maker – recommended by both Team Hidden Gems and Team Rule Breakers – faces increasing competition from global rivals. Watch for Blackwell and Rubin platforms ramping up, as analysts predict around $79 billion in Q1 revenue. * Zhenwu M890 delivers three times the performance: Launching its newest AI processor, Chinese competitor Alibaba (NYSE:BABA ) put it well ahead of the current Zhenwu 810E – with 144 GB of GPU memory and greatly enhanced bandwidth in the new chip. The company’s next-generation LLM, Qwen3.7-Max, should be released soon. * Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology. AMD (NASDAQ:AMD ) – a Stock Advisor rec from Team Rule Breakers – also plans to launch a rival server system later in the year. Preview Nvidia’s Q1 earnings A message from The Motley Fool <p><strong>The Chips Have Been Built. The Data Centers Are Up. So Now What?</strong></p> <p>That's the question a lot of AI investors are sitting with right now. The infrastructure phase delivered massive returns but it's largely played out. And if you're only holding the companies that built the foundation, you might be wondering what your next move is.</p> <p>Historically, the answer has been straightforward. Once the infrastructure is in place, a new wave of companies emerges to actually use it. They tend to be smaller, cheaper, and far less obvious. They also tend to be where the next round of outsized returns comes from.</p> <p>Our analysts have identified five companies in that position right now&hellip;&nbsp;</p> <p>And you can get every name and thesis in a single report.</p> <p><a href=\" the <em>Epic</em> membership to get the report</a></p> *************************************************",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/8VkjBYwBgmedSiVlReZAFw~~/AAQRxRA~/agTGL5HggSnozuPwzxui08oRXYkFzh1OZI1lEaObeGfc9BSQ8nId1KVWGUs5fTYAgL-lMKxzdj7OaDUqaw0UIPXE2KYcT23TnMjpC9Zt3-_5EJEFiyD4DOHhGz-hJ7EGwYlhrO2IIVvADRyl32Kl84GMgo2eYy4igAQkVtpmtobhAk3Lg1VQqKBjmIq3pgMu8XwVz7SrEXjK-T6fPCVMpqH3ylcbHXmzJHRyFBUlctah5R3igSXKGexadBjhpiDgZYjN1oJe-a-JJfUAcVoZYzGmw9t8Tn2LFAghVROHq3GdgiXQbifQ1nMI79PKD1O6-OtQfhv99PuU2x_-dE1rkawDMFc-Zf4-v27u8l3mHrXj-sbULQyGtuPF9k6vw4mUjbfpvD1lH-puzw59CksUZMUKI4ZnSjspCVjSz3DkXfm4rmE193lGrRn1XJ8oKMSxAYTimTwemckNfSO1jsp7dg~~",
+              "title": "last week’s IPO",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "AMD",
+            "BABA",
+            "CBRS",
+            "NVDA"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy",
+            "Semiconductors",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Team Rule Breakers’ Recs to Watch on Wednesday ************************************************* * Hasbro (NASDAQ:HAS ) edged up around 1% in pre-market trading, as the toys and games maker posted Q1 earnings of $1.47 per share – against a $1.13 estimate. Strong demand for digital games lay behind the gains, as CEO Chris Cocks said Hasbro is “on track to grow the entire segment for the full year 2026.\" * e.l.f. Beauty (NYSE:ELF ) will close off fiscal 2025 with a Q4 report after the market closes. Recommended by both Team Hidden Gems and Team Rule Breakers, the cosmetics and skincare company has already produced 28 consecutive quarters of net sales growth , though organic growth is slowing. * Intuit (NASDAQ:INTU ) reveals Q3 results this afternoon, after beating top- and bottom-line estimates in Q2. Expansion of AI-powered services should help boost profitability for the full year. Check what to expect from INTU's Q3 **********************************************",
+          "links": [],
+          "tickers": [
+            "ELF",
+            "HAS",
+            "INTU"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Today’s Take: Stocks We’d Love – at 30% Off ********************************************** Tim Beyers I’ve always wanted to own Berkshire Hathaway (NYSE: BRKB ) simply because I could say the greatest investor of all time managed my money. I never pulled the trigger. But Berkshire, now led by Greg Abel, is back on my radar. Berkshire trades at a reasonable valuation today – so I’m getting a little greedy here – but I would be a likely buyer if the stock sold off 30%. (Yes, it would likely take a crisis of some sort for that to happen.) — ANTHONY SCHIAVONE Here’s a sneak preview, but head to the article to share the companies you’d buy if the valuation were 30% lower – and why you’re waiting – or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [
+            "BRKB"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 6",
+          "text": "Your Take ************** YESTERDAY'S TOP RESPONSE We asked, what stocks have shot up considerably this year, which you still believe can easily beat the market over 3-5 years from now, and why? S Member skunkfart said ““[Among others] CrowdStrike (NASDAQ:CRWD ) … up 32.15% YTD. Why? Stop cybersecurity breaches … What's most important is determining if they have a flywheel effect, have the discipline to keep them long term, deepen your company knowledge after buying to strengthen your conviction, and buy more of them during corrections and pullbacks to lower your cost basis.” See more great answers from our Foolish community TODAY’S QUESTION Are there some companies or industries you would never invest in for personal reasons? Explain in the comments section on today’s article! Share with us in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [
+            "CRWD"
+          ],
+          "themes": []
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "AMD",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "AMD (NASDAQ:AMD ) – a Stock Advisor rec from Team Rule Breakers – also plans to launch a rival server system later in the year."
+          ]
+        },
+        {
+          "symbol": "BABA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Zhenwu M890 delivers three times the performance: Launching its newest AI processor, Chinese competitor Alibaba (NYSE:BABA ) put it well ahead of the current Zhenwu 810E – with 144 GB of GPU memory and greatly enhanced bandwidth in the new chip."
+          ]
+        },
+        {
+          "symbol": "BRKB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Tim Beyers I’ve always wanted to own Berkshire Hathaway (NYSE: BRKB ) simply because I could say the greatest investor of all time managed my money."
+          ]
+        },
+        {
+          "symbol": "CBRS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology."
+          ]
+        },
+        {
+          "symbol": "CRWD",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "S Member skunkfart said ““[Among others] CrowdStrike (NASDAQ:CRWD ) … up 32.15% YTD."
+          ]
+        },
+        {
+          "symbol": "ELF",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Beauty (NYSE:ELF ) will close off fiscal 2025 with a Q4 report after the market closes."
+          ]
+        },
+        {
+          "symbol": "GOOG",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Google’s AI Takes The Stage ------------------------------ Alphabet (NASDAQ:GOOG ) rolled out the biggest update to its search bar in 25 years at its annual Google I/O conference yesterday."
+          ]
+        },
+        {
+          "symbol": "HAS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Hasbro (NASDAQ:HAS ) edged up around 1% in pre-market trading, as the toys and games maker posted Q1 earnings of $1.47 per share – against a $1.13 estimate."
+          ]
+        },
+        {
+          "symbol": "INTU",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Intuit (NASDAQ:INTU ) reveals Q3 results this afternoon, after beating top- and bottom-line estimates in Q2. Check what to expect from INTU's Q3 **********************************************"
+          ]
+        },
+        {
+          "symbol": "LOW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Lowe’s (NYSE:LOW ) first-quarter sales hit $23.1 billion, up 10.5% from the same period last year, as CEO Marvin R."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Nvidia’s Earnings To Hit the Headlines ----------------------------------------- Nvidia’s (NASDAQ:NVDA ) hotly anticipated first-quarter earnings will be with us after market close, as the leading AI chip maker – recommended by both Team Hidden Gems and Team Rule Breakers – faces increasing competition from global rivals. * Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology. Preview Nvidia’s Q1 earnings A message from The Motley Fool <p><strong>The Chips Have Been Built."
+          ]
+        },
+        {
+          "symbol": "TGT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Target (NYSE:TGT ) beat first-quarter expectations, with same-store sales up 5.6% year over year – positive for the first time in five quarters, and following a sales fall in Q4."
+          ]
+        },
+        {
+          "symbol": "TJX",
+          "mentions": 3,
+          "move": null,
+          "notes": [
+            "* TJX (NYSE:TJX ) – 3% behind the S&P 500 since a 2024 Stock Advisor recommendation by Team Hidden Gems – releases results this morning, following a 9% rise in net sales year over year (YoY) in the final quarter of fiscal 2026. Review TJX's 2026 full-year roundup ------------------------------"
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Streaming And Media",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": []
+    }
+  ],
+  "readingList": [
+    {
+      "title": "last week’s IPO",
+      "note": "Nvidia’s Earnings To Hit the Headlines ----------------------------------------- Nvidia’s (NASDAQ:NVDA ) hotly anticipated first-quarter earnings will be with us after market clos…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/8VkjBYwBgmedSiVlReZAFw~~/AAQRxRA~/agTGL5HggSnozuPwzxui08oRXYkFzh1OZI1lEaObeGfc9BSQ8nId1KVWGUs5fTYAgL-lMKxzdj7OaDUqaw0UIPXE2KYcT23TnMjpC9Zt3-_5EJEFiyD4DOHhGz-hJ7EGwYlhrO2IIVvADRyl32Kl84GMgo2eYy4igAQkVtpmtobhAk3Lg1VQqKBjmIq3pgMu8XwVz7SrEXjK-T6fPCVMpqH3ylcbHXmzJHRyFBUlctah5R3igSXKGexadBjhpiDgZYjN1oJe-a-JJfUAcVoZYzGmw9t8Tn2LFAghVROHq3GdgiXQbifQ1nMI79PKD1O6-OtQfhv99PuU2x_-dE1rkawDMFc-Zf4-v27u8l3mHrXj-sbULQyGtuPF9k6vw4mUjbfpvD1lH-puzw59CksUZMUKI4ZnSjspCVjSz3DkXfm4rmE193lGrRn1XJ8oKMSxAYTimTwemckNfSO1jsp7dg~~",
+          "title": "last week’s IPO",
+          "label": "last week’s IPO"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "AMD",
+        "BABA",
+        "CBRS",
+        "NVDA"
+      ],
+      "score": 19
+    },
+    {
+      "title": "Review TJX's 2026 full-year roundup",
+      "note": "Retail Earnings Season Continues *********************************** * Target (NYSE:TGT ) beat first-quarter expectations, with same-store sales up 5.6% year over year – positive…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/sWqXpp7LC2s09uKkdPvcWA~~/AAQRxRA~/qZVdJe9wHcSzew6eqSyXh346-NQrJdianSZFJWhsEXdSoRyJeWIhESRd7KhihkW4NPcHprBiJSZVCehG9jmgIyVj9GqkFCnaFhtlO389xvIY0yGrNPuh1vcsSZ_6sFN3nhrwR7vnKbjIYtmw0vj2R0rPIAftZY_glys4aiwIYy_2HTdGp703oQa9_8C6dP99Wz1KIGsabV6sKHeQrnQuTEn3DNHGYV9N_pimlFhoGev2hD2paZJhFrX-GDmx1gl76-leSKMdWhUC75ANOMyf1UUStECjMnJqNEtzTG4J8naUKD3V-aZVCWbGtfan7nKlSLCc0ZRh5EuMFu8PQ3kjQ5GXQwd9XNzB0eQf8HTmxlPvo6yomIkab9CkEHPBH5A7eHxUrpU-lvLhR_GiiT7SEH1yyqdluxjELqpn2YrgogvV_dkYuaHqcUY4wwCifTEysl0Cyw26KvJ56lGdttwtsQ~~",
+          "title": "Review TJX's 2026 full-year roundup",
+          "label": "Review TJX's 2026 full-year roundup"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "LOW",
+        "TGT",
+        "TJX"
+      ],
+      "score": 19
+    },
+    {
+      "title": "Learn more about Google Cloud’s power",
+      "note": "Google’s AI Takes The Stage ------------------------------ Alphabet (NASDAQ:GOOG ) rolled out the biggest update to its search bar in 25 years at its annual Google I/O conference…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/rgQuZtPG_20VOeF09DxbUQ~~/AAQRxRA~/PBloW4zh7PKo4qQnAdUjV6AdkvcQ9B_Ky7-6xjj0Wq27NEGra196GN3Ba3uJL2jKdDhOmOfS276YlzN97nExIWEjTcSGFzUVE-S30vJFjDXVl11LoCYV7WtKjy2HDBFbGGxEAjbFTMSyzNu_3EQc3hrRr0PUQnnz2OfWksRxXW3CW4GxNPKNLo5UPmo1BJtphcny0iQ2aMdV3vHA0EaIbUEtHwbzTYzhNJDe4SbGwUsNo7eb60u_CrfRYexBJQQD7nF6Fn0uxm7MvcPq7_hy2ywt_3Y0AZJFLbrNhV6zmWrtSwUSfFlL9igoithKslNhvMamGjUBkpBhZEnOLLAOT4gbbTiWsPzEe9wozOrT45lwZLAr9xkpPQGUtzGF10mVw40DdKrJig78NUdwAtZUOkIcB0uUyQo-J06BhspxClIBKSr-8AoERLBIWT7KipqOhITmUnSeS0Np2e2I86kzMYCZ0V4DVEzyNbRJ3Qieibo~",
+          "title": "Learn more about Google Cloud’s power",
+          "label": "Learn more about Google Cloud’s power"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "GOOG"
+      ],
+      "score": 17
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": 4,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Target's Turnaround Hits Bullseye",
+        "note": "Google’s AI Takes The Stage ------------------------------ Alphabet (NASDAQ:GOOG ) rolled out the biggest update to its search bar in 25 years at its annual Google I/O conference yesterday. Powered by Gemini 3.5 Flash AI, the new-look search is being rolled out immediately. Featuring AI agents and AI-generated interface tools, it expands the range of media we can search for – photos, videos, files, etc. * Gemini now has 900 million monthly users: CEO Sundar Pichai said the user count has more than doubled from around 400 million this time last year. He added power users could save money using Google AI, which it’s claimed matches top-end performance at up to a third of the cost of competitors. * “Our eighth generation TPUs”: Google also announced two new AI tensor processor units, the TPU 8i designed for running AI software, and the TPU 8t targeted at training models. Learn more about Google Cloud’s power -----------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/rgQuZtPG_20VOeF09DxbUQ~~/AAQRxRA~/PBloW4zh7PKo4qQnAdUjV6AdkvcQ9B_Ky7-6xjj0Wq27NEGra196GN3Ba3uJL2jKdDhOmOfS276YlzN97nExIWEjTcSGFzUVE-S30vJFjDXVl11LoCYV7WtKjy2HDBFbGGxEAjbFTMSyzNu_3EQc3hrRr0PUQnnz2OfWksRxXW3CW4GxNPKNLo5UPmo1BJtphcny0iQ2aMdV3vHA0EaIbUEtHwbzTYzhNJDe4SbGwUsNo7eb60u_CrfRYexBJQQD7nF6Fn0uxm7MvcPq7_hy2ywt_3Y0AZJFLbrNhV6zmWrtSwUSfFlL9igoithKslNhvMamGjUBkpBhZEnOLLAOT4gbbTiWsPzEe9wozOrT45lwZLAr9xkpPQGUtzGF10mVw40DdKrJig78NUdwAtZUOkIcB0uUyQo-J06BhspxClIBKSr-8AoERLBIWT7KipqOhITmUnSeS0Np2e2I86kzMYCZ0V4DVEzyNbRJ3Qieibo~",
+            "title": "Learn more about Google Cloud’s power",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Target's Turnaround Hits Bullseye",
+        "note": "Nvidia’s Earnings To Hit the Headlines ----------------------------------------- Nvidia’s (NASDAQ:NVDA ) hotly anticipated first-quarter earnings will be with us after market close, as the leading AI chip maker – recommended by both Team Hidden Gems and Team Rule Breakers – faces increasing competition from global rivals. Watch for Blackwell and Rubin platforms ramping up, as analysts predict around $79 billion in Q1 revenue. * Zhenwu M890 delivers three times the performance: Launching its newest AI processor, Chinese competitor Alibaba (NYSE:BABA ) put it well ahead of the current Zhenwu 810E – with 144 GB of GPU memory and greatly enhanced bandwidth in the new chip. The company’s next-generation LLM, Qwen3.7-Max, should be released soon. * Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology. AMD (NASDAQ:AMD ) – a Stock Advisor rec from Team Rule Breakers – also plans to launch a rival server system later in the year. Preview Nvidia’s Q1 earnings A message from The Motley Fool <p><strong>The Chips Have Been Built. The Data Centers Are Up. So Now What?</strong></p> <p>That's the question a lot of AI investors are sitting with right now. The infrastructure phase delivered massive returns but it's largely played out. And if you're only holding the companies that built the foundation, you might be wondering what your next move is.</p> <p>Historically, the answer has been straightforward. Once the infrastructure is in place, a new wave of companies emerges to actually use it. They tend to be smaller, cheaper, and far less obvious. They also tend to be where the next round of outsized returns comes from.</p> <p>Our analysts have identified five companies in that position right now&hellip;&nbsp;</p> <p>And you can get every name and thesis in a single report.</p> <p><a href=\" the <em>Epic</em> membership to get the report</a></p> *************************************************",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/8VkjBYwBgmedSiVlReZAFw~~/AAQRxRA~/agTGL5HggSnozuPwzxui08oRXYkFzh1OZI1lEaObeGfc9BSQ8nId1KVWGUs5fTYAgL-lMKxzdj7OaDUqaw0UIPXE2KYcT23TnMjpC9Zt3-_5EJEFiyD4DOHhGz-hJ7EGwYlhrO2IIVvADRyl32Kl84GMgo2eYy4igAQkVtpmtobhAk3Lg1VQqKBjmIq3pgMu8XwVz7SrEXjK-T6fPCVMpqH3ylcbHXmzJHRyFBUlctah5R3igSXKGexadBjhpiDgZYjN1oJe-a-JJfUAcVoZYzGmw9t8Tn2LFAghVROHq3GdgiXQbifQ1nMI79PKD1O6-OtQfhv99PuU2x_-dE1rkawDMFc-Zf4-v27u8l3mHrXj-sbULQyGtuPF9k6vw4mUjbfpvD1lH-puzw59CksUZMUKI4ZnSjspCVjSz3DkXfm4rmE193lGrRn1XJ8oKMSxAYTimTwemckNfSO1jsp7dg~~",
+            "title": "last week’s IPO",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Target's Turnaround Hits Bullseye",
+        "note": "Nvidia’s Earnings To Hit the Headlines ----------------------------------------- Nvidia’s (NASDAQ:NVDA ) hotly anticipated first-quarter earnings will be with us after market close, as the leading AI chip maker – recommended by both Team Hidden Gems and Team Rule Breakers – faces increasing competition from global rivals. Watch for Blackwell and Rubin platforms ramping up, as analysts predict around $79 billion in Q1 revenue. * Zhenwu M890 delivers three times the performance: Launching its newest AI processor, Chinese competitor Alibaba (NYSE:BABA ) put it well ahead of the current Zhenwu 810E – with 144 GB of GPU memory and greatly enhanced bandwidth in the new chip. The company’s next-generation LLM, Qwen3.7-Max, should be released soon. * Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology. AMD (NASDAQ:AMD ) – a Stock Advisor rec from Team Rule Breakers – also plans to launch a rival server system later in the year. Preview Nvidia’s Q1 earnings A message from The Motley Fool <p><strong>The Chips Have Been Built. The Data Centers Are Up. So Now What?</strong></p> <p>That's the question a lot of AI investors are sitting with right now. The infrastructure phase delivered massive returns but it's largely played out. And if you're only holding the companies that built the foundation, you might be wondering what your next move is.</p> <p>Historically, the answer has been straightforward. Once the infrastructure is in place, a new wave of companies emerges to actually use it. They tend to be smaller, cheaper, and far less obvious. They also tend to be where the next round of outsized returns comes from.</p> <p>Our analysts have identified five companies in that position right now&hellip;&nbsp;</p> <p>And you can get every name and thesis in a single report.</p> <p><a href=\" the <em>Epic</em> membership to get the report</a></p> *************************************************",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/8VkjBYwBgmedSiVlReZAFw~~/AAQRxRA~/agTGL5HggSnozuPwzxui08oRXYkFzh1OZI1lEaObeGfc9BSQ8nId1KVWGUs5fTYAgL-lMKxzdj7OaDUqaw0UIPXE2KYcT23TnMjpC9Zt3-_5EJEFiyD4DOHhGz-hJ7EGwYlhrO2IIVvADRyl32Kl84GMgo2eYy4igAQkVtpmtobhAk3Lg1VQqKBjmIq3pgMu8XwVz7SrEXjK-T6fPCVMpqH3ylcbHXmzJHRyFBUlctah5R3igSXKGexadBjhpiDgZYjN1oJe-a-JJfUAcVoZYzGmw9t8Tn2LFAghVROHq3GdgiXQbifQ1nMI79PKD1O6-OtQfhv99PuU2x_-dE1rkawDMFc-Zf4-v27u8l3mHrXj-sbULQyGtuPF9k6vw4mUjbfpvD1lH-puzw59CksUZMUKI4ZnSjspCVjSz3DkXfm4rmE193lGrRn1XJ8oKMSxAYTimTwemckNfSO1jsp7dg~~",
+            "title": "last week’s IPO",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Breakfast News: Target's Turnaround Hits Bullseye",
+        "note": "Today’s Take: Stocks We’d Love – at 30% Off ********************************************** Tim Beyers I’ve always wanted to own Berkshire Hathaway (NYSE: BRKB ) simply because I could say the greatest investor of all time managed my money. I never pulled the trigger. But Berkshire, now led by Greg Abel, is back on my radar. Berkshire trades at a reasonable valuation today – so I’m getting a little greedy here – but I would be a likely buyer if the stock sold off 30%. (Yes, it would likely take a crisis of some sort for that to happen.) — ANTHONY SCHIAVONE Here’s a sneak preview, but head to the article to share the companies you’d buy if the valuation were 30% lower – and why you’re waiting – or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/hwC3kDtsGYmoSalty1Yayw~~/AAQRxRA~/hpxm0cRnCGLHyadv7t9h_HWXTJhzUqMfjWWw32iJyx7nc9l0fy7Ul9Gk3n2ij261b9mLFPX13NtOVUPzpyBN83HpX4aYuOfGSVCiKMQsH6feOTvmTvjbA6pkjnWSt509hRFToOSFNOy4Li2IEByws4nlOJ6hbnB3DFtXSkGp5_M9Xs_cdFpBNolDq5iwYpqWIo3fKionvuZlFLANeLrxuZJ58l-T8gqYPVTrk9fM3n2CKZHCaEz8SeC2Q7UfrpDPzsjdz5F8pK_cUQtBtMpgD_KqJbD2jd3R7jXgysU5gx9RUG5zj8ZsC8KiuAc8ns5dtqWmHID6D71Xoj_5UwLoRTUJulBriynsySrLr-j-cDRviL5InqBrQwNJC1t6JLRLu1DvhRyMbbQ8vUsQf4M1yD0uhjAWRkTYs3rbjl_VXvbpLPnoTfTbD0CINAf3g4km",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EUa6VBKW5a-1OGHNNy2J-Q~~/AAQRxRA~/PMLIqhHVVz_kpisDEUmN2VikxfuCUyl9wD9ToZJ5_A8FMPgHJ4McDVUs8wN4lJ3ZFx3lPkGJrprEHUcrWklQfsMVv9LW7K2J_o-1UfJjLgXkHIzW-QbGsLurgYNWmdnyz9PWpFySNVb3LlcQm6TcQqwRxwt4NLAQet2xhBCQfk7x5RwvmyogiSNRh8cPYwpskDK3g1HwPYBnZFSlk_JYouY3VuzbncNJ2ub6PSFIoERn0XBlHP33Ke8nRihMPPyTJr9wuLx7FzLvwktTAveHpHy_72GkRBuQujIxlOvAc7L49ThIEMjL5lN-X5cykHhlZtj_EmKDwSp3Tz4FJs90DuQebRA2uN5_dcjUebS_CR8v0ADsTmHFAOXpGHVkCMt5YleGSNmDzoEVWUwOOsvlUfXkm3Wq4aT-SQQrj9qzzWVgJa9TiMP_1smHidT3Y_2c",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ZaBm5V159t81TbFf_jIPlQ~~/AAQRxRA~/PMLIqhHVVz_kpisDEUmN2VikxfuCUyl9wD9ToZJ5_A8FMPgHJ4McDVUs8wN4lJ3Z0sDyNAWJhXuJVupQN3cbz5YNGygunRM3TVa8fnQJ9FtN4DigtFbad2SGBjjs7ZPSnSs_5DgwVaUW1YRAyb_-xLDhXd6gyLOFwo2YKFDAtomvzS9cE22eCmAb_e8IxYGCyQrHUYtv3o9kuGMLyAm6zBj0lEin_GZ1SXNQbVYwKjMISSrTB0P3nFfdcx9JF8f87gOKzeYY-SGJ523OQLKQIvBCBEIMuFWaWwFN_mvmTCMunIRJdr_YJbpDWOGrMvgpc2Cxf6nv1W8T0kPOiNAzZm4hGizT8sQCQkfQ_gnIzTmw3CLk5VG3iHS5uuSJaLKqtelwYiedblai_NkQYJLWqb1flv2p3V11_jRA6BdHVPrPwuz_F37hpo01v4hFYyJV",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/VblGAg0B5Uqozk5vXrqyeA~~/AAQRxRA~/PMLIqhHVVz_kpisDEUmN2VikxfuCUyl9wD9ToZJ5_A8FMPgHJ4McDVUs8wN4lJ3ZSxklPSnw51f4eC45PONRI15i23542fs-qpP00ldcbc3tlKqKhxmAWcrgULMOLIIZ6Ko7mXq-ivcV6NiSi46a6pOl2l8t_nQZJKyRXj00rpbPE0ArSSJYns4Wqyti8XPuN0bK5qU5NyHa7x81XCdOUn2dX2aRQIDcJ9WN8EuRCKbqClzk-00SRfs5c72kCgAvAWkldvKzGEkkraELL-DMOCGWyPPuQdVgrFmhuUdq67o-yyTFYxqoxSDwrfnyO56fG9LU3Iiy3aJ0tKjO4H7PauELzC9kaN8upA6rvHNlGFI9pSZgRjOcSjZUX5yaO12Q5KddRMh4nZ48LHPxTU6wgjkyIytEfLntdrVCWrKIqKxZDrox-5LKbrkq_bReyHv4",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/sWqXpp7LC2s09uKkdPvcWA~~/AAQRxRA~/qZVdJe9wHcSzew6eqSyXh346-NQrJdianSZFJWhsEXdSoRyJeWIhESRd7KhihkW4NPcHprBiJSZVCehG9jmgIyVj9GqkFCnaFhtlO389xvIY0yGrNPuh1vcsSZ_6sFN3nhrwR7vnKbjIYtmw0vj2R0rPIAftZY_glys4aiwIYy_2HTdGp703oQa9_8C6dP99Wz1KIGsabV6sKHeQrnQuTEn3DNHGYV9N_pimlFhoGev2hD2paZJhFrX-GDmx1gl76-leSKMdWhUC75ANOMyf1UUStECjMnJqNEtzTG4J8naUKD3V-aZVCWbGtfan7nKlSLCc0ZRh5EuMFu8PQ3kjQ5GXQwd9XNzB0eQf8HTmxlPvo6yomIkab9CkEHPBH5A7eHxUrpU-lvLhR_GiiT7SEH1yyqdluxjELqpn2YrgogvV_dkYuaHqcUY4wwCifTEysl0Cyw26KvJ56lGdttwtsQ~~",
+            "title": "Review TJX's 2026 full-year roundup",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Ksd1uONwaP3r6M5zQRM-nA~~/AAQRxRA~/cTwP4-WGDwYB_5qeJeWaHrr6A60nayulFmAzm39mAmBy0s3IyQ7NOsQlTrYYFLh3DrSMWHTe6vlRVp19k-UHAsFnu8fHk23PlRsX59yavpMe0lZElHUdu-FP8HP0azi9LpXSPlRi7eKsWdRlhr6zwjzeFGiqzxZ0wKxr4flZ9M1tPf0MJrwu9UnOXRd0xtlddCDzyEBq49rrW-41OdOxpNAX8EMQMPov7A23oeR834yKl5emgx601jXIg7DSAu4xes8ki7TmAsreT0r_NpNEakzslk_RjbxwCFQOsNudxg4xqqWeGgahs9mEQhk2G01TSwixLpJtcYdls-dM084X_pHf_cHFn4mnMH6UQctxviK9XMhQnMoNp5kF4rPNWSCJdTGTnJFBBvdNLfQOH7V0eC64cr90elx_XrWVTfR231MgpUXyATMs-1OvNg53NYiR",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/rgQuZtPG_20VOeF09DxbUQ~~/AAQRxRA~/PBloW4zh7PKo4qQnAdUjV6AdkvcQ9B_Ky7-6xjj0Wq27NEGra196GN3Ba3uJL2jKdDhOmOfS276YlzN97nExIWEjTcSGFzUVE-S30vJFjDXVl11LoCYV7WtKjy2HDBFbGGxEAjbFTMSyzNu_3EQc3hrRr0PUQnnz2OfWksRxXW3CW4GxNPKNLo5UPmo1BJtphcny0iQ2aMdV3vHA0EaIbUEtHwbzTYzhNJDe4SbGwUsNo7eb60u_CrfRYexBJQQD7nF6Fn0uxm7MvcPq7_hy2ywt_3Y0AZJFLbrNhV6zmWrtSwUSfFlL9igoithKslNhvMamGjUBkpBhZEnOLLAOT4gbbTiWsPzEe9wozOrT45lwZLAr9xkpPQGUtzGF10mVw40DdKrJig78NUdwAtZUOkIcB0uUyQo-J06BhspxClIBKSr-8AoERLBIWT7KipqOhITmUnSeS0Np2e2I86kzMYCZ0V4DVEzyNbRJ3Qieibo~",
+            "title": "Learn more about Google Cloud’s power",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/TpZdM2NHGG-kFIPyt0bxhQ~~/AAQRxRA~/cTwP4-WGDwYB_5qeJeWaHrr6A60nayulFmAzm39mAmBy0s3IyQ7NOsQlTrYYFLh3eDzmVwlMKEjSwSGH55N714UQA-ugZPLrmCJKi84t9exBqXkVc9UNqY9d7ag6qjHlb1yzEaDx4lCNv4gz581a6znjxc--Q2vGJiKCSzWkxh3apRhFB1_QWd5mWxNxqeeTKCKAkWUqcqlh2Aqc8KGFOVmXglJbOUhI24uGYmk2qIR6kyodc308fp_5kXKrotiGX4ycA-qJEACk91Me_nJPIB92_temIi1PJn4qvITRaJc2dzZypesC9ekQ_aYQg4KSgUJCJVG6fMm8MMYhsyaD_ZNo0lF_9lcSZCPlBywUTMn5SCLipPbYwUB01zQTpTRBAdlvwlEYKw_SJQgZUD9lllyx7IljMTiOulopj2E8GM2vNB_aQOJTCGJLOH3fUhxt",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/vrneiqssBvjtrX7MXhXNSw~~/AAQRxRA~/A8bWdnrN-uyKzb4EIEnZe4rLmftWBIjUXvV-7ogdLFznFiYKCbBYr0cwfCxc3rsXiUrGp_L4eWXaYMQtFNRvw8y1ZJU9miVA3jcYgTK_WMvd-51MYjfyFEkDh78WOKW8tRxyOv3b1XWGMW6e7Zq7nPAQAr0i1fPv3BL8IxC0lKUfYpGUaLr3BTcHFhWZdv8HQE3qbHrUfnAVfPhMVJOv2wvjqb11yC6ZQJAbHOZHxhCpM2o6KxvzkyFZXCzhWte-FBaNr0rgxergyg0oRwMCs0zc5tPsIkWFQha_Mp5q_LJ_AIG2m7pnws_gNBR0k8h-xTZUU2C0sIHRZa7hUgqGsQV-TUBnRDy744JrUbm_52Z65ZuDOqZHBglgeRAb7DpJslbYXzbgYcO_eutOwFJ8rBS5vTv8gGkCIrTBWispiw803Zcywrau7qjnjic0hSM4",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/0hLtVBYz6VrH0QHXoxDy2w~~/AAQRxRA~/cTwP4-WGDwYB_5qeJeWaHrr6A60nayulFmAzm39mAmBy0s3IyQ7NOsQlTrYYFLh34S9IrtbEg2BeMVhTpZ9TwII4DJoNlW0UXcXCCnC5v_AFe1_xlntWR6xgq-Vv540Yiv8Kwqf75SKfQt89kJ-JSwBzzPgmaoQIrr1YGevoO8AlYI5HCSRfrY04p3hDft6RNj9IkY_HXDPDAuFK5UdPt7iQZj7cfhihhg20aLGz1O679r9sZE5l5nPdmmNvEquqIrTp8SNMJ6_09ec_1xHkpok3OKAUGBJaNJ3wigGi1CLzutgSJVU0QWytKh-bWp_riTJDmRlO7rENfFsvUtI2NUuVpHdzQEgE5qJucUW8klASAkImss71xkj5rTPMTCEXnQ2U6khNsbmkRsjLPfeM1pszyqVqQKSup11f8cOtAZQy3IhASwNNbYNkSnfTZDiB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/8VkjBYwBgmedSiVlReZAFw~~/AAQRxRA~/agTGL5HggSnozuPwzxui08oRXYkFzh1OZI1lEaObeGfc9BSQ8nId1KVWGUs5fTYAgL-lMKxzdj7OaDUqaw0UIPXE2KYcT23TnMjpC9Zt3-_5EJEFiyD4DOHhGz-hJ7EGwYlhrO2IIVvADRyl32Kl84GMgo2eYy4igAQkVtpmtobhAk3Lg1VQqKBjmIq3pgMu8XwVz7SrEXjK-T6fPCVMpqH3ylcbHXmzJHRyFBUlctah5R3igSXKGexadBjhpiDgZYjN1oJe-a-JJfUAcVoZYzGmw9t8Tn2LFAghVROHq3GdgiXQbifQ1nMI79PKD1O6-OtQfhv99PuU2x_-dE1rkawDMFc-Zf4-v27u8l3mHrXj-sbULQyGtuPF9k6vw4mUjbfpvD1lH-puzw59CksUZMUKI4ZnSjspCVjSz3DkXfm4rmE193lGrRn1XJ8oKMSxAYTimTwemckNfSO1jsp7dg~~",
+            "title": "last week’s IPO",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/GuY0gi-O744LLefd0187Wg~~/AAQRxRA~/5CR5y_LY8AlF5v_EBLYKBENmfGMX0bPAp_9IRmWsMHX_6X5l2VFi_uWpiwXXxcv4exYRY4ZcXF_k8jgE43tj30lWWd_q6IPjXudCUgtVSBBKp6hQzhQa86QE53uo_LuXJLvUVXrxAtFtYkH-La-kR4Uvs_wTFtpjpAYJ8Knrt4gZiJA5PFPTOAT2JMPmTc4Z3YAML3yFfyDhLlZvc9OmM7mczMvFWXpID8iA6_hf6QcXGLBs0Z7kD0d6TrPreoiJbjClhnbiv80hIIIipkDfK4i0tBXhYTVsQtp5or_YCq7YVBA3qbSUyEDiJWYZ6VTVZgfubLBjc76god4klYU954hqrmPacw8dqv_AulbAHkVu3ScKz4OfwmrR7idYFUdctZb67Q7sfz-B5lJPBKd_Fu9rjxiOyC2ecUrZPIgNPRC-v6IwhDwHxBh0Y9sX1jRq",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Treat import/export and margin-sensitive names with extra caution."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "BABA",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "* Zhenwu M890 delivers three times the performance: Launching its newest AI processor, Chinese competitor Alibaba (NYSE:BABA ) put it well ahead of the current Zhenwu 810E – with 144 GB of GPU memory and greatly enhanced bandwidth in the new chip.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "Nvidia’s Earnings To Hit the Headlines ----------------------------------------- Nvidia’s (NASDAQ:NVDA ) hotly anticipated first-quarter earnings will be with us after market close, as the leading AI chip maker – recommended by both Team Hidden Gems and Team Rule Breakers – faces increasing competition from global rivals. * Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology. Preview Nvidia’s Q1 earnings A message from The Motley Fool <p><strong>The Chips Have Been Built.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "TJX",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* TJX (NYSE:TJX ) – 3% behind the S&P 500 since a 2024 Stock Advisor recommendation by Team Hidden Gems – releases results this morning, following a 9% rise in net sales year over year (YoY) in the final quarter of fiscal 2026. Review TJX's 2026 full-year roundup ------------------------------",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AMD",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "AMD (NASDAQ:AMD ) – a Stock Advisor rec from Team Rule Breakers – also plans to launch a rival server system later in the year.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CBRS",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GOOG",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "Google’s AI Takes The Stage ------------------------------ Alphabet (NASDAQ:GOOG ) rolled out the biggest update to its search bar in 25 years at its annual Google I/O conference yesterday.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "INTU",
+      "score": 57,
+      "stance": "Research Watch",
+      "evidence": "* Intuit (NASDAQ:INTU ) reveals Q3 results this afternoon, after beating top- and bottom-line estimates in Q2. Check what to expect from INTU's Q3 **********************************************",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BRKB",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* Tim Beyers I’ve always wanted to own Berkshire Hathaway (NYSE: BRKB ) simply because I could say the greatest investor of all time managed my money.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CRWD",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "S Member skunkfart said ““[Among others] CrowdStrike (NASDAQ:CRWD ) … up 32.15% YTD.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ELF",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "Beauty (NYSE:ELF ) will close off fiscal 2025 with a Q4 report after the market closes.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "HAS",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* Hasbro (NASDAQ:HAS ) edged up around 1% in pre-market trading, as the toys and games maker posted Q1 earnings of $1.47 per share – against a $1.13 estimate.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "LOW",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* Lowe’s (NYSE:LOW ) first-quarter sales hit $23.1 billion, up 10.5% from the same period last year, as CEO Marvin R.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TGT",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* Target (NYSE:TGT ) beat first-quarter expectations, with same-store sales up 5.6% year over year – positive for the first time in five quarters, and following a sales fall in Q4.",
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "TJX",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* TJX (NYSE:TJX ) – 3% behind the S&P 500 since a 2024 Stock Advisor recommendation by Team Hidden Gems – releases results this morning, following a 9% rise in net sales year over year (YoY) in the final quarter of fiscal 2026. Review TJX's 2026 full-year roundup ------------------------------"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AMD",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "AMD (NASDAQ:AMD ) – a Stock Advisor rec from Team Rule Breakers – also plans to launch a rival server system later in the year."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "INTU",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Intuit (NASDAQ:INTU ) reveals Q3 results this afternoon, after beating top- and bottom-line estimates in Q2. Check what to expect from INTU's Q3 **********************************************"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BABA",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Zhenwu M890 delivers three times the performance: Launching its newest AI processor, Chinese competitor Alibaba (NYSE:BABA ) put it well ahead of the current Zhenwu 810E – with 144 GB of GPU memory and greatly enhanced bandwidth in the new chip."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BRKB",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Tim Beyers I’ve always wanted to own Berkshire Hathaway (NYSE: BRKB ) simply because I could say the greatest investor of all time managed my money."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CBRS",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CRWD",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "S Member skunkfart said ““[Among others] CrowdStrike (NASDAQ:CRWD ) … up 32.15% YTD."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ELF",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Beauty (NYSE:ELF ) will close off fiscal 2025 with a Q4 report after the market closes."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GOOG",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Google’s AI Takes The Stage ------------------------------ Alphabet (NASDAQ:GOOG ) rolled out the biggest update to its search bar in 25 years at its annual Google I/O conference yesterday."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HAS",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Hasbro (NASDAQ:HAS ) edged up around 1% in pre-market trading, as the toys and games maker posted Q1 earnings of $1.47 per share – against a $1.13 estimate."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LOW",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Lowe’s (NYSE:LOW ) first-quarter sales hit $23.1 billion, up 10.5% from the same period last year, as CEO Marvin R."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Nvidia’s Earnings To Hit the Headlines ----------------------------------------- Nvidia’s (NASDAQ:NVDA ) hotly anticipated first-quarter earnings will be with us after market close, as the leading AI chip maker – recommended by both Team Hidden Gems and Team Rule Breakers – faces increasing competition from global rivals. * Bigger chips mean faster communication: Nvidia also faces competition from Cerebras (NASDAQ:CBRS ), after last week’s IPO highlighted its large full-wafer technology. Preview Nvidia’s Q1 earnings A message from The Motley Fool <p><strong>The Chips Have Been Built."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "TGT",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Target (NYSE:TGT ) beat first-quarter expectations, with same-store sales up 5.6% year over year – positive for the first time in five quarters, and following a sales fall in Q4."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Target's Turnaround Hits Bullseye"
+      ]
+    }
+  ],
+  "events": []
+}

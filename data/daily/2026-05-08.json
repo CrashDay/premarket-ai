@@ -1,0 +1,3007 @@
+{
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-10T15:16:23.551Z",
+  "sourceCount": 2,
+  "sources": [
+    {
+      "title": "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+      "file": "2026-05-08-market-brieffoolbreakfast-news-breakfast-news-cloudflares-ai-pivot-spooks-stock-19e075d0923032dd.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Fri, 08 May 2026 11:33:17 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/J6dSrCtjui-vhcVB1Vneiw~~/AAQRxRA~/67yjzphY80HfBmvHafIWOfYzihNS3QcDenQPqYdcYwoLuD6WdVbCCFweSStO_o5oD7GyYUDmY0YZjRS7218JFbs9D3L97TciCT2RoQi6Mtcb7Cttg3NX1L7UtsCYMHRv_PVW2Da4JtFoVOsWo70N-Ia6UaHCoJbxX1OTmgEaL_LSPOok3xjX7_VM1azJVkdSzegB6O8PWXvJld-bOdCf4v-eILajd38_gEUBfQqAbq5vxr7jeSDNbY5H1Ah1GPb6we2qadtb3TUABc-X3GR8-Kglmfh5pls65nYa7hEZQYzd0Q05VYPem2P_hTa6FTmTaVkMOjXk1IrUS_YO1spl9BdQetTY8bSYcZuGwJ3J9l9B4eb21SBWeWZ5fmEjBQAue_H9jXaa--7YhJOQ1Hyyw3Xw_ULHXPLsQB7xDlFYZZlxG0BZx4n99yq1MhjNIa_l",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/bUc95G3HizpthF12DnErFg~~/AAQRxRA~/aaLA5E6p1piP2gh0EwX0ki543kNFoRrBEUZklWkGoWCxBTs9KPBbVgdSHH_IElZ8AxyAh5U3gPWAoL9-6Or6M2A1QevBdEMYeBtn_aAZhCdn88YPEl6YC9CwC_Sn7uID1IwhkG2c-Pfuohl0ny4d2c5pLLmWy_J-gf8ziIxsq6P9OJ8Xp2fShszOhnkv-q_eWfP6vCqL6I1BoxpDMJ1KM04T8z2AnjLAI8X1hlzi4xiFlPzjKzf9EMLrizkHKiRFcH0BSz30WwIerxLTfEV8wbIr_7PB0e3orRdXcpwCPNLz9NlE7FVr0R_O04tlWqGVFEBpUDy9S4-HPHlGnAXjjE6rnJkigkJrs2RE-ElvKZvXuc2yq7Y1QWFectPkwHZLcu1k_xrbXpSjcb-SFDlpnTi9EmYG_qKaVs25BVdtqFO-XFH8XXDFWIaTV70RRGje",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/KNajlGzWZS1vb42GRvR4mA~~/AAQRxRA~/WcQ9pRzpLeXFdDemR9owbLayS1LEtnBgqbE83R4AhSVUQUzVN4vL_LPh4xwy1Livg9YmVtyTUyMYDWfZACN9I3Sez7yR8P8KocDpSw5NUetupXMNeKVyz9FEY_ul-aUsOUaAW5voOIxCYXO5PKFMqHQR6j5cy-fhJWEmMN75KBvbRodH6QbnWOzmGgiSD1fOGdSXVb8iODejwdQBcM55Srl12HxNEQTWKVC43BXnU9Sq5c7vqClWdC80AkWlfPMKvxlwb2erQ819VMUeCm6AE6LyId7fvjBAhe0o9EzSUMWh6QpELnNE7rT9mjfg7FCW7ugy6YSuK8_7sR8fvwh6yX-sUAHbZBp5_b7M-jv8v9uA02kFAO_PG_BluqWo2NJbUnAnF-yc33Ghaah-TFYaLAqy78S5rw2SRMiW_e0HnPC1mTvVdDWMA7DlISTaH5OC0lxC0hLoy8HYuKLuGWvWuj4NiPX5nDjiRTxNxaAn234~",
+          "title": "quarterly results showing",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/ZGFGszguEy4bHeiCqBYrmg~~/AAQRxRA~/WcQ9pRzpLeXFdDemR9owbLayS1LEtnBgqbE83R4AhSVUQUzVN4vL_LPh4xwy1LivFJ9giCi0qKika9vWyrDQOMrHQht0tv6Yfr3at4l50Hp6cyaLsn5o-l3ZOq0jGES-c84nJ58BHAM4Ty2EECWPHC-UsiydhZQ30_9ggxy0_UmEU8ozLsaxuir_unrVCyJbaY-Ehc-DhnTkMPocF5jCBXgbiTfg1amMseOEM-l4PZkAJONeB82_f684AO7rVZgXZZfXek_WcvS4nwAIxyVZl-l-AFgfjqSRZYxKQE1Kqksdt8PPpzenn6PqH4uAfYLuz7uSla4jKw0KWG7c23MZ81nAPs28VIm8yetgBL2fBtH85IAettauARWmaH99-P_gHub5XipKyABLtC2v2XNreuYTbwLstxfUvy_UYHmx-dL_YujLCp4hyOfg1hFWhcIWBwrizP_uIwwM0Uel8asCBYVkfO6AAsLXlJ1w1TKAmSc~",
+          "title": "See why NET could beat the market in ‘26",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/C3p04hd0av7kXXvTpNqV_A~~/AAQRxRA~/tGxdrGHymLLDwfnWvzcw3J7cP5LRQH-8TEC_xPHPBwvtZXfMmfxZvQUrSOL-1A32xMmqA15AcpQpnZcJMc1ZFonto9Z7uTg1CnIZyj8g5RleB56MAsYiiODnOqyBY8PK6OH9RSK3_Au90WFeBCUvc-EAArTe__gCc9wQZboElEA7rM5A-XmKnoivPfcpYPQGnNdlRjxdmY23Wg1Bq1z7i3IUHlrJTF1HMEb6rs7t0GhoxSMjBmNg_Npgg7zLon5us-Gf_RbYvsPb_-FcstXM8fL2cMaIImV9GTmXPIAg10ELjOlIqELqRIl6j1MnD-L6IYnRv8voCPMDbHV2bGny7DYHFE76_tDrCTGv_lcwzEaOTKcUcMAmXYVa-hb_fNH7g7pJyh6IkYcOfyKItI_FC6pQdHY2qlefUvrR_OVM3-GNOIczSrT1auD7k3G7KDKr",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/XYDIws3_NLwF-rxemSnjBA~~/AAQRxRA~/CLFDX-HGo9a4P0eR5r06IpoKZ7Tg3kPGisu6PCebmMCdnMGx55Z9mSKcxwCCaa8ZJPRNxazLjfbByCA-RSwp6xHWDVXH_pY0hkY0wWJ1PdaOHalAVPrVXgDH46dtExruRVEpksgiWkVt5OtykruQGFZSL3Fg0LiQLR0kJ2IKk_n9FLENh3EV8ccyvk0xojlKAmrO_oOm1aTpwo6sjL-_2Lb6wWNjP_4Pj603DmYOkb7rPwrawCAkxhMc9oZFfekwnO7CXb6iJi3rGpnVxfT7e3nti_pf0bDE_E1XZuO7SVQoxzWV4QLb9hR0JLEftUONHB2BE8BKFIK3K4AKZm7-TbHPRprUOeCcxPAwPINZvuNoKcT-N3r57HVK55QStpMlixHU3vzXT9M1oMuyJ9YimsKFzorlmYrO3x5ah5iAtfy3kZLihY7sinSzjpsRCLBEApbQV_NqQEXnndc5ONAXfuFJNIFEOm-HShU3HoGMrPc~",
+          "title": "results provided some concern",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Lbo-5d2Ew-LjiZRYhU8EYw~~/AAQRxRA~/6Tm9LSxyoOlAuio-yd0uMuoyaL2AxmiIs70UMcvSKjWt86kHI58X5ahZ1JDz3OblPhpJvLnzLBddOtXG9_9wdheX2s3-nKpVXTxpP95HBI4qskDaUK0tx9OJiXXW7o8dMrLh07Mf0bjBTK7MO83gbYXwt5hN1v1X3gKdTla0AiEa_TPgGhwwG2lkXqdFpS6EDriCXCjfOqccbuYpOvOFtaoUT3TUGxMyhshv0wKwUibNC8aWvf1BERPNkUeF95Rl58V5o1EcUspbJFBofLgNlUyMh_n5oHGmkB-04CMmU-SWqIwAdmQoZARz5fgtrmKP7wpdIXHk9AuQGz6Fxi46gTIoOWlD59IHuRxjQn1X7SP4yMrGcWQJIKaNNXtM9OTG6K3IvSuDurACXPkOJd8myLq13Km5niFpG5de0i-2YkpSU6rxT8R3Ts2sDuQl8XR7",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/TaNeSFMCXc0btdcDx8ZcjA~~/AAQRxRA~/6aDhEsOtP20AApwoNDMedmpIc2htT8SGm-lGFbR1OPjfkSe6IBfJCB35CMJE42aGND5LeVGiGtL5xfoOAgQ-US6YwBmeEixKO4He0WevgIio3yyiqv8XOTrDiMABqvHfnlaGdwrwSE7qDjgfxHJi4b8mPeJQV9YmaMc8L4_GSDqIHu4gpxN0eQIYNsxaCvG1SEr0lB4aKn8oy5YEvG73RtYjKA2HKv1djMHHyOGAqz5yJ-4C2huuI7rU4uLzeyTmg00NH0S3yiYCteSR5qW1vaIH0bgkxv7lhumZb_SfDKqwE7WriPMCu5CfDyMgpdHfCC2TAo58VSVEG_N32VojfPzQrN0NMLRlLWj5Kp-joLhPk6AjsE6uH0o_fWjJTsp7UaFQI9nnsL1XyXHz-HkzbuvTb8WzUl6FGIH1-DCa2uV1YUHXu8crLG7tmER8psE5LulXuq_JAJeogEhLR1rBZtG6gYDBhATCjcXhs6vHkSY~",
+          "title": "reporting record quarterly sales",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/prE5VP2xKFElyxs69pTZ7g~~/AAQRxRA~/tGxdrGHymLLDwfnWvzcw3J7cP5LRQH-8TEC_xPHPBwua4_dUsvSvESZ0DQGn2gsQSxkQFhwy4a2ty6NW1ukyOwEBCQTgTp0k_0LuzauSyt79akvbr22f6GMVNAet9wRV9GP8MshwQ8-sfzCgsn-dfvZtX7S9h1qUxrEkp-fkoMWsB8TZhIK52QJxDf8wrk4xPVpgIaMAnUKTQjfKijcSCrmWpuwLtZdb8SPrwBO6s0lMjRX4DUEd6XKJoQ3veGqPCbDs8P6VCZrRtDmZ2IkgHL_tGSWZE6xeetkkti64g_o4CdFONwRV1mDrNZrhFctw6E3PrqrNqlKWB-dYc4gOpBTbdDx-Bw22LMJ_YxOCiTTBj98Oxma3M4o-zb-PrT9eKh6-q45usrwPkPFJF6-Vgv8XwZF3E4-lHkLmm25TP2HSbpWARczukh1EYd8l_XhL",
+          "title": "OTC:NTDOY",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/1KXitgscLmkrm-6wu4rMZg~~/AAQRxRA~/6Tm9LSxyoOlAuio-yd0uMuoyaL2AxmiIs70UMcvSKjWt86kHI58X5ahZ1JDz3Obl1EjMErpPJV5-03GrZ-vwZJlv41G5etsQV4-v2kk4eEauc0y14tjrSxWI_a0swCjdsZ-iLNZc5VMEFhUTkfWXdl3FK5Xqm98_OwmXyyM2Lkd0HQHH2p8B-GNnH7282-rtMPwA2rkcgpnleZKlfBLt5lLP8xk1BaFvwYpdbGPV1KcOLsMqfYtewmOlWJN4FkC4NLVvlSwxzqq1VR-OgGdRjQdzk93DoQrHEpc_raLrB217GNn0F7BicnI8nHltEl6V0rb2IN7O9MjYHboOrZZIC9S74Exdn8IPNGnFtVjNd05a-2RxD1_Dg8VwcYoICO4ZxGc-kxMR2BUmZX3XuSr8K6XAYLrub-c3HNJaBgR5tW4oWXfPMMwfqh3uA-FmYEjn",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/UjVIt03ogWVW_IWWeSQBJQ~~/AAQRxRA~/08BxE10ZoZY_Uruotacxuh3YnBjzsNzSURe1Zvg7lOgkWBVCPBS5HZ_m7Oy9rGSrFdL3mCoxixcysWGhCDpMmrxhzNemTCTSdNwdyVsL8v2vyfarRGYHNGXWTwrsPmbu7YS8vN8Gz2M89Z-RncYGNDOoXhZ98hS-t7KtvfdvUxIM45Wyc0CHhA63Mo0L1ijJsp5Mq0euR2w3QWbkPSGLZSfNYnZ7F4h7NUbE23WfxzA-H5ghMvVEG0UA8AIEs_pExTSAwTPjQD3NXqJqoKZStDKErrCLQQOyBjA252od5MbNOR1BiIJNJ4mE3eX674O03B6qrCJyyHmuC3E1-XrcacQPTa2Y5xUvLfwSwnXTPM61Fw_NPGJQXeVO8dw6_U8QXJbdMwiQlBBX73DJJ2hzD8BinQsrv63Xe3sSULyiFAxpQCj1ewyPXt3gxEB3qH55igwaqLbf3S6wyOAhTEhLqASVWSDgPhenP5K8NMpWcTU~",
+          "title": "results beat its own financial forecasts",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/s0m_p-Q3CwWEsEZ83ouYKw~~/AAQRxRA~/Kx_3qyZyOtytUIZ3wWHW0m8xTz6qhcwtjPFXuY27PXyuEksCjctKpgvr7-07bq1cVexwX_-CO3Znl8-aDSHvm35wpvStw41qc8ESAGYKA3is-ZL9rUs9LH8KPTX--p8E35BocWzkvGeidBzH7JMv2aETnPzdkTKB-K__jYKCcZjvOFTaxKxICFu7j0ByVmd8yvwjRZbSUy1ZHrpEMq8FEE9exr8IhoLp59xCeQMo6RMDKAKobagBWHWsDHbq16wdhgtYhPMMYKJBsCwuWMg5-Q9d2U0zYLU0LOpVAFnqOsYo85NLjEJ1skTToLTkDKSUuUXSwlv-hV2y0p80B85nLL4iDNob-I3kBXj9ecLRFtMcMGwvCDuv3y7kebC75DydWIl7ruwTm6nmaWJe4Xal8-BFHU8sIqRbiE1kIdVy_RNt_1S8av47QJxXEAkWB3uBJMWHdLEecOSgHQxiyhN01WDm0kX0gKpMgf5y4zSepnI~",
+          "title": "Examine Lou’s full RKLB breakdown",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1096,
+      "summaryHints": [
+        "NET slumps as job losses revealed, Big Tech spending set to weigh on cash flow, and more… Breakfast NewsClick here to read online .",
+        "MAY 8, 2026Thursday's MarketsS&P 500 7,337 (-0.38%)Nasdaq 25,806 (-0.13%)Dow 49,597 (-0.63%)Bitcoin 80,119 (-1.8%)Image shows chart of Cloudflare's gross profit margin over the past 3 years *******************************",
+        "Cloudflare Sinks on AI Reform *******************************",
+        "* Cloudflare (NYSE:NET ) fell over 18% ahead of the opening bell as investors see the company belatedly playing catch-up on AI, with management noting it’s “the biggest tailwind we’ve ever seen,” along with quarterly results showing a 4.67% fall in gross profit margins from the prior-year period.",
+        "* “Cloudflare’s usage of AI has increased by more than 600% in the last three months alone”: 1,100 staff are being cut, with an email sent to staff saying management “have to be intentional in how we architect our company for the agentic AI era,” with the job cuts representing 20% of the current workforce."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Cloudflare Sinks on AI Reform ******************************** Cloudflare (NYSE:NET ) fell over 18% ahead of the opening bell as investors see the company belatedly playing catch-up on AI, with management noting it’s “the biggest tailwind we’ve ever seen,” along with quarterly results showing a 4.67% fall in gross profit margins from the prior-year period. * “Cloudflare’s usage of AI has increased by more than 600% in the last three months alone”: 1,100 staff are being cut, with an email sent to staff saying management “have to be intentional in how we architect our company for the agentic AI era,” with the job cuts representing 20% of the current workforce. * News overshadows strong set of results: Despite the fall in gross margin, revenue rose by 34% versus the same period last year, with the outlook for full-year fiscal 2026 revenue and earnings raised. The stock is outperforming the S&P 500 by 285% since the November 2022 Stock Advisor recommendation by Team Hidden Gems. See why NET could beat the market in ‘26 ----------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/KNajlGzWZS1vb42GRvR4mA~~/AAQRxRA~/WcQ9pRzpLeXFdDemR9owbLayS1LEtnBgqbE83R4AhSVUQUzVN4vL_LPh4xwy1Livg9YmVtyTUyMYDWfZACN9I3Sez7yR8P8KocDpSw5NUetupXMNeKVyz9FEY_ul-aUsOUaAW5voOIxCYXO5PKFMqHQR6j5cy-fhJWEmMN75KBvbRodH6QbnWOzmGgiSD1fOGdSXVb8iODejwdQBcM55Srl12HxNEQTWKVC43BXnU9Sq5c7vqClWdC80AkWlfPMKvxlwb2erQ819VMUeCm6AE6LyId7fvjBAhe0o9EzSUMWh6QpELnNE7rT9mjfg7FCW7ugy6YSuK8_7sR8fvwh6yX-sUAHbZBp5_b7M-jv8v9uA02kFAO_PG_BluqWo2NJbUnAnF-yc33Ghaah-TFYaLAqy78S5rw2SRMiW_e0HnPC1mTvVdDWMA7DlISTaH5OC0lxC0hLoy8HYuKLuGWvWuj4NiPX5nDjiRTxNxaAn234~",
+              "title": "quarterly results showing",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/ZGFGszguEy4bHeiCqBYrmg~~/AAQRxRA~/WcQ9pRzpLeXFdDemR9owbLayS1LEtnBgqbE83R4AhSVUQUzVN4vL_LPh4xwy1LivFJ9giCi0qKika9vWyrDQOMrHQht0tv6Yfr3at4l50Hp6cyaLsn5o-l3ZOq0jGES-c84nJ58BHAM4Ty2EECWPHC-UsiydhZQ30_9ggxy0_UmEU8ozLsaxuir_unrVCyJbaY-Ehc-DhnTkMPocF5jCBXgbiTfg1amMseOEM-l4PZkAJONeB82_f684AO7rVZgXZZfXek_WcvS4nwAIxyVZl-l-AFgfjqSRZYxKQE1Kqksdt8PPpzenn6PqH4uAfYLuz7uSla4jKw0KWG7c23MZ81nAPs28VIm8yetgBL2fBtH85IAettauARWmaH99-P_gHub5XipKyABLtC2v2XNreuYTbwLstxfUvy_UYHmx-dL_YujLCp4hyOfg1hFWhcIWBwrizP_uIwwM0Uel8asCBYVkfO6AAsLXlJ1w1TKAmSc~",
+              "title": "See why NET could beat the market in ‘26",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "NET"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * HubSpot (NYSE:HUBS ) slumped around 20% in pre-market trading as results provided some concern over future revenue growth rates and broader valuation concerns, despite profitability for the quarter improving year over year (YoY) for the recommendation by Team HG. * Monster Beverage (NASDAQ:MNST ) popped over 6% in pre-market trading thanks to the Team RB rec reporting record quarterly sales , helped out by international growth and energy drink demand. * Nintendo (OTC:NTDOY ) disappointed investors as results forecasted a decline in sales for its flagship console, the Switch 2, as memory chip shortages bite at the Team Rule Breakers recommendation. * Rocket Lab (NASDAQ:RKLB ) jumped over 6% ahead of the opening bell as results beat its own financial forecasts , with the Team Hidden Gems rec signing multiple new launch contracts. Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company. Now it built the infrastructure. The picks and shovels. The runway for Artificial Intelligence to run free.</p> <p>Phase Two &ndash; where companies actually use all that infrastructure to build products, platforms, and services &ndash; is just beginning.&nbsp;</p> <p>And historically, that's where the biggest winners of any tech boom emerge. Netflix didn't lay the fiber optic cables. It used them. And returned over 43,000% since 2004.</p> <p>Our analysts have identified five Phase Two AI companies &mdash; most of them a fraction of Nvidia's size &mdash; positioned for what comes next. You can see all five names and why we picked them in a new report, available with an <em>Epic</em> membership.</p> <p><a href=\" the <em>Epic</em> membership to get the report.</a></p> *****************************************",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/XYDIws3_NLwF-rxemSnjBA~~/AAQRxRA~/CLFDX-HGo9a4P0eR5r06IpoKZ7Tg3kPGisu6PCebmMCdnMGx55Z9mSKcxwCCaa8ZJPRNxazLjfbByCA-RSwp6xHWDVXH_pY0hkY0wWJ1PdaOHalAVPrVXgDH46dtExruRVEpksgiWkVt5OtykruQGFZSL3Fg0LiQLR0kJ2IKk_n9FLENh3EV8ccyvk0xojlKAmrO_oOm1aTpwo6sjL-_2Lb6wWNjP_4Pj603DmYOkb7rPwrawCAkxhMc9oZFfekwnO7CXb6iJi3rGpnVxfT7e3nti_pf0bDE_E1XZuO7SVQoxzWV4QLb9hR0JLEftUONHB2BE8BKFIK3K4AKZm7-TbHPRprUOeCcxPAwPINZvuNoKcT-N3r57HVK55QStpMlixHU3vzXT9M1oMuyJ9YimsKFzorlmYrO3x5ah5iAtfy3kZLihY7sinSzjpsRCLBEApbQV_NqQEXnndc5ONAXfuFJNIFEOm-HShU3HoGMrPc~",
+              "title": "results provided some concern",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/TaNeSFMCXc0btdcDx8ZcjA~~/AAQRxRA~/6aDhEsOtP20AApwoNDMedmpIc2htT8SGm-lGFbR1OPjfkSe6IBfJCB35CMJE42aGND5LeVGiGtL5xfoOAgQ-US6YwBmeEixKO4He0WevgIio3yyiqv8XOTrDiMABqvHfnlaGdwrwSE7qDjgfxHJi4b8mPeJQV9YmaMc8L4_GSDqIHu4gpxN0eQIYNsxaCvG1SEr0lB4aKn8oy5YEvG73RtYjKA2HKv1djMHHyOGAqz5yJ-4C2huuI7rU4uLzeyTmg00NH0S3yiYCteSR5qW1vaIH0bgkxv7lhumZb_SfDKqwE7WriPMCu5CfDyMgpdHfCC2TAo58VSVEG_N32VojfPzQrN0NMLRlLWj5Kp-joLhPk6AjsE6uH0o_fWjJTsp7UaFQI9nnsL1XyXHz-HkzbuvTb8WzUl6FGIH1-DCa2uV1YUHXu8crLG7tmER8psE5LulXuq_JAJeogEhLR1rBZtG6gYDBhATCjcXhs6vHkSY~",
+              "title": "reporting record quarterly sales",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/prE5VP2xKFElyxs69pTZ7g~~/AAQRxRA~/tGxdrGHymLLDwfnWvzcw3J7cP5LRQH-8TEC_xPHPBwua4_dUsvSvESZ0DQGn2gsQSxkQFhwy4a2ty6NW1ukyOwEBCQTgTp0k_0LuzauSyt79akvbr22f6GMVNAet9wRV9GP8MshwQ8-sfzCgsn-dfvZtX7S9h1qUxrEkp-fkoMWsB8TZhIK52QJxDf8wrk4xPVpgIaMAnUKTQjfKijcSCrmWpuwLtZdb8SPrwBO6s0lMjRX4DUEd6XKJoQ3veGqPCbDs8P6VCZrRtDmZ2IkgHL_tGSWZE6xeetkkti64g_o4CdFONwRV1mDrNZrhFctw6E3PrqrNqlKWB-dYc4gOpBTbdDx-Bw22LMJ_YxOCiTTBj98Oxma3M4o-zb-PrT9eKh6-q45usrwPkPFJF6-Vgv8XwZF3E4-lHkLmm25TP2HSbpWARczukh1EYd8l_XhL",
+              "title": "OTC:NTDOY",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/UjVIt03ogWVW_IWWeSQBJQ~~/AAQRxRA~/08BxE10ZoZY_Uruotacxuh3YnBjzsNzSURe1Zvg7lOgkWBVCPBS5HZ_m7Oy9rGSrFdL3mCoxixcysWGhCDpMmrxhzNemTCTSdNwdyVsL8v2vyfarRGYHNGXWTwrsPmbu7YS8vN8Gz2M89Z-RncYGNDOoXhZ98hS-t7KtvfdvUxIM45Wyc0CHhA63Mo0L1ijJsp5Mq0euR2w3QWbkPSGLZSfNYnZ7F4h7NUbE23WfxzA-H5ghMvVEG0UA8AIEs_pExTSAwTPjQD3NXqJqoKZStDKErrCLQQOyBjA252od5MbNOR1BiIJNJ4mE3eX674O03B6qrCJyyHmuC3E1-XrcacQPTa2Y5xUvLfwSwnXTPM61Fw_NPGJQXeVO8dw6_U8QXJbdMwiQlBBX73DJJ2hzD8BinQsrv63Xe3sSULyiFAxpQCj1ewyPXt3gxEB3qH55igwaqLbf3S6wyOAhTEhLqASVWSDgPhenP5K8NMpWcTU~",
+              "title": "results beat its own financial forecasts",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/s0m_p-Q3CwWEsEZ83ouYKw~~/AAQRxRA~/Kx_3qyZyOtytUIZ3wWHW0m8xTz6qhcwtjPFXuY27PXyuEksCjctKpgvr7-07bq1cVexwX_-CO3Znl8-aDSHvm35wpvStw41qc8ESAGYKA3is-ZL9rUs9LH8KPTX--p8E35BocWzkvGeidBzH7JMv2aETnPzdkTKB-K__jYKCcZjvOFTaxKxICFu7j0ByVmd8yvwjRZbSUy1ZHrpEMq8FEE9exr8IhoLp59xCeQMo6RMDKAKobagBWHWsDHbq16wdhgtYhPMMYKJBsCwuWMg5-Q9d2U0zYLU0LOpVAFnqOsYo85NLjEJ1skTToLTkDKSUuUXSwlv-hV2y0p80B85nLL4iDNob-I3kBXj9ecLRFtMcMGwvCDuv3y7kebC75DydWIl7ruwTm6nmaWJe4Xal8-BFHU8sIqRbiE1kIdVy_RNt_1S8av47QJxXEAkWB3uBJMWHdLEecOSgHQxiyhN01WDm0kX0gKpMgf5y4zSepnI~",
+              "title": "Examine Lou’s full RKLB breakdown",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "HUBS",
+            "MNST",
+            "NFLX",
+            "NTDOY",
+            "NVDA",
+            "RKLB"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy",
+            "Streaming And Media",
+            "Semiconductors",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Record AI Capex Cycle Drains Tech Cash ***************************************** New data from Visible Alpha shows the tech sector is facing the biggest cash strain in over a decade, as record-breaking AI capex spend weighs on free cash flow, even with higher spending in the pipeline. * Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic. * AI buildout seen as a once-in-a-lifetime opportunity: Amazon is expected to spend more cash than it generates this year, with other tech stocks in a similar position. Investors will need to weigh up whether such spending can result in higher returns down the road. Review this month’s Mag 7 earnings --------------------------",
+          "links": [],
+          "tickers": [
+            "AMZN",
+            "GOOG",
+            "META",
+            "MSFT"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "What to Watch on Friday -------------------------- * Enbridge (NYSE:ENB ) reports before the market opens, aiming to build on the record results posted last quarter . The results should provide an update on major pending projects, including the Mainline Optimization Phase 1 and",
+          "links": [],
+          "tickers": [
+            "ENB"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 2",
+          "text": "* Brookfield Asset Management (NYSE:BAM ) rose 1.5% ahead of the opening bell as results showed an 11% YoY jump in fee-related earnings, building on the record last quarter . The Dividend Investor rec boasts a three-year dividend growth rate of around 15%. Watch why Fools think BAM has upside *************************************************",
+          "links": [],
+          "tickers": [
+            "BAM"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Today’s Take: Trends to Define the Next Decade ************************************************* Yasser El-Shimy Aerospace isn’t just a sector — it’s the infrastructure of globalization itself. — YASSER EL-SHIMY • TEAM RULE BREAKERS Neha Chamaria The world doesn’t just need more power — it wants cleaner power. — NEHA CHAMARIA • TEAM HIDDEN GEMS Here’s a sneak preview, but head to the article to reveal the emerging trends you believe will shape the future investment landscape, or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 6",
+          "text": "Your Take ************** TODAY’S QUESTION Yesterday saw the latest Stock Advisor recommendation , Krystal Biotech (NASDAQ: KRYS ), released! Do you invest in healthcare and biotech stocks? If so, what gives you conviction – the science, the management team, the commercial opportunity, or something else? Share with us in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [
+            "KRYS"
+          ],
+          "themes": []
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic."
+          ]
+        },
+        {
+          "symbol": "BAM",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Brookfield Asset Management (NYSE:BAM ) rose 1.5% ahead of the opening bell as results showed an 11% YoY jump in fee-related earnings, building on the record last quarter . Watch why Fools think BAM has upside *************************************************"
+          ]
+        },
+        {
+          "symbol": "ENB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Enbridge (NYSE:ENB ) reports before the market opens, aiming to build on the record results posted last quarter ."
+          ]
+        },
+        {
+          "symbol": "GOOG",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic."
+          ]
+        },
+        {
+          "symbol": "HUBS",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * HubSpot (NYSE:HUBS ) slumped around 20% in pre-market trading as results provided some concern over future revenue growth rates and broader valuation concerns, despite profitability for the quarter improving year over year (YoY) for the recommendation by Team HG."
+          ]
+        },
+        {
+          "symbol": "KRYS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* TODAY’S QUESTION Yesterday saw the latest Stock Advisor recommendation , Krystal Biotech (NASDAQ: KRYS ), released!"
+          ]
+        },
+        {
+          "symbol": "META",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic."
+          ]
+        },
+        {
+          "symbol": "MNST",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Monster Beverage (NASDAQ:MNST ) popped over 6% in pre-market trading thanks to the Team RB rec reporting record quarterly sales , helped out by international growth and energy drink demand."
+          ]
+        },
+        {
+          "symbol": "MSFT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic."
+          ]
+        },
+        {
+          "symbol": "NET",
+          "mentions": 3,
+          "move": null,
+          "notes": [
+            "* Cloudflare (NYSE:NET ) fell over 18% ahead of the opening bell as investors see the company belatedly playing catch-up on AI, with management noting it’s “the biggest tailwind we’ve ever seen,” along with quarterly results showing a 4.67% fall in gross profit margins from the prior-year period. See why NET could beat the market in ‘26 ----------------------------------------------"
+          ]
+        },
+        {
+          "symbol": "NFLX",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Netflix didn't lay the fiber optic cables."
+          ]
+        },
+        {
+          "symbol": "NTDOY",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Nintendo (OTC:NTDOY ) disappointed investors as results forecasted a decline in sales for its flagship console, the Switch 2, as memory chip shortages bite at the Team Rule Breakers recommendation."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company. And returned over 43,000% since 2004.</p> <p>Our analysts have identified five Phase Two AI companies &mdash; most of them a fraction of Nvidia's size &mdash; positioned for what comes next."
+          ]
+        },
+        {
+          "symbol": "RKLB",
+          "mentions": 3,
+          "move": null,
+          "notes": [
+            "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Rocket Lab (NASDAQ:RKLB ) jumped over 6% ahead of the opening bell as results beat its own financial forecasts , with the Team Hidden Gems rec signing multiple new launch contracts. Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Streaming And Media",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": [
+        {
+          "kind": "earnings",
+          "date": "2026-05-08",
+          "time": "Before Open",
+          "title": "Enbridge (ENB)",
+          "symbol": "ENB",
+          "note": "reports before the market opens, aiming to build on the record"
+        }
+      ]
+    },
+    {
+      "title": "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs",
+      "file": "2026-05-08-market-briefstock-analysismarket-bullets-market-bullets-u.s.-adds-115k-jobs-in-strong-showing-iren-surges-on-nvidia-pact--19e07aaf0b5b37fb.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Fri, 08 May 2026 12:58:22 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [
+        {
+          "url": "https://www.cnbc.com/2026/05/06/stock-market-today-live-updates.html",
+          "title": "Stock Market Today Live Updates",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/08/5-things-to-know-before-the-market-opens.html",
+          "title": "5 Things To Know Before The Market Opens",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html",
+          "title": "Cloudflare Net Q1 2026 Stock Earnings Layoffs",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html",
+          "title": "Iren Stock Ai Infrastructure Nvidia",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
+          "title": "Jobs Report April 2026",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/07/used-car-prices-gas.html",
+          "title": "Used Car Prices Gas",
+          "fetched": false
+        }
+      ],
+      "wordCount": 2220,
+      "summaryHints": [
+        "​ 🌀 Whirlpool plunges 12% on forecast | Friday - May 08, 2026 | View Online Presented by Vantage Point --------------- Market Overview --------------- S&P 500 -0.38% Pre: +0.54% Nasdaq -0.13% Pre: +0.86% Dow -0.63% Pre: +0.41% ------------------- Stock & Market News -------------------",
+        "* Market recap: All 3 major indices fell modestly yesterday, with the Dow down over 300 points.",
+        "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%.",
+        "Sources: CNBC   / CNBC  .",
+        "* Cloudflare cuts workforce: Cloudflare (NET  ) fell 16% premarket after the company announced plans to cut more than 1.1K employees as it shifts to an AI-first operating model, despite beating on revenue and EPS."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Apple's legal setback: The Supreme Court declined to pause a ruling holding Apple (AAPL  ) in contempt in its Epic Games antitrust case, forcing the company back to district court over App Store commission rules and third-party payment policies.",
+            "The company is also opening up its AI Health Coach to Apple Watch (AAPL  ), Garmin (GRMN  ), and Oura users."
+          ]
+        },
+        {
+          "symbol": "ABNB",
+          "mentions": 1,
+          "move": "+17.87%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Airbnb (ABNB  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "AMTM",
+          "mentions": 1,
+          "move": "-0.73%",
+          "notes": []
+        },
+        {
+          "symbol": "AMZN",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Coinbase restores services: Coinbase (COIN  ) resumed trading operations after a nearly 7-hour outage caused by overheating at an Amazon (AMZN  ) data center."
+          ]
+        },
+        {
+          "symbol": "BABA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "authorities suspect that advanced Nvidia (NVDA  ) AI chips were smuggled to China via a Thai company, with some servers allegedly reaching Alibaba (BABA  )."
+          ]
+        },
+        {
+          "symbol": "BAM",
+          "mentions": 1,
+          "move": "+23.77%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Brookfield Asset Management (BAM  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "COIN",
+          "mentions": 2,
+          "move": "-30.53%",
+          "notes": [
+            "* Coinbase restores services: Coinbase (COIN  ) resumed trading operations after a nearly 7-hour outage caused by overheating at an Amazon (AMZN  ) data center.",
+            "* Financials   · As Reported   · Metrics   · Press Release Coinbase (COIN  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "CRWV",
+          "mentions": 2,
+          "move": "+111.69%",
+          "notes": [
+            "* CoreWeave: CoreWeave (CRWV  ) said that rising AI component costs could push 2026 capital spending to as much as $35B.",
+            "* Financials   · As Reported   · Metrics   · Press Release CoreWeave (CRWV  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "ED",
+          "mentions": 1,
+          "move": "+6.19%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Consolidated Edison (ED  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "ENB",
+          "mentions": 1,
+          "move": "+26.48%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Enbridge (ENB  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "EXPE",
+          "mentions": 1,
+          "move": "+14.66%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Expedia Group (EXPE  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "FIS",
+          "mentions": 1,
+          "move": "+30.13%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Fidelity National Information Services (FIS  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "FTNT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+          ]
+        },
+        {
+          "symbol": "GILD",
+          "mentions": 1,
+          "move": "+4.39%",
+          "notes": [
+            "View definitions --------------- Recent Earnings --------------- Gilead Sciences (GILD  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "GOOGL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Google launches Fitbit Air: Google (GOOGL  ) unveiled the $99 Fitbit Air, its first Fitbit tracker in 4 years."
+          ]
+        },
+        {
+          "symbol": "GRMN",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The company is also opening up its AI Health Coach to Apple Watch (AAPL  ), Garmin (GRMN  ), and Oura users."
+          ]
+        },
+        {
+          "symbol": "HIMS",
+          "mentions": 1,
+          "move": "+5.36%",
+          "notes": []
+        },
+        {
+          "symbol": "IREN",
+          "mentions": 5,
+          "move": null,
+          "notes": [
+            "* IREN partners with Nvidia: Data center operator IREN (IREN  ) signed AI infrastructure deals with Nvidia (NVDA  ) worth up to $5.5B, and Nvidia gained rights to invest up to $2.1B in IREN shares.",
+            "IREN popped 9% premarket."
+          ]
+        },
+        {
+          "symbol": "LUCK",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Lucky Strike faces lawsuit: Lucky Strike Entertainment (LUCK  ) was sued in a proposed class action alleging its acquisitions of bowling centers illegally boosted prices and reduced service quality."
+          ]
+        },
+        {
+          "symbol": "MAT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Mattel faces sale pressure: Mattel (MAT  ) is facing pressure from shareholder Southeastern Asset Management to explore a sale, sending shares up 1.7% premarket."
+          ]
+        },
+        {
+          "symbol": "MCK",
+          "mentions": 1,
+          "move": "+6.02%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release McKesson (MCK  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "MELI",
+          "mentions": 1,
+          "move": "+49.03%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release MercadoLibre (MELI  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "MFC",
+          "mentions": 1,
+          "move": "+14.49%",
+          "notes": []
+        },
+        {
+          "symbol": "MNST",
+          "mentions": 1,
+          "move": "+26.90%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Monster Beverage (MNST  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "MOBI",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "MOS",
+          "mentions": 1,
+          "move": "+9.62%",
+          "notes": []
+        },
+        {
+          "symbol": "MSI",
+          "mentions": 1,
+          "move": "+7.36%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Motorola Solutions (MSI  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "NET",
+          "mentions": 2,
+          "move": "+33.54%",
+          "notes": [
+            "* Cloudflare cuts workforce: Cloudflare (NET  ) fell 16% premarket after the company announced plans to cut more than 1.1K employees as it shifts to an AI-first operating model, despite beating on revenue and EPS.",
+            "* Financials   · As Reported   · Metrics   · Press Release Cloudflare (NET  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "NU",
+          "mentions": 1,
+          "move": "+57.56%",
+          "notes": []
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* IREN partners with Nvidia: Data center operator IREN (IREN  ) signed AI infrastructure deals with Nvidia (NVDA  ) worth up to $5.5B, and Nvidia gained rights to invest up to $2.1B in IREN shares.",
+            "* Nvidia chips reach Alibaba illegally: U.S.",
+            "authorities suspect that advanced Nvidia (NVDA  ) AI chips were smuggled to China via a Thai company, with some servers allegedly reaching Alibaba (BABA  )."
+          ]
+        },
+        {
+          "symbol": "ODTX",
+          "mentions": 1,
+          "move": "-33.5%",
+          "notes": []
+        },
+        {
+          "symbol": "OTAI",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "PLNT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+          ]
+        },
+        {
+          "symbol": "PTON",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+          ]
+        },
+        {
+          "symbol": "RKT",
+          "mentions": 1,
+          "move": "+117.75%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Rocket Companies (RKT  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "SE",
+          "mentions": 1,
+          "move": "+34.52%",
+          "notes": []
+        },
+        {
+          "symbol": "SHAK",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+          ]
+        },
+        {
+          "symbol": "SONY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Sony: Sony (SONY  ) projected 12.5% net profit growth for the new fiscal year despite a sharp quarterly earnings miss tied to EV losses and weaker PlayStation sales."
+          ]
+        },
+        {
+          "symbol": "SPG",
+          "mentions": 1,
+          "move": "+3.18%",
+          "notes": []
+        },
+        {
+          "symbol": "TEO",
+          "mentions": 1,
+          "move": "+91.81%",
+          "notes": []
+        },
+        {
+          "symbol": "TM",
+          "mentions": 2,
+          "move": "-0.92%",
+          "notes": [
+            "* Toyota: Toyota (TM  ) expects the Iran war to reduce annual profit by about $4.3B by way of higher material, fuel, and logistics costs, overshadowing strong hybrid demand.",
+            "* Financials   · As Reported   · Metrics   · Press Release Toyota Motor (TM  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "TSM",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The company also unveiled a joint venture with TSMC (TSM  ) to develop next-generation image sensors."
+          ]
+        },
+        {
+          "symbol": "WHR",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Whirlpool: Whirlpool (WHR  ) halved its annual earnings guidance, suspended its dividend, and warned of higher appliance prices as weak consumer confidence and rising costs hurt demand for premium products."
+          ]
+        },
+        {
+          "symbol": "XYZ",
+          "mentions": 1,
+          "move": "+4.94%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Block (XYZ  ) has released its quarterly earnings."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Space Economy",
+        "Streaming And Media",
+        "Semiconductors",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": [
+        {
+          "kind": "economic",
+          "date": "2026-05-08",
+          "time": "8:30 AM",
+          "title": "Non Farm Payrolls"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-05-08",
+          "time": "8:30 AM",
+          "title": "Unemployment Rate"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-05-08",
+          "time": "8:30 AM",
+          "title": "Average Hourly Earnings MoM & YoY"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-05-08",
+          "time": "8:30 AM",
+          "title": "Participation Rate"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-05-08",
+          "time": "10:00 AM",
+          "title": "Michigan Consumer Sentiment Prelim."
+        }
+      ]
+    }
+  ],
+  "readingList": [
+    {
+      "title": "results provided some concern",
+      "note": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * HubSpot (NYSE:HUBS ) slumped around 20% in pre-market trading as results provided some…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/XYDIws3_NLwF-rxemSnjBA~~/AAQRxRA~/CLFDX-HGo9a4P0eR5r06IpoKZ7Tg3kPGisu6PCebmMCdnMGx55Z9mSKcxwCCaa8ZJPRNxazLjfbByCA-RSwp6xHWDVXH_pY0hkY0wWJ1PdaOHalAVPrVXgDH46dtExruRVEpksgiWkVt5OtykruQGFZSL3Fg0LiQLR0kJ2IKk_n9FLENh3EV8ccyvk0xojlKAmrO_oOm1aTpwo6sjL-_2Lb6wWNjP_4Pj603DmYOkb7rPwrawCAkxhMc9oZFfekwnO7CXb6iJi3rGpnVxfT7e3nti_pf0bDE_E1XZuO7SVQoxzWV4QLb9hR0JLEftUONHB2BE8BKFIK3K4AKZm7-TbHPRprUOeCcxPAwPINZvuNoKcT-N3r57HVK55QStpMlixHU3vzXT9M1oMuyJ9YimsKFzorlmYrO3x5ah5iAtfy3kZLihY7sinSzjpsRCLBEApbQV_NqQEXnndc5ONAXfuFJNIFEOm-HShU3HoGMrPc~",
+          "title": "results provided some concern",
+          "label": "results provided some concern"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/TaNeSFMCXc0btdcDx8ZcjA~~/AAQRxRA~/6aDhEsOtP20AApwoNDMedmpIc2htT8SGm-lGFbR1OPjfkSe6IBfJCB35CMJE42aGND5LeVGiGtL5xfoOAgQ-US6YwBmeEixKO4He0WevgIio3yyiqv8XOTrDiMABqvHfnlaGdwrwSE7qDjgfxHJi4b8mPeJQV9YmaMc8L4_GSDqIHu4gpxN0eQIYNsxaCvG1SEr0lB4aKn8oy5YEvG73RtYjKA2HKv1djMHHyOGAqz5yJ-4C2huuI7rU4uLzeyTmg00NH0S3yiYCteSR5qW1vaIH0bgkxv7lhumZb_SfDKqwE7WriPMCu5CfDyMgpdHfCC2TAo58VSVEG_N32VojfPzQrN0NMLRlLWj5Kp-joLhPk6AjsE6uH0o_fWjJTsp7UaFQI9nnsL1XyXHz-HkzbuvTb8WzUl6FGIH1-DCa2uV1YUHXu8crLG7tmER8psE5LulXuq_JAJeogEhLR1rBZtG6gYDBhATCjcXhs6vHkSY~",
+          "title": "reporting record quarterly sales",
+          "label": "reporting record quarterly sales"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "HUBS",
+        "MNST",
+        "NFLX",
+        "NTDOY"
+      ],
+      "score": 25
+    },
+    {
+      "title": "quarterly results showing",
+      "note": "Cloudflare Sinks on AI Reform ******************************** Cloudflare (NYSE:NET ) fell over 18% ahead of the opening bell as investors see the company belatedly playing catch-…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/KNajlGzWZS1vb42GRvR4mA~~/AAQRxRA~/WcQ9pRzpLeXFdDemR9owbLayS1LEtnBgqbE83R4AhSVUQUzVN4vL_LPh4xwy1Livg9YmVtyTUyMYDWfZACN9I3Sez7yR8P8KocDpSw5NUetupXMNeKVyz9FEY_ul-aUsOUaAW5voOIxCYXO5PKFMqHQR6j5cy-fhJWEmMN75KBvbRodH6QbnWOzmGgiSD1fOGdSXVb8iODejwdQBcM55Srl12HxNEQTWKVC43BXnU9Sq5c7vqClWdC80AkWlfPMKvxlwb2erQ819VMUeCm6AE6LyId7fvjBAhe0o9EzSUMWh6QpELnNE7rT9mjfg7FCW7ugy6YSuK8_7sR8fvwh6yX-sUAHbZBp5_b7M-jv8v9uA02kFAO_PG_BluqWo2NJbUnAnF-yc33Ghaah-TFYaLAqy78S5rw2SRMiW_e0HnPC1mTvVdDWMA7DlISTaH5OC0lxC0hLoy8HYuKLuGWvWuj4NiPX5nDjiRTxNxaAn234~",
+          "title": "quarterly results showing",
+          "label": "quarterly results showing"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/ZGFGszguEy4bHeiCqBYrmg~~/AAQRxRA~/WcQ9pRzpLeXFdDemR9owbLayS1LEtnBgqbE83R4AhSVUQUzVN4vL_LPh4xwy1LivFJ9giCi0qKika9vWyrDQOMrHQht0tv6Yfr3at4l50Hp6cyaLsn5o-l3ZOq0jGES-c84nJ58BHAM4Ty2EECWPHC-UsiydhZQ30_9ggxy0_UmEU8ozLsaxuir_unrVCyJbaY-Ehc-DhnTkMPocF5jCBXgbiTfg1amMseOEM-l4PZkAJONeB82_f684AO7rVZgXZZfXek_WcvS4nwAIxyVZl-l-AFgfjqSRZYxKQE1Kqksdt8PPpzenn6PqH4uAfYLuz7uSla4jKw0KWG7c23MZ81nAPs28VIm8yetgBL2fBtH85IAettauARWmaH99-P_gHub5XipKyABLtC2v2XNreuYTbwLstxfUvy_UYHmx-dL_YujLCp4hyOfg1hFWhcIWBwrizP_uIwwM0Uel8asCBYVkfO6AAsLXlJ1w1TKAmSc~",
+          "title": "See why NET could beat the market in ‘26",
+          "label": "See why NET could beat the market in ‘26"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "NET"
+      ],
+      "score": 19
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": 0,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "note": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * HubSpot (NYSE:HUBS ) slumped around 20% in pre-market trading as results provided some concern over future revenue growth rates and broader valuation concerns, despite profitability for the quarter improving year over year (YoY) for the recommendation by Team HG. * Monster Beverage (NASDAQ:MNST ) popped over 6% in pre-market trading thanks to the Team RB rec reporting record quarterly sales , helped out by international growth and energy drink demand. * Nintendo (OTC:NTDOY ) disappointed investors as results forecasted a decline in sales for its flagship console, the Switch 2, as memory chip shortages bite at the Team Rule Breakers recommendation. * Rocket Lab (NASDAQ:RKLB ) jumped over 6% ahead of the opening bell as results beat its own financial forecasts , with the Team Hidden Gems rec signing multiple new launch contracts. Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company. Now it built the infrastructure. The picks and shovels. The runway for Artificial Intelligence to run free.</p> <p>Phase Two &ndash; where companies actually use all that infrastructure to build products, platforms, and services &ndash; is just beginning.&nbsp;</p> <p>And historically, that's where the biggest winners of any tech boom emerge. Netflix didn't lay the fiber optic cables. It used them. And returned over 43,000% since 2004.</p> <p>Our analysts have identified five Phase Two AI companies &mdash; most of them a fraction of Nvidia's size &mdash; positioned for what comes next. You can see all five names and why we picked them in a new report, available with an <em>Epic</em> membership.</p> <p><a href=\" the <em>Epic</em> membership to get the report.</a></p> *****************************************",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/XYDIws3_NLwF-rxemSnjBA~~/AAQRxRA~/CLFDX-HGo9a4P0eR5r06IpoKZ7Tg3kPGisu6PCebmMCdnMGx55Z9mSKcxwCCaa8ZJPRNxazLjfbByCA-RSwp6xHWDVXH_pY0hkY0wWJ1PdaOHalAVPrVXgDH46dtExruRVEpksgiWkVt5OtykruQGFZSL3Fg0LiQLR0kJ2IKk_n9FLENh3EV8ccyvk0xojlKAmrO_oOm1aTpwo6sjL-_2Lb6wWNjP_4Pj603DmYOkb7rPwrawCAkxhMc9oZFfekwnO7CXb6iJi3rGpnVxfT7e3nti_pf0bDE_E1XZuO7SVQoxzWV4QLb9hR0JLEftUONHB2BE8BKFIK3K4AKZm7-TbHPRprUOeCcxPAwPINZvuNoKcT-N3r57HVK55QStpMlixHU3vzXT9M1oMuyJ9YimsKFzorlmYrO3x5ah5iAtfy3kZLihY7sinSzjpsRCLBEApbQV_NqQEXnndc5ONAXfuFJNIFEOm-HShU3HoGMrPc~",
+            "title": "results provided some concern",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/TaNeSFMCXc0btdcDx8ZcjA~~/AAQRxRA~/6aDhEsOtP20AApwoNDMedmpIc2htT8SGm-lGFbR1OPjfkSe6IBfJCB35CMJE42aGND5LeVGiGtL5xfoOAgQ-US6YwBmeEixKO4He0WevgIio3yyiqv8XOTrDiMABqvHfnlaGdwrwSE7qDjgfxHJi4b8mPeJQV9YmaMc8L4_GSDqIHu4gpxN0eQIYNsxaCvG1SEr0lB4aKn8oy5YEvG73RtYjKA2HKv1djMHHyOGAqz5yJ-4C2huuI7rU4uLzeyTmg00NH0S3yiYCteSR5qW1vaIH0bgkxv7lhumZb_SfDKqwE7WriPMCu5CfDyMgpdHfCC2TAo58VSVEG_N32VojfPzQrN0NMLRlLWj5Kp-joLhPk6AjsE6uH0o_fWjJTsp7UaFQI9nnsL1XyXHz-HkzbuvTb8WzUl6FGIH1-DCa2uV1YUHXu8crLG7tmER8psE5LulXuq_JAJeogEhLR1rBZtG6gYDBhATCjcXhs6vHkSY~",
+            "title": "reporting record quarterly sales",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/prE5VP2xKFElyxs69pTZ7g~~/AAQRxRA~/tGxdrGHymLLDwfnWvzcw3J7cP5LRQH-8TEC_xPHPBwua4_dUsvSvESZ0DQGn2gsQSxkQFhwy4a2ty6NW1ukyOwEBCQTgTp0k_0LuzauSyt79akvbr22f6GMVNAet9wRV9GP8MshwQ8-sfzCgsn-dfvZtX7S9h1qUxrEkp-fkoMWsB8TZhIK52QJxDf8wrk4xPVpgIaMAnUKTQjfKijcSCrmWpuwLtZdb8SPrwBO6s0lMjRX4DUEd6XKJoQ3veGqPCbDs8P6VCZrRtDmZ2IkgHL_tGSWZE6xeetkkti64g_o4CdFONwRV1mDrNZrhFctw6E3PrqrNqlKWB-dYc4gOpBTbdDx-Bw22LMJ_YxOCiTTBj98Oxma3M4o-zb-PrT9eKh6-q45usrwPkPFJF6-Vgv8XwZF3E4-lHkLmm25TP2HSbpWARczukh1EYd8l_XhL",
+            "title": "OTC:NTDOY",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/UjVIt03ogWVW_IWWeSQBJQ~~/AAQRxRA~/08BxE10ZoZY_Uruotacxuh3YnBjzsNzSURe1Zvg7lOgkWBVCPBS5HZ_m7Oy9rGSrFdL3mCoxixcysWGhCDpMmrxhzNemTCTSdNwdyVsL8v2vyfarRGYHNGXWTwrsPmbu7YS8vN8Gz2M89Z-RncYGNDOoXhZ98hS-t7KtvfdvUxIM45Wyc0CHhA63Mo0L1ijJsp5Mq0euR2w3QWbkPSGLZSfNYnZ7F4h7NUbE23WfxzA-H5ghMvVEG0UA8AIEs_pExTSAwTPjQD3NXqJqoKZStDKErrCLQQOyBjA252od5MbNOR1BiIJNJ4mE3eX674O03B6qrCJyyHmuC3E1-XrcacQPTa2Y5xUvLfwSwnXTPM61Fw_NPGJQXeVO8dw6_U8QXJbdMwiQlBBX73DJJ2hzD8BinQsrv63Xe3sSULyiFAxpQCj1ewyPXt3gxEB3qH55igwaqLbf3S6wyOAhTEhLqASVWSDgPhenP5K8NMpWcTU~",
+            "title": "results beat its own financial forecasts",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/s0m_p-Q3CwWEsEZ83ouYKw~~/AAQRxRA~/Kx_3qyZyOtytUIZ3wWHW0m8xTz6qhcwtjPFXuY27PXyuEksCjctKpgvr7-07bq1cVexwX_-CO3Znl8-aDSHvm35wpvStw41qc8ESAGYKA3is-ZL9rUs9LH8KPTX--p8E35BocWzkvGeidBzH7JMv2aETnPzdkTKB-K__jYKCcZjvOFTaxKxICFu7j0ByVmd8yvwjRZbSUy1ZHrpEMq8FEE9exr8IhoLp59xCeQMo6RMDKAKobagBWHWsDHbq16wdhgtYhPMMYKJBsCwuWMg5-Q9d2U0zYLU0LOpVAFnqOsYo85NLjEJ1skTToLTkDKSUuUXSwlv-hV2y0p80B85nLL4iDNob-I3kBXj9ecLRFtMcMGwvCDuv3y7kebC75DydWIl7ruwTm6nmaWJe4Xal8-BFHU8sIqRbiE1kIdVy_RNt_1S8av47QJxXEAkWB3uBJMWHdLEecOSgHQxiyhN01WDm0kX0gKpMgf5y4zSepnI~",
+            "title": "Examine Lou’s full RKLB breakdown",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "note": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * HubSpot (NYSE:HUBS ) slumped around 20% in pre-market trading as results provided some concern over future revenue growth rates and broader valuation concerns, despite profitability for the quarter improving year over year (YoY) for the recommendation by Team HG. * Monster Beverage (NASDAQ:MNST ) popped over 6% in pre-market trading thanks to the Team RB rec reporting record quarterly sales , helped out by international growth and energy drink demand. * Nintendo (OTC:NTDOY ) disappointed investors as results forecasted a decline in sales for its flagship console, the Switch 2, as memory chip shortages bite at the Team Rule Breakers recommendation. * Rocket Lab (NASDAQ:RKLB ) jumped over 6% ahead of the opening bell as results beat its own financial forecasts , with the Team Hidden Gems rec signing multiple new launch contracts. Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company. Now it built the infrastructure. The picks and shovels. The runway for Artificial Intelligence to run free.</p> <p>Phase Two &ndash; where companies actually use all that infrastructure to build products, platforms, and services &ndash; is just beginning.&nbsp;</p> <p>And historically, that's where the biggest winners of any tech boom emerge. Netflix didn't lay the fiber optic cables. It used them. And returned over 43,000% since 2004.</p> <p>Our analysts have identified five Phase Two AI companies &mdash; most of them a fraction of Nvidia's size &mdash; positioned for what comes next. You can see all five names and why we picked them in a new report, available with an <em>Epic</em> membership.</p> <p><a href=\" the <em>Epic</em> membership to get the report.</a></p> *****************************************",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/XYDIws3_NLwF-rxemSnjBA~~/AAQRxRA~/CLFDX-HGo9a4P0eR5r06IpoKZ7Tg3kPGisu6PCebmMCdnMGx55Z9mSKcxwCCaa8ZJPRNxazLjfbByCA-RSwp6xHWDVXH_pY0hkY0wWJ1PdaOHalAVPrVXgDH46dtExruRVEpksgiWkVt5OtykruQGFZSL3Fg0LiQLR0kJ2IKk_n9FLENh3EV8ccyvk0xojlKAmrO_oOm1aTpwo6sjL-_2Lb6wWNjP_4Pj603DmYOkb7rPwrawCAkxhMc9oZFfekwnO7CXb6iJi3rGpnVxfT7e3nti_pf0bDE_E1XZuO7SVQoxzWV4QLb9hR0JLEftUONHB2BE8BKFIK3K4AKZm7-TbHPRprUOeCcxPAwPINZvuNoKcT-N3r57HVK55QStpMlixHU3vzXT9M1oMuyJ9YimsKFzorlmYrO3x5ah5iAtfy3kZLihY7sinSzjpsRCLBEApbQV_NqQEXnndc5ONAXfuFJNIFEOm-HShU3HoGMrPc~",
+            "title": "results provided some concern",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/TaNeSFMCXc0btdcDx8ZcjA~~/AAQRxRA~/6aDhEsOtP20AApwoNDMedmpIc2htT8SGm-lGFbR1OPjfkSe6IBfJCB35CMJE42aGND5LeVGiGtL5xfoOAgQ-US6YwBmeEixKO4He0WevgIio3yyiqv8XOTrDiMABqvHfnlaGdwrwSE7qDjgfxHJi4b8mPeJQV9YmaMc8L4_GSDqIHu4gpxN0eQIYNsxaCvG1SEr0lB4aKn8oy5YEvG73RtYjKA2HKv1djMHHyOGAqz5yJ-4C2huuI7rU4uLzeyTmg00NH0S3yiYCteSR5qW1vaIH0bgkxv7lhumZb_SfDKqwE7WriPMCu5CfDyMgpdHfCC2TAo58VSVEG_N32VojfPzQrN0NMLRlLWj5Kp-joLhPk6AjsE6uH0o_fWjJTsp7UaFQI9nnsL1XyXHz-HkzbuvTb8WzUl6FGIH1-DCa2uV1YUHXu8crLG7tmER8psE5LulXuq_JAJeogEhLR1rBZtG6gYDBhATCjcXhs6vHkSY~",
+            "title": "reporting record quarterly sales",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/prE5VP2xKFElyxs69pTZ7g~~/AAQRxRA~/tGxdrGHymLLDwfnWvzcw3J7cP5LRQH-8TEC_xPHPBwua4_dUsvSvESZ0DQGn2gsQSxkQFhwy4a2ty6NW1ukyOwEBCQTgTp0k_0LuzauSyt79akvbr22f6GMVNAet9wRV9GP8MshwQ8-sfzCgsn-dfvZtX7S9h1qUxrEkp-fkoMWsB8TZhIK52QJxDf8wrk4xPVpgIaMAnUKTQjfKijcSCrmWpuwLtZdb8SPrwBO6s0lMjRX4DUEd6XKJoQ3veGqPCbDs8P6VCZrRtDmZ2IkgHL_tGSWZE6xeetkkti64g_o4CdFONwRV1mDrNZrhFctw6E3PrqrNqlKWB-dYc4gOpBTbdDx-Bw22LMJ_YxOCiTTBj98Oxma3M4o-zb-PrT9eKh6-q45usrwPkPFJF6-Vgv8XwZF3E4-lHkLmm25TP2HSbpWARczukh1EYd8l_XhL",
+            "title": "OTC:NTDOY",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/UjVIt03ogWVW_IWWeSQBJQ~~/AAQRxRA~/08BxE10ZoZY_Uruotacxuh3YnBjzsNzSURe1Zvg7lOgkWBVCPBS5HZ_m7Oy9rGSrFdL3mCoxixcysWGhCDpMmrxhzNemTCTSdNwdyVsL8v2vyfarRGYHNGXWTwrsPmbu7YS8vN8Gz2M89Z-RncYGNDOoXhZ98hS-t7KtvfdvUxIM45Wyc0CHhA63Mo0L1ijJsp5Mq0euR2w3QWbkPSGLZSfNYnZ7F4h7NUbE23WfxzA-H5ghMvVEG0UA8AIEs_pExTSAwTPjQD3NXqJqoKZStDKErrCLQQOyBjA252od5MbNOR1BiIJNJ4mE3eX674O03B6qrCJyyHmuC3E1-XrcacQPTa2Y5xUvLfwSwnXTPM61Fw_NPGJQXeVO8dw6_U8QXJbdMwiQlBBX73DJJ2hzD8BinQsrv63Xe3sSULyiFAxpQCj1ewyPXt3gxEB3qH55igwaqLbf3S6wyOAhTEhLqASVWSDgPhenP5K8NMpWcTU~",
+            "title": "results beat its own financial forecasts",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/s0m_p-Q3CwWEsEZ83ouYKw~~/AAQRxRA~/Kx_3qyZyOtytUIZ3wWHW0m8xTz6qhcwtjPFXuY27PXyuEksCjctKpgvr7-07bq1cVexwX_-CO3Znl8-aDSHvm35wpvStw41qc8ESAGYKA3is-ZL9rUs9LH8KPTX--p8E35BocWzkvGeidBzH7JMv2aETnPzdkTKB-K__jYKCcZjvOFTaxKxICFu7j0ByVmd8yvwjRZbSUy1ZHrpEMq8FEE9exr8IhoLp59xCeQMo6RMDKAKobagBWHWsDHbq16wdhgtYhPMMYKJBsCwuWMg5-Q9d2U0zYLU0LOpVAFnqOsYo85NLjEJ1skTToLTkDKSUuUXSwlv-hV2y0p80B85nLL4iDNob-I3kBXj9ecLRFtMcMGwvCDuv3y7kebC75DydWIl7ruwTm6nmaWJe4Xal8-BFHU8sIqRbiE1kIdVy_RNt_1S8av47QJxXEAkWB3uBJMWHdLEecOSgHQxiyhN01WDm0kX0gKpMgf5y4zSepnI~",
+            "title": "Examine Lou’s full RKLB breakdown",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs",
+        "note": "​ 🌀 Whirlpool plunges 12% on forecast | Friday - May 08, 2026 | View Online Presented by Vantage Point --------------- Market Overview --------------- S&P 500 -0.38% Pre: +0.54% Nasdaq -0.13% Pre: +0.86% Dow -0.63% Pre: +0.41% ------------------- Stock & Market News -------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/05/06/stock-market-today-live-updates.html",
+            "title": "Stock Market Today Live Updates",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/08/5-things-to-know-before-the-market-opens.html",
+            "title": "5 Things To Know Before The Market Opens",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html",
+            "title": "Cloudflare Net Q1 2026 Stock Earnings Layoffs",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html",
+            "title": "Iren Stock Ai Infrastructure Nvidia",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
+            "title": "Jobs Report April 2026",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/07/used-car-prices-gas.html",
+            "title": "Used Car Prices Gas",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "BAM",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "* Brookfield Asset Management (NYSE:BAM ) rose 1.5% ahead of the opening bell as results showed an 11% YoY jump in fee-related earnings, building on the record last quarter . Watch why Fools think BAM has upside *************************************************",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ENB",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "* Enbridge (NYSE:ENB ) reports before the market opens, aiming to build on the record results posted last quarter .",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MNST",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Monster Beverage (NASDAQ:MNST ) popped over 6% in pre-market trading thanks to the Team RB rec reporting record quarterly sales , helped out by international growth and energy drink demand.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "NET",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "* Cloudflare (NYSE:NET ) fell over 18% ahead of the opening bell as investors see the company belatedly playing catch-up on AI, with management noting it’s “the biggest tailwind we’ve ever seen,” along with quarterly results showing a 4.67% fall in gross profit margins from the prior-year period. See why NET could beat the market in ‘26 ----------------------------------------------",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company. And returned over 43,000% since 2004.</p> <p>Our analysts have identified five Phase Two AI companies &mdash; most of them a fraction of Nvidia's size &mdash; positioned for what comes next.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "AMZN",
+      "score": 95,
+      "stance": "Buy Candidate",
+      "evidence": "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CRWV",
+      "score": 95,
+      "stance": "Buy Candidate",
+      "evidence": "* CoreWeave: CoreWeave (CRWV  ) said that rising AI component costs could push 2026 capital spending to as much as $35B.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "RKLB",
+      "score": 95,
+      "stance": "Buy Candidate",
+      "evidence": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Rocket Lab (NASDAQ:RKLB ) jumped over 6% ahead of the opening bell as results beat its own financial forecasts , with the Team Hidden Gems rec signing multiple new launch contracts. Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "IREN",
+      "score": 83,
+      "stance": "Buy Candidate",
+      "evidence": "* IREN partners with Nvidia: Data center operator IREN (IREN  ) signed AI infrastructure deals with Nvidia (NVDA  ) worth up to $5.5B, and Nvidia gained rights to invest up to $2.1B in IREN shares.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ABNB",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Airbnb (ABNB  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ED",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Consolidated Edison (ED  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "EXPE",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Expedia Group (EXPE  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "FIS",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Fidelity National Information Services (FIS  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "HIMS",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "HUBS",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * HubSpot (NYSE:HUBS ) slumped around 20% in pre-market trading as results provided some concern over future revenue growth rates and broader valuation concerns, despite profitability for the quarter improving year over year (YoY) for the recommendation by Team HG.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MCK",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release McKesson (MCK  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MELI",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release MercadoLibre (MELI  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MFC",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MOS",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MSI",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Motorola Solutions (MSI  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "NTDOY",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Nintendo (OTC:NTDOY ) disappointed investors as results forecasted a decline in sales for its flagship console, the Switch 2, as memory chip shortages bite at the Team Rule Breakers recommendation.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NU",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "RKT",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Rocket Companies (RKT  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SE",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TEO",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GILD",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "View definitions --------------- Recent Earnings --------------- Gilead Sciences (GILD  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SPG",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "XYZ",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Block (XYZ  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "BABA",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "authorities suspect that advanced Nvidia (NVDA  ) AI chips were smuggled to China via a Thai company, with some servers allegedly reaching Alibaba (BABA  ).",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GOOGL",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Google launches Fitbit Air: Google (GOOGL  ) unveiled the $99 Fitbit Air, its first Fitbit tracker in 4 years.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GRMN",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "The company is also opening up its AI Health Coach to Apple Watch (AAPL  ), Garmin (GRMN  ), and Oura users.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SONY",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Sony: Sony (SONY  ) projected 12.5% net profit growth for the new fiscal year despite a sharp quarterly earnings miss tied to EV losses and weaker PlayStation sales.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "WHR",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Whirlpool: Whirlpool (WHR  ) halved its annual earnings guidance, suspended its dividend, and warned of higher appliance prices as weak consumer confidence and rising costs hurt demand for premium products.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "TM",
+      "score": 69,
+      "stance": "Research Watch",
+      "evidence": "* Toyota: Toyota (TM  ) expects the Iran war to reduce annual profit by about $4.3B by way of higher material, fuel, and logistics costs, overshadowing strong hybrid demand.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "KRYS",
+      "score": 67,
+      "stance": "Research Watch",
+      "evidence": "* TODAY’S QUESTION Yesterday saw the latest Stock Advisor recommendation , Krystal Biotech (NASDAQ: KRYS ), released!",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "FTNT",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MAT",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Mattel faces sale pressure: Mattel (MAT  ) is facing pressure from shareholder Southeastern Asset Management to explore a sale, sending shares up 1.7% premarket.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MOBI",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "OTAI",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PLNT",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PTON",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SHAK",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TSM",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "The company also unveiled a joint venture with TSMC (TSM  ) to develop next-generation image sensors.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AAPL",
+      "score": 61,
+      "stance": "Research Watch",
+      "evidence": "* Apple's legal setback: The Supreme Court declined to pause a ruling holding Apple (AAPL  ) in contempt in its Epic Games antitrust case, forcing the company back to district court over App Store commission rules and third-party payment policies.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    },
+    {
+      "symbol": "GOOG",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "META",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MSFT",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AMTM",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NFLX",
+      "score": 53,
+      "stance": "Research Watch",
+      "evidence": "Netflix didn't lay the fiber optic cables.",
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "COIN",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* Coinbase restores services: Coinbase (COIN  ) resumed trading operations after a nearly 7-hour outage caused by overheating at an Amazon (AMZN  ) data center.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ODTX",
+      "score": 45,
+      "stance": "Research Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LUCK",
+      "score": 39,
+      "stance": "Risk Watch",
+      "evidence": "* Lucky Strike faces lawsuit: Lucky Strike Entertainment (LUCK  ) was sued in a proposed class action alleging its acquisitions of bowling centers illegally boosted prices and reduced service quality.",
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "IREN",
+      "mentions": 5,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* IREN partners with Nvidia: Data center operator IREN (IREN  ) signed AI infrastructure deals with Nvidia (NVDA  ) worth up to $5.5B, and Nvidia gained rights to invest up to $2.1B in IREN shares.",
+        "IREN popped 9% premarket."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NET",
+      "mentions": 5,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Cloudflare (NYSE:NET ) fell over 18% ahead of the opening bell as investors see the company belatedly playing catch-up on AI, with management noting it’s “the biggest tailwind we’ve ever seen,” along with quarterly results showing a 4.67% fall in gross profit margins from the prior-year period. See why NET could beat the market in ‘26 ----------------------------------------------",
+        "* Cloudflare cuts workforce: Cloudflare (NET  ) fell 16% premarket after the company announced plans to cut more than 1.1K employees as it shifts to an AI-first operating model, despite beating on revenue and EPS.",
+        "* Financials   · As Reported   · Metrics   · Press Release Cloudflare (NET  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+33.54%"
+    },
+    {
+      "symbol": "BAM",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Brookfield Asset Management (NYSE:BAM ) rose 1.5% ahead of the opening bell as results showed an 11% YoY jump in fee-related earnings, building on the record last quarter . Watch why Fools think BAM has upside *************************************************",
+        "* Financials   · As Reported   · Metrics   · Press Release Brookfield Asset Management (BAM  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+23.77%"
+    },
+    {
+      "symbol": "MNST",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Monster Beverage (NASDAQ:MNST ) popped over 6% in pre-market trading thanks to the Team RB rec reporting record quarterly sales , helped out by international growth and energy drink demand.",
+        "* Financials   · As Reported   · Metrics   · Press Release Monster Beverage (MNST  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+26.90%"
+    },
+    {
+      "symbol": "RKLB",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Rocket Lab (NASDAQ:RKLB ) jumped over 6% ahead of the opening bell as results beat its own financial forecasts , with the Team Hidden Gems rec signing multiple new launch contracts. Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AAPL",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Apple's legal setback: The Supreme Court declined to pause a ruling holding Apple (AAPL  ) in contempt in its Epic Games antitrust case, forcing the company back to district court over App Store commission rules and third-party payment policies.",
+        "The company is also opening up its AI Health Coach to Apple Watch (AAPL  ), Garmin (GRMN  ), and Oura users."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AMZN",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic.",
+        "* Coinbase restores services: Coinbase (COIN  ) resumed trading operations after a nearly 7-hour outage caused by overheating at an Amazon (AMZN  ) data center."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "COIN",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Coinbase restores services: Coinbase (COIN  ) resumed trading operations after a nearly 7-hour outage caused by overheating at an Amazon (AMZN  ) data center.",
+        "* Financials   · As Reported   · Metrics   · Press Release Coinbase (COIN  ) has released its quarterly earnings."
+      ],
+      "latestMove": "-30.53%"
+    },
+    {
+      "symbol": "CRWV",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* CoreWeave: CoreWeave (CRWV  ) said that rising AI component costs could push 2026 capital spending to as much as $35B.",
+        "* Financials   · As Reported   · Metrics   · Press Release CoreWeave (CRWV  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+111.69%"
+    },
+    {
+      "symbol": "ENB",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Enbridge (NYSE:ENB ) reports before the market opens, aiming to build on the record results posted last quarter .",
+        "* Financials   · As Reported   · Metrics   · Press Release Enbridge (ENB  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+26.48%"
+    },
+    {
+      "symbol": "HUBS",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * HubSpot (NYSE:HUBS ) slumped around 20% in pre-market trading as results provided some concern over future revenue growth rates and broader valuation concerns, despite profitability for the quarter improving year over year (YoY) for the recommendation by Team HG."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NTDOY",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "SA Results From HUBS, MNST, RKLB, and NTDOY ---------------------------------------------- * Nintendo (OTC:NTDOY ) disappointed investors as results forecasted a decline in sales for its flagship console, the Switch 2, as memory chip shortages bite at the Team Rule Breakers recommendation."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "Fool contributing analyst Lou Whiteman said “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” Examine Lou’s full RKLB breakdown A message from The Motley Fool <p><strong>Let's be honest, if you&rsquo;re an investor who didn't buy Nvidia five years ago, you probably missed out on the 4,704% run.</strong></p> <p>But here's the good news: Nvidia was just a Phase One company. And returned over 43,000% since 2004.</p> <p>Our analysts have identified five Phase Two AI companies &mdash; most of them a fraction of Nvidia's size &mdash; positioned for what comes next.",
+        "* IREN partners with Nvidia: Data center operator IREN (IREN  ) signed AI infrastructure deals with Nvidia (NVDA  ) worth up to $5.5B, and Nvidia gained rights to invest up to $2.1B in IREN shares.",
+        "* Nvidia chips reach Alibaba illegally: U.S.",
+        "authorities suspect that advanced Nvidia (NVDA  ) AI chips were smuggled to China via a Thai company, with some servers allegedly reaching Alibaba (BABA  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "TM",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Toyota: Toyota (TM  ) expects the Iran war to reduce annual profit by about $4.3B by way of higher material, fuel, and logistics costs, overshadowing strong hybrid demand.",
+        "* Financials   · As Reported   · Metrics   · Press Release Toyota Motor (TM  ) has released its quarterly earnings."
+      ],
+      "latestMove": "-0.92%"
+    },
+    {
+      "symbol": "ABNB",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Airbnb (ABNB  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+17.87%"
+    },
+    {
+      "symbol": "AMTM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "-0.73%"
+    },
+    {
+      "symbol": "BABA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "authorities suspect that advanced Nvidia (NVDA  ) AI chips were smuggled to China via a Thai company, with some servers allegedly reaching Alibaba (BABA  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ED",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Consolidated Edison (ED  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+6.19%"
+    },
+    {
+      "symbol": "EXPE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Expedia Group (EXPE  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+14.66%"
+    },
+    {
+      "symbol": "FIS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Fidelity National Information Services (FIS  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+30.13%"
+    },
+    {
+      "symbol": "FTNT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GILD",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "View definitions --------------- Recent Earnings --------------- Gilead Sciences (GILD  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.39%"
+    },
+    {
+      "symbol": "GOOG",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GOOGL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Google launches Fitbit Air: Google (GOOGL  ) unveiled the $99 Fitbit Air, its first Fitbit tracker in 4 years."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GRMN",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "The company is also opening up its AI Health Coach to Apple Watch (AAPL  ), Garmin (GRMN  ), and Oura users."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HIMS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+5.36%"
+    },
+    {
+      "symbol": "KRYS",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* TODAY’S QUESTION Yesterday saw the latest Stock Advisor recommendation , Krystal Biotech (NASDAQ: KRYS ), released!"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LUCK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Lucky Strike faces lawsuit: Lucky Strike Entertainment (LUCK  ) was sued in a proposed class action alleging its acquisitions of bowling centers illegally boosted prices and reduced service quality."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MAT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Mattel faces sale pressure: Mattel (MAT  ) is facing pressure from shareholder Southeastern Asset Management to explore a sale, sending shares up 1.7% premarket."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MCK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release McKesson (MCK  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+6.02%"
+    },
+    {
+      "symbol": "MELI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release MercadoLibre (MELI  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+49.03%"
+    },
+    {
+      "symbol": "META",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MFC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+14.49%"
+    },
+    {
+      "symbol": "MOBI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "MOS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+9.62%"
+    },
+    {
+      "symbol": "MSFT",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Full-year free cash flow set to hit lowest level since 2014: The combined free cash flow of Amazon (NASDAQ:AMZN ), Alphabet (NASDAQ:GOOG ), Microsoft (NASDAQ:MSFT ), and Meta (NASDAQ:META ) is due to fall to around $4 billion in Q3, a stark drop from the $45 billion average for each quarter since the pandemic."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MSI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Motorola Solutions (MSI  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+7.36%"
+    },
+    {
+      "symbol": "NU",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+57.56%"
+    },
+    {
+      "symbol": "ODTX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "-33.5%"
+    },
+    {
+      "symbol": "OTAI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "PLNT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PTON",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "RKT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Rocket Companies (RKT  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+117.75%"
+    },
+    {
+      "symbol": "SE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+34.52%"
+    },
+    {
+      "symbol": "SHAK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Planet Fitness (PLNT  ) and Shake Shack (SHAK  ) plummeted around 30% each — though Fortinet (FTNT  ) surged 20% and Peloton (PTON  ) gained 9%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SONY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Sony: Sony (SONY  ) projected 12.5% net profit growth for the new fiscal year despite a sharp quarterly earnings miss tied to EV losses and weaker PlayStation sales."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+3.18%"
+    },
+    {
+      "symbol": "TEO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+91.81%"
+    },
+    {
+      "symbol": "TSM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "The company also unveiled a joint venture with TSMC (TSM  ) to develop next-generation image sensors."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "WHR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Whirlpool: Whirlpool (WHR  ) halved its annual earnings guidance, suspended its dividend, and warned of higher appliance prices as weak consumer confidence and rising costs hurt demand for premium products."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "XYZ",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Block (XYZ  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.94%"
+    },
+    {
+      "symbol": "NFLX",
+      "mentions": 0,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Netflix didn't lay the fiber optic cables."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock",
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ]
+    },
+    {
+      "name": "Regulatory Risk",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "kind": "earnings",
+      "date": "2026-05-08",
+      "time": "Before Open",
+      "title": "Enbridge (ENB)",
+      "symbol": "ENB",
+      "note": "reports before the market opens, aiming to build on the record",
+      "source": "Breakfast News: Cloudflare’s AI Pivot  Spooks Stock"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-05-08",
+      "time": "8:30 AM",
+      "title": "Non Farm Payrolls",
+      "source": "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-05-08",
+      "time": "8:30 AM",
+      "title": "Unemployment Rate",
+      "source": "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-05-08",
+      "time": "8:30 AM",
+      "title": "Average Hourly Earnings MoM & YoY",
+      "source": "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-05-08",
+      "time": "8:30 AM",
+      "title": "Participation Rate",
+      "source": "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-05-08",
+      "time": "10:00 AM",
+      "title": "Michigan Consumer Sentiment Prelim.",
+      "source": "Market Bullets: U.S. adds 115K jobs in strong showing, IREN surges on Nvidia pact, Cloudflare tumbles 16% on layoffs"
+    }
+  ]
+}

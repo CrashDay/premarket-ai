@@ -1,0 +1,196 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://premarket-ai.local/schemas/swing-watchlist.schema.json",
+  "title": "Swing Watchlist",
+  "type": "object",
+  "required": [
+    "generatedAt",
+    "candidates"
+  ],
+  "properties": {
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "reviewDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "candidates": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/swingCandidate"
+      }
+    }
+  },
+  "$defs": {
+    "priceLevel": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "reviewEntry": {
+      "type": "object",
+      "required": [
+        "reviewedAt",
+        "status",
+        "summary"
+      ],
+      "properties": {
+        "reviewedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "active_watch",
+            "actionable",
+            "in_trade",
+            "expired",
+            "invalidated",
+            "passed",
+            "closed"
+          ]
+        },
+        "summary": {
+          "type": "string"
+        },
+        "price": {
+          "$ref": "#/$defs/priceLevel"
+        },
+        "relativeStrength": {
+          "type": "string"
+        },
+        "volumeNote": {
+          "type": "string"
+        },
+        "eventRisk": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "swingCandidate": {
+      "type": "object",
+      "required": [
+        "symbol",
+        "firstIdentifiedAt",
+        "status",
+        "thesis",
+        "catalystOrigin",
+        "setupType",
+        "entryTrigger",
+        "invalidation",
+        "firstTarget",
+        "expiryRule",
+        "reviewHistory"
+      ],
+      "properties": {
+        "symbol": {
+          "type": "string",
+          "pattern": "^[A-Z0-9.\\-]{1,10}$"
+        },
+        "firstIdentifiedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "lastReviewedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "active_watch",
+            "actionable",
+            "in_trade",
+            "expired",
+            "invalidated",
+            "passed",
+            "closed"
+          ]
+        },
+        "thesis": {
+          "type": "string"
+        },
+        "catalystOrigin": {
+          "type": "string"
+        },
+        "setupType": {
+          "type": "string"
+        },
+        "entryTrigger": {
+          "type": "string"
+        },
+        "triggerPrice": {
+          "$ref": "#/$defs/priceLevel"
+        },
+        "invalidation": {
+          "type": "string"
+        },
+        "invalidationPrice": {
+          "$ref": "#/$defs/priceLevel"
+        },
+        "firstTarget": {
+          "type": "string"
+        },
+        "firstTargetPrice": {
+          "$ref": "#/$defs/priceLevel"
+        },
+        "holdWindowDays": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "expiryRule": {
+          "type": "string"
+        },
+        "carryReason": {
+          "type": "string"
+        },
+        "promotionSource": {
+          "type": "string",
+          "enum": [
+            "manual",
+            "daily_candidate",
+            "existing_swing_watch"
+          ]
+        },
+        "sourceDate": {
+          "type": "string",
+          "format": "date"
+        },
+        "sourceFiles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "eventRisk": {
+          "type": "string"
+        },
+        "relativeStrength": {
+          "type": "string"
+        },
+        "volumeCondition": {
+          "type": "string"
+        },
+        "sizeGuidance": {
+          "type": "string"
+        },
+        "reviewHistory": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/reviewEntry"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

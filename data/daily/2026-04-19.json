@@ -1,0 +1,1208 @@
+{
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T16:15:07.572Z",
+  "sourceCount": 3,
+  "sources": [
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "file": "2026-04-19-market-brief-19d9b915bc246a49-19d9b915bc246a49.eml",
+      "from": "Jim Cramer <cnbc@response.cnbc.com>",
+      "date": "Fri, 17 Apr 2026 09:11:18 -0400 (EDT)",
+      "profile": "CNBC Jim's Top 10",
+      "role": "pre-market buy ideas",
+      "weight": 16,
+      "wordCount": 1073,
+      "summaryHints": [
+        "96 Start your investing day with Jim's Morning thoughts.",
+        "VIEW IN BROWSER   |   LATEST CRAMER NEWS My top 10 things to watch Friday, April 17 1.",
+        "The  S&P 500  is headed for a higher open this morning after Iran  declared  the Strait of Hormuz open to commercial traffic during the Israel-Lebanon 10-day ceasefire.",
+        "President  Donald Trump  said the U.S.-Iran war \"should be ending pretty soon.\" The S&P 500, which is on track for another winning week, closed at another record high in Thursday trading.",
+        "iPhone shipments in China  jumped 20%  during the first quarter, according to CounterPoint Research data."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "The S&P 500 is headed for a higher open this morning after Iran declared the Strait of Hormuz open to commercial traffic during the Israel-Lebanon 10-day ceasefire. Oil prices sank 10%. President Donald Trump said the U.S.-Iran war \"should be ending pretty soon.\" The S&P 500, which is on track for another winning week, closed at another record high in Thursday trading.",
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 2",
+          "text": "iPhone shipments in China jumped 20% during the first quarter, according to CounterPoint Research data. That was despite an overall decline in the smartphone market due to soaring memory costs. Great news for Apple's biggest money maker. I continue to say, \"own, don't trade\" this one.",
+          "tickers": [
+            "AAPL"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 3",
+          "text": "Price target came fast and furious cuts on Netflix. Barclays lowered to $110 from $115 after the company delivered disappointing guidance. Wolfe Research took Netflix down to $107 from $110. Rosenblatt cut to $95 from $96. Shares are down more than 9%.",
+          "tickers": [
+            "NFLX"
+          ],
+          "themes": [
+            "Streaming And Media"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list. Analysts kept their buy ratings on both. I still like Goldman. It is Wells Fargo that I tire of, especially after this week's lackluster earnings . We downgraded our Club rating on Wells Fargo to a hold-equivalent 2 . We own both Goldman and Wells.",
+          "tickers": [
+            "BAC",
+            "GS",
+            "JPM",
+            "WFC"
+          ],
+          "themes": [
+            "Financials",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Danaher was taken from a price target of $220 to $205 at Rothschild & Co Redburn. Analysts said the company's exposure to its legacy stainless-steel Pall business will dampen growth. We exited Danaher in February. This is not the same old business that I have loved over the many years I have followed this one.",
+          "tickers": [
+            "DHR"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 6",
+          "text": "JPMorgan trimmed its Procter & Gamble price target to $162 from $165. Analysts tweaked their estimates ahead of next week's earnings. They kept P&G a buy. But no enthusiasm there. We own P&G as a hedge against economic uncertainty. With a new CEO, I wished we owned more for the Club.",
+          "tickers": [
+            "JPM",
+            "PG"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 7",
+          "text": "Estee Lauder got a price target cut to $98 from $121 at JPMorgan, which also removed the stock from its analyst focus list but kept a buy rating. The troubled luxury brand reports earnings on May",
+          "tickers": [
+            "EL",
+            "JPM"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 1",
+          "text": "Maybe this company needs to sell itself? It's a broken stock.",
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 8",
+          "text": "Affirm was elevated to a top pick at Morgan Stanley. Analysts cited \"overdone\" private credit concerns putting a drag on financials. They said next month's investor day meeting could be a catalyst for this buy-now-pay-later name whose stock can be volatile.",
+          "tickers": [
+            "AFRM"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 9",
+          "text": "Unheralded Prologis call. That's because of new CEO Dan Letter, who understated some of the good things happening at the industrial real estate company. Didn't tell the story of an uptick in rents or the data center build-out. Letter took over in January.",
+          "tickers": [
+            "PLD"
+          ],
+          "themes": [
+            "Industrial Automation"
+          ]
+        },
+        {
+          "title": "Item 10",
+          "text": "Lots of price target cuts for Abbott Laboratories: Benchmark to $120 from $145, Stifel to $120 from $145, and Bank of America to $120 from $150. The prevailing view is that yesterday's earnings and conference call didn't wow the Street. However, analysts at all three firms did keep the stock a buy.",
+          "tickers": [
+            "ABT",
+            "BAC"
+          ],
+          "themes": [
+            "Financials",
+            "Earnings"
+          ]
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "iPhone shipments in China jumped 20% during the first quarter, according to CounterPoint Research data. Great news for Apple's biggest money maker."
+          ]
+        },
+        {
+          "symbol": "ABT",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Lots of price target cuts for Abbott Laboratories: Benchmark to $120 from $145, Stifel to $120 from $145, and Bank of America to $120 from $150."
+          ]
+        },
+        {
+          "symbol": "AFRM",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Affirm was elevated to a top pick at Morgan Stanley."
+          ]
+        },
+        {
+          "symbol": "BAC",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+            "Lots of price target cuts for Abbott Laboratories: Benchmark to $120 from $145, Stifel to $120 from $145, and Bank of America to $120 from $150."
+          ]
+        },
+        {
+          "symbol": "DHR",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Danaher was taken from a price target of $220 to $205 at Rothschild & Co Redburn. We exited Danaher in February."
+          ]
+        },
+        {
+          "symbol": "EL",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Estee Lauder got a price target cut to $98 from $121 at JPMorgan, which also removed the stock from its analyst focus list but kept a buy rating."
+          ]
+        },
+        {
+          "symbol": "GS",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list."
+          ]
+        },
+        {
+          "symbol": "JPM",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+            "JPMorgan trimmed its Procter & Gamble price target to $162 from $165.",
+            "Estee Lauder got a price target cut to $98 from $121 at JPMorgan, which also removed the stock from its analyst focus list but kept a buy rating."
+          ]
+        },
+        {
+          "symbol": "NFLX",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Wolfe Research took Netflix down to $107 from $110."
+          ]
+        },
+        {
+          "symbol": "PG",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "JPMorgan trimmed its Procter & Gamble price target to $162 from $165. We own P&G as a hedge against economic uncertainty."
+          ]
+        },
+        {
+          "symbol": "PLD",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "Unheralded Prologis call."
+          ]
+        },
+        {
+          "symbol": "WFC",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "It is Wells Fargo that I tire of, especially after this week's lackluster earnings . We downgraded our Club rating on Wells Fargo to a hold-equivalent 2 ."
+          ]
+        }
+      ],
+      "themes": [
+        "Industrial Automation",
+        "Streaming And Media",
+        "Financials",
+        "Earnings"
+      ],
+      "events": [
+        {
+          "text": "VIEW IN BROWSER   |   LATEST CRAMER NEWS My top 10 things to watch Friday, April 17 1."
+        },
+        {
+          "text": "President  Donald Trump  said the U.S.-Iran war \"should be ending pretty soon.\" The S&P 500, which is on track for another winning week, closed at another record high in Thursday trading."
+        },
+        {
+          "text": "It is  Wells Fargo  that I tire of, especially after this week's  lackluster earnings ."
+        },
+        {
+          "text": "Analysts tweaked their estimates ahead of next week's earnings."
+        },
+        {
+          "text": "The troubled luxury brand reports earnings on May 1."
+        },
+        {
+          "text": "The prevailing view is that yesterday's earnings and conference call didn't wow the Street."
+        }
+      ]
+    },
+    {
+      "title": "Latest News from My Stocks",
+      "file": "Latest News from My Stocks.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Fri, 17 Apr 2026 22:56:08 +0000",
+      "profile": "Motley Fool My Stocks",
+      "role": "watchlist coverage",
+      "weight": 10,
+      "wordCount": 600,
+      "summaryHints": [
+        "Daily Update The Motley Fool - My Stocks ****************************************",
+        "* Daily Update ****************************************",
+        "* April 17, 2026Friday's MarketsS&P 500 7,126 (+1.2%)Nasdaq 24,468 (+1.52%)Dow 49,447 (+1.79%)Bitcoin 77,452 (+2.98%)***********************************************",
+        "* Evening News: DOJ Sues Big Egg Over Price Fixing ***********************************************",
+        "* Nvidia 5-year quarterly revenue  The Department of Justice (DOJ) is preparing a civil antitrust lawsuit against major egg producers, The Wall Street Journal reported."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "CALM",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The suit would target Cal-Maine (NASDAQ: CALM) , down more than 7% after hours on the news, and Versova, a private, family-owned company, alleging they coordinated pricing through a wholesale price-benchmarking service called Expana.",
+            "* Cal-Maine's exposure: The largest U.S."
+          ]
+        },
+        {
+          "symbol": "GS",
+          "mentions": 1,
+          "move": "+2.87%",
+          "notes": [
+            "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+          ]
+        },
+        {
+          "symbol": "JBLU",
+          "mentions": 1,
+          "move": "+6.44%",
+          "notes": [
+            "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+          ]
+        },
+        {
+          "symbol": "MOG.A",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "* Recent Recommendations **********************Buy Moog: Mission-Critical Components and More 4/16/26 •Stock Advisor •MOGAMcCormick Goes Into the Penalty Box 4/8/26 •Stock Advisor •MKCHow did you like this email?"
+          ]
+        },
+        {
+          "symbol": "NFLX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "In other news, shares of Netflix (NASDAQ: NFLX ) were down nearly 10% today following the streaming giant's report last night.",
+            "Is Netflix a buy, hold, or sell after yesterday's report and today's sell-off?"
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "* Nvidia 5-year quarterly revenue  The Department of Justice (DOJ) is preparing a civil antitrust lawsuit against major egg producers, The Wall Street Journal reported."
+          ]
+        },
+        {
+          "symbol": "SHOP",
+          "mentions": 1,
+          "move": "+3.18%",
+          "notes": [
+            "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+          ]
+        },
+        {
+          "symbol": "UPST",
+          "mentions": 1,
+          "move": "+4.32%",
+          "notes": [
+            "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+          ]
+        },
+        {
+          "symbol": "XYZ",
+          "mentions": 1,
+          "move": "+3.77%",
+          "notes": [
+            "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+          ]
+        }
+      ],
+      "themes": [
+        "Streaming And Media",
+        "Food Inflation",
+        "Financials",
+        "Semiconductors",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": []
+    },
+    {
+      "title": "New Stock Recommendation: A Mission-Critical Supplier to Fast-Growing Industries",
+      "file": "New Stock Recommendation_ A Mission-Critical Supplier to Fast-Growing Industries.eml",
+      "from": "\"Stock Advisor\" <fool@motley.fool.com>",
+      "date": "Thu, 16 Apr 2026 17:17:56 +0000",
+      "profile": "Motley Fool Stock Advisor",
+      "role": "source-backed recommendation",
+      "weight": 18,
+      "wordCount": 565,
+      "summaryHints": [
+        "This company could be a big winner of the space race, the surge in defense spending, and several other major trends.",
+        "The Motley Fool - Stock Advisor NEW RECOMMENDATION ********************************************",
+        "* Moog: A Leader in Mission-Critical Components ********************************************",
+        "* By Tom Gardner • Stock Advisor Investing Type: Cautious “I like how Moog offers a potential sweet spot for exposure to the commercial space race -- broader end-market diversification than a pure play like Rocket Lab, with space more material to the story than it is at Amazon.",
+        "We hope this company can help Foolish investors reach new heights and steer toward long-term goals.” Loren Horst LOREN HORST Analyst, Stock Advisor There's a massive opportunity in the space economy right now."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "MOG.A",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Moog: A Leader in Mission-Critical Components ********************************************",
+            "* By Tom Gardner • Stock Advisor Investing Type: Cautious “I like how Moog offers a potential sweet spot for exposure to the commercial space race -- broader end-market diversification than a pure play like Rocket Lab, with space more material to the story than it is at Amazon.",
+            "Moog (NYSE: MOG.A) is a leading manufacturer of precision motion control systems for industries such as space, defense, aviation, industrial automation, simulation, energy, medical devices, and others."
+          ]
+        }
+      ],
+      "themes": [
+        "Defense Spending",
+        "Space Economy",
+        "Industrial Automation"
+      ],
+      "events": [
+        {
+          "text": "Read the recommendation Join the live discussion where we’re taking questions Stock Advisor Webinar --------------------- Join us for a live Stock Advisor walkthrough and Q&A on Tuesday, April 21 at 9:30 am ET."
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "symbol": "GS",
+      "score": 85,
+      "stance": "Buy Candidate",
+      "evidence": "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10",
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MOG.A",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Moog: A Leader in Mission-Critical Components ********************************************",
+      "sources": [
+        "Latest News from My Stocks",
+        "New Stock Recommendation: A Mission-Critical Supplier to Fast-Growing Industries"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks",
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NFLX",
+      "score": 57,
+      "stance": "Research Watch",
+      "evidence": "Wolfe Research took Netflix down to $107 from $110.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10",
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AFRM",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Affirm was elevated to a top pick at Morgan Stanley.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BAC",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "EL",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Estee Lauder got a price target cut to $98 from $121 at JPMorgan, which also removed the stock from its analyst focus list but kept a buy rating.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "analyst or execution pressure"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "JBLU",
+      "score": 55,
+      "stance": "Setup Watch",
+      "evidence": "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************",
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "JPM",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SHOP",
+      "score": 49,
+      "stance": "Research Watch",
+      "evidence": "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************",
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "UPST",
+      "score": 49,
+      "stance": "Research Watch",
+      "evidence": "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************",
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "XYZ",
+      "score": 49,
+      "stance": "Research Watch",
+      "evidence": "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************",
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AAPL",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "iPhone shipments in China jumped 20% during the first quarter, according to CounterPoint Research data. Great news for Apple's biggest money maker.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "DHR",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "Danaher was taken from a price target of $220 to $205 at Rothschild & Co Redburn. We exited Danaher in February.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PLD",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "Unheralded Prologis call.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PG",
+      "score": 39,
+      "stance": "Low Priority",
+      "evidence": "JPMorgan trimmed its Procter & Gamble price target to $162 from $165. We own P&G as a hedge against economic uncertainty.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "analyst or execution pressure"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ABT",
+      "score": 31,
+      "stance": "Low Priority",
+      "evidence": "Lots of price target cuts for Abbott Laboratories: Benchmark to $120 from $145, Stifel to $120 from $145, and Bank of America to $120 from $150.",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "analyst or execution pressure"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CALM",
+      "score": 31,
+      "stance": "Low Priority",
+      "evidence": "The suit would target Cal-Maine (NASDAQ: CALM) , down more than 7% after hours on the news, and Versova, a private, family-owned company, alleging they coordinated pricing through a wholesale price-benchmarking service called Expana.",
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang",
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    },
+    {
+      "symbol": "WFC",
+      "score": 31,
+      "stance": "Low Priority",
+      "evidence": "It is Wells Fargo that I tire of, especially after this week's lackluster earnings . We downgraded our Club rating on Wells Fargo to a hold-equivalent 2 .",
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context",
+        "analyst or execution pressure"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 25,
+      "stance": "Risk Watch",
+      "evidence": "* Nvidia 5-year quarterly revenue  The Department of Justice (DOJ) is preparing a civil antitrust lawsuit against major egg producers, The Wall Street Journal reported.",
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "CALM",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "The suit would target Cal-Maine (NASDAQ: CALM) , down more than 7% after hours on the news, and Versova, a private, family-owned company, alleging they coordinated pricing through a wholesale price-benchmarking service called Expana.",
+        "* Cal-Maine's exposure: The largest U.S."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GS",
+      "mentions": 1,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10",
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 26,
+      "primaryWeight": 16,
+      "notes": [
+        "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+        "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+      ],
+      "latestMove": "+2.87%"
+    },
+    {
+      "symbol": "JBLU",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+      ],
+      "latestMove": "+6.44%"
+    },
+    {
+      "symbol": "MOG.A",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks",
+        "New Stock Recommendation: A Mission-Critical Supplier to Fast-Growing Industries"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks",
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 28,
+      "primaryWeight": 18,
+      "notes": [
+        "* Moog: A Leader in Mission-Critical Components ********************************************",
+        "* By Tom Gardner • Stock Advisor Investing Type: Cautious “I like how Moog offers a potential sweet spot for exposure to the commercial space race -- broader end-market diversification than a pure play like Rocket Lab, with space more material to the story than it is at Amazon.",
+        "Moog (NYSE: MOG.A) is a leading manufacturer of precision motion control systems for industries such as space, defense, aviation, industrial automation, simulation, energy, medical devices, and others.",
+        "* Recent Recommendations **********************Buy Moog: Mission-Critical Components and More 4/16/26 •Stock Advisor •MOGAMcCormick Goes Into the Penalty Box 4/8/26 •Stock Advisor •MKCHow did you like this email?"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NFLX",
+      "mentions": 1,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10",
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 26,
+      "primaryWeight": 16,
+      "notes": [
+        "Wolfe Research took Netflix down to $107 from $110.",
+        "In other news, shares of Netflix (NASDAQ: NFLX ) were down nearly 10% today following the streaming giant's report last night.",
+        "Is Netflix a buy, hold, or sell after yesterday's report and today's sell-off?"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SHOP",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+      ],
+      "latestMove": "+3.18%"
+    },
+    {
+      "symbol": "UPST",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+      ],
+      "latestMove": "+4.32%"
+    },
+    {
+      "symbol": "XYZ",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* My Top Movers *************JetBlue Airways JBLU +6.44%Upstart UPST +4.32%Block XYZ +3.77%Shopify SHOP +3.18%Goldman Sachs Group GS +2.87%**************"
+      ],
+      "latestMove": "+3.77%"
+    },
+    {
+      "symbol": "AAPL",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "iPhone shipments in China jumped 20% during the first quarter, according to CounterPoint Research data. Great news for Apple's biggest money maker."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ABT",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "Lots of price target cuts for Abbott Laboratories: Benchmark to $120 from $145, Stifel to $120 from $145, and Bank of America to $120 from $150."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AFRM",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "Affirm was elevated to a top pick at Morgan Stanley."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BAC",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+        "Lots of price target cuts for Abbott Laboratories: Benchmark to $120 from $145, Stifel to $120 from $145, and Bank of America to $120 from $150."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "DHR",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "Danaher was taken from a price target of $220 to $205 at Rothschild & Co Redburn. We exited Danaher in February."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "EL",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "Estee Lauder got a price target cut to $98 from $121 at JPMorgan, which also removed the stock from its analyst focus list but kept a buy rating."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "JPM",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "Bank of America swapped JPMorgan for Goldman Sachs in its best ideas list.",
+        "JPMorgan trimmed its Procter & Gamble price target to $162 from $165.",
+        "Estee Lauder got a price target cut to $98 from $121 at JPMorgan, which also removed the stock from its analyst focus list but kept a buy rating."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 0,
+      "sources": [
+        "Latest News from My Stocks"
+      ],
+      "sourceProfiles": [
+        "Motley Fool My Stocks"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Nvidia 5-year quarterly revenue  The Department of Justice (DOJ) is preparing a civil antitrust lawsuit against major egg producers, The Wall Street Journal reported."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PG",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "JPMorgan trimmed its Procter & Gamble price target to $162 from $165. We own P&G as a hedge against economic uncertainty."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PLD",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "Unheralded Prologis call."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "WFC",
+      "mentions": 0,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday"
+      ],
+      "sourceProfiles": [
+        "CNBC Jim's Top 10"
+      ],
+      "sourceWeight": 16,
+      "primaryWeight": 16,
+      "notes": [
+        "It is Wells Fargo that I tire of, especially after this week's lackluster earnings . We downgraded our Club rating on Wells Fargo to a hold-equivalent 2 ."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "Earnings",
+      "mentions": 2,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "Latest News from My Stocks"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 2,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "Latest News from My Stocks"
+      ]
+    },
+    {
+      "name": "Industrial Automation",
+      "mentions": 2,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "New Stock Recommendation: A Mission-Critical Supplier to Fast-Growing Industries"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 2,
+      "sources": [
+        "Jim Cramer's top 10 things to watch in the stock market Friday",
+        "Latest News from My Stocks"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "New Stock Recommendation: A Mission-Critical Supplier to Fast-Growing Industries"
+      ]
+    },
+    {
+      "name": "Food Inflation",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ]
+    },
+    {
+      "name": "Regulatory Risk",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Latest News from My Stocks"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "New Stock Recommendation: A Mission-Critical Supplier to Fast-Growing Industries"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "text": "VIEW IN BROWSER   |   LATEST CRAMER NEWS My top 10 things to watch Friday, April 17 1.",
+      "source": "Jim Cramer's top 10 things to watch in the stock market Friday"
+    },
+    {
+      "text": "President  Donald Trump  said the U.S.-Iran war \"should be ending pretty soon.\" The S&P 500, which is on track for another winning week, closed at another record high in Thursday trading.",
+      "source": "Jim Cramer's top 10 things to watch in the stock market Friday"
+    },
+    {
+      "text": "It is  Wells Fargo  that I tire of, especially after this week's  lackluster earnings .",
+      "source": "Jim Cramer's top 10 things to watch in the stock market Friday"
+    },
+    {
+      "text": "Analysts tweaked their estimates ahead of next week's earnings.",
+      "source": "Jim Cramer's top 10 things to watch in the stock market Friday"
+    },
+    {
+      "text": "The troubled luxury brand reports earnings on May 1.",
+      "source": "Jim Cramer's top 10 things to watch in the stock market Friday"
+    },
+    {
+      "text": "The prevailing view is that yesterday's earnings and conference call didn't wow the Street.",
+      "source": "Jim Cramer's top 10 things to watch in the stock market Friday"
+    },
+    {
+      "text": "Read the recommendation Join the live discussion where we’re taking questions Stock Advisor Webinar --------------------- Join us for a live Stock Advisor walkthrough and Q&A on Tuesday, April 21 at 9:30 am ET.",
+      "source": "New Stock Recommendation: A Mission-Critical Supplier to Fast-Growing Industries"
+    }
+  ]
+}

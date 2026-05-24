@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T12:00:00Z",
+  "sourceReport": "reports/2026-05-13.md",
+  "candidates": [
+    {
+      "symbol": "CSCO",
+      "createdAt": "2026-05-13T12:00:00Z",
+      "updatedAt": "2026-05-13T12:05:00Z",
+      "status": "watch_intraday",
+      "stance": "Research Watch",
+      "score": 74,
+      "catalyst": "Q3 earnings due after the close with AI infrastructure revenue in focus.",
+      "setupType": "Catalyst Continuation",
+      "entryTrigger": "Only above the opening-range high with volume confirmation.",
+      "triggerPrice": null,
+      "invalidation": "Below the opening-range low or failed reclaim after the first breakout attempt.",
+      "invalidationPrice": null,
+      "firstTarget": "Measured move from the opening range.",
+      "firstTargetPrice": null,
+      "rewardRiskMinimum": 2,
+      "sizeGuidance": "Starter size only until volume confirms.",
+      "sessionWindow": "regular-hours",
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceFiles": [
+        "2026-05-13-market-brieffoolbreakfast-news-breakfast-news-wix.com-pins-hopes-on-ai-tools-19e211cd83271c51.eml"
+      ],
+      "promotionEligible": true,
+      "promotionReason": "Could become a swing candidate if the earnings reaction holds and builds over 1 to 2 sessions.",
+      "notes": [
+        "Intraday candidate only until the event passes."
+      ],
+      "history": [
+        {
+          "at": "2026-05-13T12:05:00Z",
+          "status": "watch_intraday",
+          "note": "Needs price confirmation before entry."
+        }
+      ]
+    }
+  ]
+}

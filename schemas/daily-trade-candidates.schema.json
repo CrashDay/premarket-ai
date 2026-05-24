@@ -1,0 +1,193 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://premarket-ai.local/schemas/daily-trade-candidates.schema.json",
+  "title": "Daily Trade Candidates",
+  "type": "object",
+  "required": [
+    "date",
+    "generatedAt",
+    "candidates"
+  ],
+  "properties": {
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "sourceReport": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "candidates": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/dailyCandidate"
+      }
+    }
+  },
+  "$defs": {
+    "priceLevel": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "statusEvent": {
+      "type": "object",
+      "required": [
+        "at",
+        "status",
+        "note"
+      ],
+      "properties": {
+        "at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "new",
+            "actionable_today",
+            "watch_intraday",
+            "passed_today",
+            "expired_today",
+            "promoted_to_swing"
+          ]
+        },
+        "note": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "dailyCandidate": {
+      "type": "object",
+      "required": [
+        "symbol",
+        "createdAt",
+        "status",
+        "stance",
+        "catalyst",
+        "setupType",
+        "entryTrigger",
+        "invalidation",
+        "firstTarget",
+        "sourceProfiles"
+      ],
+      "properties": {
+        "symbol": {
+          "type": "string",
+          "pattern": "^[A-Z0-9.\\-]{1,10}$"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "new",
+            "actionable_today",
+            "watch_intraday",
+            "passed_today",
+            "expired_today",
+            "promoted_to_swing"
+          ]
+        },
+        "stance": {
+          "type": "string",
+          "enum": [
+            "Buy Candidate",
+            "Research Watch",
+            "Risk Watch",
+            "Low Priority"
+          ]
+        },
+        "score": {
+          "type": "number"
+        },
+        "catalyst": {
+          "type": "string"
+        },
+        "setupType": {
+          "type": "string"
+        },
+        "entryTrigger": {
+          "type": "string"
+        },
+        "triggerPrice": {
+          "$ref": "#/$defs/priceLevel"
+        },
+        "invalidation": {
+          "type": "string"
+        },
+        "invalidationPrice": {
+          "$ref": "#/$defs/priceLevel"
+        },
+        "firstTarget": {
+          "type": "string"
+        },
+        "firstTargetPrice": {
+          "$ref": "#/$defs/priceLevel"
+        },
+        "rewardRiskMinimum": {
+          "type": "number"
+        },
+        "sizeGuidance": {
+          "type": "string"
+        },
+        "sessionWindow": {
+          "type": "string",
+          "enum": [
+            "pre-market",
+            "regular-hours",
+            "close-only",
+            "all-session"
+          ]
+        },
+        "sourceProfiles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sourceFiles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "promotionEligible": {
+          "type": "boolean"
+        },
+        "promotionReason": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "history": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/statusEvent"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,44 @@
+{
+  "generatedAt": "2026-05-13T12:10:00Z",
+  "reviewDate": "2026-05-13",
+  "candidates": [
+    {
+      "symbol": "AMD",
+      "firstIdentifiedAt": "2026-05-12T13:45:00Z",
+      "lastReviewedAt": "2026-05-13T12:10:00Z",
+      "status": "active_watch",
+      "thesis": "Inference-driven CPU demand could support a multi-day continuation if AMD reclaims resistance with volume.",
+      "catalystOrigin": "GlobalFoundries CPU super-cycle commentary and AI inference workload shift.",
+      "setupType": "Research Watch",
+      "entryTrigger": "Hold above the breakout zone with volume confirmation.",
+      "triggerPrice": 469.22,
+      "invalidation": "Break below the nearest valid support after confirmation.",
+      "invalidationPrice": 426.11,
+      "firstTarget": "First target at the next measured move extension.",
+      "firstTargetPrice": 500.0,
+      "holdWindowDays": 5,
+      "expiryRule": "Expire if the stock does not reclaim the trigger within 3 trading sessions after catalyst day.",
+      "carryReason": "Catalyst still relevant and chart not invalidated.",
+      "promotionSource": "daily_candidate",
+      "sourceDate": "2026-05-12",
+      "sourceFiles": [
+        "reports/2026-05-12.md"
+      ],
+      "eventRisk": "Annual meeting on 2026-05-13 reduced initial entry quality.",
+      "relativeStrength": "Leader vs SPY and QQQ over 20d and 50d, but still extended.",
+      "volumeCondition": "Needs stronger-than-average volume on the reclaim.",
+      "sizeGuidance": "Starter size only until the breakout proves itself.",
+      "reviewHistory": [
+        {
+          "reviewedAt": "2026-05-12T23:30:00Z",
+          "status": "active_watch",
+          "summary": "Strong catalyst, but setup remained too extended for immediate action.",
+          "price": 448.29,
+          "relativeStrength": "Leader",
+          "volumeNote": "Below average volume on the pullback day.",
+          "eventRisk": "Annual meeting next morning."
+        }
+      ]
+    }
+  ]
+}

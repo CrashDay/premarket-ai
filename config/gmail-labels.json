@@ -1,0 +1,33 @@
+{
+  "labels": [
+    "Market Brief",
+    "Market Brief/Fool/Breakfast News",
+    "Market Brief/Fool/Guidance",
+    "Market Brief/Fool/Stock Advisor",
+    "Market Brief/Fool/Editor Picks",
+    "Market Brief/Fool/Weekly Digest",
+    "Market Brief/CNBC/Breaking News",
+    "Market Brief/CNBC/Disruptors",
+    "Market Brief/CNBC/Morning Squawk",
+    "Market Brief/CNBC/The Exchange",
+    "Market Brief/CNBC/Jims Top 10",
+    "Market Brief/MarketDly/Daily Technical Patterns",
+    "Market Brief/Stock Analysis/Market Bullets"
+  ],
+  "fallbackQueries": [
+    {
+      "name": "Market Brief/Fool/Stock Advisor",
+      "query": "from:fool@motley.fool.com subject:\"New Stock Recommendation:\" newer_than:14d"
+    },
+    {
+      "name": "Market Brief/Fool/Editor Picks",
+      "query": "from:fool@motley.fool.com subject:\"Latest News from My Stocks\" newer_than:14d"
+    },
+    {
+      "name": "Market Brief/MarketDly/Closing Market Analysis",
+      "query": "from:daily@marketdly.com subject:\"Closing Market Analysis\" newer_than:14d"
+    }
+  ],
+  "maxMessagesPerLabel": 20,
+  "query": "newer_than:14d"
+}

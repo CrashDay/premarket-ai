@@ -1,0 +1,1960 @@
+{
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T15:16:15.696Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO",
+      "file": "2026-05-04-market-briefstock-analysismarket-bullets-market-bullets-spirit-airlines-collapse-gamestop-pitches-ebay-takeover-abel-host-19df31d116b56399.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Mon, 04 May 2026 13:11:00 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [
+        {
+          "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
+          "title": "Spirit Airlines Trump Bailout",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+          "title": "Roblox Rblx Stock Child Safety Earnings",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/03/israel-approves-plan-to-buy-fighter-jets-from-lockheed-boeing.html",
+          "title": "Israel Approves Plan To Buy Fighter Jets From Lockheed Boeing",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
+          "title": "Opec Announces 188000 Barrels Per Day Output Increase",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
+          "title": "Us Crude Oil Exports Surge To Record As Tankers Flock To Gulf Coast",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/03/ev-ownership-costs.html",
+          "title": "Ev Ownership Costs",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
+          "title": "Trump Eu Auto Tariffs",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
+          "title": "Denmark Data Centers Moratorium Grid Pause Power Demand",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1747,
+      "summaryHints": [
+        "says it will guide ships through Hormuz | Monday - May 04, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.29% Pre: -0.13% Nasdaq +0.89% Pre: +0.02% Dow -0.31% Pre: -0.33% ------------------- Stock & Market News -------------------",
+        "* Spirit Airlines grinds to a halt: Spirit Airlines (OTC:SAVEQ  ) ceased operations early on Saturday after failing to secure a bailout during its second bankruptcy, ending its low-cost model as rising fuel prices and losses mounted.",
+        "About 17,000 jobs are affected.",
+        "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock.",
+        "* Abel hosts first Berkshire meeting: Greg Abel led his first annual meeting as CEO of Berkshire Hathaway (BRK.A  ), reaffirming the legacy of Warren Buffett and highlighting strong earnings and a record cash position."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "AMZN",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Amazon launches supply chain service: Amazon (AMZN  ) launched “Amazon Supply Chain Services,” allowing other businesses to use its logistics network for transportation, storage, and delivery.",
+            "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+          ]
+        },
+        {
+          "symbol": "AXSM",
+          "mentions": 1,
+          "move": "+57.42%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Axsome Therapeutics (AXSM  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "BA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock.",
+            "* Israel approves fighter jet deal: Israel approved a multibillion-dollar plan to buy new F-35 jets from Lockheed Martin (LMT  ) and F-15IA jets from Boeing (BA  ) as part of a long-term military buildup."
+          ]
+        },
+        {
+          "symbol": "BRK.A",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Abel hosts first Berkshire meeting: Greg Abel led his first annual meeting as CEO of Berkshire Hathaway (BRK.A  ), reaffirming the legacy of Warren Buffett and highlighting strong earnings and a record cash position."
+          ]
+        },
+        {
+          "symbol": "CBRS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Cerebras targets $3.5B IPO: Cerebras Systems (CBRS  ) is seeking up to $3.5B in its IPO, offering 28M shares at $115–$125."
+          ]
+        },
+        {
+          "symbol": "CNA",
+          "mentions": 2,
+          "move": "+1.38%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release CNA Financial (CNA  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "CNQ",
+          "mentions": 1,
+          "move": "-1.71%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Canadian Natural Resources (CNQ  ) will report Thursday."
+          ]
+        },
+        {
+          "symbol": "DIS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Sequel tops box office expectations: Disney’s (DIS  ) 20th Century Studios film The Devil Wears Prada 2 opened with $77M in North America and $234M globally, marking the biggest debut for a traditional comedy in over a decade and outperforming expectations."
+          ]
+        },
+        {
+          "symbol": "EBAY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock."
+          ]
+        },
+        {
+          "symbol": "EQNR",
+          "mentions": 1,
+          "move": "-2.17%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Equinor ASA (EQNR  ) will report Wednesday."
+          ]
+        },
+        {
+          "symbol": "GME",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock."
+          ]
+        },
+        {
+          "symbol": "GOOGL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+          ]
+        },
+        {
+          "symbol": "HAWK",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(HAWK  ), a signals intelligence data and analytics company with $117.66M in TTM revenue and 74.2% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "HWM",
+          "mentions": 1,
+          "move": "+15.42%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Howmet Aerospace (HWM  ) will report Thursday."
+          ]
+        },
+        {
+          "symbol": "IT",
+          "mentions": 1,
+          "move": "-1.17%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- Gartner (IT  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "KRYS",
+          "mentions": 1,
+          "move": "+31.95%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Krystal Biotech (KRYS  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "LMT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Israel approves fighter jet deal: Israel approved a multibillion-dollar plan to buy new F-35 jets from Lockheed Martin (LMT  ) and F-15IA jets from Boeing (BA  ) as part of a long-term military buildup."
+          ]
+        },
+        {
+          "symbol": "LUMN",
+          "mentions": 1,
+          "move": "-10.46%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Lumen Technologies (LUMN  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "MAR",
+          "mentions": 1,
+          "move": "+5.09%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Marriott International (MAR  ) will report Wednesday."
+          ]
+        },
+        {
+          "symbol": "MASI",
+          "mentions": 1,
+          "move": "+5.92%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Masimo (MASI  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "MCK",
+          "mentions": 1,
+          "move": "+11.75%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics McKesson (MCK  ) will report Thursday."
+          ]
+        },
+        {
+          "symbol": "MELI",
+          "mentions": 1,
+          "move": "+40.38%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics MercadoLibre (MELI  ) will report Thursday."
+          ]
+        },
+        {
+          "symbol": "MS",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros.",
+            "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+          ]
+        },
+        {
+          "symbol": "MSFT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+          ]
+        },
+        {
+          "symbol": "MZTI",
+          "mentions": 1,
+          "move": "-0.98%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release The Marzetti Company (MZTI  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "NCLH",
+          "mentions": 1,
+          "move": "+9.59%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Norwegian Cruise Line Holdings (NCLH  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+          ]
+        },
+        {
+          "symbol": "PARA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros."
+          ]
+        },
+        {
+          "symbol": "PRIM",
+          "mentions": 1,
+          "move": "+4.93%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Primoris Services (PRIM  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "RBLX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Roblox shares sink on guidance: Roblox (RBLX  ) fell 18% after cutting its 2026 bookings outlook by nearly $1B, citing slower growth from new child safety features that are limiting some uses."
+          ]
+        },
+        {
+          "symbol": "REA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(REA  ), an exploration-stage critical minerals company."
+          ]
+        },
+        {
+          "symbol": "RVTY",
+          "mentions": 1,
+          "move": "+5.96%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Revvity (RVTY  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "SAVEQ",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Spirit Airlines grinds to a halt: Spirit Airlines (OTC:SAVEQ  ) ceased operations early on Saturday after failing to secure a bailout during its second bankruptcy, ending its low-cost model as rising fuel prices and losses mounted."
+          ]
+        },
+        {
+          "symbol": "SUJA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(SUJA  ), a health-focused beverage platform with $326.62M in TTM revenue and 26.1% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "SUN",
+          "mentions": 1,
+          "move": "+94.33%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Sunoco LP (SUN  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "TEM",
+          "mentions": 1,
+          "move": "+35.08%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Tempus AI (TEM  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "TSN",
+          "mentions": 1,
+          "move": "+4.43%",
+          "notes": [
+            "View definitions --------------- Recent Earnings --------------- Tyson Foods (TSN  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "TWST",
+          "mentions": 1,
+          "move": "+19.31%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Twist Bioscience (TWST  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "WBD",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(WBD  ) deal and over $6B in projected cost savings."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Space Economy",
+        "Financials",
+        "Semiconductors",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": [
+        {
+          "text": "says it will guide ships through Hormuz | Monday - May 04, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.29% Pre: -0.13% Nasdaq +0.89% Pre: +0.02% Dow -0.31% Pre: -0.33% ------------------- Stock & Market News -------------------"
+        },
+        {
+          "text": "* Abel hosts first Berkshire meeting: Greg Abel led his first annual meeting as CEO of Berkshire Hathaway (BRK.A  ), reaffirming the legacy of Warren Buffett and highlighting strong earnings and a record cash position."
+        },
+        {
+          "text": "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros."
+        },
+        {
+          "text": "* Used EV sales rise: U.S."
+        },
+        {
+          "text": "used electric vehicle sales rose 27.7% YoY in March, with 44% priced under $25K, as supply grows from lease returns."
+        },
+        {
+          "text": "* 10:00 AM: Factory Orders MoM"
+        },
+        {
+          "text": "* Tuesday: ISM Services PMI, JOLTs Job Openings"
+        },
+        {
+          "text": "* Friday: Non-Farm Payrolls, Unemployment Rate, Michigan Consumer Sentiment Prelim."
+        }
+      ]
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": 2,
+    "items": [
+      {
+        "theme": "Oil Shock",
+        "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO",
+        "note": "says it will guide ships through Hormuz | Monday - May 04, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.29% Pre: -0.13% Nasdaq +0.89% Pre: +0.02% Dow -0.31% Pre: -0.33% ------------------- Stock & Market News -------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
+            "title": "Spirit Airlines Trump Bailout",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+            "title": "Roblox Rblx Stock Child Safety Earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/03/israel-approves-plan-to-buy-fighter-jets-from-lockheed-boeing.html",
+            "title": "Israel Approves Plan To Buy Fighter Jets From Lockheed Boeing",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
+            "title": "Opec Announces 188000 Barrels Per Day Output Increase",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
+            "title": "Us Crude Oil Exports Surge To Record As Tankers Flock To Gulf Coast",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/03/ev-ownership-costs.html",
+            "title": "Ev Ownership Costs",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
+            "title": "Trump Eu Auto Tariffs",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
+            "title": "Denmark Data Centers Moratorium Grid Pause Power Demand",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "HWM",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Howmet Aerospace (HWM  ) will report Thursday.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "TEM",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Tempus AI (TEM  ) will report tomorrow after market close.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "AXSM",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Axsome Therapeutics (AXSM  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "KRYS",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Krystal Biotech (KRYS  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MAR",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics Marriott International (MAR  ) will report Wednesday.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MASI",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics Masimo (MASI  ) will report tomorrow after market close.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MCK",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics McKesson (MCK  ) will report Thursday.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MELI",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics MercadoLibre (MELI  ) will report Thursday.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "NCLH",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Norwegian Cruise Line Holdings (NCLH  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "RVTY",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics Revvity (RVTY  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SUN",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics Sunoco LP (SUN  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "TWST",
+      "score": 65,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Twist Bioscience (TWST  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "GOOGL",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  .",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LMT",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Israel approves fighter jet deal: Israel approved a multibillion-dollar plan to buy new F-35 jets from Lockheed Martin (LMT  ) and F-15IA jets from Boeing (BA  ) as part of a long-term military buildup.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "MSFT",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  .",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  .",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AMZN",
+      "score": 61,
+      "stance": "Research Watch",
+      "evidence": "* Amazon launches supply chain service: Amazon (AMZN  ) launched “Amazon Supply Chain Services,” allowing other businesses to use its logistics network for transportation, storage, and delivery.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CNA",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release CNA Financial (CNA  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PRIM",
+      "score": 59,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics Primoris Services (PRIM  ) will report tomorrow after market close.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "TSN",
+      "score": 59,
+      "stance": "Setup Watch",
+      "evidence": "View definitions --------------- Recent Earnings --------------- Tyson Foods (TSN  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "HAWK",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "(HAWK  ), a signals intelligence data and analytics company with $117.66M in TTM revenue and 74.2% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "RBLX",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Roblox shares sink on guidance: Roblox (RBLX  ) fell 18% after cutting its 2026 bookings outlook by nearly $1B, citing slower growth from new child safety features that are limiting some uses.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SUJA",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "(SUJA  ), a health-focused beverage platform with $326.62M in TTM revenue and 26.1% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BA",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BRK.A",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* Abel hosts first Berkshire meeting: Greg Abel led his first annual meeting as CEO of Berkshire Hathaway (BRK.A  ), reaffirming the legacy of Warren Buffett and highlighting strong earnings and a record cash position.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "CBRS",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* Cerebras targets $3.5B IPO: Cerebras Systems (CBRS  ) is seeking up to $3.5B in its IPO, offering 28M shares at $115–$125.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "DIS",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* Sequel tops box office expectations: Disney’s (DIS  ) 20th Century Studios film The Devil Wears Prada 2 opened with $77M in North America and $234M globally, marking the biggest debut for a traditional comedy in over a decade and outperforming expectations.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "EBAY",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GME",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PARA",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "REA",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "(REA  ), an exploration-stage critical minerals company.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SAVEQ",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* Spirit Airlines grinds to a halt: Spirit Airlines (OTC:SAVEQ  ) ceased operations early on Saturday after failing to secure a bailout during its second bankruptcy, ending its low-cost model as rising fuel prices and losses mounted.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "WBD",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "(WBD  ) deal and over $6B in projected cost savings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CNQ",
+      "score": 39,
+      "stance": "Low Priority",
+      "evidence": "* Financials   · As Reported   · Metrics Canadian Natural Resources (CNQ  ) will report Thursday.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "EQNR",
+      "score": 39,
+      "stance": "Low Priority",
+      "evidence": "* Financials   · As Reported   · Metrics Equinor ASA (EQNR  ) will report Wednesday.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "IT",
+      "score": 39,
+      "stance": "Low Priority",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- Gartner (IT  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MZTI",
+      "score": 39,
+      "stance": "Low Priority",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release The Marzetti Company (MZTI  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "LUMN",
+      "score": 29,
+      "stance": "Low Priority",
+      "evidence": "* Financials   · As Reported   · Metrics Lumen Technologies (LUMN  ) will report tomorrow after market close.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MS",
+      "score": 29,
+      "stance": "Low Priority",
+      "evidence": "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros.",
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "mentioned as the actor around another stock's catalyst, not the primary setup",
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "AMZN",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Amazon launches supply chain service: Amazon (AMZN  ) launched “Amazon Supply Chain Services,” allowing other businesses to use its logistics network for transportation, storage, and delivery.",
+        "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CNA",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release CNA Financial (CNA  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+1.38%"
+    },
+    {
+      "symbol": "MS",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros.",
+        "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AXSM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Axsome Therapeutics (AXSM  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+57.42%"
+    },
+    {
+      "symbol": "BA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock.",
+        "* Israel approves fighter jet deal: Israel approved a multibillion-dollar plan to buy new F-35 jets from Lockheed Martin (LMT  ) and F-15IA jets from Boeing (BA  ) as part of a long-term military buildup."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BRK.A",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Abel hosts first Berkshire meeting: Greg Abel led his first annual meeting as CEO of Berkshire Hathaway (BRK.A  ), reaffirming the legacy of Warren Buffett and highlighting strong earnings and a record cash position."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CBRS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Cerebras targets $3.5B IPO: Cerebras Systems (CBRS  ) is seeking up to $3.5B in its IPO, offering 28M shares at $115–$125."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CNQ",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Canadian Natural Resources (CNQ  ) will report Thursday."
+      ],
+      "latestMove": "-1.71%"
+    },
+    {
+      "symbol": "DIS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Sequel tops box office expectations: Disney’s (DIS  ) 20th Century Studios film The Devil Wears Prada 2 opened with $77M in North America and $234M globally, marking the biggest debut for a traditional comedy in over a decade and outperforming expectations."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "EBAY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "EQNR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Equinor ASA (EQNR  ) will report Wednesday."
+      ],
+      "latestMove": "-2.17%"
+    },
+    {
+      "symbol": "GME",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* GameStop pitches eBay takeover: GameStop (GME  ) offered $56B to acquire eBay (EBAY  ) at $125 per share, a ~20% premium, with financing including up to $20B in debt and a mix of cash and stock."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GOOGL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HAWK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(HAWK  ), a signals intelligence data and analytics company with $117.66M in TTM revenue and 74.2% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HWM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Howmet Aerospace (HWM  ) will report Thursday."
+      ],
+      "latestMove": "+15.42%"
+    },
+    {
+      "symbol": "IT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- Gartner (IT  ) will report tomorrow before market open."
+      ],
+      "latestMove": "-1.17%"
+    },
+    {
+      "symbol": "KRYS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Krystal Biotech (KRYS  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+31.95%"
+    },
+    {
+      "symbol": "LMT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Israel approves fighter jet deal: Israel approved a multibillion-dollar plan to buy new F-35 jets from Lockheed Martin (LMT  ) and F-15IA jets from Boeing (BA  ) as part of a long-term military buildup."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LUMN",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Lumen Technologies (LUMN  ) will report tomorrow after market close."
+      ],
+      "latestMove": "-10.46%"
+    },
+    {
+      "symbol": "MAR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Marriott International (MAR  ) will report Wednesday."
+      ],
+      "latestMove": "+5.09%"
+    },
+    {
+      "symbol": "MASI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Masimo (MASI  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+5.92%"
+    },
+    {
+      "symbol": "MCK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics McKesson (MCK  ) will report Thursday."
+      ],
+      "latestMove": "+11.75%"
+    },
+    {
+      "symbol": "MELI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics MercadoLibre (MELI  ) will report Thursday."
+      ],
+      "latestMove": "+40.38%"
+    },
+    {
+      "symbol": "MSFT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MZTI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release The Marzetti Company (MZTI  ) has released its quarterly earnings."
+      ],
+      "latestMove": "-0.98%"
+    },
+    {
+      "symbol": "NCLH",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Norwegian Cruise Line Holdings (NCLH  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+9.59%"
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Pentagon expands AI partnerships: The Pentagon signed AI deals with firms including OpenAI  , Alphabet (GOOGL  ), Microsoft (MSFT  ), Amazon (AMZN  ), and Nvidia (NVDA  ), excluding Anthropic  ."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PARA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PRIM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Primoris Services (PRIM  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+4.93%"
+    },
+    {
+      "symbol": "RBLX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Roblox shares sink on guidance: Roblox (RBLX  ) fell 18% after cutting its 2026 bookings outlook by nearly $1B, citing slower growth from new child safety features that are limiting some uses."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "REA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(REA  ), an exploration-stage critical minerals company."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "RVTY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Revvity (RVTY  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+5.96%"
+    },
+    {
+      "symbol": "SAVEQ",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Spirit Airlines grinds to a halt: Spirit Airlines (OTC:SAVEQ  ) ceased operations early on Saturday after failing to secure a bailout during its second bankruptcy, ending its low-cost model as rising fuel prices and losses mounted."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SUJA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(SUJA  ), a health-focused beverage platform with $326.62M in TTM revenue and 26.1% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SUN",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Sunoco LP (SUN  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+94.33%"
+    },
+    {
+      "symbol": "TEM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Tempus AI (TEM  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+35.08%"
+    },
+    {
+      "symbol": "TSN",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "View definitions --------------- Recent Earnings --------------- Tyson Foods (TSN  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.43%"
+    },
+    {
+      "symbol": "TWST",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Twist Bioscience (TWST  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+19.31%"
+    },
+    {
+      "symbol": "WBD",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(WBD  ) deal and over $6B in projected cost savings."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ]
+    },
+    {
+      "name": "Regulatory Risk",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "text": "says it will guide ships through Hormuz | Monday - May 04, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.29% Pre: -0.13% Nasdaq +0.89% Pre: +0.02% Dow -0.31% Pre: -0.33% ------------------- Stock & Market News -------------------",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    },
+    {
+      "text": "* Abel hosts first Berkshire meeting: Greg Abel led his first annual meeting as CEO of Berkshire Hathaway (BRK.A  ), reaffirming the legacy of Warren Buffett and highlighting strong earnings and a record cash position.",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    },
+    {
+      "text": "* MS upgrade boosts Paramount: Paramount Skydance (PARA  ) jumped over 8% on Friday after Morgan Stanley (MS  ) upgraded the stock and raised its target, citing upside from the pending $81B Warner Bros.",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    },
+    {
+      "text": "* Used EV sales rise: U.S.",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    },
+    {
+      "text": "used electric vehicle sales rose 27.7% YoY in March, with 44% priced under $25K, as supply grows from lease returns.",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    },
+    {
+      "text": "* 10:00 AM: Factory Orders MoM",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    },
+    {
+      "text": "* Tuesday: ISM Services PMI, JOLTs Job Openings",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    },
+    {
+      "text": "* Friday: Non-Farm Payrolls, Unemployment Rate, Michigan Consumer Sentiment Prelim.",
+      "source": "Market Bullets: Spirit Airlines collapse, GameStop pitches eBay takeover, Abel hosts first Berkshire meeting as CEO"
+    }
+  ]
+}
