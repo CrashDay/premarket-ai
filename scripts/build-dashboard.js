@@ -92,7 +92,10 @@ async function loadDailyData() {
 
   for (const file of files) {
     const raw = await readFile(path.join(DATA_DIR, file), "utf8");
-    days.push(JSON.parse(raw));
+    const day = JSON.parse(raw);
+    if (/^\d{4}-\d{2}-\d{2}$/.test(String(day.date ?? ""))) {
+      days.push(day);
+    }
   }
 
   return days.sort((a, b) => a.date.localeCompare(b.date));
@@ -2095,6 +2098,9 @@ function renderPaperPortfolio(portfolio, latestDay) {
   }
 
   const positions = [...(portfolio.positions ?? [])].sort((a, b) => (b.marketValue ?? 0) - (a.marketValue ?? 0));
+  const ledger = [...(portfolio.ledger ?? portfolio.trades ?? portfolio.transactions ?? [])].sort((a, b) =>
+    String(b.executedAt ?? b.timestamp ?? b.date ?? "").localeCompare(String(a.executedAt ?? a.timestamp ?? a.date ?? "")),
+  );
   const cash = Number(portfolio.cash ?? 0);
   const marketValue = positions.reduce((sum, position) => sum + Number(position.marketValue ?? 0), 0);
   const equity = Number(portfolio.equity ?? cash + marketValue);
@@ -2113,7 +2119,7 @@ function renderPaperPortfolio(portfolio, latestDay) {
       <p class="note"><strong>Positions:</strong> ${escapeHtml(String(positions.length))}</p>
       ${portfolio.notes ? `<p class="note"><strong>Notes:</strong> ${escapeHtml(portfolio.notes)}</p>` : ""}
     </article>
-    ${positions.length
+      ${positions.length
       ? positions
           .map(
             (position) => `<article class="item">
@@ -2135,7 +2141,51 @@ function renderPaperPortfolio(portfolio, latestDay) {
           )
           .join("")
       : `<p class="empty">No simulated positions are currently tracked.</p>`}
+    <article class="item">
+      <div class="row">
+        <div>
+          <span class="ticker">Simulated Trade Ledger</span>
+          <span class="tag">${escapeHtml(String(ledger.length))} entries</span>
+        </div>
+      </div>
+      ${ledger.length
+        ? `<div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th>Date</th>
+                  <th>Action</th>
+                  <th>Symbol</th>
+                  <th>Qty</th>
+                  <th>Price</th>
+                  <th>Notional</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${ledger.map((entry) => renderPaperLedgerRow(entry)).join("")}
+              </tbody>
+            </table>
+          </div>`
+        : `<p class="empty">No simulated trades have been recorded yet.</p>`}
+    </article>
   </div>`;
+}
+
+function renderPaperLedgerRow(entry) {
+  const quantity = Number(entry.quantity ?? entry.qty ?? entry.contracts ?? 0);
+  const price = Number(entry.price ?? entry.entryPrice ?? entry.fillPrice ?? 0);
+  const notional = Number(entry.notional ?? (Number.isFinite(quantity) && Number.isFinite(price) ? quantity * price : 0));
+  const action = entry.action ?? entry.side ?? entry.type ?? "TRADE";
+  return `<tr>
+    <td>${escapeHtml(formatDateTime(entry.executedAt ?? entry.timestamp ?? entry.date))}</td>
+    <td>${escapeHtml(String(action).toUpperCase())}</td>
+    <td>${escapeHtml(entry.symbol ?? "")}</td>
+    <td>${escapeHtml(formatHoldingQuantity(quantity))}</td>
+    <td>${escapeHtml(formatCompactCurrency(price))}</td>
+    <td>${escapeHtml(formatCompactCurrency(notional))}</td>
+    <td>${escapeHtml(entry.status ?? "Simulated")}</td>
+  </tr>`;
 }
 
 function summarizeMacroDrivers(macro) {
