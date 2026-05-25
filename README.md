@@ -243,7 +243,3 @@ Then complete the browser flow and run:
 ```sh
 npm run schwab:sync -- --date YYYY-MM-DD
 ```
-
-## Manual Backup Mac
-
-If you want this Mac to remain a manual-only backup workstation while another desktop handles automation, use the runbook in [MANUAL_BACKUP.md](/Users/tonyday/premarket-ai/MANUAL_BACKUP.md).
