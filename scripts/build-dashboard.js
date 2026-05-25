@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs";
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { renderBriefingHtml, splitBriefingSections } from "./lib/briefing-html.js";
 import { buildSwingPlan, buildTrendData } from "./lib/swing-plan.js";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
@@ -3308,14 +3309,7 @@ function renderCandleScannerGlossary() {
 }
 
 function renderBriefing(markdown) {
-  const sections = splitBriefingSections(markdown);
-
-  return `<div class="briefing">${sections
-    .map((section, index) => {
-      const kicker = index === 0 ? `<div class="briefing-kicker">AI Generated Morning Read</div>` : "";
-      return `<article class="briefing-section">${kicker}${renderBriefingSection(section)}</article>`;
-    })
-    .join("")}</div>`;
+  return `<div class="briefing">${renderBriefingHtml(markdown)}</div>`;
 }
 
 function renderBriefingSectionTab(markdown, sectionTitle) {
@@ -3331,25 +3325,6 @@ function renderBriefingSectionTab(markdown, sectionTitle) {
   return `<div class="briefing"><article class="briefing-section">${renderBriefingSection(section)}</article></div>`;
 }
 
-function splitBriefingSections(markdown) {
-  const lines = String(markdown ?? "").replace(/\r/g, "").split("\n");
-  const sections = [];
-  let current = [];
-
-  for (const line of lines) {
-    if (/^##\s+/.test(line) && current.length) {
-      sections.push(current.join("\n").trim());
-      current = [line];
-      continue;
-    }
-
-    current.push(line);
-  }
-
-  if (current.length) sections.push(current.join("\n").trim());
-  return sections.filter(Boolean);
-}
-
 function headingMatches(section, targetTitle) {
   const heading = String(section ?? "").split("\n")[0] ?? "";
   return normalizeHeadingText(heading) === normalizeHeadingText(`## ${targetTitle}`);
@@ -3362,86 +3337,6 @@ function normalizeHeadingText(value) {
     .replace(/^(\d+)[.)]\s*/, "$1 ")
     .replace(/\s+/g, " ")
     .toLowerCase();
-}
-
-function renderBriefingSection(sectionMarkdown) {
-  const lines = sectionMarkdown.replace(/\r/g, "").split("\n");
-  const parts = [];
-  let index = 0;
-
-  while (index < lines.length) {
-    const line = lines[index].trim();
-
-    if (!line) {
-      index += 1;
-      continue;
-    }
-
-    const heading = line.match(/^(#{1,3})\s+(.*)$/);
-    if (heading) {
-      const level = Math.min(heading[1].length, 3);
-      parts.push(`<h${level}>${renderInlineMarkdown(heading[2])}</h${level}>`);
-      index += 1;
-      continue;
-    }
-
-    if (/^\|.*\|$/.test(line)) {
-      const tableLines = [];
-      while (index < lines.length && /^\|.*\|$/.test(lines[index].trim())) {
-        tableLines.push(lines[index].trim());
-        index += 1;
-      }
-      parts.push(renderMarkdownTable(tableLines));
-      continue;
-    }
-
-    if (/^>\s?/.test(line)) {
-      const quoteLines = [];
-      while (index < lines.length && /^>\s?/.test(lines[index].trim())) {
-        quoteLines.push(lines[index].trim().replace(/^>\s?/, ""));
-        index += 1;
-      }
-      parts.push(`<blockquote>${quoteLines.map((value) => renderInlineMarkdown(value)).join("<br>")}</blockquote>`);
-      continue;
-    }
-
-    if (/^[-*]\s+/.test(line)) {
-      const items = [];
-      while (index < lines.length && /^[-*]\s+/.test(lines[index].trim())) {
-        items.push(lines[index].trim().replace(/^[-*]\s+/, ""));
-        index += 1;
-      }
-      parts.push(`<ul>${items.map((item) => `<li>${renderInlineMarkdown(item)}</li>`).join("")}</ul>`);
-      continue;
-    }
-
-    if (/^\d+[.)]\s+/.test(line)) {
-      const items = [];
-      while (index < lines.length && /^\d+[.)]\s+/.test(lines[index].trim())) {
-        items.push(lines[index].trim().replace(/^\d+[.)]\s+/, ""));
-        index += 1;
-      }
-      parts.push(`<ol>${items.map((item) => `<li>${renderInlineMarkdown(item)}</li>`).join("")}</ol>`);
-      continue;
-    }
-
-    const paragraph = [];
-    while (index < lines.length) {
-      const current = lines[index].trim();
-      if (!current) {
-        index += 1;
-        break;
-      }
-      if (/^(#{1,3})\s+/.test(current) || /^\|.*\|$/.test(current) || /^>\s?/.test(current) || /^[-*]\s+/.test(current) || /^\d+[.)]\s+/.test(current)) {
-        break;
-      }
-      paragraph.push(current);
-      index += 1;
-    }
-    parts.push(`<p>${renderInlineMarkdown(paragraph.join(" "))}</p>`);
-  }
-
-  return parts.join("");
 }
 
 function renderMarkdownTable(lines) {

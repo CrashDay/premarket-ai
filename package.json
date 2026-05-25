@@ -15,9 +15,10 @@
     "serve": "node scripts/serve-dashboard.js",
     "brief": "node scripts/generate-report.js",
     "dashboard": "node scripts/build-dashboard.js",
-    "build:core": "npm run brief && npm run news && npm run candles && npm run schwab:sync -- --soft-fail && npm run dashboard",
+    "build:core": "npm run brief && npm run news && npm run candles && npm run schwab:sync -- --soft-fail && npm run dashboard && npm run publish:site",
     "build": "npm run gmail:import && npm run build:core",
-    "daily": "npm run build"
+    "daily": "npm run build",
+    "publish:site": "node scripts/publish-to-crash-motorsport.js"
   },
   "dependencies": {
     "@google-cloud/local-auth": "^3.0.1",
