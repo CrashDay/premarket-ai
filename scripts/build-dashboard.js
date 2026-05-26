@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs";
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { renderBriefingHtml, splitBriefingSections } from "./lib/briefing-html.js";
+import { renderBriefingHtml, renderBriefingSection, splitBriefingSections } from "./lib/briefing-html.js";
 import { buildSwingPlan, buildTrendData } from "./lib/swing-plan.js";
 
 const ROOT = path.resolve(import.meta.dirname, "..");

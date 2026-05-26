@@ -56,7 +56,7 @@ function renderMarkdownTable(lines) {
     .join("")}</tbody></table>`;
 }
 
-function renderBriefingSection(sectionMarkdown) {
+export function renderBriefingSection(sectionMarkdown) {
   const lines = sectionMarkdown.replace(/\r/g, "").split("\n");
   const parts = [];
   let index = 0;
