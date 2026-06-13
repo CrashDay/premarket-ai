@@ -1,0 +1,714 @@
+{
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-10T12:53:17.904Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Breakfast News: Casey's Unveils Best Year Yet",
+      "file": "2026-06-10-market-brieffoolbreakfast-news-breakfast-news-caseys-unveils-best-year-yet-19eb14d2cbf29be8.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Wed, 10 Jun 2026 11:31:24 +0000",
+      "profile": "Motley Fool Stock Advisor",
+      "role": "source-backed recommendation",
+      "weight": 18,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/yM9RRJvPKTv7Y_BogklUVg~~/AAQRxRA~/w0m6qN4rXF_Y_lEQ8m2SjIq0-Qo7PbF2fgtKSxmlr3AjpY1srXRrFepJXZPxF5eD68RzO9PEIDn5HTkn9mM3MQwzwvBt1_-nVEHR05mKF-w2Ju6kwF4XdBeDbX9xYKx5cgPdQVwAJw_apH-28b89Ty1RaoHqdNWDyf-PCpQ_rC8OmkrRe55f1zSBtZrRmm0CuB1YRD8_2dO5TuXMWZYHIA0rFdj_5q5wYwG5MBD9r-nW2Rh74N8z0PsLEUo71CMxJ0JoGXHRSXhCpBMRxMKNV7Ktbosu49uhkagE4ZvxjIRNN7Nna0fOGWl5QCwSssO9F_vhlG9afI5J4JsbJCm75xPVTdEgoM8y3rdrD6GGSdiYW95IyDH2cTb-Up7nlpzRoQpN7_-wzhPYyfSxjULaSubYPkkqgH2p85S5cvwzkF81iYFFA6JTSzzlcG04iw6U",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/8WfMi5nHUT35TfyJ98pjUA~~/AAQRxRA~/-Ec5c_pyh08kBxdVKSz5FsSiVxhZcCoyhGAu4PfZobokE3FhHZ8_rEFaeoT_OLjcu4hpEB_ZrdpPb7DqThP2zbp224zPyQ8R2gZnfOFPZHm0tz46FVU23CQxLVu3XQeV21H_oUdWzgf_B0Yjx0Mi5y0ChKZ0D9LBVkIeRajyS0N8u7PgW7hYxc8KdGgCY-pe8Luiqzs-7tmHZVuGi5p9h8HGkUmXQArsV_9QH7Vp9lyDPM8paikvQWWNdY7LzF98s27NEkzFPhfgSfRHp1aYLZ31NpEdLWRbwvMIX3zZAaoUVJ3LNJHLNGEsoVIMT2tzaxGJHcMRPpczaxff1vGDpobwAFVvmDLtxbPKvg_oudDlWzlVa7j-nv7iwVXNYqApUXw-jlJFsjBSA2mnhzzqYZ5JKUnvtj3HremWH8cwMCnFd8RmM3vkTGC8aURUYDq6",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/hCXzvVnXSsjT4T8GQzM3zQ~~/AAQRxRA~/w0m6qN4rXF_Y_lEQ8m2SjIq0-Qo7PbF2fgtKSxmlr3AjpY1srXRrFepJXZPxF5eDz98RxltJO5uyFk_obfC2zVbTELiOiQplUSXt7ePTacOBBjlWb2HeXMnLAD7VoqQxL5INogARTl_guc74qtP9errTGa7EWMvUMoAZ8yV7Ygwzvsvgn9oPAzpQ0fx5t9vRbVMNP-SLiYNbCMi0Tb_z7cdZ0qpsYVzCpze8GtbmmqkDRlxXcn9iN1Nr6h7f56pQ3962Bl-DSMz8weXPJnsXftLBPunQTzrWKNOyNFBCQtqBq_vvPv8IH3BBko0rBeaRnGYL28OPwjobyb246rTtOph_emXq_9bImF1vG0txdF3MqOWwvpaTxVJR0wVXJWzergaaSWwq8W9TQxLBxS-_6DOKUKUAmXgfUjH9KevbqGLxu-W58tfDDzCclaqcPPh8",
+          "title": "a ‘Cautious’ investment",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/o4LCCcDqbYHYR2q19yAh2g~~/AAQRxRA~/E02LYWCRXWgqvVJfTEdo-UJPjBtSQpL9GtoWMJNisEGbvt_f30eBbpDYdVMAv7ur53pMvrYpSAS9bNk45Mukc_wwjbzPZMfNb-fXeJLU7jTTj7tk920QKkRefJr3x7G7JciwyLxdzPP0P1xIGJIHN_YA5BFigA0VutFUxsm_PxPMh7bnMgAMDo7JvWDt8BF3LOqCCSDfFmZBGzFZmjZbWJh47WsQrljRsM7KCZf0qvYqAOyoC8Ae-skAPJfoKUcepC-D52HAkmBeEouui0t7IquVc3hAI3jsUvPfdqMpPAsoiToPG6bc-ZjtZXz3NS4JF88jNQkfXLLDVKbUWIXGLWpVAFheHYZF_G8lRWyCtdGzNAVLZyK7rIMq5VxbSPz69k00p_21g5qOlC-m6wboYSXPy-LGpLswjiJ-VF3SivlzVkgrZps3FW_wUzm_D8qNC36iuZvKhEb0XQmLZ2kq2J9QnC_0bvuliKdYMwLNGd4~",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/VmTjbhFwL6dZpXPyBwy_8Q~~/AAQRxRA~/C4LOkk7QGsKgY_1JmFZ56lIozVXD_RccaorJnUq7DGgL60bDbu8GG3R7XikKpyAiA6kw9xjSh5X8id5x2nZk88EXvCaKRjwTgRpOlsX0WeEyKKLuSD3_2P4_hUvU6WDdj6ZF52icYgHcySZ_42JN0RqcGFDbLxJu8LkYqN1Eep2ig_m4G2BNHrdysmfprgbj588JqgefF5nr4asuHG2FYhSM_i8neTv2DC05b68dwPvooxS-y4rfl0meLCrS5CVXm7oE-NzPtyLt385HNOghVSQFSFYxO1XfEpylwT-QOksjaYibHgJ61_RgTa2bhRx2-bHQSX0F_cHhl8cSOe1VqIUEJAIHXTd_XChyUGlbr5aODpMy-eKj2lFy4kliAxudaxJXe_dsLh8-xT2CuN7galTIL18hAqDy31Z_pUCcDyvoGNxMp45YklaJryrv_rP71eAU1ayXwALCnPHAfbxcWA~~",
+          "title": "noted the simplicity of Casey’s business model",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/TWutUCwqIKRdJNeD8Bo3_A~~/AAQRxRA~/C4LOkk7QGsKgY_1JmFZ56lIozVXD_RccaorJnUq7DGjLEK7qviG1QaNHe9k8JuDVv_Mvg_58IvRe-Xd7KkM8AN3uuBf4PFcgbLno5Vl36B59PsrjYFEOoz-3kvZ0551BghCAB8D193AQCv6u_wE0efgMn4cWSKF_KUipo9i_Xh1wfzZFjsDFA6DZEYnCUZJxMnUGG1Ii5hFnX7mfDGOeOMS4JBdIEKAtrFSTqbAOlsXMwUr3j_J-5zpuKA_IpHQwjOrJ_OO7eMDxU5qVe3Qv013656lOQeyU_po_Gne4OlbLxvcrXpPhdHd1V63_vLDjVTnp25MgXhJhErQ4tXNPR_zloOkwtolFcToR5qQIXLpbVlM3Gp-xB9FJSORoq4zVhaHuRMAbP6mgGS5WV1ftacrNKRpBtgENyy_pmtsdkfzgy4cxAgfoMjOPxA8lRh2Qjoh8ERB2qf6hQOqGX4Co4g~~",
+          "title": "Discover why SA recommends Casey's",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/DlUNadmcbUO--39ElAWZFg~~/AAQRxRA~/-Ec5c_pyh08kBxdVKSz5FsSiVxhZcCoyhGAu4PfZobokE3FhHZ8_rEFaeoT_OLjcrg6jEKa7npnfXBqfA1jKb-8C45yECY0_NnABN_6EFzsw3z_xvKkE7BjVwPIj3OnjMNfkPBZwQ7yGx3w1BsFV_Oee4dB9q5Cdt99qOnELUYPQnFZx7wMa1vPaiKwRS61EWZvABRMYwdh28DDjxktlQpYakcNHsZVPQWy-XvzctrxdUjNX7TPmGL4hko_wnc1OBpxsNlBvfUef_wwyVRVnsVjt4Tg0DrbXbCEVjmlumU8jWala_fnyF4FN3-PSG9qOYOf78wwIuZlMP6QmTxat3ZX_D7XTdoEMk2tcuRjVWnTAItkSqDWd5P3V7Q-JIFhYvdPTyom6kKwUDczVYgEDOVTmMjaiyhoC9mYRk9064_Pv86Yqm2msn_r2RI_44nw2",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/eebiEMVBHq1Kdv2F53fZHw~~/AAQRxRA~/-Ec5c_pyh08kBxdVKSz5FsSiVxhZcCoyhGAu4PfZobokE3FhHZ8_rEFaeoT_OLjc39xUG5hPa3Hd2ZyQdVnDzot2Y0Gg3nt3y62aivEtAwA1_Vk17VuGmigyHmZk_16lgpCwsf4cr9h88T3ml5_3M5kKiE-VEq1qdi-H9sfAqets_XULlAF8kffmxxDdiHDNgLLzBe1xRyDBHdSDGUYibP0qQplh34OIMYLH1P9tRd9XJLJwFxtEKLzaW4Uzkha8Fpf_KPf5t0g11X0UxVTq3vEB9eJV4LFEv1V-9IJc5AykZDSlrRXCDDAyEdt0Tf5OOMeElfpO2rSXshNZRedkl7414b2faxstgPYFTNfwZ6ClSiEHXbasFgDXokr0xcw_uCDW6llHxK9MfmjoPvBMIzWnceQUAU6dldFD4FZWCFxqmhWd7mN0Cm8Kw7UqHMnK",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/8-MnfvcEki5pgHryWkrY7A~~/AAQRxRA~/-Ec5c_pyh08kBxdVKSz5FsSiVxhZcCoyhGAu4PfZobokE3FhHZ8_rEFaeoT_OLjc-KSONn7-dRxQB-PorrThbPcaZbEnqtPzD20WotUhd4QVwULFwtjC1DUW-w32TOOZHqHrFsP9hXDmUrlz44gEk5mcHmWG4Uy7ZpJBB7oHLDnUs9LpEefk6Er0YQ5ea3TFbl3_ZMhRaFjtKnbX3SQmGzIV_hkSJ6xOSaIlhKrjjGMCuphO03RZ-i4ZKQsNh_ISuN0SrRWqxJospmH5x84b5nf_mSznZL7GZKdN_HOEOhLO9SeOIByQX8YHAAxcoKg6Ube4KHYPNmWfEPSfsUr7N5DXb8L2HUSAZa5le0E9F2VgXBD05xkm3enokZge0z8d5uIQWwZqQ8MA1ZpQ46Y8b5bwb2_N_KotPIsKWR97Afxwn4yCRIPg9eIO-UpT_wf4",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/8Wz2QA_XQEFj6hpvjTv_4Q~~/AAQRxRA~/-Ec5c_pyh08kBxdVKSz5FsSiVxhZcCoyhGAu4PfZobokE3FhHZ8_rEFaeoT_OLjcFlMSLbJc7q4JeC5A6F9kWhNih3eI5rLfXOoRdY8sc8ftEmkJ9id1g07RqvL63FECdMIXxWC_YkIOIeHpv0-sTmAQ3n-LiWOT4hCaxlzFcG678sh8bwZdrEImSudr_vCTw60uQXl5u1dvemMt6igQBVeLlBZpITF1WbZbo5w0hxK16TlSwlNz3eBqTO-_zUl1QpjsCL1gKiNYwXq-_GFXUNarieOHZRVTrqVdTezQniKXY4Nfv-mD8p6Kie_4uSAW6WLK8ODTXkyWIDh4eNbhaYR9Tb_CxeY9joNWzwM_PN5XyrNU49KmDLydmVTDYlQguGi2kdwM4T3snrdYKms796SmU5OAuXBvjDObQt1pHrID6VsyCgVCJxNLpMYkJxyy",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/qVVbA3-Y8MSDei37bXp2cQ~~/AAQRxRA~/m9uimzZelkkLGUBHDRlt6sZUnidGDWOeqcpxmi4kAlQlbVdq_NGdiQlDBEDL6lauSYWmrjTH-pMvD9ati5i3JU6-j8s5rKll9zatu-ZzytbbhJcJPvomGnrU0r5w4WK4BUz0jlrv4nq_2vQOMDw7TYZjBoVljminG2sh3QhY1b-kVdztDz-aBqfpt7cHCn24V3cMTX--2xJAPKgTsW5ygyzfg47EZROplmrzyfX-QR0v81Q7AU52Zmh0ut-xjzxTaevuvWKU7L5FwU6h5NLv8t3CNzsdQIRDQZdf8k6_qn-OFjWS8cVXB2aRS2YbG_t7iaB7LVRMJ_KkBJDo3-mmgS7YjZoWncMHECjnFt7S7A9uQWigPRch9rWmcgODVPpy2v1NfYWGGISxpfPSBgLLMGXW-93-9hqnVtPgO28hwYkMj4o2AfZiA-RysUObW9Pc",
+          "title": "Listen to Fools talk about the new Siri",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/47C64KuVTLYW0xjjYE7AxQ~~/AAQRxRA~/W0XIFi7JAPFdGpL2s3DZ_OhFNNQ1Xkmle3sogFovbuFUb-Q46VBKv1Zi6xjpP1PNoCFB4tlrM98RARHVqAo8A7EOoD9vNobLDRDEmTnj2zSgmCMW4L2EDXSciaOBTA19ybp36DjdMYPg45hou-7z4chepsEb4QANKWlSNKfS9LQpKv0kRW8dhr3Rx9b-H-Ib8SRZLXKNIg-9pHAW2-erXflYGWfwGEaO-PK6QgRpNDPttQPQ0Ft3rAELcTy5a6-23ikjY_1Qo4zL3YGHEMuFJU55K40kGfmu7g2kSAsbGeVNlECDl6bHnk95ZSTco0LILSVyQ3vP4kx-km4Me4cHMiLV6C-Z6ExFIN1XpSE6gVQO5MxZa67YTdwJujOvqjArKLVfdcRm7iYuIi_bZpqCBYrHZd0xl3BbnbyoqQMqtmTbFZkvkkWf4BGBL5CvikP5",
+          "title": "Motley Fool link",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1418,
+      "summaryHints": [
+        "Casey’s three-year strategic success, Apple’s new collaboration with Google, and more… Breakfast NewsClick here to read online .",
+        "JUNE 10, 2026Tuesday's MarketsS&P 500 7,387 (-0.26%)Nasdaq 25,679 (-0.97%)Dow 50,872 (+0.17%)Bitcoin 62,003 (-1.94%)Image shows chart of Casey's earnings per share over the past 5 years -------------------------------------------------- 1.",
+        "Casey’s Posts EPS Jump, Predicts Slowing Growth -------------------------------------------------- Casey's General Stores (NASDAQ:CASY ) – recommended in Stock Advisor by Team Rule Breakers as a ‘Cautious’ investment – reported a record fiscal year with fourth-quarter earnings yesterday, with EPS soaring 66.2% year over year (YoY).",
+        "The company raised its quarterly dividend 14%, for the 27th consecutive year of increases.",
+        "* “Our team closed out the three-year strategic plan on an extremely high note”: CEO Darren Rebelez also spoke of “$714 million of net income and nearly $1.5 billion in EBITDA.” Management expects profit growth to moderate in the current fiscal year, guiding for 2% to 5% growth in same-store inside sales."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Casey’s Posts EPS Jump, Predicts Slowing Growth -------------------------------------------------- Casey's General Stores (NASDAQ:CASY ) – recommended in Stock Advisor by Team Rule Breakers as a ‘Cautious’ investment – reported a record fiscal year with fourth-quarter earnings yesterday, with EPS soaring 66.2% year over year (YoY). The company raised its quarterly dividend 14%, for the 27th consecutive year of increases. * “Our team closed out the three-year strategic plan on an extremely high note”: CEO Darren Rebelez also spoke of “$714 million of net income and nearly $1.5 billion in EBITDA.” Management expects profit growth to moderate in the current fiscal year, guiding for 2% to 5% growth in same-store inside sales. The stock gained around 1% in pre-market trading. * “Casey's has a great business model that really, in many ways, it couldn't be simpler”: Fool contributing analyst Dan Caplinger recently noted the simplicity of Casey’s business model : “Sell gas, sell pizza, sell some other convenience store goods, and focus on areas where there just aren't going to be that many alternatives.” Discover why SA recommends Casey's ------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/hCXzvVnXSsjT4T8GQzM3zQ~~/AAQRxRA~/w0m6qN4rXF_Y_lEQ8m2SjIq0-Qo7PbF2fgtKSxmlr3AjpY1srXRrFepJXZPxF5eDz98RxltJO5uyFk_obfC2zVbTELiOiQplUSXt7ePTacOBBjlWb2HeXMnLAD7VoqQxL5INogARTl_guc74qtP9errTGa7EWMvUMoAZ8yV7Ygwzvsvgn9oPAzpQ0fx5t9vRbVMNP-SLiYNbCMi0Tb_z7cdZ0qpsYVzCpze8GtbmmqkDRlxXcn9iN1Nr6h7f56pQ3962Bl-DSMz8weXPJnsXftLBPunQTzrWKNOyNFBCQtqBq_vvPv8IH3BBko0rBeaRnGYL28OPwjobyb246rTtOph_emXq_9bImF1vG0txdF3MqOWwvpaTxVJR0wVXJWzergaaSWwq8W9TQxLBxS-_6DOKUKUAmXgfUjH9KevbqGLxu-W58tfDDzCclaqcPPh8",
+              "title": "a ‘Cautious’ investment",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/VmTjbhFwL6dZpXPyBwy_8Q~~/AAQRxRA~/C4LOkk7QGsKgY_1JmFZ56lIozVXD_RccaorJnUq7DGgL60bDbu8GG3R7XikKpyAiA6kw9xjSh5X8id5x2nZk88EXvCaKRjwTgRpOlsX0WeEyKKLuSD3_2P4_hUvU6WDdj6ZF52icYgHcySZ_42JN0RqcGFDbLxJu8LkYqN1Eep2ig_m4G2BNHrdysmfprgbj588JqgefF5nr4asuHG2FYhSM_i8neTv2DC05b68dwPvooxS-y4rfl0meLCrS5CVXm7oE-NzPtyLt385HNOghVSQFSFYxO1XfEpylwT-QOksjaYibHgJ61_RgTa2bhRx2-bHQSX0F_cHhl8cSOe1VqIUEJAIHXTd_XChyUGlbr5aODpMy-eKj2lFy4kliAxudaxJXe_dsLh8-xT2CuN7galTIL18hAqDy31Z_pUCcDyvoGNxMp45YklaJryrv_rP71eAU1ayXwALCnPHAfbxcWA~~",
+              "title": "noted the simplicity of Casey’s business model",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/TWutUCwqIKRdJNeD8Bo3_A~~/AAQRxRA~/C4LOkk7QGsKgY_1JmFZ56lIozVXD_RccaorJnUq7DGjLEK7qviG1QaNHe9k8JuDVv_Mvg_58IvRe-Xd7KkM8AN3uuBf4PFcgbLno5Vl36B59PsrjYFEOoz-3kvZ0551BghCAB8D193AQCv6u_wE0efgMn4cWSKF_KUipo9i_Xh1wfzZFjsDFA6DZEYnCUZJxMnUGG1Ii5hFnX7mfDGOeOMS4JBdIEKAtrFSTqbAOlsXMwUr3j_J-5zpuKA_IpHQwjOrJ_OO7eMDxU5qVe3Qv013656lOQeyU_po_Gne4OlbLxvcrXpPhdHd1V63_vLDjVTnp25MgXhJhErQ4tXNPR_zloOkwtolFcToR5qQIXLpbVlM3Gp-xB9FJSORoq4zVhaHuRMAbP6mgGS5WV1ftacrNKRpBtgENyy_pmtsdkfzgy4cxAgfoMjOPxA8lRh2Qjoh8ERB2qf6hQOqGX4Co4g~~",
+              "title": "Discover why SA recommends Casey's",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "CASY"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Currently restricted to in-house data centers, the move will expand Apple’s AI offerings to run on Google Cloud. Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power. * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.” * “Apple is looking more dependent than ever on Google”: Parmy Olson at Bloomberg highlighted Apple’s deepening relationship with its major competitor, suggesting “In some respects Apple is becoming a wrapper around Google’s capabilities.” The new Gemini-powered Siri, meanwhile, will not initially launch in the European Union or China due to regulatory issues. Listen to Fools talk about the new Siri -----------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/qVVbA3-Y8MSDei37bXp2cQ~~/AAQRxRA~/m9uimzZelkkLGUBHDRlt6sZUnidGDWOeqcpxmi4kAlQlbVdq_NGdiQlDBEDL6lauSYWmrjTH-pMvD9ati5i3JU6-j8s5rKll9zatu-ZzytbbhJcJPvomGnrU0r5w4WK4BUz0jlrv4nq_2vQOMDw7TYZjBoVljminG2sh3QhY1b-kVdztDz-aBqfpt7cHCn24V3cMTX--2xJAPKgTsW5ygyzfg47EZROplmrzyfX-QR0v81Q7AU52Zmh0ut-xjzxTaevuvWKU7L5FwU6h5NLv8t3CNzsdQIRDQZdf8k6_qn-OFjWS8cVXB2aRS2YbG_t7iaB7LVRMJ_KkBJDo3-mmgS7YjZoWncMHECjnFt7S7A9uQWigPRch9rWmcgODVPpy2v1NfYWGGISxpfPSBgLLMGXW-93-9hqnVtPgO28hwYkMj4o2AfZiA-RysUObW9Pc",
+              "title": "Listen to Fools talk about the new Siri",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "AAPL",
+            "GOOG",
+            "INTC",
+            "NVDA",
+            "PCC"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy",
+            "Semiconductors"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Volatility Hits Nasdaq and Chip Stocks ----------------------------------------- S&P 500 futures dipped close to 1% this morning as geopolitical stability fractured in the Middle East, with Nasdaq futures down more than 1.4%. This follows a volatile session for chip stocks yesterday, as anticipation of Friday’s SpaceX IPO builds. By early afternoon, the Philadelphia Semiconductor Index had slumped nearly 9% on the day, before a late rally saw tech stocks recover much of their early losses. * A “sign of excessive speculation”: In a recent client note from head of U.S. equity Savita Subramanian, strategists at Bank of America (NYSE:BAC ) pointed to stocks on high P/E ratios significantly outperforming lower P/E stocks, noting 7 of their 10 bear-market signals have been triggered in the past few months. * “Investors are more pessimistic after their home country loses in the World Cup knockout round”: Here’s one for the soccer fans, as Mark Hulbert at MarketWatch observed that if a country loses in the elimination stage, its stock market dips the next day on average. The USMNT takes on Paraguay on Friday… SpaceX IPO day! See how SpaceX and Rocket Lab face off A message from The Motley Fool <p><strong>After the dot-com peak, the S&P 500 lost money for a full decade. A broader portfolio of the same 500 stocks gained 65%.</strong></p> <p>Today, the market is more concentrated than it was at the dot-com peak. The top 10 holdings make up over 35% of the entire S&P 500 &mdash; nearly double what it was a decade ago.</p> <p>History says what happens next tends to favor the stocks everyone else is ignoring.</p> <p>Tom Gardner built a 50-stock portfolio designed for exactly this shift &mdash; spanning innovation, small caps, beaten-up turnarounds, and defensive balance.</p> <p>And The Motley Fool is investing $100,000 of its own money into it alongside members.</p> <p><a href=\" the full portfolio here</a></p> ------------------------------------------",
+          "links": [],
+          "tickers": [
+            "BAC"
+          ],
+          "themes": [
+            "Defense Spending",
+            "Space Economy",
+            "Financials",
+            "Semiconductors"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Today’s Earnings You Won’t Want to Miss ------------------------------------------ Oracle (NYSE:ORCL ) is due to report fourth-quarter earnings after today’s closing bell, in a week that saw OpenAI file documentation ahead of its planned IPO. The company hasn’t decided on timing, but its reliance on Oracle Cloud Infrastructure gives investors something extra to watch. * Cloud Infrastructure revenue growth of 91% expected: Ambitious Wall Street guidance suggests Oracle will build on Q3 cloud revenue growth of 44% YoY, when management set a full-year revenue target of $90 billion. * Chewy (NYSE:CHWY ) – recommended by Team Rule Breakers – reported 7.7% net sales growth YoY in Q1 this morning, with nearly 200,000 net customer additions, and saw gross and net margins improve. The stock rose over 5% in a pre-market response. Dig into Chewy's growing customer spend ------------------------------------------",
+          "links": [],
+          "tickers": [
+            "CHWY",
+            "ORCL"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Ensure You Have the Best Funds and ETFs ------------------------------------------ Robert Brokamp ROBERT BROKAMP, CFP, EA While choosing a fund is an efficient way to gain exposure to a segment of the investment universe, it's usually not a set-it-and-forget-it decision. You should regularly monitor your funds to ensure that they're the best available. This is particularly important if you invest in actively managed funds since you're betting against the odds. According to the Standard & Poor's Indices Vs. Active Funds report, approximately 80% to 90% of actively managed funds underperform a relevant index over a 10-year period. However, even index funds and ETFs should get an annual review. Index providers and fund companies often change their methodologies and fees. Plus you should regularly assess whether a particular fund is fulfilling the purpose for which you bought it. Find out if your fund earns its fees *************************************************",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 6",
+          "text": "Today’s Take: Is It a Bargain – Or Just Cheap? ************************************************* Anthony Schiavone A cheap stock is when the investment thesis relies on other investors to pay a higher multiple. A stock is a bargain when the management team is actively converting the cheap valuation into an opportunity through share repurchases, asset sales, spinoffs, or even an outright sale of the company. — ANTHONY SCHIAVONE Jason Moser I tend to start out assuming the market’s got it right and the stock is cheap for a reason. The key is figuring out the reason. Is it company-specific or more market-related? Does leadership continue to move the goal posts? I look to identify the catalyst(s) that will turn things around. — JASON MOSER • TEAM RULE BREAKERS Here’s a sneak preview, but head to the article to share how you tell whether a company is a bargain or just cheap, or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 7",
+          "text": "Your Take ************** YESTERDAY'S TOP RESPONSE We asked: On a scale of 1-10, how excited are you about the upcoming OpenAI IPO? What excites you or what concerns you about OpenAI as an investment? B Member beatSPdreamer said “7. I am not planning on buying… but I do think it is interesting to see 3 large companies going public around the same time. I'm not sure anything like this has happened before. It will be interesting to see how the movement of capital affects the valuations of other companies … I wonder if it will open up opportunities elsewhere?” See more great answers from our Foolish community TODAY’S QUESTION Which, if any, positions have you sold all or some of from your portfolio in the last month, and why? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Currently restricted to in-house data centers, the move will expand Apple’s AI offerings to run on Google Cloud. * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.”"
+          ]
+        },
+        {
+          "symbol": "BAC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "equity Savita Subramanian, strategists at Bank of America (NYSE:BAC ) pointed to stocks on high P/E ratios significantly outperforming lower P/E stocks, noting 7 of their 10 bear-market signals have been triggered in the past few months."
+          ]
+        },
+        {
+          "symbol": "CASY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Casey’s Posts EPS Jump, Predicts Slowing Growth -------------------------------------------------- Casey's General Stores (NASDAQ:CASY ) – recommended in Stock Advisor by Team Rule Breakers as a ‘Cautious’ investment – reported a record fiscal year with fourth-quarter earnings yesterday, with EPS soaring 66.2% year over year (YoY)."
+          ]
+        },
+        {
+          "symbol": "CHWY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Chewy (NYSE:CHWY ) – recommended by Team Rule Breakers – reported 7.7% net sales growth YoY in Q1 this morning, with nearly 200,000 net customer additions, and saw gross and net margins improve."
+          ]
+        },
+        {
+          "symbol": "GOOG",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC)."
+          ]
+        },
+        {
+          "symbol": "INTC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power."
+          ]
+        },
+        {
+          "symbol": "ORCL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Today’s Earnings You Won’t Want to Miss ------------------------------------------ Oracle (NYSE:ORCL ) is due to report fourth-quarter earnings after today’s closing bell, in a week that saw OpenAI file documentation ahead of its planned IPO."
+          ]
+        },
+        {
+          "symbol": "PCC",
+          "mentions": 4,
+          "move": null,
+          "notes": [
+            "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.”"
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Space Economy",
+        "Financials",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": []
+    }
+  ],
+  "readingList": [
+    {
+      "title": "a ‘Cautious’ investment",
+      "note": "Casey’s Posts EPS Jump, Predicts Slowing Growth -------------------------------------------------- Casey's General Stores (NASDAQ:CASY ) – recommended in Stock Advisor by Team Rul…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/hCXzvVnXSsjT4T8GQzM3zQ~~/AAQRxRA~/w0m6qN4rXF_Y_lEQ8m2SjIq0-Qo7PbF2fgtKSxmlr3AjpY1srXRrFepJXZPxF5eDz98RxltJO5uyFk_obfC2zVbTELiOiQplUSXt7ePTacOBBjlWb2HeXMnLAD7VoqQxL5INogARTl_guc74qtP9errTGa7EWMvUMoAZ8yV7Ygwzvsvgn9oPAzpQ0fx5t9vRbVMNP-SLiYNbCMi0Tb_z7cdZ0qpsYVzCpze8GtbmmqkDRlxXcn9iN1Nr6h7f56pQ3962Bl-DSMz8weXPJnsXftLBPunQTzrWKNOyNFBCQtqBq_vvPv8IH3BBko0rBeaRnGYL28OPwjobyb246rTtOph_emXq_9bImF1vG0txdF3MqOWwvpaTxVJR0wVXJWzergaaSWwq8W9TQxLBxS-_6DOKUKUAmXgfUjH9KevbqGLxu-W58tfDDzCclaqcPPh8",
+          "title": "a ‘Cautious’ investment",
+          "label": "a ‘Cautious’ investment"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/VmTjbhFwL6dZpXPyBwy_8Q~~/AAQRxRA~/C4LOkk7QGsKgY_1JmFZ56lIozVXD_RccaorJnUq7DGgL60bDbu8GG3R7XikKpyAiA6kw9xjSh5X8id5x2nZk88EXvCaKRjwTgRpOlsX0WeEyKKLuSD3_2P4_hUvU6WDdj6ZF52icYgHcySZ_42JN0RqcGFDbLxJu8LkYqN1Eep2ig_m4G2BNHrdysmfprgbj588JqgefF5nr4asuHG2FYhSM_i8neTv2DC05b68dwPvooxS-y4rfl0meLCrS5CVXm7oE-NzPtyLt385HNOghVSQFSFYxO1XfEpylwT-QOksjaYibHgJ61_RgTa2bhRx2-bHQSX0F_cHhl8cSOe1VqIUEJAIHXTd_XChyUGlbr5aODpMy-eKj2lFy4kliAxudaxJXe_dsLh8-xT2CuN7galTIL18hAqDy31Z_pUCcDyvoGNxMp45YklaJryrv_rP71eAU1ayXwALCnPHAfbxcWA~~",
+          "title": "noted the simplicity of Casey’s business model",
+          "label": "noted the simplicity of Casey’s business model"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "tickers": [
+        "CASY"
+      ],
+      "score": 25
+    },
+    {
+      "title": "Listen to Fools talk about the new Siri",
+      "note": "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA )…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/qVVbA3-Y8MSDei37bXp2cQ~~/AAQRxRA~/m9uimzZelkkLGUBHDRlt6sZUnidGDWOeqcpxmi4kAlQlbVdq_NGdiQlDBEDL6lauSYWmrjTH-pMvD9ati5i3JU6-j8s5rKll9zatu-ZzytbbhJcJPvomGnrU0r5w4WK4BUz0jlrv4nq_2vQOMDw7TYZjBoVljminG2sh3QhY1b-kVdztDz-aBqfpt7cHCn24V3cMTX--2xJAPKgTsW5ygyzfg47EZROplmrzyfX-QR0v81Q7AU52Zmh0ut-xjzxTaevuvWKU7L5FwU6h5NLv8t3CNzsdQIRDQZdf8k6_qn-OFjWS8cVXB2aRS2YbG_t7iaB7LVRMJ_KkBJDo3-mmgS7YjZoWncMHECjnFt7S7A9uQWigPRch9rWmcgODVPpy2v1NfYWGGISxpfPSBgLLMGXW-93-9hqnVtPgO28hwYkMj4o2AfZiA-RysUObW9Pc",
+          "title": "Listen to Fools talk about the new Siri",
+          "label": "Listen to Fools talk about the new Siri"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "INTC",
+        "NVDA"
+      ],
+      "score": 23
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": -1,
+    "items": [
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Casey's Unveils Best Year Yet",
+        "note": "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Currently restricted to in-house data centers, the move will expand Apple’s AI offerings to run on Google Cloud. Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power. * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.” * “Apple is looking more dependent than ever on Google”: Parmy Olson at Bloomberg highlighted Apple’s deepening relationship with its major competitor, suggesting “In some respects Apple is becoming a wrapper around Google’s capabilities.” The new Gemini-powered Siri, meanwhile, will not initially launch in the European Union or China due to regulatory issues. Listen to Fools talk about the new Siri -----------------------------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/qVVbA3-Y8MSDei37bXp2cQ~~/AAQRxRA~/m9uimzZelkkLGUBHDRlt6sZUnidGDWOeqcpxmi4kAlQlbVdq_NGdiQlDBEDL6lauSYWmrjTH-pMvD9ati5i3JU6-j8s5rKll9zatu-ZzytbbhJcJPvomGnrU0r5w4WK4BUz0jlrv4nq_2vQOMDw7TYZjBoVljminG2sh3QhY1b-kVdztDz-aBqfpt7cHCn24V3cMTX--2xJAPKgTsW5ygyzfg47EZROplmrzyfX-QR0v81Q7AU52Zmh0ut-xjzxTaevuvWKU7L5FwU6h5NLv8t3CNzsdQIRDQZdf8k6_qn-OFjWS8cVXB2aRS2YbG_t7iaB7LVRMJ_KkBJDo3-mmgS7YjZoWncMHECjnFt7S7A9uQWigPRch9rWmcgODVPpy2v1NfYWGGISxpfPSBgLLMGXW-93-9hqnVtPgO28hwYkMj4o2AfZiA-RysUObW9Pc",
+            "title": "Listen to Fools talk about the new Siri",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Macro tape is not giving a strong warning; focus on ticker-specific catalyst quality and chart confirmation."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "PCC",
+      "score": 83,
+      "stance": "Buy Candidate",
+      "evidence": "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.”",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AAPL",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Currently restricted to in-house data centers, the move will expand Apple’s AI offerings to run on Google Cloud. * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.”",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CASY",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "Casey’s Posts EPS Jump, Predicts Slowing Growth -------------------------------------------------- Casey's General Stores (NASDAQ:CASY ) – recommended in Stock Advisor by Team Rule Breakers as a ‘Cautious’ investment – reported a record fiscal year with fourth-quarter earnings yesterday, with EPS soaring 66.2% year over year (YoY).",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "CHWY",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Chewy (NYSE:CHWY ) – recommended by Team Rule Breakers – reported 7.7% net sales growth YoY in Q1 this morning, with nearly 200,000 net customer additions, and saw gross and net margins improve.",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "GOOG",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC).",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "INTC",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power.",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power.",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BAC",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "equity Savita Subramanian, strategists at Bank of America (NYSE:BAC ) pointed to stocks on high P/E ratios significantly outperforming lower P/E stocks, noting 7 of their 10 bear-market signals have been triggered in the past few months.",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ORCL",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Today’s Earnings You Won’t Want to Miss ------------------------------------------ Oracle (NYSE:ORCL ) is due to report fourth-quarter earnings after today’s closing bell, in a week that saw OpenAI file documentation ahead of its planned IPO.",
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "PCC",
+      "mentions": 4,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.”"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AAPL",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Currently restricted to in-house data centers, the move will expand Apple’s AI offerings to run on Google Cloud. * “PCC set a new bar for AI privacy in the cloud”: Stressing customer data security, an Apple blog post told us PCC on Google Cloud “incorporates PCC’s exceptional security and privacy properties at every stage.”"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BAC",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "equity Savita Subramanian, strategists at Bank of America (NYSE:BAC ) pointed to stocks on high P/E ratios significantly outperforming lower P/E stocks, noting 7 of their 10 bear-market signals have been triggered in the past few months."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CASY",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "Casey’s Posts EPS Jump, Predicts Slowing Growth -------------------------------------------------- Casey's General Stores (NASDAQ:CASY ) – recommended in Stock Advisor by Team Rule Breakers as a ‘Cautious’ investment – reported a record fiscal year with fourth-quarter earnings yesterday, with EPS soaring 66.2% year over year (YoY)."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CHWY",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "* Chewy (NYSE:CHWY ) – recommended by Team Rule Breakers – reported 7.7% net sales growth YoY in Q1 this morning, with nearly 200,000 net customer additions, and saw gross and net margins improve."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GOOG",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC)."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "INTC",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "Apple Cozies up With Google ------------------------------ Apple (NASDAQ:AAPL ) has announced plans to collaborate with Alphabet’s (NASDAQ:GOOG ) Google and Nvidia (NASDAQ:NVDA ) to expand its Private Cloud Compute (PCC). Nvidia, Intel (NASDAQ:INTC ), and Google silicon will provide the power."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ORCL",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Stock Advisor"
+      ],
+      "sourceWeight": 18,
+      "primaryWeight": 18,
+      "notes": [
+        "Today’s Earnings You Won’t Want to Miss ------------------------------------------ Oracle (NYSE:ORCL ) is due to report fourth-quarter earnings after today’s closing bell, in a week that saw OpenAI file documentation ahead of its planned IPO."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Casey's Unveils Best Year Yet"
+      ]
+    }
+  ],
+  "events": []
+}

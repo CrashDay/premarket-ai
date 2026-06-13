@@ -1,0 +1,3301 @@
+{
+  "date": "2026-06-01",
+  "generatedAt": "2026-06-01T13:15:59.334Z",
+  "sourceCount": 2,
+  "sources": [
+    {
+      "title": "Breakfast News: Nvidia Sets Sights On PC Market",
+      "file": "2026-06-01-market-brieffoolbreakfast-news-breakfast-news-nvidia-sets-sights-on-pc-market-19e82f3589fef4ed.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Mon, 01 Jun 2026 11:30:45 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+          "title": "See how Fools rated Nvidia's Q1 earnings",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+          "title": "hit $5.25 billion in Q4",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+          "title": "11.8% revenue increase",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+          "title": "Digest Credo's new Moneyball Report Card",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+          "title": "Motley Fool link",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1236,
+      "summaryHints": [
+        "Nvidia launches new AI superchip for PCs, Berkshire Hathaway buys Taylor Morrison, and more… Breakfast NewsClick here to read online .",
+        "JUNE 1, 2026Friday's MarketsS&P 500 7,580 (+0.22%)Nasdaq 26,973 (+0.2%)Dow 51,032 (+0.72%)Bitcoin 73,644 (+0.12%)Image shows chart of Nvidia's forward price-to-earnings ratio over 5 years *************************************",
+        "Nvidia’s New Superchip Targets PCs *************************************",
+        "* Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade show in Taipei.",
+        "The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Nvidia’s New Superchip Targets PCs ************************************** Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade show in Taipei. The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall. * “This is the first completely re-engineered, reinvented line of PCs that has happened in 40 years”: Huang added, “This reinvention of the computer is as big of a deal as the reinvention of the phone into what we now know as the smartphone.” * 1 petaflop of AI performance: Nvidia’s announcement says the new chip will cater to 120B-parameter LLMs with up to 1 million tokens. Nvidia gained around 2% in early trading, with Microsoft up around 3%. Arm popped over 12%. See how Fools rated Nvidia's Q1 earnings -------------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+              "title": "See how Fools rated Nvidia's Q1 earnings",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "ARM",
+            "MSFT",
+            "NVDA"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Semiconductors",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * CrowdStrike (NASDAQ:CRWD ), beating the S&P 500 by 91.5% since its 2024 Hidden Gems recommendation, will report its first quarter on Wednesday. The cybersecurity specialist – also a Rule Breakers rec – saw annual recurring revenue hit $5.25 billion in Q4 , as management guided for $6.47–$6.52 billion in fiscal 2027. * Ulta Beauty (NASDAQ:ULTA ) – recommended by both Team Rule Breakers and Team Hidden Gems – releases Q1 earnings after Tuesday’s close, following an 11.8% revenue increase from the prior year in Q4, with guidance predicting a further 6-7% in fiscal 2026. * Credo (NASDAQ:CRDO ) jumped 6.2% Friday – and gained close to 3% in pre-market trading – ahead of Q4 earnings due after today’s closing bell. Will demand for high-speed connectivity solutions boosted by AI data center growth justify Credo’s high valuation? That’s the big question. Digest Credo's new Moneyball Report Card ------------------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+              "title": "hit $5.25 billion in Q4",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+              "title": "11.8% revenue increase",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+              "title": "Digest Credo's new Moneyball Report Card",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "CRDO",
+            "CRWD",
+            "ULTA"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "What Else to Watch This Week from Team RB Recommendations ------------------------------------------------------------ * Palo Alto (NASDAQ:PANW ) reports Q3 after Tuesday’s close, with investors focused on the financial impact of its $25 billion CyberArk acquisition. The previous quarter saw 15% revenue growth, but with rising integration costs. * Veeva (NYSE:VEEV ) opens fiscal 2027 with a Q1 update Wednesday. Fool analyst Emily Flippen earlier reminded us the company “is not just surviving but thriving through one of the most consequential transitions in its history” as it builds its proprietary Vault CRM solution from scratch. * Broadcom (NASDAQ:AVGO ) stock has been edging up prior to Q2 earnings, also due Wednesday. The company has six hyperscale customers in multiyear chip supply agreements through 2028, and management expects AI chip revenue above $100 billion in fiscal 2027. Learn why AVGO is an Overlooked Champion A message from The Motley Fool <p><strong>After the dot-com peak, the S&P 500 lost money for a full decade. A broader portfolio of the same 500 stocks gained 65%.</strong></p> <p>Today, the market is more concentrated than it was at the dot-com peak. The top 10 holdings make up over 35% of the entire S&P 500 &mdash; nearly double what it was a decade ago.</p> <p>History says what happens next tends to favor the stocks everyone else is ignoring.</p> <p>Tom Gardner built a 50-stock portfolio designed for exactly this shift &mdash; spanning innovation, small caps, beaten-up turnarounds, and defensive balance.</p> <p>And The Motley Fool is investing $100,000 of its own money into it alongside members.</p> <p><a href=\" the full portfolio here</a></p> ********************************************",
+          "links": [],
+          "tickers": [
+            "AVGO",
+            "PANW",
+            "VEEV"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Semiconductors",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Markets Display Another Blockbuster Month ******************************************** Major indexes hit new highs last week, as hopes were once again raised for a peace deal in the Iran conflict. The S&P 500 rose 1.4% over the week, up 5.1% over the whole of May. The Nasdaq gained 2.4% last week and 8.4% over the month, as tech stocks continued to drive the market. * Futures optimism despite inflation and jobs fears: S&P futures rose another 0.1% in early trading, with Nasdaq futures up 0.3% this morning – with investors apparently undaunted by last week’s PCE inflation print showing a rise of 3.8% year over year. * New jobs count expected to fall: The May jobs print is due Friday, expected to show a slowdown in job creation with 93,000 in the month – down from 115,000 in April. Review the latest inflation news ************************************************",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 5",
+          "text": "Berkshire Hathaway Set to Buy Taylor Morrison ************************************************ Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals. Worth $6.8 billion, it values Taylor Morrison at a 24% premium to Friday’s close. * “Over time, we expect to unify our site-built homebuilding operations into a combined platform”: Abel’s comments indicate a divergence from Berkshire’s traditional strategy of leaving acquisitions to run independently, noted Christopher Davis of Hudson Value Partners. * TMHC stock up 23% pre-market, Berkshire relatively unchanged: The apparent confidence in the U.S. housing market hasn’t affected the Berkshire stock price yet, down 5.6% so far in 2026. Revisit Abel’s first shareholder meeting *******************************************",
+          "links": [],
+          "tickers": [
+            "BRKB",
+            "TMHC"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 6",
+          "text": "Today’s Take: Breaking the Industry Mold ******************************************* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees. Co-founder and CEO Daniel Ek’s answer was to make Spotify more than a music app. — MEILIN QUINN • TEAM HIDDEN GEMS Here’s a sneak preview, but head to the article to name a company that proves the conventional wisdom about its industry wrong, or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [
+            "SONY",
+            "SPOT",
+            "WMG"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 7",
+          "text": "Your Take ************** FRIDAY'S TOP RESPONSE We asked, which companies from the latest Stock Advisor Rankings are you most interested in learning more about to potentially add to your watchlist? S Member StanleyS said “I'm not a watchlist person … That is, I'm usually close to fully invested. If I'm waiting to purchase stocks on a watchlist, what am I doing with my money in the meantime?” See more great answers from our Foolish community TODAY’S QUESTION What's the biggest risk or opportunity you see in the market as we begin this month? Elaborate in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "ARM",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall."
+          ]
+        },
+        {
+          "symbol": "AVGO",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Broadcom (NASDAQ:AVGO ) stock has been edging up prior to Q2 earnings, also due Wednesday. Learn why AVGO is an Overlooked Champion A message from The Motley Fool <p><strong>After the dot-com peak, the S&P 500 lost money for a full decade."
+          ]
+        },
+        {
+          "symbol": "BRKB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals."
+          ]
+        },
+        {
+          "symbol": "CRDO",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * Credo (NASDAQ:CRDO ) jumped 6.2% Friday – and gained close to 3% in pre-market trading – ahead of Q4 earnings due after today’s closing bell."
+          ]
+        },
+        {
+          "symbol": "CRWD",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * CrowdStrike (NASDAQ:CRWD ), beating the S&P 500 by 91.5% since its 2024 Hidden Gems recommendation, will report its first quarter on Wednesday."
+          ]
+        },
+        {
+          "symbol": "MSFT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Nvidia’s New Superchip Targets PCs ************************************* * Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade show in Taipei. * 1 petaflop of AI performance: Nvidia’s announcement says the new chip will cater to 120B-parameter LLMs with up to 1 million tokens."
+          ]
+        },
+        {
+          "symbol": "PANW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Palo Alto (NASDAQ:PANW ) reports Q3 after Tuesday’s close, with investors focused on the financial impact of its $25 billion CyberArk acquisition."
+          ]
+        },
+        {
+          "symbol": "SONY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees."
+          ]
+        },
+        {
+          "symbol": "SPOT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees."
+          ]
+        },
+        {
+          "symbol": "TMHC",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals. * TMHC stock up 23% pre-market, Berkshire relatively unchanged: The apparent confidence in the U.S."
+          ]
+        },
+        {
+          "symbol": "ULTA",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * Ulta Beauty (NASDAQ:ULTA ) – recommended by both Team Rule Breakers and Team Hidden Gems – releases Q1 earnings after Tuesday’s close, following an 11.8% revenue increase from the prior year in Q4, with guidance predicting a further 6-7% in fiscal 2026."
+          ]
+        },
+        {
+          "symbol": "VEEV",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Veeva (NYSE:VEEV ) opens fiscal 2027 with a Q1 update Wednesday."
+          ]
+        },
+        {
+          "symbol": "WMG",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": []
+    },
+    {
+      "title": "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May",
+      "file": "2026-06-01-market-briefstock-analysismarket-bullets-market-bullets-berkshire-hathaway-buys-taylor-morrison-nvidia-gets-into-consumer-19e8350b21147ed2.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Mon, 01 Jun 2026 13:12:42 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [
+        {
+          "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
+          "title": "Software's strong May",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
+          "title": "UMG rejects Ackman bid",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
+          "title": "JetBlue revises forecasts",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html",
+          "title": "Q1 2026 Retail Earnings Tax Refunds Bnpl",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html",
+          "title": "Moderna targets Ebola strain",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+          "title": "Ai Startup Valuations Pre Chatgpt",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
+          "title": "Euro-zone factories slow",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1589,
+      "summaryHints": [
+        "​ 🚚 FedEx Freight spins off | Monday - June 01, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.22% Pre: +0.20% Nasdaq +0.20% Pre: +0.19% Dow +0.72% Pre: +0.30% ------------------- Stock & Market News -------------------",
+        "* Berkshire buys Taylor Morrison: Berkshire Hathaway (BRK.B  ) will buy home-builder Taylor Morrison (TMHC  ) for $6.8B in cash, a 24% premium.",
+        "The deal is one of CEO Greg Abel’s first major acquisitions.",
+        "* Nvidia launches RTX Spark: Nvidia (NVDA  ) unveiled its Arm-based (ARM  ) RTX Spark PC chip for laptops and mini-PCs, expanding beyond graphics and into full consumer computing.",
+        "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "AADX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(AADX  ), an aerospace and defense equipment manufacturer with $522.09M in TTM revenue and 24.8% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "AAPL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+          ]
+        },
+        {
+          "symbol": "AMD",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+          ]
+        },
+        {
+          "symbol": "AMS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* UMG rejects Ackman bid: Universal Music Group (AMS:UMG  ) rejected Bill Ackman’s $65B takeover offer, saying it undervalues the company."
+          ]
+        },
+        {
+          "symbol": "ARM",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nvidia launches RTX Spark: Nvidia (NVDA  ) unveiled its Arm-based (ARM  ) RTX Spark PC chip for laptops and mini-PCs, expanding beyond graphics and into full consumer computing."
+          ]
+        },
+        {
+          "symbol": "AVGO",
+          "mentions": 1,
+          "move": "+47.30%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Broadcom (AVGO  ) will report Wednesday."
+          ]
+        },
+        {
+          "symbol": "BRK.B",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Berkshire buys Taylor Morrison: Berkshire Hathaway (BRK.B  ) will buy home-builder Taylor Morrison (TMHC  ) for $6.8B in cash, a 24% premium."
+          ]
+        },
+        {
+          "symbol": "CIEN",
+          "mentions": 1,
+          "move": "+33.30%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Ciena (CIEN  ) will report Thursday."
+          ]
+        },
+        {
+          "symbol": "CRM",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns."
+          ]
+        },
+        {
+          "symbol": "CRWD",
+          "mentions": 1,
+          "move": "+23.48%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics CrowdStrike (CRWD  ) will report Wednesday."
+          ]
+        },
+        {
+          "symbol": "DG",
+          "mentions": 1,
+          "move": "+3.76%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Dollar General (DG  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "EPA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Opposition from top shareholder Bollore (EPA:BOL  ) helped sink the deal amid pressure from AI and slowing streaming growth."
+          ]
+        },
+        {
+          "symbol": "FDX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* FedEx Freight spins off: FedEx Freight (FDXF.WI  ) completed its spinoff from FedEx (FDX  ) and is set to begin NYSE trading as an independent company."
+          ]
+        },
+        {
+          "symbol": "FDXF.WI",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* FedEx Freight spins off: FedEx Freight (FDXF.WI  ) completed its spinoff from FedEx (FDX  ) and is set to begin NYSE trading as an independent company."
+          ]
+        },
+        {
+          "symbol": "HKG",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Cancer drug shows survival gain: In a recent trial, Summit Therapeutics (SMMT  ) and Akeso's (HKG:9926  ) experimental lung cancer drug, ivonescimab, reduced the risk of death by 34%."
+          ]
+        },
+        {
+          "symbol": "HPE",
+          "mentions": 1,
+          "move": "+28.21%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- Hewlett Packard Enterprise (HPE  ) will report today after close."
+          ]
+        },
+        {
+          "symbol": "INIO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(INIO  ), a gas engine manufacturer with $2.81B in TTM revenue and 22.1% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "INTC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+          ]
+        },
+        {
+          "symbol": "JBLU",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* JetBlue revises forecasts: JetBlue (JBLU  ) raised its Q2 fuel cost forecast due to higher jet fuel prices tied to Hormuz disruptions, but also increased its revenue outlook as stronger operations and reduced competition from the shutdown of Spirit Airlines boosted performance."
+          ]
+        },
+        {
+          "symbol": "LON",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* EasyJet rejects Castlelake interest: EasyJet (LON:EZJ  ) called Castlelake’s takeover approach “highly opportunistic” after the investment firm disclosed interest in a possible bid."
+          ]
+        },
+        {
+          "symbol": "MDT",
+          "mentions": 1,
+          "move": "+7.80%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Medtronic (MDT  ) will report Wednesday."
+          ]
+        },
+        {
+          "symbol": "META",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns.",
+            "* China tightens deal controls: China expanded rules governing foreign deals, tech transfers, and overseas investments after forcing Meta (META  ) to unwind its Manus AI acquisition."
+          ]
+        },
+        {
+          "symbol": "MRNA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Moderna targets Ebola strain: Moderna (MRNA  ) partnered with CEPI to develop a Bundibugyo Ebola vaccine, with up to $50M supporting early testing, as Congo’s outbreak drives urgent demand."
+          ]
+        },
+        {
+          "symbol": "MSFT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nvidia launches RTX Spark: Nvidia (NVDA  ) unveiled its Arm-based (ARM  ) RTX Spark PC chip for laptops and mini-PCs, expanding beyond graphics and into full consumer computing.",
+            "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+          ]
+        },
+        {
+          "symbol": "OKTA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Software's strong May: Software stocks posted their strongest monthly performance since 2001 as strong earnings from companies, including Snowflake (SNOW  ) and Okta (OKTA  ), eased AI disruption fears."
+          ]
+        },
+        {
+          "symbol": "PANW",
+          "mentions": 1,
+          "move": "+28.59%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Palo Alto Networks (PANW  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "QCOM",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+          ]
+        },
+        {
+          "symbol": "QNT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(QNT  ), a quantum computing company with $17.08M in TTM revenue and 34.6% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "SAIC",
+          "mentions": 1,
+          "move": "+1.55%",
+          "notes": [
+            "View definitions --------------- Recent Earnings --------------- Science Applications International (SAIC  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "SFPT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(SFPT  ), a property insurance underwriter focused on coastal areas with $571.90M in TTM revenue and 96.9% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "SFTBY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* SoftBank expands AI push: SoftBank (SFTBY  ) became Japan’s most valuable company and announced plans to invest €45B in AI infrastructure in France over 5 years."
+          ]
+        },
+        {
+          "symbol": "SIG",
+          "mentions": 1,
+          "move": "+0.84%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Signet Jewelers (SIG  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "SMMT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Cancer drug shows survival gain: In a recent trial, Summit Therapeutics (SMMT  ) and Akeso's (HKG:9926  ) experimental lung cancer drug, ivonescimab, reduced the risk of death by 34%."
+          ]
+        },
+        {
+          "symbol": "SNOW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Software's strong May: Software stocks posted their strongest monthly performance since 2001 as strong earnings from companies, including Snowflake (SNOW  ) and Okta (OKTA  ), eased AI disruption fears."
+          ]
+        },
+        {
+          "symbol": "SSMR",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Estimated Thursday, June 4: Sunshine Silver Mining & Refining Company (SSMR  ), a development-stage mining company with $460,603 in TTM revenue and 421.8% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "TMHC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Berkshire buys Taylor Morrison: Berkshire Hathaway (BRK.B  ) will buy home-builder Taylor Morrison (TMHC  ) for $6.8B in cash, a 24% premium."
+          ]
+        },
+        {
+          "symbol": "UBER",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns."
+          ]
+        },
+        {
+          "symbol": "ULTA",
+          "mentions": 1,
+          "move": "+9.11%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Ulta Beauty (ULTA  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "VEEV",
+          "mentions": 1,
+          "move": "+13.00%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Veeva Systems (VEEV  ) will report Wednesday."
+          ]
+        },
+        {
+          "symbol": "VSCO",
+          "mentions": 1,
+          "move": "+12.83%",
+          "notes": [
+            "(VSCO  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "WHK",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(WHK  ), a natural gas mineral and royalty firm with $67.60M in TTM revenue and $615.3% revenue growth YoY."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Space Economy",
+        "Streaming And Media",
+        "Financials",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": [
+        {
+          "kind": "economic",
+          "date": "2026-06-01",
+          "time": "10:00 AM",
+          "title": "ISM Manufacturing PMI, Employment"
+        }
+      ]
+    }
+  ],
+  "readingList": [
+    {
+      "title": "hit $5.25 billion in Q4",
+      "note": "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * CrowdStrike (NASDAQ:CRWD ), beating the S&P 500 by 91.5% since its 2…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+          "title": "hit $5.25 billion in Q4",
+          "label": "hit $5.25 billion in Q4"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+          "title": "11.8% revenue increase",
+          "label": "11.8% revenue increase"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "CRDO",
+        "CRWD",
+        "ULTA"
+      ],
+      "score": 23
+    },
+    {
+      "title": "See how Fools rated Nvidia's Q1 earnings",
+      "note": "Nvidia’s New Superchip Targets PCs ************************************** Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade sho…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+          "title": "See how Fools rated Nvidia's Q1 earnings",
+          "label": "See how Fools rated Nvidia's Q1 earnings"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "ARM",
+        "MSFT",
+        "NVDA"
+      ],
+      "score": 19
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": 0,
+    "items": [
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Nvidia’s New Superchip Targets PCs ************************************** Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade show in Taipei. The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall. * “This is the first completely re-engineered, reinvented line of PCs that has happened in 40 years”: Huang added, “This reinvention of the computer is as big of a deal as the reinvention of the phone into what we now know as the smartphone.” * 1 petaflop of AI performance: Nvidia’s announcement says the new chip will cater to 120B-parameter LLMs with up to 1 million tokens. Nvidia gained around 2% in early trading, with Microsoft up around 3%. Arm popped over 12%. See how Fools rated Nvidia's Q1 earnings -------------------------------------------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Nvidia’s New Superchip Targets PCs ************************************** Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade show in Taipei. The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall. * “This is the first completely re-engineered, reinvented line of PCs that has happened in 40 years”: Huang added, “This reinvention of the computer is as big of a deal as the reinvention of the phone into what we now know as the smartphone.” * 1 petaflop of AI performance: Nvidia’s announcement says the new chip will cater to 120B-parameter LLMs with up to 1 million tokens. Nvidia gained around 2% in early trading, with Microsoft up around 3%. Arm popped over 12%. See how Fools rated Nvidia's Q1 earnings -------------------------------------------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * CrowdStrike (NASDAQ:CRWD ), beating the S&P 500 by 91.5% since its 2024 Hidden Gems recommendation, will report its first quarter on Wednesday. The cybersecurity specialist – also a Rule Breakers rec – saw annual recurring revenue hit $5.25 billion in Q4 , as management guided for $6.47–$6.52 billion in fiscal 2027. * Ulta Beauty (NASDAQ:ULTA ) – recommended by both Team Rule Breakers and Team Hidden Gems – releases Q1 earnings after Tuesday’s close, following an 11.8% revenue increase from the prior year in Q4, with guidance predicting a further 6-7% in fiscal 2026. * Credo (NASDAQ:CRDO ) jumped 6.2% Friday – and gained close to 3% in pre-market trading – ahead of Q4 earnings due after today’s closing bell. Will demand for high-speed connectivity solutions boosted by AI data center growth justify Credo’s high valuation? That’s the big question. Digest Credo's new Moneyball Report Card ------------------------------------------------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "What Else to Watch This Week from Team RB Recommendations ------------------------------------------------------------ * Palo Alto (NASDAQ:PANW ) reports Q3 after Tuesday’s close, with investors focused on the financial impact of its $25 billion CyberArk acquisition. The previous quarter saw 15% revenue growth, but with rising integration costs. * Veeva (NYSE:VEEV ) opens fiscal 2027 with a Q1 update Wednesday. Fool analyst Emily Flippen earlier reminded us the company “is not just surviving but thriving through one of the most consequential transitions in its history” as it builds its proprietary Vault CRM solution from scratch. * Broadcom (NASDAQ:AVGO ) stock has been edging up prior to Q2 earnings, also due Wednesday. The company has six hyperscale customers in multiyear chip supply agreements through 2028, and management expects AI chip revenue above $100 billion in fiscal 2027. Learn why AVGO is an Overlooked Champion A message from The Motley Fool <p><strong>After the dot-com peak, the S&P 500 lost money for a full decade. A broader portfolio of the same 500 stocks gained 65%.</strong></p> <p>Today, the market is more concentrated than it was at the dot-com peak. The top 10 holdings make up over 35% of the entire S&P 500 &mdash; nearly double what it was a decade ago.</p> <p>History says what happens next tends to favor the stocks everyone else is ignoring.</p> <p>Tom Gardner built a 50-stock portfolio designed for exactly this shift &mdash; spanning innovation, small caps, beaten-up turnarounds, and defensive balance.</p> <p>And The Motley Fool is investing $100,000 of its own money into it alongside members.</p> <p><a href=\" the full portfolio here</a></p> ********************************************",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Markets Display Another Blockbuster Month ******************************************** Major indexes hit new highs last week, as hopes were once again raised for a peace deal in the Iran conflict. The S&P 500 rose 1.4% over the week, up 5.1% over the whole of May. The Nasdaq gained 2.4% last week and 8.4% over the month, as tech stocks continued to drive the market. * Futures optimism despite inflation and jobs fears: S&P futures rose another 0.1% in early trading, with Nasdaq futures up 0.3% this morning – with investors apparently undaunted by last week’s PCE inflation print showing a rise of 3.8% year over year. * New jobs count expected to fall: The May jobs print is due Friday, expected to show a slowdown in job creation with 93,000 in the month – down from 115,000 in April. Review the latest inflation news ************************************************",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Markets Display Another Blockbuster Month ******************************************** Major indexes hit new highs last week, as hopes were once again raised for a peace deal in the Iran conflict. The S&P 500 rose 1.4% over the week, up 5.1% over the whole of May. The Nasdaq gained 2.4% last week and 8.4% over the month, as tech stocks continued to drive the market. * Futures optimism despite inflation and jobs fears: S&P futures rose another 0.1% in early trading, with Nasdaq futures up 0.3% this morning – with investors apparently undaunted by last week’s PCE inflation print showing a rise of 3.8% year over year. * New jobs count expected to fall: The May jobs print is due Friday, expected to show a slowdown in job creation with 93,000 in the month – down from 115,000 in April. Review the latest inflation news ************************************************",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Berkshire Hathaway Set to Buy Taylor Morrison ************************************************ Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals. Worth $6.8 billion, it values Taylor Morrison at a 24% premium to Friday’s close. * “Over time, we expect to unify our site-built homebuilding operations into a combined platform”: Abel’s comments indicate a divergence from Berkshire’s traditional strategy of leaving acquisitions to run independently, noted Christopher Davis of Hudson Value Partners. * TMHC stock up 23% pre-market, Berkshire relatively unchanged: The apparent confidence in the U.S. housing market hasn’t affected the Berkshire stock price yet, down 5.6% so far in 2026. Revisit Abel’s first shareholder meeting *******************************************",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Today’s Take: Breaking the Industry Mold ******************************************* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees. Co-founder and CEO Daniel Ek’s answer was to make Spotify more than a music app. — MEILIN QUINN • TEAM HIDDEN GEMS Here’s a sneak preview, but head to the article to name a company that proves the conventional wisdom about its industry wrong, or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Today’s Take: Breaking the Industry Mold ******************************************* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees. Co-founder and CEO Daniel Ek’s answer was to make Spotify more than a music app. — MEILIN QUINN • TEAM HIDDEN GEMS Here’s a sneak preview, but head to the article to name a company that proves the conventional wisdom about its industry wrong, or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Nvidia Sets Sights On PC Market",
+        "note": "Your Take ************** FRIDAY'S TOP RESPONSE We asked, which companies from the latest Stock Advisor Rankings are you most interested in learning more about to potentially add to your watchlist? S Member StanleyS said “I'm not a watchlist person … That is, I'm usually close to fully invested. If I'm waiting to purchase stocks on a watchlist, what am I doing with my money in the meantime?” See more great answers from our Foolish community TODAY’S QUESTION What's the biggest risk or opportunity you see in the market as we begin this month? Elaborate in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Kql3ElQXwRWhAoUym4k3ww~~/AAQRxRA~/1NzvFbU-AxGOUVwYsxPV5-zVG6Thjo5mpMpcvVn0CqOSBoDHFDb1MLCeldnDfy0XKvNKFRPGr850WdeNsKPThV81Gj3XhplfMI14tbrVnonlsSbr5FyB3-0s-khihaytdh8jxS2S14NMEptLQ2Vqk66-i71QVqVrL-eEki2HGDyVZ1mSiKitIvXwK-olVemWFeHcpoxL3UkTKe1duagx1rc72b7tKI8QuPQ7oTbiUeMCqm9GVMHChKvPvPCBhxzzqvl75seJ-S4OQlbxGXaIpDIXLetF6eJekZxipI3FSz-U1m4Xzw_AtLfEtvr8fL-z2nMFqE2wjD-WgHJYGViqgZLXq2eRRr_LeKbEC1Hhzaa2hpCgYy6iUaC2jkpQU8_-dGqXt1AGEPFJhGDqg0bAB34ToKaMJh0cSpCM2SrTx-OHCShWSLQvt7osnrH8ofHB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/QHevVbR13GGjGBeDRlrC0Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlxNxP-d4pi-CABUS_BU9fSr7JIiIVS8NDzmvqhT151hXhAofidmOFTDczgUHrkwEoIEd8B8GO38VqrrsqbBvUQXYeSojeX8aB9RQtrgaXPveIWtySKpX1hRM9IPQ0YYtTFWq8k_657z1JtstvNS5kmZBwtP-j3rIaoboPDtkjvpte6qTZMORTDX-fI2IiiT21FJbA9KZiNof11LVl1OHaHytTujlI9nBplZaGalfGvx4VdDYaSCi-E1X9DCZE0USSiOuyIC5rvLcSSBvLmUUZ6bbuM77YA4EapPYfyIlof6CLYgbx1-8mXUKDfaIQkNkHqMXpCYyjDQL66QqR3jfZyX5ec-G98lYK65TImg2T71kE06_i0ufC4_JbEYhae3OO",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/02stpQVUwH8uJHA2mV9zwA~~/AAQRxRA~/kZIohmyW9KJc40IB7cbfv-O2f4BpGM_0cNLrO6gcdeLVPziq529NVAqAQ8jqUrj4yNdnQvHTwzzblCs36qg1QICToF9PV7RpFPgzooJrd9pSOZuHTVqSQ-guoSbZgxnAVvDO9NdZv-T2rJKW0l2lRntYpXmbqw6T7RpnW1jfLPaIteqjZ47iKMfabWp_kjNtMCI24UgE5DeNLFKbUm_2EmMRRfuXyuwIrgVqopmgHQtc836WxB8IU4qu9rQycwd1_kVn39OTP-YdCskAbEdcxMqj8PGbRj0g-GQ9_SAMCxACxDcWv7xuOpvCClQ-JlvJTxrQPova13srbkrNQMlRSDCnS14-N5yNSwtS_sM-SgAWStbCQptmcAz2jYs543LebJNVz3jdQHzjAaJ79lXMKhRkAJqg3pJdsqkBOXxyRIVaW9-0PITFwV6jeM27T-V5",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EqAzt89Rmv4dq5S__8FkPA~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzIH5VMUnyvIxSyLp--1NdzltJsMjgVip96wruqviVtGcQ8L8vaxPAyg3faERS9xHJUh4TDxkRP4U16QFoZ3n68rpI4lhGFppa3NGGdYDQz0vIny33En1de4r06kQaomEz4mvseDxbe9_yl2j3yCFbgn1CF4Zkv9RXKLKUTe9glACy5ycXRGKNyMeupzlIjNCBc_DtIVKyFwtWYlktWP_f5SZa3_HHVbQR3JotW3rAJRzXpf0RzTpPAdO_ZL3q8KjLK3tPaMUDQJNhVPxz7Vme4H7ppP3CHAwfhGho-K05M_W07soamyAPxav7lXyPUa-2NwoelaWdypxWaGCQlVezPpZv1NEAURfJcmUh7WcU9gbmIOhLx_RHTrREtAxvBxQ",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zC3qpRWqYkW5weNG8A7BLw~~/AAQRxRA~/uT6DTVMjYdcv-ue1ORdp3hT3tR9-v0NxRWgKz0wTqeeuKz3JvuhqVqlPipWiMSUrZsG7t2saseDDy1QAEAQbtVc0_aIc0FqtypM4KTQt5DbwrMoUcDXCRyGodVyAwnEIILug2u6OGrZYbpewvhlsCJkD1-JDqHwC26XSBB0wbF9Y_-JIkasOfP8H0XUmNhsyCY7iPxzHVX5qFK7EhGATZmb0kN4DipEUXLc28z08ctgs_pjVeqiXlWPC1EWnir0Z4WR3Nyf0-yxnXfsWTdqNPkMboTVfr3ZuHhrxwGmxJI5aIsGMMNaU1DjPfZxJiOfkcwFtX5BsPkQLJRA7RzeSpVTdBmOtqlG9ThnKaGCAv4vgU-uxX7kUejpsulUgpI3KAXCnfEWCD8PULbTqEawyERfj9u8KuF2JJI63qo2cR46K-kWronGMReQm_LJYeMSy",
+            "title": "See how Fools rated Nvidia's Q1 earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aCcMo9yz6gg3D2ltvEWY2w~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlzbSlBmC8u6aYyslVLiNwGXC7ZRDL9wEHV7C_NHY43MrwleuMz0tS6dqggQ7eE63oh1OuiXi701-gshl-_tzkT40CDGeRXV2sBqKz0k2uKB5vdIkv-36CfYOGTLnJ1USYxMyulMBicMm68Zn12L52sYzMujoMSFmSH9AjdWeJ7FUUmmfuhDkxG1PkDWJXJsMJ9ilIYynKM7Stg6KdG8FsTEjUZdNk_VzrTuy1jziok8_NozZWg_5h4o3zngzgrtdLk6Q48wJUkp4xcOq8A4B5u8CNP2IWqoict9yqH2Btu1yP010qUdu5Wss1vRbIlixPg5pUBc9fz2iwiapwHARghL7vBKoOWGDV6kq4nALLm43fdZwcs6D7tuN-RE_1f4Ne",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mSwvpY-Oy0T5Zlfz8uypDw~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7OjKzRCTX4QhJ6riPyqkkts4NNhAWrK3RRL-YkiFtdyCdZQFFL2iujxNpeGwy_SlA7BvfWKd3fVFpihq21UKpnSqukyPF2bNjWeG7Fp3sgZesKdq7Hre5zXnWaVWBjs4yCjltPArip6ppnUAdm29DHHBBMx7MpZJZR7HUceXMezWBO2dYaNjb7P-145V6VxMbo_T33hGotrVxEwQpvxmCQjUIK4dRNBXNAn1t_0cG_YLX8JNoWAa6xp0Hhu5E512IAMQwMlXztRFGc1P43_1pM2zNKDWG14hiBRHMOM4cpPq3EIgf6on4gX3LGsu_tWkjwtNEjRIRqYd70Gv6m803Xk_lvhiKLD-UimP2xWugC9q681DB8Lw4O7tCMBoBTp23NbA6naz2ubF7k_MhgFQnUsrxTMVpe2oymprPM-sL7Ko~",
+            "title": "hit $5.25 billion in Q4",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mOaHVl7KO-3fVQY6nWthpQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevljC8KdBmbWACAvU8ZIUYdBVPg8f14cEnKv_rfvQwDao-G38xu2C431k2gRI6FA78iZc5YwmmirfUH9kxROpxLVWtMpZ5pyNUY6cLDh3cJhRBNvxNNrGNJcFNV8uKwoBLrqa_HlWM4gUrASyb98HxvoMl4M2hkhc3s1NPFeQbYOCQ8L8FQ_w3c1xPJODukuI6r-Kzvt7T4-jPj1PSUhFOhP-j9FN5t5ZKMtMAKnNlCNQDLOj-C7UC61rpKPVypCyq9VLODzr2DRirbVqaNEHx_-5c6a1RBBJ1stJ0qs27jniyd05UcCe276OPyKpmffshzlklw3DrmSTczvRfSx8m1j8G1XsvYbwzvjgYCy2odYs_ASdkEOWgztXaV27LhN5_Z",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/glNg78WMa_rgPKppRiLaHg~~/AAQRxRA~/laWpCv_RPJrc_QkR-8qqFA1kiuoc0aHfMmEaukvO7DaEu9dlm0mMdvgy6HBgVfH7dYMTo1UjPpHAsM-hzPBZ1_TdwRP2VDBC6NM40Hbp7AJDMPd7WnHMphg5ztt0ZQ2Oila9x0BNXr0VUfJBnYSVOPIDWknV4WKfthq1u4falnLIFJbSPL4HOyVbsZpGm_G2x1xptYGUZ87K3b8sc5HuESOyY4Ff0hwj4xTi6OuR56PsjED14nkIiWY3InbIipz1tC8I2hpDHBvpkEAII0ITk-PNvvExjJEA2_XuieEHx2gxNnCMO88EDR5H_QPxvu7U94tAtg163ADCC4Sqi7YuAv1y0I0xnd9gYPx_3Gf4Fld18LfsALMEuuKuVb5zWJmkZ27BindHsWypeS-QricWuiDrCNum_4D8mYDSbe9ncB279iG1IYwiMblPH4Wo0qvqZHI4uecMwxx4nYZFO-AvmMzqm9X5a-t4XDZHRqtEIvw~",
+            "title": "11.8% revenue increase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/p9fRIFx-lFO4GjTzT86P8Q~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlJnp_X0VkWWDjiV1FKHCx9YpYGZlQB3fyLQvAbiCAbcSEG276jLOo71gRuTQTi7lHfEEVEJ80XJy3yVrczFgJHGNOzcpXFr7Kg0-gBF37s2ov4uJPzOehQjUDsdISBeqvnaUzaem30jF0elM25XtxE2ILDOSWB1BNjJTU7Q8jv-CyZyH_gdom7GL9_PWe1LcBHSQG_-1oRtx8FdkqVKYJwPfsPYhy7d6rtiUfzO0IOWy_u1fXGsg8xZGR2Cy5Sqp5xGme8cOkvU-oGUGerLcBZkjK5ZDesjOBEKM0Qv9R5SeWJLhW8XuzMuiPhisICBoEwThV4roVfE1f5xoiy1G80UJhxrEY3p-OugbUhiHxdP_ZzeJTtmQY6IRq2PF-63tv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LRd3-_xu_fcgZID0C-0DoQ~~/AAQRxRA~/d2bGuA1ADPllmjQpbj8WUBHmYIb5zprKY9nv8JhZ0P9t0QVqQNRFwvwm3oYVJ_SFTfZEFVgMK2dTwG807k-uW2ZYslxVb-l1ZYgKrSgaWSvIV3ROXfCguUktkCxjNXySqPA0_9-IHjabU4na4F1193LD83oQ-2IWh-fl9pnmsaPAtQTk-fQM2Yn7i5sM2Wom3W-A4hdVsHQ7ZXOtUJXNWdA8mzITEsgjSvNKq-T8L_5dLwJ9G9rDKDpwOObpzzXZ1YQv0-vGh9SLhLIaZdeuTlcncEownpwIF0kK9Jz2w95JTXRnOHZE8lNbBFnxDYWdLTE5iSD85d_0A1tOljz7Wr0XlMlJDtHEGdAEDGP-lSIV-_GxH641R9lL8N4A-En08G8hDCTcaOlEikfwDPOMZPn6l7TGUfzU-RSEl3RwYyryjKiuTRD0uqai7yKXofsJMbyM3tASb0D41Q_gk76jGQ~~",
+            "title": "Digest Credo's new Moneyball Report Card",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HdueUl7VheTUp--CGRs6DQ~~/AAQRxRA~/YQ7uVHnQpe-c6CBnK-se301eC6V7RqlECZvtQ1AMallI1IYlWcRJE4F1pQvDAevlSPGlWY1uB2xKjWT_n4gafFbiBUUoBL8vNzArvHfM8NyPF3emxtR_dbNMZ4Is7rPGeThYKhN00WU1XoDYtaleh3L_j1fflqVYCnXEDcrIeld3Av-EsIGhcZZIX3B72srYGNpiEgIAIfMPI4qgpjGjtRxlXlXpbPkQ4lnUGF0ZR4TepfL69PlLz-8KYCP19gMio8gbKPIKHpexlfi-YhhcERCBsY_1_T-dA8Cwx2w-WwESH4CnxBrHVz_X_nxP6xFuOJKAhH43UX-zHw-9KlmAYPJmrMk4DUPL4OJDYlKocUjYCua4DKl001b4yb4H4R6hwZSZVuQNnjNT4QSatLTYIL5SFgp8Q6VmpWP7GzuBv4zWbeTY5DRd2rJPwhGUpmt2",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May",
+        "note": "​ 🚚 FedEx Freight spins off | Monday - June 01, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.22% Pre: +0.20% Nasdaq +0.20% Pre: +0.19% Dow +0.72% Pre: +0.30% ------------------- Stock & Market News -------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
+            "title": "Software's strong May",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
+            "title": "UMG rejects Ackman bid",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
+            "title": "JetBlue revises forecasts",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html",
+            "title": "Q1 2026 Retail Earnings Tax Refunds Bnpl",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html",
+            "title": "Moderna targets Ebola strain",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+            "title": "Ai Startup Valuations Pre Chatgpt",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
+            "title": "Euro-zone factories slow",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Fed And Rates",
+        "source": "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May",
+        "note": "​ 🚚 FedEx Freight spins off | Monday - June 01, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.22% Pre: +0.20% Nasdaq +0.20% Pre: +0.19% Dow +0.72% Pre: +0.30% ------------------- Stock & Market News -------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
+            "title": "Software's strong May",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
+            "title": "UMG rejects Ackman bid",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
+            "title": "JetBlue revises forecasts",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html",
+            "title": "Q1 2026 Retail Earnings Tax Refunds Bnpl",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html",
+            "title": "Moderna targets Ebola strain",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+            "title": "Ai Startup Valuations Pre Chatgpt",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
+            "title": "Euro-zone factories slow",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May",
+        "note": "​ 🚚 FedEx Freight spins off | Monday - June 01, 2026 | View Online --------------- Market Overview --------------- S&P 500 +0.22% Pre: +0.20% Nasdaq +0.20% Pre: +0.19% Dow +0.72% Pre: +0.30% ------------------- Stock & Market News -------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
+            "title": "Software's strong May",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html",
+            "title": "UMG rejects Ackman bid",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
+            "title": "JetBlue revises forecasts",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html",
+            "title": "Q1 2026 Retail Earnings Tax Refunds Bnpl",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html",
+            "title": "Moderna targets Ebola strain",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+            "title": "Ai Startup Valuations Pre Chatgpt",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/06/01/oil-prices-wti-brent-crude-israel-lebanon-hezbollah-iran-trump-us.html",
+            "title": "Euro-zone factories slow",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Check rate-sensitive groups and bond yields before chasing breakouts.",
+      "Treat import/export and margin-sensitive names with extra caution."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "AVGO",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "* Broadcom (NASDAQ:AVGO ) stock has been edging up prior to Q2 earnings, also due Wednesday. Learn why AVGO is an Overlooked Champion A message from The Motley Fool <p><strong>After the dot-com peak, the S&P 500 lost money for a full decade.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "CRWD",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * CrowdStrike (NASDAQ:CRWD ), beating the S&P 500 by 91.5% since its 2024 Hidden Gems recommendation, will report its first quarter on Wednesday.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "PANW",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "* Palo Alto (NASDAQ:PANW ) reports Q3 after Tuesday’s close, with investors focused on the financial impact of its $25 billion CyberArk acquisition.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "ULTA",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * Ulta Beauty (NASDAQ:ULTA ) – recommended by both Team Rule Breakers and Team Hidden Gems – releases Q1 earnings after Tuesday’s close, following an 11.8% revenue increase from the prior year in Q4, with guidance predicting a further 6-7% in fiscal 2026.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "VEEV",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "* Veeva (NYSE:VEEV ) opens fiscal 2027 with a Q1 update Wednesday.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 95,
+      "stance": "Buy Candidate",
+      "evidence": "Nvidia’s New Superchip Targets PCs ************************************* * Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade show in Taipei. * 1 petaflop of AI performance: Nvidia’s announcement says the new chip will cater to 120B-parameter LLMs with up to 1 million tokens.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "TMHC",
+      "score": 93,
+      "stance": "Buy Candidate",
+      "evidence": "* Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals. * TMHC stock up 23% pre-market, Berkshire relatively unchanged: The apparent confidence in the U.S.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "AADX",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "(AADX  ), an aerospace and defense equipment manufacturer with $522.09M in TTM revenue and 24.8% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "ARM",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "MSFT",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "CIEN",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Ciena (CIEN  ) will report Thursday.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "HPE",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- Hewlett Packard Enterprise (HPE  ) will report today after close.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "MDT",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Medtronic (MDT  ) will report Wednesday.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "VSCO",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "(VSCO  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "EPA",
+      "score": 79,
+      "stance": "Buy Candidate",
+      "evidence": "Opposition from top shareholder Bollore (EPA:BOL  ) helped sink the deal amid pressure from AI and slowing streaming growth.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "AMD",
+      "score": 77,
+      "stance": "Buy Candidate",
+      "evidence": "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  ).",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "META",
+      "score": 77,
+      "stance": "Buy Candidate",
+      "evidence": "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "DG",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Dollar General (DG  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "AAPL",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  ).",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "CRM",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "INIO",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "(INIO  ), a gas engine manufacturer with $2.81B in TTM revenue and 22.1% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "INTC",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  ).",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "JBLU",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* JetBlue revises forecasts: JetBlue (JBLU  ) raised its Q2 fuel cost forecast due to higher jet fuel prices tied to Hormuz disruptions, but also increased its revenue outlook as stronger operations and reduced competition from the shutdown of Spirit Airlines boosted performance.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "OKTA",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Software's strong May: Software stocks posted their strongest monthly performance since 2001 as strong earnings from companies, including Snowflake (SNOW  ) and Okta (OKTA  ), eased AI disruption fears.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "QCOM",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  ).",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "QNT",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "(QNT  ), a quantum computing company with $17.08M in TTM revenue and 34.6% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SFPT",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "(SFPT  ), a property insurance underwriter focused on coastal areas with $571.90M in TTM revenue and 96.9% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SFTBY",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* SoftBank expands AI push: SoftBank (SFTBY  ) became Japan’s most valuable company and announced plans to invest €45B in AI infrastructure in France over 5 years.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SNOW",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Software's strong May: Software stocks posted their strongest monthly performance since 2001 as strong earnings from companies, including Snowflake (SNOW  ) and Okta (OKTA  ), eased AI disruption fears.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SSMR",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Estimated Thursday, June 4: Sunshine Silver Mining & Refining Company (SSMR  ), a development-stage mining company with $460,603 in TTM revenue and 421.8% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "UBER",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "WHK",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "(WHK  ), a natural gas mineral and royalty firm with $67.60M in TTM revenue and $615.3% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SAIC",
+      "score": 69,
+      "stance": "Setup Watch",
+      "evidence": "View definitions --------------- Recent Earnings --------------- Science Applications International (SAIC  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SIG",
+      "score": 69,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics Signet Jewelers (SIG  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "CRDO",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * Credo (NASDAQ:CRDO ) jumped 6.2% Friday – and gained close to 3% in pre-market trading – ahead of Q4 earnings due after today’s closing bell.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "AMS",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* UMG rejects Ackman bid: Universal Music Group (AMS:UMG  ) rejected Bill Ackman’s $65B takeover offer, saying it undervalues the company.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "BRK.B",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Berkshire buys Taylor Morrison: Berkshire Hathaway (BRK.B  ) will buy home-builder Taylor Morrison (TMHC  ) for $6.8B in cash, a 24% premium.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "FDX",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* FedEx Freight spins off: FedEx Freight (FDXF.WI  ) completed its spinoff from FedEx (FDX  ) and is set to begin NYSE trading as an independent company.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "FDXF.WI",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* FedEx Freight spins off: FedEx Freight (FDXF.WI  ) completed its spinoff from FedEx (FDX  ) and is set to begin NYSE trading as an independent company.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "HKG",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Cancer drug shows survival gain: In a recent trial, Summit Therapeutics (SMMT  ) and Akeso's (HKG:9926  ) experimental lung cancer drug, ivonescimab, reduced the risk of death by 34%.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "LON",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* EasyJet rejects Castlelake interest: EasyJet (LON:EZJ  ) called Castlelake’s takeover approach “highly opportunistic” after the investment firm disclosed interest in a possible bid.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "MRNA",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Moderna targets Ebola strain: Moderna (MRNA  ) partnered with CEPI to develop a Bundibugyo Ebola vaccine, with up to $50M supporting early testing, as Congo’s outbreak drives urgent demand.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SMMT",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Cancer drug shows survival gain: In a recent trial, Summit Therapeutics (SMMT  ) and Akeso's (HKG:9926  ) experimental lung cancer drug, ivonescimab, reduced the risk of death by 34%.",
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "BRKB",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SONY",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SPOT",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "WMG",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees.",
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "AVGO",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Broadcom (NASDAQ:AVGO ) stock has been edging up prior to Q2 earnings, also due Wednesday. Learn why AVGO is an Overlooked Champion A message from The Motley Fool <p><strong>After the dot-com peak, the S&P 500 lost money for a full decade.",
+        "* Financials   · As Reported   · Metrics Broadcom (AVGO  ) will report Wednesday."
+      ],
+      "latestMove": "+47.30%"
+    },
+    {
+      "symbol": "CRWD",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * CrowdStrike (NASDAQ:CRWD ), beating the S&P 500 by 91.5% since its 2024 Hidden Gems recommendation, will report its first quarter on Wednesday.",
+        "* Financials   · As Reported   · Metrics CrowdStrike (CRWD  ) will report Wednesday."
+      ],
+      "latestMove": "+23.48%"
+    },
+    {
+      "symbol": "TMHC",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals. * TMHC stock up 23% pre-market, Berkshire relatively unchanged: The apparent confidence in the U.S.",
+        "* Berkshire buys Taylor Morrison: Berkshire Hathaway (BRK.B  ) will buy home-builder Taylor Morrison (TMHC  ) for $6.8B in cash, a 24% premium."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ULTA",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * Ulta Beauty (NASDAQ:ULTA ) – recommended by both Team Rule Breakers and Team Hidden Gems – releases Q1 earnings after Tuesday’s close, following an 11.8% revenue increase from the prior year in Q4, with guidance predicting a further 6-7% in fiscal 2026.",
+        "* Financials   · As Reported   · Metrics Ulta Beauty (ULTA  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+9.11%"
+    },
+    {
+      "symbol": "AMD",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ARM",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall.",
+        "* Nvidia launches RTX Spark: Nvidia (NVDA  ) unveiled its Arm-based (ARM  ) RTX Spark PC chip for laptops and mini-PCs, expanding beyond graphics and into full consumer computing."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CRDO",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Key Upcoming Earnings to Watch: CRWD, ULTA, and CRDO ------------------------------------------------------- * Credo (NASDAQ:CRDO ) jumped 6.2% Friday – and gained close to 3% in pre-market trading – ahead of Q4 earnings due after today’s closing bell."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "META",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns.",
+        "* China tightens deal controls: China expanded rules governing foreign deals, tech transfers, and overseas investments after forcing Meta (META  ) to unwind its Manus AI acquisition."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MSFT",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "The company’s new RTX Spark superchip – incorporating a new N1X Arm (NASDAQ:ARM )-based processor developed with Microsoft (NASDAQ:MSFT ) – will appear in PCs running Windows for Arm this fall.",
+        "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "Nvidia’s New Superchip Targets PCs ************************************* * Nvidia (NASDAQ:NVDA ) is set to enter the PC market, CEO Jensen Huang announced at the Computex trade show in Taipei. * 1 petaflop of AI performance: Nvidia’s announcement says the new chip will cater to 120B-parameter LLMs with up to 1 million tokens.",
+        "* Nvidia launches RTX Spark: Nvidia (NVDA  ) unveiled its Arm-based (ARM  ) RTX Spark PC chip for laptops and mini-PCs, expanding beyond graphics and into full consumer computing.",
+        "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PANW",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Palo Alto (NASDAQ:PANW ) reports Q3 after Tuesday’s close, with investors focused on the financial impact of its $25 billion CyberArk acquisition.",
+        "* Financials   · As Reported   · Metrics Palo Alto Networks (PANW  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+28.59%"
+    },
+    {
+      "symbol": "VEEV",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Veeva (NYSE:VEEV ) opens fiscal 2027 with a Q1 update Wednesday.",
+        "* Financials   · As Reported   · Metrics Veeva Systems (VEEV  ) will report Wednesday."
+      ],
+      "latestMove": "+13.00%"
+    },
+    {
+      "symbol": "AADX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(AADX  ), an aerospace and defense equipment manufacturer with $522.09M in TTM revenue and 24.8% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AAPL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AMS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* UMG rejects Ackman bid: Universal Music Group (AMS:UMG  ) rejected Bill Ackman’s $65B takeover offer, saying it undervalues the company."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BRK.B",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Berkshire buys Taylor Morrison: Berkshire Hathaway (BRK.B  ) will buy home-builder Taylor Morrison (TMHC  ) for $6.8B in cash, a 24% premium."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BRKB",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Berkshire Hathaway (NYSE:BRKB ) has agreed to acquire Taylor Morrison (NYSE:TMHC ) in an all-cash transaction, the two companies announced Sunday, marking one of CEO Greg Abel’s first major deals."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CIEN",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Ciena (CIEN  ) will report Thursday."
+      ],
+      "latestMove": "+33.30%"
+    },
+    {
+      "symbol": "CRM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "DG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Dollar General (DG  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+3.76%"
+    },
+    {
+      "symbol": "EPA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Opposition from top shareholder Bollore (EPA:BOL  ) helped sink the deal amid pressure from AI and slowing streaming growth."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "FDX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* FedEx Freight spins off: FedEx Freight (FDXF.WI  ) completed its spinoff from FedEx (FDX  ) and is set to begin NYSE trading as an independent company."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "FDXF.WI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* FedEx Freight spins off: FedEx Freight (FDXF.WI  ) completed its spinoff from FedEx (FDX  ) and is set to begin NYSE trading as an independent company."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HKG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Cancer drug shows survival gain: In a recent trial, Summit Therapeutics (SMMT  ) and Akeso's (HKG:9926  ) experimental lung cancer drug, ivonescimab, reduced the risk of death by 34%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HPE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- Hewlett Packard Enterprise (HPE  ) will report today after close."
+      ],
+      "latestMove": "+28.21%"
+    },
+    {
+      "symbol": "INIO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(INIO  ), a gas engine manufacturer with $2.81B in TTM revenue and 22.1% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "INTC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "JBLU",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* JetBlue revises forecasts: JetBlue (JBLU  ) raised its Q2 fuel cost forecast due to higher jet fuel prices tied to Hormuz disruptions, but also increased its revenue outlook as stronger operations and reduced competition from the shutdown of Spirit Airlines boosted performance."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LON",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* EasyJet rejects Castlelake interest: EasyJet (LON:EZJ  ) called Castlelake’s takeover approach “highly opportunistic” after the investment firm disclosed interest in a possible bid."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MDT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Medtronic (MDT  ) will report Wednesday."
+      ],
+      "latestMove": "+7.80%"
+    },
+    {
+      "symbol": "MRNA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Moderna targets Ebola strain: Moderna (MRNA  ) partnered with CEPI to develop a Bundibugyo Ebola vaccine, with up to $50M supporting early testing, as Congo’s outbreak drives urgent demand."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "OKTA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Software's strong May: Software stocks posted their strongest monthly performance since 2001 as strong earnings from companies, including Snowflake (SNOW  ) and Okta (OKTA  ), eased AI disruption fears."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "QCOM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Nvidia says the AI-focused chip will compete with offerings from Apple (AAPL  ), Qualcomm (QCOM  ), Intel (INTC  ), and AMD (AMD  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "QNT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(QNT  ), a quantum computing company with $17.08M in TTM revenue and 34.6% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SAIC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "View definitions --------------- Recent Earnings --------------- Science Applications International (SAIC  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+1.55%"
+    },
+    {
+      "symbol": "SFPT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(SFPT  ), a property insurance underwriter focused on coastal areas with $571.90M in TTM revenue and 96.9% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SFTBY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* SoftBank expands AI push: SoftBank (SFTBY  ) became Japan’s most valuable company and announced plans to invest €45B in AI infrastructure in France over 5 years."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SIG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Signet Jewelers (SIG  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+0.84%"
+    },
+    {
+      "symbol": "SMMT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Cancer drug shows survival gain: In a recent trial, Summit Therapeutics (SMMT  ) and Akeso's (HKG:9926  ) experimental lung cancer drug, ivonescimab, reduced the risk of death by 34%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SNOW",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Software's strong May: Software stocks posted their strongest monthly performance since 2001 as strong earnings from companies, including Snowflake (SNOW  ) and Okta (OKTA  ), eased AI disruption fears."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SONY",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPOT",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SSMR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Estimated Thursday, June 4: Sunshine Silver Mining & Refining Company (SSMR  ), a development-stage mining company with $460,603 in TTM revenue and 421.8% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "UBER",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Companies curb AI spending: Major firms, including Uber (UBER  ), Meta (META  ), Microsoft (MSFT  ), and Salesforce (CRM  ), are tightening AI usage as soaring token costs strain budgets, pushing companies to ration tools and prioritize measurable returns."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "VSCO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(VSCO  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+12.83%"
+    },
+    {
+      "symbol": "WHK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(WHK  ), a natural gas mineral and royalty firm with $67.60M in TTM revenue and $615.3% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "WMG",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Meilin Quinn For years, skeptics said Spotify (NYSE:SPOT ) could never turn a reliable profit because labels like Universal Music Group, Warner Music Group (NASDAQ:WMG ), and Sony (NYSE:SONY ) took roughly 70 cents of every subscription dollar in music licensing fees."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nvidia Sets Sights On PC Market",
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "kind": "economic",
+      "date": "2026-06-01",
+      "time": "10:00 AM",
+      "title": "ISM Manufacturing PMI, Employment",
+      "source": "Market Bullets: Berkshire Hathaway buys Taylor Morrison, Nvidia gets into consumer computing, software's strong May"
+    }
+  ]
+}

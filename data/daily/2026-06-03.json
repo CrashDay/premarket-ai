@@ -1,0 +1,888 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T12:39:01.007Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Breakfast News: Nadella Drives MSFT to AI Frontier",
+      "file": "2026-06-03-market-brieffoolbreakfast-news-breakfast-news-nadella-drives-msft-to-ai-frontier-19e8d41e39b7e19f.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Wed, 03 Jun 2026 11:32:44 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/HtMR3o9UolOPHuXxHC5GJw~~/AAQRxRA~/vY8UNen6RHLFOXQVv14DlglxLEV-NE97nDspFSdXdkLLPMvmKHTbCslnFpZziGA_plet5WsGsLiKmdFccvFAVy3gPW0Cyw5BOnIfdoriA7-9G9GFP9-C3uN6z3FPBZRpkQz3J260Blik0bu9G37p19xpC4mvDQEOltSpFp5fiKRvdT9L4sQVRwjLM8zw_YiKUcl6zW4Xn0oIdwOk3A95Tn4NO6Yc4huGuZcPKlNlJKP7O2fqZJuz-M_Zh9Avf5tlRWGgzwjfj6Pn2XHij9n0T9ClDlsuWJn8zxhzfcFUdbRHVPqxqx_18zgxkVFTPHHcFf1QrY1weyFqwwcNG0CaDrqXxsieNLKFCPvyyXKRPcn9N2aCXhT-RNfWYW_Vd7sulo2c2xk5xvBeyZ82e8R4XDLRAwxLFlJ9R0BTY8mn4aTRm9f2v5JZDixnZtm2kMe0",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/7G0Tx8iwSHZEKHfhxyvB8Q~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tL3jFcJ810Yn0jWId-XbrE21P0W7ZJ51T4dAFiV_tpaRyjR_IjNHhZ46N_OztGLMmiIWNX0VgViIir3fE0M40_IkwhZpAnUQTpVHliRGONGJvfSwAOKMvB6NYo82VuhVYbIzIRAptGB_tsGJ5UtIq1IZuTFveIXpHmAcrAGq_lx_afxHWpOHs5b9Z8Pf-2VZ7NPfxwNeOkIymXmcz50qFjrqPrv1KpYfDSlxKmkggDykuolizAp7V-U65_fsWOHJuqPYR7vMbm1LaK9ajARoTUTd_tl2X4G9OpZBNlODeXGOFvHcTccQg7r3YbOglEMP3vxc0mCxXmayuCTbtYSWvD-zYAOh0BpkSU6K-H2Xv7kuQmXRAPPiJGKMh4x9OmVwxh",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Fp4ODU-MidcZCgyyCZS4pg~~/AAQRxRA~/XJ81JwbqD009_C30DE6shzkZUkFPs8CKD8GyMJcanyz49Xh0EamieFcKdEATL7EkNyDefn-fAibTvls9-EaPRycCOvbd7s-xEUmBfb1HxvJrFqnlfkarOhUh8LA68az3HUlyZNunlZncnvRGZ1OhiYFVjWtiiIgZKcGMEVHBVB0xLvuXHB0bluftEFtM9AFOk0doZXOkFacIP-9c97vK_wMtrO_xLuIbABJFbiDYJi1E2eAQyGeYo7yy941ymYXmoMQxRzg9hP1m89-xwcS4sTfza_9FkExB1bpPIpmbtSfe3UQqsKieZemsVJQCOpt7FWAhEkAfSMqm6TsZKpMEPhYpBTKWDFoIOOuRId_IX55rDXRIxlwBZpXAiJouFh5LIAFLLrpJ8zAT_hXSCmXRtnoA0hhXesZD4aX2MDq_wWLeioks-Yl-pjo-cIvkbt6J",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/1B2o_H5yqAXfbVXKnqo09g~~/AAQRxRA~/G0_2pjbQgDwl7zg4KJbsOj6oy7MlFNT_KV-djCZ-aOGcL3ePU1s74USpOk_mWtCZQNVbgNA7lwgpxPMmUzZnvrYMv8vdy9yYIQfZCejZ_sYxN7_xvvmoVES1D79TiSIiI-VuHUkpnwT7SE1hhP6M5_JRuYWGlEcUyEp_EW3kEwP0whHupvqbxOsy_ok3iYQ-IMtu6mWqETwKXtNiVZ0uevEnedl3ho6AkkhjeugpbXllGhsJdYJJUOuT2rtS3IVex7xgJTx572yqdrgW-J9Yx2bpCoAXsjeQrj1EhwZlRGnM_lzXZ1JgEAF_Rw4fUwYFadgahs5QjbvPB-Fb6vfYkAAhwIQMt9wc5ZjlVfVLiz7OpKK5-V9hQ_oxQqf5JdjewPc5jEfTDk9H-bA6Tl3Pza87g_wD7He_3fTrp9Kf0OZdAVTsIQLXmc5FaGCdkPvT",
+          "title": "Get Seth Jayson’s take on MSFT earnings",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/ZG5aVlkTfTiQ5d5iHXe7Bg~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tLyfJTkcryxKIwGqqqfMSOUbdI24FSGsGKE_hj1CDFkqVdAiFWtHS8S3xAvcnXd94IicBYGVortQjzJpIpTSiOLyXibJY-E5tsKbGlVFPbYBKpyFB6JZNML0ndovNvd91ReAr55rAl9byOTzV2aYYEv3YddIvSy5ICNJOqG7hDCJ3cI93gm7ZnqkpTeSlDlfXtjbBobfpR9JydF0AgUo-TUkolteNYpMVx8u0dtCWWRAZPj7lsQYBXixLgwD6XWvhRCAuVNQxlbCWZvAcgvGjyLzta63eN1YrcVn3QguHsOvYLAn7_RXKaP4pe_ys8xMMrEBy8wa3ByNcBmNfgGFz3UGKFiFx90sYJ7USFyT0ia9YWAIiiXNaukH7XUMhR9BQv",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/rV1rFvVtjJicAmeqoqFxWQ~~/AAQRxRA~/cRPwhQ8luRZVqXHQmBfd_KmXykCS0pv1HYPDq670Z0iIaceCI7KAIHHUxkRGEgy5dZtXRsVuI7FAlxGI57oG9USU6ZJMrZ9yBoiqwo43Fyzjl7LXnxGwkyJlp5bFG1SKj68jo7s3_r_vYRVLIcASQwVywIXPHntMOlWX248Jhv0ik2yS5zYV897Zv5ePm5aIYWQGr4Cz2BBIX--fa-P72lIKs5wO478eP78jkpYEdvLfrt9JbGrnIaXXj4HZia8210_EVhnQ5IkPGwn_E_lvaVAzawGBurcRMMwZJFCfOQV1q6o4LeqhbG5Quz5D15kS_sym1_rBMIUMJaIK1Mng277xjuTL-e4B6k8sbAB4JLbY4FwJK07XomLQ8J46mSi6hqSgXRUOBT01P6F90F-GAVcDJpHunO5abE7wG9y4SAats3zvOJbbFQgcy2CpyENN7cRq5DJZdpXAhVzduT_68wq-7M_vJgQvwb_u4BuejDc~",
+          "title": "Palo Alto Q3 performance",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/0rUR53sK9Cu6sJEJ2EWnVA~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tLlnjXVdmVphAWkpg-GdD1uYpkiHw0Q23zhPQ4vZB9wUUcTpvEKYI9E--HJhS4z62x2oP0bz5Ysb-vAO3hkVW0NkyfI5S6DwAedr6ywpI2Fz6pXJZVUDFUyqc-4pnMguaLDYWdGALjd2rHonEgm3jTlEvvyAOK4ZV01RHamRQ-F3CRCUxBp2Ip9hXEgfSwQqa2fFjv6ZL9wzvpoDmpNwO1qOfAEtKalDi3PiiR1fTnExUgGxo81NZuZEUz0f8gmdMfMX-wHjM2-CG_3KLaSIMcsKCx4aRdTtzKwYZ7ouh35sYiiaFkIOikFObr-uewVHRGOubDraw7qlgElCrlJTS9SR5NOhQF2EbUGMm33SReKfj5CbdfSWybiIzuk1RFNx71",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/NQemIYTY753xkDaOlVVuDw~~/AAQRxRA~/EZGFWTEQMXAHfUNrlrIAZXHoHJnXhM8Ess3lXOp070p3_3XpYnkGkhcgPxOpUPa681AekP-Q7Oc3in-XqODD27Vg6gLRtXNR4T1oWwbAUa1cP-1o-8Cq0TQLI0-jVRag5dDTvkckyqwtiDqDc2Fbs12zKytPT06TNbMB-ScKXwd8ptZUPUplB6Gg9Dbqd_sg3VI1RVOUHeb1Dkcb2H3dIgncf9ZdeOHkQ1Y8fxboh-uJmDNEo-Rx6y_f5b9bq9p4gJXRdy89t0qECcm5v6_GlGbQ-I3gOx7UC8baNAE8VkJUYcTloBRdzS8O_vBAQZZYbHH0WL1utCADxOClUYp3-Aw8NzJPoZril2jltaZPMOA2TGp_ErElKn6Tv6Cae6Y7qrZyhu2yXQ2jbSBSakv9OzWcQzAG6f9cNcLVl-ku_9qUo_o3V7G9FmhLFrSzS_w3arSI5LhpF4OyGmDwt6cqlc7kfAvoVICb_DGnwzuhdOc~",
+          "title": "Dig into Ulta Beauty’s Q1 results",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/AdzFxm0N9bDJYXUVogHFSA~~/AAQRxRA~/XJ81JwbqD009_C30DE6shzkZUkFPs8CKD8GyMJcanyz49Xh0EamieFcKdEATL7EkFql_6E__S2xogFDVE7GU2n6tx6SuRsTWOOWMTJokxRCntIhKgXPhp1QEcJtKAQWz7t5ZkkMyfQH_X-xl6dkhyllotsD3WNqBdhDV5FToL9w1KJ6FFOZ3DlE4UOW3JHedK2anZX85OQMCW8F1UTbxQ8gj8Cc5Am_21nB8FrsIqqDElQ3fkAbzE3TY3NA4lFeIqme_YyWuvB80KdqFGcVXFGYz5ZaRY2Ms9QHZaO17e6KS2BIxsTWgUOTFNPfFp1_zCAyciV0LHbBYaPftaP3yFBfq2BpgYEcRtCit7NGlH_rKz2AHvEUzWSxP92Hq_00th-oDY8etE8de-1FSpvHEzJ0FWCky37LBw6m4a5NjUXC-cW5K006IIVNAekG47e-H",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/UuvMOYcxnc-7vkDFosrmfA~~/AAQRxRA~/3pik1w42k6tErGGHs5pKcSAX3ZhjsV4H5Zak1YsXzd9YUPehBLpn9Uosf9zYpjNGvzXI36MbFFbGBmG1dMGZJNJ1z-VT682r_T-zQJmtzpP82s7ObT8lQyLo_qxrYaRJlerduWiPaKHWLH5i6Ckwp86hMA3DIwkhfDWwpw0ElDyAGc0qq1Z6_6j4MRgQezL8onPRMl-w3hkS3Wi3UHju7HuKG4jhyzXQ4uuxG0DPGhScePYlSXO0oRRi_E1yge9pnhhj0ltYpvvPuvvYWWTNjZa-APvwmR3sQyiv9OqJwF_WYnmlcBOif32KYiCdcUPJj6toW84IE9SFdYqXHbk6jWQfOobubVq0GDzQ0Y_10QGO3DGht2J-7IhW_iuVOXYuhruH80xpmMndaZPawunBy5knKHPF_e3Yq7AEAEQJ-enCsB3jwR11mZb1_e3XEJlwTz9tIG01BBI-d8Y_JjOoxA~~",
+          "title": "9% YoY revenue rise in Q3",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/5vdFIIqR5_PVFrPmxUosOw~~/AAQRxRA~/mc1Z98nVaQ4UPewgeQWDQtP7CGmVBrpM_eIhwiF5xW7q0W2960NlgUQ_-ppp8fpHEhDOPRkIU9tsV8ze2vYXVscHdxhRxvNooywHur6Bg51KWSAjdgqJyghPOS76wvk_Mwvmh5IC46zqBF7SpVQkneW5cVaNb7Rj7D4mz7ucUdnCT1xVcK50fXtRv-MR_jZH9W8wzLEL0kn5xGyS6y5uDj_BwjMDxV8E0jgaBJKSO9G8FcVH05FlrTJY654_Ke-te-rSAMdfne8Wm-Ob9DfiL9CiWNKPwRIgMAGVfi9t2Tk7u6NCWX67vMe_j8wpygI95NUuifXsNLW43m5Kv3LKxztMrwcKY4cXUSOsl-_Gq6ja6fql7HWpydm8APxQjl73_avGJjp0NMyMAIGRFT1a5FNnteLkQrabXarbufqudeG7Y-SaSnqosiVNI8stV-0N",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Iztr3G2KzSwrn907M0iGGg~~/AAQRxRA~/zSzPyxUS8V6Y0IQFpJ0VSKx_awY_NnjNtu7MaJRzWlxRwCHdtodV40g5_PTfGheroDX2NNUk9TbPU7fVojQEz7tr8FtHAhqD5vOWgrdpgnkqdu-FzZ3FN9pRze-GGFgqEHWXtF23F4XFeMyxemaL-840wm75Vzhg5oNtdvi2mQJ2r4SE6qG_tXQcdC43b9svK2SsY2w9shyrp5tLCt4dgFbsfPFWArMnXhP-bEmJpQJSbnd3D2HkuXDMCIwtXeJtN_L5B4y-9bdQAezcrK3SZWWg_2shp4gsgsMYpJYe1W-VDQ7LLhPDJdsALwg3DQKuwtR4Zv5hyZGQLiWwVmL0tC5JtFyHUJTJjWqwsA8mpCdb5iOKpsDEDXlu_4azVk3j9LtQ9z0IZ4A_R0H-h1qDK8JfNuSbM_PKnErRRllfmq01mr_8bnSztEDERyNGAl5-",
+          "title": "a sales beat in Q4",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1303,
+      "summaryHints": [
+        "Microsoft announces AI tools and quantum chip, SpaceX reportedly decides IPO price, and more… Breakfast NewsClick here to read online .",
+        "JUNE 3, 2026Tuesday's MarketsS&P 500 7,610 (+0.13%)Nasdaq 27,094 (+0.03%)Dow 51,308 (+0.45%)Bitcoin 66,912 (-6.4%)Image shows chart of Microsoft's operating profit margin over 5 years *****************************************",
+        "Microsoft Breaks Into AI “Vibe Coding” *****************************************",
+        "* Microsoft (NASDAQ:MSFT ) – expanding beyond providing AI cloud infrastructure and services – unveiled its new AI coding tool at its Build conference in San Francisco Tuesday.",
+        "Using a process known as vibe coding, MAI-Code-1-Flash allows non-technical users to produce software source code through text-based interaction."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Microsoft Breaks Into AI “Vibe Coding” ****************************************** Microsoft (NASDAQ:MSFT ) – expanding beyond providing AI cloud infrastructure and services – unveiled its new AI coding tool at its Build conference in San Francisco Tuesday. Using a process known as vibe coding, MAI-Code-1-Flash allows non-technical users to produce software source code through text-based interaction. The company also announced a new MAI-Thinking-1 reasoning model, “built for high efficiency and performance, but importantly, at a low token cost.” * “What you just saw is a pretty significant shift”: In his address, CEO Satya Nadella added, “We believe the time has come for every company to just move from consuming a frontier model to fully participating … in the frontier ecosystem.” The stock closed the day down 4.2%. * Commercially useful quantum machines targeted for 2029: Competing with IBM (NYSE:IBM ), Microsoft set an ambitious schedule as it introduced its new Majorana 2 quantum processor. The new chip can reportedly keep qubits stable for 20 seconds – around 1,000 times longer than the earlier Majorana",
+          "links": [],
+          "tickers": [
+            "IBM",
+            "MSFT"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Semiconductors"
+          ]
+        },
+        {
+          "title": "Item 1",
+          "text": "Get Seth Jayson’s take on MSFT earnings ----------------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/1B2o_H5yqAXfbVXKnqo09g~~/AAQRxRA~/G0_2pjbQgDwl7zg4KJbsOj6oy7MlFNT_KV-djCZ-aOGcL3ePU1s74USpOk_mWtCZQNVbgNA7lwgpxPMmUzZnvrYMv8vdy9yYIQfZCejZ_sYxN7_xvvmoVES1D79TiSIiI-VuHUkpnwT7SE1hhP6M5_JRuYWGlEcUyEp_EW3kEwP0whHupvqbxOsy_ok3iYQ-IMtu6mWqETwKXtNiVZ0uevEnedl3ho6AkkhjeugpbXllGhsJdYJJUOuT2rtS3IVex7xgJTx572yqdrgW-J9Yx2bpCoAXsjeQrj1EhwZlRGnM_lzXZ1JgEAF_Rw4fUwYFadgahs5QjbvPB-Fb6vfYkAAhwIQMt9wc5ZjlVfVLiz7OpKK5-V9hQ_oxQqf5JdjewPc5jEfTDk9H-bA6Tl3Pza87g_wD7He_3fTrp9Kf0OZdAVTsIQLXmc5FaGCdkPvT",
+              "title": "Get Seth Jayson’s take on MSFT earnings",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "After-Hours Earnings Roundup: Palo Alto and Ulta Beauty ---------------------------------------------------------- Palo Alto (NASDAQ:PANW ) fell over 5% in early trade, even after CEO Nikesh Arora said “our Q3 performance was exceptional” during yesterday’s earnings call from the Rule Breakers recommendation. Annual recurring revenue from the company’s Next Generation Security platform surged 60% year over year (YoY), to hit $8.13 billion – though management warned of “rising component costs, particularly in memory and storage.” * “This is our most significant quarterly outperformance to date and surpassed our guidance”: Arora added, “Over the past quarter, Frontier AI development reached a critical inflection point,” as the company raised Q4 revenue guidance to between $11.415 billion and $11.425 billion. * Ulta Beauty (NASDAQ:ULTA ) reported an 11.1% YoY increase in Q1 revenue on Tuesday. CEO Kecia Steelman told investors, “Performance continues to be fueled by the strength of our core U.S. business,” adding “We gained share in prestige beauty, and we were roughly flat in mass beauty.” The stock, recommended by both Team RB and HG, rose around 1% in pre-market trading. Dig into Ulta Beauty’s Q1 results -----------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/NQemIYTY753xkDaOlVVuDw~~/AAQRxRA~/EZGFWTEQMXAHfUNrlrIAZXHoHJnXhM8Ess3lXOp070p3_3XpYnkGkhcgPxOpUPa681AekP-Q7Oc3in-XqODD27Vg6gLRtXNR4T1oWwbAUa1cP-1o-8Cq0TQLI0-jVRag5dDTvkckyqwtiDqDc2Fbs12zKytPT06TNbMB-ScKXwd8ptZUPUplB6Gg9Dbqd_sg3VI1RVOUHeb1Dkcb2H3dIgncf9ZdeOHkQ1Y8fxboh-uJmDNEo-Rx6y_f5b9bq9p4gJXRdy89t0qECcm5v6_GlGbQ-I3gOx7UC8baNAE8VkJUYcTloBRdzS8O_vBAQZZYbHH0WL1utCADxOClUYp3-Aw8NzJPoZril2jltaZPMOA2TGp_ErElKn6Tv6Cae6Y7qrZyhu2yXQ2jbSBSakv9OzWcQzAG6f9cNcLVl-ku_9qUo_o3V7G9FmhLFrSzS_w3arSI5LhpF4OyGmDwt6cqlc7kfAvoVICb_DGnwzuhdOc~",
+              "title": "Dig into Ulta Beauty’s Q1 results",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "PANW",
+            "ULTA"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "What Foolish Investors Ought to Watch on Wednesday ----------------------------------------------------- * Medtronic (NYSE:MDT ) reported its highest annual revenue growth to date, of 8.4%, this morning – as Q4 beat the Dividend Investor rec’s 9% YoY revenue rise in Q3 , with 9.9% this time. Cardiac Ablation Solutions revenue increased 78% globally over Q4 last year, and 124% in the U.S. The company announced its 49th consecutive year of dividend rises, with the stock nudging up a little over 1% in response. * Macy's (NYSE:M ) reported its “strongest first quarter in four years,” as total comparable sales rose 3% in Q1 – with Bloomingdale’s sales up 10.2%. CEO Tony Spring spoke of “exceeding expectations for the fifth consecutive quarter,” following a sales beat in Q4 . The company returned $50 million in cash to shareholders in the quarter. The stock rose around 2% as a consequence. * Five Below (NASDAQ:FIVE ) – recommended by Team Rule Breakers – will reveal first quarter results for fiscal 2026 after the market closes. As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon. Find out what to expect from Medtronic -------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/UuvMOYcxnc-7vkDFosrmfA~~/AAQRxRA~/3pik1w42k6tErGGHs5pKcSAX3ZhjsV4H5Zak1YsXzd9YUPehBLpn9Uosf9zYpjNGvzXI36MbFFbGBmG1dMGZJNJ1z-VT682r_T-zQJmtzpP82s7ObT8lQyLo_qxrYaRJlerduWiPaKHWLH5i6Ckwp86hMA3DIwkhfDWwpw0ElDyAGc0qq1Z6_6j4MRgQezL8onPRMl-w3hkS3Wi3UHju7HuKG4jhyzXQ4uuxG0DPGhScePYlSXO0oRRi_E1yge9pnhhj0ltYpvvPuvvYWWTNjZa-APvwmR3sQyiv9OqJwF_WYnmlcBOif32KYiCdcUPJj6toW84IE9SFdYqXHbk6jWQfOobubVq0GDzQ0Y_10QGO3DGht2J-7IhW_iuVOXYuhruH80xpmMndaZPawunBy5knKHPF_e3Yq7AEAEQJ-enCsB3jwR11mZb1_e3XEJlwTz9tIG01BBI-d8Y_JjOoxA~~",
+              "title": "9% YoY revenue rise in Q3",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/Iztr3G2KzSwrn907M0iGGg~~/AAQRxRA~/zSzPyxUS8V6Y0IQFpJ0VSKx_awY_NnjNtu7MaJRzWlxRwCHdtodV40g5_PTfGheroDX2NNUk9TbPU7fVojQEz7tr8FtHAhqD5vOWgrdpgnkqdu-FzZ3FN9pRze-GGFgqEHWXtF23F4XFeMyxemaL-840wm75Vzhg5oNtdvi2mQJ2r4SE6qG_tXQcdC43b9svK2SsY2w9shyrp5tLCt4dgFbsfPFWArMnXhP-bEmJpQJSbnd3D2HkuXDMCIwtXeJtN_L5B4y-9bdQAezcrK3SZWWg_2shp4gsgsMYpJYe1W-VDQ7LLhPDJdsALwg3DQKuwtR4Zv5hyZGQLiWwVmL0tC5JtFyHUJTJjWqwsA8mpCdb5iOKpsDEDXlu_4azVk3j9LtQ9z0IZ4A_R0H-h1qDK8JfNuSbM_PKnErRRllfmq01mr_8bnSztEDERyNGAl5-",
+              "title": "a sales beat in Q4",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "AVGO",
+            "CRWD",
+            "FIVE",
+            "MDT",
+            "VEEV"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 4",
+          "text": "Report: SpaceX Decides IPO Pricing ------------------------------------- SpaceX is aiming for a $135 share price, Reuters reported, with over 555 million shares potentially up for sale – to raise around $75 billion in what would be an all-time record IPO. The terms of the offering could be revealed as soon as today, said Bloomberg, with formal marketing starting tomorrow. * “It may be a stretch to achieve the valuation they want even with very generous multiples”: Not everyone is bullish about the prospects, as Vey-Sern Ling at Union Bancaire Privee sounded a caution, though he added, “The market has always given Elon Musk the benefit of the doubt.” * “My guess is following this stock and its potential growth will require much more than reading the financial statements. Why? The innovation story will foreshadow the financial story”: Fool analyst Tim Beyers recently noted , “At root, SpaceX will either be a triumph or failure of extra-terrestrial engineering. Understand that, and we’ll have a better chance of properly valuing a business that casts itself as invaluable.” Weigh SpaceX's IPO red & green flags ----------------------------------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "May Review: Software and Solar Soared ---------------------------------------- As the market has reached new highs, market valuations have also neared levels not seen since the peak of the dot-com bubble. If you're an experienced investor with a high risk tolerance and a long timeline until you need to turn your stocks into cash, then this may be just noise … But for those near or in retirement, this might be a good time to reevaluate how much of your portfolio should be protected in safer cash and bonds -- while still keeping a significant portion of your portfolio invested in stocks. —ROBERT BROKAMP, CFP Robert Brokamp Read Bro's 5 takeaways from May in full ********************************",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 6",
+          "text": "Today’s Take: A Better Metric ******************************** Matt Frankel There are many companies that rely on adjusted EBITDA to show how profitable they are, but I largely ignore this number when researching stocks. Charlie Munger once used some very colorful language when discussing adjusted EBITDA, and I don't blame him. — MATT FRANKEL • TEAM HIDDEN GEMS Alicia Alfiere Price-to-free-cash-flow is my favorite financial health indicator. Companies generating cash have money left over after paying bills and can use that money to pay back debt, reinvest in the business, or return value to shareholders. — ALICIA ALFIERE • TEAM RULE BREAKERS Here’s a sneak preview, but head to the article to name a common financial metric you don’t like to rely on – and what you use instead – or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 7",
+          "text": "Your Take ************** YESTERDAY'S TOP RESPONSE We asked, on a scale of 1-10, how excited are you about the upcoming SpaceX IPO? What excites you or what concerns you about SpaceX as an investment? R Member RedandBlack said “I judge my interest at about a",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "I am curious but Elon is one of the least investor-friendly managers in the world. I will stand on the sidelines for a long time before investing in this one.” See more great answers from our Foolish community TODAY’S QUESTION Are there any themes or sectors you're reconsidering at the start of this new month? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "AVGO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon."
+          ]
+        },
+        {
+          "symbol": "CRWD",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon."
+          ]
+        },
+        {
+          "symbol": "FIVE",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Five Below (NASDAQ:FIVE ) – recommended by Team Rule Breakers – will reveal first quarter results for fiscal 2026 after the market closes."
+          ]
+        },
+        {
+          "symbol": "IBM",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Commercially useful quantum machines targeted for 2029: Competing with IBM (NYSE:IBM ), Microsoft set an ambitious schedule as it introduced its new Majorana 2 quantum processor."
+          ]
+        },
+        {
+          "symbol": "MDT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Medtronic (NYSE:MDT ) reported its highest annual revenue growth to date, of 8.4%, this morning – as Q4 beat the Dividend Investor rec’s 9% YoY revenue rise in Q3 , with 9.9% this time."
+          ]
+        },
+        {
+          "symbol": "MSFT",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Microsoft (NASDAQ:MSFT ) – expanding beyond providing AI cloud infrastructure and services – unveiled its new AI coding tool at its Build conference in San Francisco Tuesday.",
+            "Get Seth Jayson’s take on MSFT earnings ----------------------------------------------------------"
+          ]
+        },
+        {
+          "symbol": "PANW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "After-Hours Earnings Roundup: Palo Alto and Ulta Beauty ---------------------------------------------------------- Palo Alto (NASDAQ:PANW ) fell over 5% in early trade, even after CEO Nikesh Arora said “our Q3 performance was exceptional” during yesterday’s earnings call from the Rule Breakers recommendation."
+          ]
+        },
+        {
+          "symbol": "ULTA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Ulta Beauty (NASDAQ:ULTA ) reported an 11.1% YoY increase in Q1 revenue on Tuesday."
+          ]
+        },
+        {
+          "symbol": "VEEV",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": []
+    }
+  ],
+  "readingList": [
+    {
+      "title": "9% YoY revenue rise in Q3",
+      "note": "What Foolish Investors Ought to Watch on Wednesday ----------------------------------------------------- * Medtronic (NYSE:MDT ) reported its highest annual revenue growth to date…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/UuvMOYcxnc-7vkDFosrmfA~~/AAQRxRA~/3pik1w42k6tErGGHs5pKcSAX3ZhjsV4H5Zak1YsXzd9YUPehBLpn9Uosf9zYpjNGvzXI36MbFFbGBmG1dMGZJNJ1z-VT682r_T-zQJmtzpP82s7ObT8lQyLo_qxrYaRJlerduWiPaKHWLH5i6Ckwp86hMA3DIwkhfDWwpw0ElDyAGc0qq1Z6_6j4MRgQezL8onPRMl-w3hkS3Wi3UHju7HuKG4jhyzXQ4uuxG0DPGhScePYlSXO0oRRi_E1yge9pnhhj0ltYpvvPuvvYWWTNjZa-APvwmR3sQyiv9OqJwF_WYnmlcBOif32KYiCdcUPJj6toW84IE9SFdYqXHbk6jWQfOobubVq0GDzQ0Y_10QGO3DGht2J-7IhW_iuVOXYuhruH80xpmMndaZPawunBy5knKHPF_e3Yq7AEAEQJ-enCsB3jwR11mZb1_e3XEJlwTz9tIG01BBI-d8Y_JjOoxA~~",
+          "title": "9% YoY revenue rise in Q3",
+          "label": "9% YoY revenue rise in Q3"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Iztr3G2KzSwrn907M0iGGg~~/AAQRxRA~/zSzPyxUS8V6Y0IQFpJ0VSKx_awY_NnjNtu7MaJRzWlxRwCHdtodV40g5_PTfGheroDX2NNUk9TbPU7fVojQEz7tr8FtHAhqD5vOWgrdpgnkqdu-FzZ3FN9pRze-GGFgqEHWXtF23F4XFeMyxemaL-840wm75Vzhg5oNtdvi2mQJ2r4SE6qG_tXQcdC43b9svK2SsY2w9shyrp5tLCt4dgFbsfPFWArMnXhP-bEmJpQJSbnd3D2HkuXDMCIwtXeJtN_L5B4y-9bdQAezcrK3SZWWg_2shp4gsgsMYpJYe1W-VDQ7LLhPDJdsALwg3DQKuwtR4Zv5hyZGQLiWwVmL0tC5JtFyHUJTJjWqwsA8mpCdb5iOKpsDEDXlu_4azVk3j9LtQ9z0IZ4A_R0H-h1qDK8JfNuSbM_PKnErRRllfmq01mr_8bnSztEDERyNGAl5-",
+          "title": "a sales beat in Q4",
+          "label": "a sales beat in Q4"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "AVGO",
+        "CRWD",
+        "FIVE",
+        "MDT"
+      ],
+      "score": 21
+    },
+    {
+      "title": "Dig into Ulta Beauty’s Q1 results",
+      "note": "After-Hours Earnings Roundup: Palo Alto and Ulta Beauty ---------------------------------------------------------- Palo Alto (NASDAQ:PANW ) fell over 5% in early trade, even after…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/NQemIYTY753xkDaOlVVuDw~~/AAQRxRA~/EZGFWTEQMXAHfUNrlrIAZXHoHJnXhM8Ess3lXOp070p3_3XpYnkGkhcgPxOpUPa681AekP-Q7Oc3in-XqODD27Vg6gLRtXNR4T1oWwbAUa1cP-1o-8Cq0TQLI0-jVRag5dDTvkckyqwtiDqDc2Fbs12zKytPT06TNbMB-ScKXwd8ptZUPUplB6Gg9Dbqd_sg3VI1RVOUHeb1Dkcb2H3dIgncf9ZdeOHkQ1Y8fxboh-uJmDNEo-Rx6y_f5b9bq9p4gJXRdy89t0qECcm5v6_GlGbQ-I3gOx7UC8baNAE8VkJUYcTloBRdzS8O_vBAQZZYbHH0WL1utCADxOClUYp3-Aw8NzJPoZril2jltaZPMOA2TGp_ErElKn6Tv6Cae6Y7qrZyhu2yXQ2jbSBSakv9OzWcQzAG6f9cNcLVl-ku_9qUo_o3V7G9FmhLFrSzS_w3arSI5LhpF4OyGmDwt6cqlc7kfAvoVICb_DGnwzuhdOc~",
+          "title": "Dig into Ulta Beauty’s Q1 results",
+          "label": "Dig into Ulta Beauty’s Q1 results"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "PANW",
+        "ULTA"
+      ],
+      "score": 18
+    },
+    {
+      "title": "Get Seth Jayson’s take on MSFT earnings",
+      "note": "Get Seth Jayson’s take on MSFT earnings ----------------------------------------------------------",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/1B2o_H5yqAXfbVXKnqo09g~~/AAQRxRA~/G0_2pjbQgDwl7zg4KJbsOj6oy7MlFNT_KV-djCZ-aOGcL3ePU1s74USpOk_mWtCZQNVbgNA7lwgpxPMmUzZnvrYMv8vdy9yYIQfZCejZ_sYxN7_xvvmoVES1D79TiSIiI-VuHUkpnwT7SE1hhP6M5_JRuYWGlEcUyEp_EW3kEwP0whHupvqbxOsy_ok3iYQ-IMtu6mWqETwKXtNiVZ0uevEnedl3ho6AkkhjeugpbXllGhsJdYJJUOuT2rtS3IVex7xgJTx572yqdrgW-J9Yx2bpCoAXsjeQrj1EhwZlRGnM_lzXZ1JgEAF_Rw4fUwYFadgahs5QjbvPB-Fb6vfYkAAhwIQMt9wc5ZjlVfVLiz7OpKK5-V9hQ_oxQqf5JdjewPc5jEfTDk9H-bA6Tl3Pza87g_wD7He_3fTrp9Kf0OZdAVTsIQLXmc5FaGCdkPvT",
+          "title": "Get Seth Jayson’s take on MSFT earnings",
+          "label": "Get Seth Jayson’s take on MSFT earnings"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [],
+      "score": 16
+    }
+  ],
+  "macro": {
+    "tone": "Risk-Off",
+    "score": 7,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Nadella Drives MSFT to AI Frontier",
+        "note": "Microsoft Breaks Into AI “Vibe Coding” ****************************************** Microsoft (NASDAQ:MSFT ) – expanding beyond providing AI cloud infrastructure and services – unveiled its new AI coding tool at its Build conference in San Francisco Tuesday. Using a process known as vibe coding, MAI-Code-1-Flash allows non-technical users to produce software source code through text-based interaction. The company also announced a new MAI-Thinking-1 reasoning model, “built for high efficiency and performance, but importantly, at a low token cost.” * “What you just saw is a pretty significant shift”: In his address, CEO Satya Nadella added, “We believe the time has come for every company to just move from consuming a frontier model to fully participating … in the frontier ecosystem.” The stock closed the day down 4.2%. * Commercially useful quantum machines targeted for 2029: Competing with IBM (NYSE:IBM ), Microsoft set an ambitious schedule as it introduced its new Majorana 2 quantum processor. The new chip can reportedly keep qubits stable for 20 seconds – around 1,000 times longer than the earlier Majorana",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/HtMR3o9UolOPHuXxHC5GJw~~/AAQRxRA~/vY8UNen6RHLFOXQVv14DlglxLEV-NE97nDspFSdXdkLLPMvmKHTbCslnFpZziGA_plet5WsGsLiKmdFccvFAVy3gPW0Cyw5BOnIfdoriA7-9G9GFP9-C3uN6z3FPBZRpkQz3J260Blik0bu9G37p19xpC4mvDQEOltSpFp5fiKRvdT9L4sQVRwjLM8zw_YiKUcl6zW4Xn0oIdwOk3A95Tn4NO6Yc4huGuZcPKlNlJKP7O2fqZJuz-M_Zh9Avf5tlRWGgzwjfj6Pn2XHij9n0T9ClDlsuWJn8zxhzfcFUdbRHVPqxqx_18zgxkVFTPHHcFf1QrY1weyFqwwcNG0CaDrqXxsieNLKFCPvyyXKRPcn9N2aCXhT-RNfWYW_Vd7sulo2c2xk5xvBeyZ82e8R4XDLRAwxLFlJ9R0BTY8mn4aTRm9f2v5JZDixnZtm2kMe0",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7G0Tx8iwSHZEKHfhxyvB8Q~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tL3jFcJ810Yn0jWId-XbrE21P0W7ZJ51T4dAFiV_tpaRyjR_IjNHhZ46N_OztGLMmiIWNX0VgViIir3fE0M40_IkwhZpAnUQTpVHliRGONGJvfSwAOKMvB6NYo82VuhVYbIzIRAptGB_tsGJ5UtIq1IZuTFveIXpHmAcrAGq_lx_afxHWpOHs5b9Z8Pf-2VZ7NPfxwNeOkIymXmcz50qFjrqPrv1KpYfDSlxKmkggDykuolizAp7V-U65_fsWOHJuqPYR7vMbm1LaK9ajARoTUTd_tl2X4G9OpZBNlODeXGOFvHcTccQg7r3YbOglEMP3vxc0mCxXmayuCTbtYSWvD-zYAOh0BpkSU6K-H2Xv7kuQmXRAPPiJGKMh4x9OmVwxh",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Fp4ODU-MidcZCgyyCZS4pg~~/AAQRxRA~/XJ81JwbqD009_C30DE6shzkZUkFPs8CKD8GyMJcanyz49Xh0EamieFcKdEATL7EkNyDefn-fAibTvls9-EaPRycCOvbd7s-xEUmBfb1HxvJrFqnlfkarOhUh8LA68az3HUlyZNunlZncnvRGZ1OhiYFVjWtiiIgZKcGMEVHBVB0xLvuXHB0bluftEFtM9AFOk0doZXOkFacIP-9c97vK_wMtrO_xLuIbABJFbiDYJi1E2eAQyGeYo7yy941ymYXmoMQxRzg9hP1m89-xwcS4sTfza_9FkExB1bpPIpmbtSfe3UQqsKieZemsVJQCOpt7FWAhEkAfSMqm6TsZKpMEPhYpBTKWDFoIOOuRId_IX55rDXRIxlwBZpXAiJouFh5LIAFLLrpJ8zAT_hXSCmXRtnoA0hhXesZD4aX2MDq_wWLeioks-Yl-pjo-cIvkbt6J",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/1B2o_H5yqAXfbVXKnqo09g~~/AAQRxRA~/G0_2pjbQgDwl7zg4KJbsOj6oy7MlFNT_KV-djCZ-aOGcL3ePU1s74USpOk_mWtCZQNVbgNA7lwgpxPMmUzZnvrYMv8vdy9yYIQfZCejZ_sYxN7_xvvmoVES1D79TiSIiI-VuHUkpnwT7SE1hhP6M5_JRuYWGlEcUyEp_EW3kEwP0whHupvqbxOsy_ok3iYQ-IMtu6mWqETwKXtNiVZ0uevEnedl3ho6AkkhjeugpbXllGhsJdYJJUOuT2rtS3IVex7xgJTx572yqdrgW-J9Yx2bpCoAXsjeQrj1EhwZlRGnM_lzXZ1JgEAF_Rw4fUwYFadgahs5QjbvPB-Fb6vfYkAAhwIQMt9wc5ZjlVfVLiz7OpKK5-V9hQ_oxQqf5JdjewPc5jEfTDk9H-bA6Tl3Pza87g_wD7He_3fTrp9Kf0OZdAVTsIQLXmc5FaGCdkPvT",
+            "title": "Get Seth Jayson’s take on MSFT earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ZG5aVlkTfTiQ5d5iHXe7Bg~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tLyfJTkcryxKIwGqqqfMSOUbdI24FSGsGKE_hj1CDFkqVdAiFWtHS8S3xAvcnXd94IicBYGVortQjzJpIpTSiOLyXibJY-E5tsKbGlVFPbYBKpyFB6JZNML0ndovNvd91ReAr55rAl9byOTzV2aYYEv3YddIvSy5ICNJOqG7hDCJ3cI93gm7ZnqkpTeSlDlfXtjbBobfpR9JydF0AgUo-TUkolteNYpMVx8u0dtCWWRAZPj7lsQYBXixLgwD6XWvhRCAuVNQxlbCWZvAcgvGjyLzta63eN1YrcVn3QguHsOvYLAn7_RXKaP4pe_ys8xMMrEBy8wa3ByNcBmNfgGFz3UGKFiFx90sYJ7USFyT0ia9YWAIiiXNaukH7XUMhR9BQv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/rV1rFvVtjJicAmeqoqFxWQ~~/AAQRxRA~/cRPwhQ8luRZVqXHQmBfd_KmXykCS0pv1HYPDq670Z0iIaceCI7KAIHHUxkRGEgy5dZtXRsVuI7FAlxGI57oG9USU6ZJMrZ9yBoiqwo43Fyzjl7LXnxGwkyJlp5bFG1SKj68jo7s3_r_vYRVLIcASQwVywIXPHntMOlWX248Jhv0ik2yS5zYV897Zv5ePm5aIYWQGr4Cz2BBIX--fa-P72lIKs5wO478eP78jkpYEdvLfrt9JbGrnIaXXj4HZia8210_EVhnQ5IkPGwn_E_lvaVAzawGBurcRMMwZJFCfOQV1q6o4LeqhbG5Quz5D15kS_sym1_rBMIUMJaIK1Mng277xjuTL-e4B6k8sbAB4JLbY4FwJK07XomLQ8J46mSi6hqSgXRUOBT01P6F90F-GAVcDJpHunO5abE7wG9y4SAats3zvOJbbFQgcy2CpyENN7cRq5DJZdpXAhVzduT_68wq-7M_vJgQvwb_u4BuejDc~",
+            "title": "Palo Alto Q3 performance",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/0rUR53sK9Cu6sJEJ2EWnVA~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tLlnjXVdmVphAWkpg-GdD1uYpkiHw0Q23zhPQ4vZB9wUUcTpvEKYI9E--HJhS4z62x2oP0bz5Ysb-vAO3hkVW0NkyfI5S6DwAedr6ywpI2Fz6pXJZVUDFUyqc-4pnMguaLDYWdGALjd2rHonEgm3jTlEvvyAOK4ZV01RHamRQ-F3CRCUxBp2Ip9hXEgfSwQqa2fFjv6ZL9wzvpoDmpNwO1qOfAEtKalDi3PiiR1fTnExUgGxo81NZuZEUz0f8gmdMfMX-wHjM2-CG_3KLaSIMcsKCx4aRdTtzKwYZ7ouh35sYiiaFkIOikFObr-uewVHRGOubDraw7qlgElCrlJTS9SR5NOhQF2EbUGMm33SReKfj5CbdfSWybiIzuk1RFNx71",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/NQemIYTY753xkDaOlVVuDw~~/AAQRxRA~/EZGFWTEQMXAHfUNrlrIAZXHoHJnXhM8Ess3lXOp070p3_3XpYnkGkhcgPxOpUPa681AekP-Q7Oc3in-XqODD27Vg6gLRtXNR4T1oWwbAUa1cP-1o-8Cq0TQLI0-jVRag5dDTvkckyqwtiDqDc2Fbs12zKytPT06TNbMB-ScKXwd8ptZUPUplB6Gg9Dbqd_sg3VI1RVOUHeb1Dkcb2H3dIgncf9ZdeOHkQ1Y8fxboh-uJmDNEo-Rx6y_f5b9bq9p4gJXRdy89t0qECcm5v6_GlGbQ-I3gOx7UC8baNAE8VkJUYcTloBRdzS8O_vBAQZZYbHH0WL1utCADxOClUYp3-Aw8NzJPoZril2jltaZPMOA2TGp_ErElKn6Tv6Cae6Y7qrZyhu2yXQ2jbSBSakv9OzWcQzAG6f9cNcLVl-ku_9qUo_o3V7G9FmhLFrSzS_w3arSI5LhpF4OyGmDwt6cqlc7kfAvoVICb_DGnwzuhdOc~",
+            "title": "Dig into Ulta Beauty’s Q1 results",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AdzFxm0N9bDJYXUVogHFSA~~/AAQRxRA~/XJ81JwbqD009_C30DE6shzkZUkFPs8CKD8GyMJcanyz49Xh0EamieFcKdEATL7EkFql_6E__S2xogFDVE7GU2n6tx6SuRsTWOOWMTJokxRCntIhKgXPhp1QEcJtKAQWz7t5ZkkMyfQH_X-xl6dkhyllotsD3WNqBdhDV5FToL9w1KJ6FFOZ3DlE4UOW3JHedK2anZX85OQMCW8F1UTbxQ8gj8Cc5Am_21nB8FrsIqqDElQ3fkAbzE3TY3NA4lFeIqme_YyWuvB80KdqFGcVXFGYz5ZaRY2Ms9QHZaO17e6KS2BIxsTWgUOTFNPfFp1_zCAyciV0LHbBYaPftaP3yFBfq2BpgYEcRtCit7NGlH_rKz2AHvEUzWSxP92Hq_00th-oDY8etE8de-1FSpvHEzJ0FWCky37LBw6m4a5NjUXC-cW5K006IIVNAekG47e-H",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/UuvMOYcxnc-7vkDFosrmfA~~/AAQRxRA~/3pik1w42k6tErGGHs5pKcSAX3ZhjsV4H5Zak1YsXzd9YUPehBLpn9Uosf9zYpjNGvzXI36MbFFbGBmG1dMGZJNJ1z-VT682r_T-zQJmtzpP82s7ObT8lQyLo_qxrYaRJlerduWiPaKHWLH5i6Ckwp86hMA3DIwkhfDWwpw0ElDyAGc0qq1Z6_6j4MRgQezL8onPRMl-w3hkS3Wi3UHju7HuKG4jhyzXQ4uuxG0DPGhScePYlSXO0oRRi_E1yge9pnhhj0ltYpvvPuvvYWWTNjZa-APvwmR3sQyiv9OqJwF_WYnmlcBOif32KYiCdcUPJj6toW84IE9SFdYqXHbk6jWQfOobubVq0GDzQ0Y_10QGO3DGht2J-7IhW_iuVOXYuhruH80xpmMndaZPawunBy5knKHPF_e3Yq7AEAEQJ-enCsB3jwR11mZb1_e3XEJlwTz9tIG01BBI-d8Y_JjOoxA~~",
+            "title": "9% YoY revenue rise in Q3",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5vdFIIqR5_PVFrPmxUosOw~~/AAQRxRA~/mc1Z98nVaQ4UPewgeQWDQtP7CGmVBrpM_eIhwiF5xW7q0W2960NlgUQ_-ppp8fpHEhDOPRkIU9tsV8ze2vYXVscHdxhRxvNooywHur6Bg51KWSAjdgqJyghPOS76wvk_Mwvmh5IC46zqBF7SpVQkneW5cVaNb7Rj7D4mz7ucUdnCT1xVcK50fXtRv-MR_jZH9W8wzLEL0kn5xGyS6y5uDj_BwjMDxV8E0jgaBJKSO9G8FcVH05FlrTJY654_Ke-te-rSAMdfne8Wm-Ob9DfiL9CiWNKPwRIgMAGVfi9t2Tk7u6NCWX67vMe_j8wpygI95NUuifXsNLW43m5Kv3LKxztMrwcKY4cXUSOsl-_Gq6ja6fql7HWpydm8APxQjl73_avGJjp0NMyMAIGRFT1a5FNnteLkQrabXarbufqudeG7Y-SaSnqosiVNI8stV-0N",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Iztr3G2KzSwrn907M0iGGg~~/AAQRxRA~/zSzPyxUS8V6Y0IQFpJ0VSKx_awY_NnjNtu7MaJRzWlxRwCHdtodV40g5_PTfGheroDX2NNUk9TbPU7fVojQEz7tr8FtHAhqD5vOWgrdpgnkqdu-FzZ3FN9pRze-GGFgqEHWXtF23F4XFeMyxemaL-840wm75Vzhg5oNtdvi2mQJ2r4SE6qG_tXQcdC43b9svK2SsY2w9shyrp5tLCt4dgFbsfPFWArMnXhP-bEmJpQJSbnd3D2HkuXDMCIwtXeJtN_L5B4y-9bdQAezcrK3SZWWg_2shp4gsgsMYpJYe1W-VDQ7LLhPDJdsALwg3DQKuwtR4Zv5hyZGQLiWwVmL0tC5JtFyHUJTJjWqwsA8mpCdb5iOKpsDEDXlu_4azVk3j9LtQ9z0IZ4A_R0H-h1qDK8JfNuSbM_PKnErRRllfmq01mr_8bnSztEDERyNGAl5-",
+            "title": "a sales beat in Q4",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Nadella Drives MSFT to AI Frontier",
+        "note": "After-Hours Earnings Roundup: Palo Alto and Ulta Beauty ---------------------------------------------------------- Palo Alto (NASDAQ:PANW ) fell over 5% in early trade, even after CEO Nikesh Arora said “our Q3 performance was exceptional” during yesterday’s earnings call from the Rule Breakers recommendation. Annual recurring revenue from the company’s Next Generation Security platform surged 60% year over year (YoY), to hit $8.13 billion – though management warned of “rising component costs, particularly in memory and storage.” * “This is our most significant quarterly outperformance to date and surpassed our guidance”: Arora added, “Over the past quarter, Frontier AI development reached a critical inflection point,” as the company raised Q4 revenue guidance to between $11.415 billion and $11.425 billion. * Ulta Beauty (NASDAQ:ULTA ) reported an 11.1% YoY increase in Q1 revenue on Tuesday. CEO Kecia Steelman told investors, “Performance continues to be fueled by the strength of our core U.S. business,” adding “We gained share in prestige beauty, and we were roughly flat in mass beauty.” The stock, recommended by both Team RB and HG, rose around 1% in pre-market trading. Dig into Ulta Beauty’s Q1 results -----------------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/NQemIYTY753xkDaOlVVuDw~~/AAQRxRA~/EZGFWTEQMXAHfUNrlrIAZXHoHJnXhM8Ess3lXOp070p3_3XpYnkGkhcgPxOpUPa681AekP-Q7Oc3in-XqODD27Vg6gLRtXNR4T1oWwbAUa1cP-1o-8Cq0TQLI0-jVRag5dDTvkckyqwtiDqDc2Fbs12zKytPT06TNbMB-ScKXwd8ptZUPUplB6Gg9Dbqd_sg3VI1RVOUHeb1Dkcb2H3dIgncf9ZdeOHkQ1Y8fxboh-uJmDNEo-Rx6y_f5b9bq9p4gJXRdy89t0qECcm5v6_GlGbQ-I3gOx7UC8baNAE8VkJUYcTloBRdzS8O_vBAQZZYbHH0WL1utCADxOClUYp3-Aw8NzJPoZril2jltaZPMOA2TGp_ErElKn6Tv6Cae6Y7qrZyhu2yXQ2jbSBSakv9OzWcQzAG6f9cNcLVl-ku_9qUo_o3V7G9FmhLFrSzS_w3arSI5LhpF4OyGmDwt6cqlc7kfAvoVICb_DGnwzuhdOc~",
+            "title": "Dig into Ulta Beauty’s Q1 results",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Breakfast News: Nadella Drives MSFT to AI Frontier",
+        "note": "After-Hours Earnings Roundup: Palo Alto and Ulta Beauty ---------------------------------------------------------- Palo Alto (NASDAQ:PANW ) fell over 5% in early trade, even after CEO Nikesh Arora said “our Q3 performance was exceptional” during yesterday’s earnings call from the Rule Breakers recommendation. Annual recurring revenue from the company’s Next Generation Security platform surged 60% year over year (YoY), to hit $8.13 billion – though management warned of “rising component costs, particularly in memory and storage.” * “This is our most significant quarterly outperformance to date and surpassed our guidance”: Arora added, “Over the past quarter, Frontier AI development reached a critical inflection point,” as the company raised Q4 revenue guidance to between $11.415 billion and $11.425 billion. * Ulta Beauty (NASDAQ:ULTA ) reported an 11.1% YoY increase in Q1 revenue on Tuesday. CEO Kecia Steelman told investors, “Performance continues to be fueled by the strength of our core U.S. business,” adding “We gained share in prestige beauty, and we were roughly flat in mass beauty.” The stock, recommended by both Team RB and HG, rose around 1% in pre-market trading. Dig into Ulta Beauty’s Q1 results -----------------------------------------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/NQemIYTY753xkDaOlVVuDw~~/AAQRxRA~/EZGFWTEQMXAHfUNrlrIAZXHoHJnXhM8Ess3lXOp070p3_3XpYnkGkhcgPxOpUPa681AekP-Q7Oc3in-XqODD27Vg6gLRtXNR4T1oWwbAUa1cP-1o-8Cq0TQLI0-jVRag5dDTvkckyqwtiDqDc2Fbs12zKytPT06TNbMB-ScKXwd8ptZUPUplB6Gg9Dbqd_sg3VI1RVOUHeb1Dkcb2H3dIgncf9ZdeOHkQ1Y8fxboh-uJmDNEo-Rx6y_f5b9bq9p4gJXRdy89t0qECcm5v6_GlGbQ-I3gOx7UC8baNAE8VkJUYcTloBRdzS8O_vBAQZZYbHH0WL1utCADxOClUYp3-Aw8NzJPoZril2jltaZPMOA2TGp_ErElKn6Tv6Cae6Y7qrZyhu2yXQ2jbSBSakv9OzWcQzAG6f9cNcLVl-ku_9qUo_o3V7G9FmhLFrSzS_w3arSI5LhpF4OyGmDwt6cqlc7kfAvoVICb_DGnwzuhdOc~",
+            "title": "Dig into Ulta Beauty’s Q1 results",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Nadella Drives MSFT to AI Frontier",
+        "note": "May Review: Software and Solar Soared ---------------------------------------- As the market has reached new highs, market valuations have also neared levels not seen since the peak of the dot-com bubble. If you're an experienced investor with a high risk tolerance and a long timeline until you need to turn your stocks into cash, then this may be just noise … But for those near or in retirement, this might be a good time to reevaluate how much of your portfolio should be protected in safer cash and bonds -- while still keeping a significant portion of your portfolio invested in stocks. —ROBERT BROKAMP, CFP Robert Brokamp Read Bro's 5 takeaways from May in full ********************************",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/HtMR3o9UolOPHuXxHC5GJw~~/AAQRxRA~/vY8UNen6RHLFOXQVv14DlglxLEV-NE97nDspFSdXdkLLPMvmKHTbCslnFpZziGA_plet5WsGsLiKmdFccvFAVy3gPW0Cyw5BOnIfdoriA7-9G9GFP9-C3uN6z3FPBZRpkQz3J260Blik0bu9G37p19xpC4mvDQEOltSpFp5fiKRvdT9L4sQVRwjLM8zw_YiKUcl6zW4Xn0oIdwOk3A95Tn4NO6Yc4huGuZcPKlNlJKP7O2fqZJuz-M_Zh9Avf5tlRWGgzwjfj6Pn2XHij9n0T9ClDlsuWJn8zxhzfcFUdbRHVPqxqx_18zgxkVFTPHHcFf1QrY1weyFqwwcNG0CaDrqXxsieNLKFCPvyyXKRPcn9N2aCXhT-RNfWYW_Vd7sulo2c2xk5xvBeyZ82e8R4XDLRAwxLFlJ9R0BTY8mn4aTRm9f2v5JZDixnZtm2kMe0",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7G0Tx8iwSHZEKHfhxyvB8Q~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tL3jFcJ810Yn0jWId-XbrE21P0W7ZJ51T4dAFiV_tpaRyjR_IjNHhZ46N_OztGLMmiIWNX0VgViIir3fE0M40_IkwhZpAnUQTpVHliRGONGJvfSwAOKMvB6NYo82VuhVYbIzIRAptGB_tsGJ5UtIq1IZuTFveIXpHmAcrAGq_lx_afxHWpOHs5b9Z8Pf-2VZ7NPfxwNeOkIymXmcz50qFjrqPrv1KpYfDSlxKmkggDykuolizAp7V-U65_fsWOHJuqPYR7vMbm1LaK9ajARoTUTd_tl2X4G9OpZBNlODeXGOFvHcTccQg7r3YbOglEMP3vxc0mCxXmayuCTbtYSWvD-zYAOh0BpkSU6K-H2Xv7kuQmXRAPPiJGKMh4x9OmVwxh",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Fp4ODU-MidcZCgyyCZS4pg~~/AAQRxRA~/XJ81JwbqD009_C30DE6shzkZUkFPs8CKD8GyMJcanyz49Xh0EamieFcKdEATL7EkNyDefn-fAibTvls9-EaPRycCOvbd7s-xEUmBfb1HxvJrFqnlfkarOhUh8LA68az3HUlyZNunlZncnvRGZ1OhiYFVjWtiiIgZKcGMEVHBVB0xLvuXHB0bluftEFtM9AFOk0doZXOkFacIP-9c97vK_wMtrO_xLuIbABJFbiDYJi1E2eAQyGeYo7yy941ymYXmoMQxRzg9hP1m89-xwcS4sTfza_9FkExB1bpPIpmbtSfe3UQqsKieZemsVJQCOpt7FWAhEkAfSMqm6TsZKpMEPhYpBTKWDFoIOOuRId_IX55rDXRIxlwBZpXAiJouFh5LIAFLLrpJ8zAT_hXSCmXRtnoA0hhXesZD4aX2MDq_wWLeioks-Yl-pjo-cIvkbt6J",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/1B2o_H5yqAXfbVXKnqo09g~~/AAQRxRA~/G0_2pjbQgDwl7zg4KJbsOj6oy7MlFNT_KV-djCZ-aOGcL3ePU1s74USpOk_mWtCZQNVbgNA7lwgpxPMmUzZnvrYMv8vdy9yYIQfZCejZ_sYxN7_xvvmoVES1D79TiSIiI-VuHUkpnwT7SE1hhP6M5_JRuYWGlEcUyEp_EW3kEwP0whHupvqbxOsy_ok3iYQ-IMtu6mWqETwKXtNiVZ0uevEnedl3ho6AkkhjeugpbXllGhsJdYJJUOuT2rtS3IVex7xgJTx572yqdrgW-J9Yx2bpCoAXsjeQrj1EhwZlRGnM_lzXZ1JgEAF_Rw4fUwYFadgahs5QjbvPB-Fb6vfYkAAhwIQMt9wc5ZjlVfVLiz7OpKK5-V9hQ_oxQqf5JdjewPc5jEfTDk9H-bA6Tl3Pza87g_wD7He_3fTrp9Kf0OZdAVTsIQLXmc5FaGCdkPvT",
+            "title": "Get Seth Jayson’s take on MSFT earnings",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ZG5aVlkTfTiQ5d5iHXe7Bg~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tLyfJTkcryxKIwGqqqfMSOUbdI24FSGsGKE_hj1CDFkqVdAiFWtHS8S3xAvcnXd94IicBYGVortQjzJpIpTSiOLyXibJY-E5tsKbGlVFPbYBKpyFB6JZNML0ndovNvd91ReAr55rAl9byOTzV2aYYEv3YddIvSy5ICNJOqG7hDCJ3cI93gm7ZnqkpTeSlDlfXtjbBobfpR9JydF0AgUo-TUkolteNYpMVx8u0dtCWWRAZPj7lsQYBXixLgwD6XWvhRCAuVNQxlbCWZvAcgvGjyLzta63eN1YrcVn3QguHsOvYLAn7_RXKaP4pe_ys8xMMrEBy8wa3ByNcBmNfgGFz3UGKFiFx90sYJ7USFyT0ia9YWAIiiXNaukH7XUMhR9BQv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/rV1rFvVtjJicAmeqoqFxWQ~~/AAQRxRA~/cRPwhQ8luRZVqXHQmBfd_KmXykCS0pv1HYPDq670Z0iIaceCI7KAIHHUxkRGEgy5dZtXRsVuI7FAlxGI57oG9USU6ZJMrZ9yBoiqwo43Fyzjl7LXnxGwkyJlp5bFG1SKj68jo7s3_r_vYRVLIcASQwVywIXPHntMOlWX248Jhv0ik2yS5zYV897Zv5ePm5aIYWQGr4Cz2BBIX--fa-P72lIKs5wO478eP78jkpYEdvLfrt9JbGrnIaXXj4HZia8210_EVhnQ5IkPGwn_E_lvaVAzawGBurcRMMwZJFCfOQV1q6o4LeqhbG5Quz5D15kS_sym1_rBMIUMJaIK1Mng277xjuTL-e4B6k8sbAB4JLbY4FwJK07XomLQ8J46mSi6hqSgXRUOBT01P6F90F-GAVcDJpHunO5abE7wG9y4SAats3zvOJbbFQgcy2CpyENN7cRq5DJZdpXAhVzduT_68wq-7M_vJgQvwb_u4BuejDc~",
+            "title": "Palo Alto Q3 performance",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/0rUR53sK9Cu6sJEJ2EWnVA~~/AAQRxRA~/53EivYu79594VTPb_QwF86LcdoFDXiE0kQfx8g6ml-LEWz3OkR2UgaCG2i3ac_tLlnjXVdmVphAWkpg-GdD1uYpkiHw0Q23zhPQ4vZB9wUUcTpvEKYI9E--HJhS4z62x2oP0bz5Ysb-vAO3hkVW0NkyfI5S6DwAedr6ywpI2Fz6pXJZVUDFUyqc-4pnMguaLDYWdGALjd2rHonEgm3jTlEvvyAOK4ZV01RHamRQ-F3CRCUxBp2Ip9hXEgfSwQqa2fFjv6ZL9wzvpoDmpNwO1qOfAEtKalDi3PiiR1fTnExUgGxo81NZuZEUz0f8gmdMfMX-wHjM2-CG_3KLaSIMcsKCx4aRdTtzKwYZ7ouh35sYiiaFkIOikFObr-uewVHRGOubDraw7qlgElCrlJTS9SR5NOhQF2EbUGMm33SReKfj5CbdfSWybiIzuk1RFNx71",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/NQemIYTY753xkDaOlVVuDw~~/AAQRxRA~/EZGFWTEQMXAHfUNrlrIAZXHoHJnXhM8Ess3lXOp070p3_3XpYnkGkhcgPxOpUPa681AekP-Q7Oc3in-XqODD27Vg6gLRtXNR4T1oWwbAUa1cP-1o-8Cq0TQLI0-jVRag5dDTvkckyqwtiDqDc2Fbs12zKytPT06TNbMB-ScKXwd8ptZUPUplB6Gg9Dbqd_sg3VI1RVOUHeb1Dkcb2H3dIgncf9ZdeOHkQ1Y8fxboh-uJmDNEo-Rx6y_f5b9bq9p4gJXRdy89t0qECcm5v6_GlGbQ-I3gOx7UC8baNAE8VkJUYcTloBRdzS8O_vBAQZZYbHH0WL1utCADxOClUYp3-Aw8NzJPoZril2jltaZPMOA2TGp_ErElKn6Tv6Cae6Y7qrZyhu2yXQ2jbSBSakv9OzWcQzAG6f9cNcLVl-ku_9qUo_o3V7G9FmhLFrSzS_w3arSI5LhpF4OyGmDwt6cqlc7kfAvoVICb_DGnwzuhdOc~",
+            "title": "Dig into Ulta Beauty’s Q1 results",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AdzFxm0N9bDJYXUVogHFSA~~/AAQRxRA~/XJ81JwbqD009_C30DE6shzkZUkFPs8CKD8GyMJcanyz49Xh0EamieFcKdEATL7EkFql_6E__S2xogFDVE7GU2n6tx6SuRsTWOOWMTJokxRCntIhKgXPhp1QEcJtKAQWz7t5ZkkMyfQH_X-xl6dkhyllotsD3WNqBdhDV5FToL9w1KJ6FFOZ3DlE4UOW3JHedK2anZX85OQMCW8F1UTbxQ8gj8Cc5Am_21nB8FrsIqqDElQ3fkAbzE3TY3NA4lFeIqme_YyWuvB80KdqFGcVXFGYz5ZaRY2Ms9QHZaO17e6KS2BIxsTWgUOTFNPfFp1_zCAyciV0LHbBYaPftaP3yFBfq2BpgYEcRtCit7NGlH_rKz2AHvEUzWSxP92Hq_00th-oDY8etE8de-1FSpvHEzJ0FWCky37LBw6m4a5NjUXC-cW5K006IIVNAekG47e-H",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/UuvMOYcxnc-7vkDFosrmfA~~/AAQRxRA~/3pik1w42k6tErGGHs5pKcSAX3ZhjsV4H5Zak1YsXzd9YUPehBLpn9Uosf9zYpjNGvzXI36MbFFbGBmG1dMGZJNJ1z-VT682r_T-zQJmtzpP82s7ObT8lQyLo_qxrYaRJlerduWiPaKHWLH5i6Ckwp86hMA3DIwkhfDWwpw0ElDyAGc0qq1Z6_6j4MRgQezL8onPRMl-w3hkS3Wi3UHju7HuKG4jhyzXQ4uuxG0DPGhScePYlSXO0oRRi_E1yge9pnhhj0ltYpvvPuvvYWWTNjZa-APvwmR3sQyiv9OqJwF_WYnmlcBOif32KYiCdcUPJj6toW84IE9SFdYqXHbk6jWQfOobubVq0GDzQ0Y_10QGO3DGht2J-7IhW_iuVOXYuhruH80xpmMndaZPawunBy5knKHPF_e3Yq7AEAEQJ-enCsB3jwR11mZb1_e3XEJlwTz9tIG01BBI-d8Y_JjOoxA~~",
+            "title": "9% YoY revenue rise in Q3",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5vdFIIqR5_PVFrPmxUosOw~~/AAQRxRA~/mc1Z98nVaQ4UPewgeQWDQtP7CGmVBrpM_eIhwiF5xW7q0W2960NlgUQ_-ppp8fpHEhDOPRkIU9tsV8ze2vYXVscHdxhRxvNooywHur6Bg51KWSAjdgqJyghPOS76wvk_Mwvmh5IC46zqBF7SpVQkneW5cVaNb7Rj7D4mz7ucUdnCT1xVcK50fXtRv-MR_jZH9W8wzLEL0kn5xGyS6y5uDj_BwjMDxV8E0jgaBJKSO9G8FcVH05FlrTJY654_Ke-te-rSAMdfne8Wm-Ob9DfiL9CiWNKPwRIgMAGVfi9t2Tk7u6NCWX67vMe_j8wpygI95NUuifXsNLW43m5Kv3LKxztMrwcKY4cXUSOsl-_Gq6ja6fql7HWpydm8APxQjl73_avGJjp0NMyMAIGRFT1a5FNnteLkQrabXarbufqudeG7Y-SaSnqosiVNI8stV-0N",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Iztr3G2KzSwrn907M0iGGg~~/AAQRxRA~/zSzPyxUS8V6Y0IQFpJ0VSKx_awY_NnjNtu7MaJRzWlxRwCHdtodV40g5_PTfGheroDX2NNUk9TbPU7fVojQEz7tr8FtHAhqD5vOWgrdpgnkqdu-FzZ3FN9pRze-GGFgqEHWXtF23F4XFeMyxemaL-840wm75Vzhg5oNtdvi2mQJ2r4SE6qG_tXQcdC43b9svK2SsY2w9shyrp5tLCt4dgFbsfPFWArMnXhP-bEmJpQJSbnd3D2HkuXDMCIwtXeJtN_L5B4y-9bdQAezcrK3SZWWg_2shp4gsgsMYpJYe1W-VDQ7LLhPDJdsALwg3DQKuwtR4Zv5hyZGQLiWwVmL0tC5JtFyHUJTJjWqwsA8mpCdb5iOKpsDEDXlu_4azVk3j9LtQ9z0IZ4A_R0H-h1qDK8JfNuSbM_PKnErRRllfmq01mr_8bnSztEDERyNGAl5-",
+            "title": "a sales beat in Q4",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Treat import/export and margin-sensitive names with extra caution.",
+      "Consider smaller initial size until macro pressure cools."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "FIVE",
+      "score": 67,
+      "stance": "Research Watch",
+      "evidence": "* Five Below (NASDAQ:FIVE ) – recommended by Team Rule Breakers – will reveal first quarter results for fiscal 2026 after the market closes.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MDT",
+      "score": 67,
+      "stance": "Research Watch",
+      "evidence": "* Medtronic (NYSE:MDT ) reported its highest annual revenue growth to date, of 8.4%, this morning – as Q4 beat the Dividend Investor rec’s 9% YoY revenue rise in Q3 , with 9.9% this time.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PANW",
+      "score": 67,
+      "stance": "Research Watch",
+      "evidence": "After-Hours Earnings Roundup: Palo Alto and Ulta Beauty ---------------------------------------------------------- Palo Alto (NASDAQ:PANW ) fell over 5% in early trade, even after CEO Nikesh Arora said “our Q3 performance was exceptional” during yesterday’s earnings call from the Rule Breakers recommendation.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "IBM",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "* Commercially useful quantum machines targeted for 2029: Competing with IBM (NYSE:IBM ), Microsoft set an ambitious schedule as it introduced its new Majorana 2 quantum processor.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MSFT",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "* Microsoft (NASDAQ:MSFT ) – expanding beyond providing AI cloud infrastructure and services – unveiled its new AI coding tool at its Build conference in San Francisco Tuesday.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AVGO",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "CRWD",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ULTA",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Ulta Beauty (NASDAQ:ULTA ) reported an 11.1% YoY increase in Q1 revenue on Tuesday.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "VEEV",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon.",
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "IBM",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Commercially useful quantum machines targeted for 2029: Competing with IBM (NYSE:IBM ), Microsoft set an ambitious schedule as it introduced its new Majorana 2 quantum processor."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MSFT",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Microsoft (NASDAQ:MSFT ) – expanding beyond providing AI cloud infrastructure and services – unveiled its new AI coding tool at its Build conference in San Francisco Tuesday.",
+        "Get Seth Jayson’s take on MSFT earnings ----------------------------------------------------------"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AVGO",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CRWD",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "FIVE",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Five Below (NASDAQ:FIVE ) – recommended by Team Rule Breakers – will reveal first quarter results for fiscal 2026 after the market closes."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MDT",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Medtronic (NYSE:MDT ) reported its highest annual revenue growth to date, of 8.4%, this morning – as Q4 beat the Dividend Investor rec’s 9% YoY revenue rise in Q3 , with 9.9% this time."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PANW",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "After-Hours Earnings Roundup: Palo Alto and Ulta Beauty ---------------------------------------------------------- Palo Alto (NASDAQ:PANW ) fell over 5% in early trade, even after CEO Nikesh Arora said “our Q3 performance was exceptional” during yesterday’s earnings call from the Rule Breakers recommendation."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ULTA",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Ulta Beauty (NASDAQ:ULTA ) reported an 11.1% YoY increase in Q1 revenue on Tuesday."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "VEEV",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "As highlighted in Monday’s Breakfast News , CrowdStrike (NASDAQ:CRWD ), Broadcom (NASDAQ:AVGO ), and Veeva (NYSE:VEEV ) will also report this afternoon."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Nadella Drives MSFT to AI Frontier"
+      ]
+    }
+  ],
+  "events": []
+}

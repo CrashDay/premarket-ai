@@ -1,0 +1,838 @@
+{
+  "date": "2026-05-29",
+  "generatedAt": "2026-05-29T12:00:04.748Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Breakfast News: Earnings Season Begins To Wrap Up",
+      "file": "2026-05-29-market-brieffoolbreakfast-news-breakfast-news-earnings-season-begins-to-wrap-up-19e7381dc67d0b81.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Fri, 29 May 2026 11:32:28 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/8d23IPqJNjjIrPNAJUa20Q~~/AAQRxRA~/p5iwNiTN2tRK0PT0OwhFjY--LZDzso1lsrQc-LOnJg0X6N_sGLG3GlQHoZSBgZ7l1VrVRQft_tm8gDZI16LLqt2IYIJpvvj0tBiIeR2dxy1-mkU3OJZ6t2JBPgOs6sM5x8rT7O_CvLPcjLC0vatbV1UD2Y1bf692v6BIaxxSh1WDRexYf4QhvOqFbrMR9uA8-2ga_YJthbflw0pNprYl9mGWajxS7_n7Jg-pnamt_LuQGtk5li74lEKZSeVBKW7mlIQJuZ7pw79ioQf4_XNccW-C4-iXSITHciPeG_X_qCNm17VJ9NZS1UlrsLfjSye_F4Rv7Ks_AG1eige_aKYNip70FGdbt3hYIBHYj9ssRN0_5NFwwOAOo3UWBRHzfzNgxtWx3kuWi-JHfao9X07TW6BZOIgNMtAQScJv5rYsXiRbRzxKK5f5DUNy2wCaZLrD",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/dMEslZAdPz_wQ21mFUvUBA~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWybfBH0BYt4nb1fv3V8Nq0ErktDrL50cx26lWMQwTr_VzrHRhqUmMrCYpQSDVr4Zx0r5jcFone5p48vD54b0yJsWdFx227B9QeZyWitTLYyLj_mkRnxiPBkNIwwwFLpmJURXsiYYxTBnoW80zNtb3_g8163ujgD193FsfM71QGxD-2MDWl4OsBvYpr2GLebpTfgUavLEc-1ckKkV_Ne9NCHmdhbBqnlh7X0KmuQIPLRbMyi_posBPItFKcQ1twPFrgo1N-uZdHrM5wfSZgm9JuvToweDLumiEuCAbqXUIjyEKpF428LdhKLhW1GmuGftqB0A4Dnfww42KO3eh0ObEDzHkvNntxGjb0qESqsTdikSQyUIxf-hWcefHc7gPAgGfr0",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Nhnr1U1xMhBe3pTLA_GOuQ~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC63QwEtM-3VXWj-aZAzV1dsoS1F5XSmMSRFTK6AXI15VIlPwlPDSwwNpNuX0vejT63CJBZeJfQnHIomVF_YTeEo2-I-eXNI9qpHFOVcsaST2tmMrHy4FHLU2L4AX4HWXTJnk3SztQzdyIJPbXRWnoncn__9gbF9bEXMRn8X2aIbuTpBuov74vVa-fglkQbWD65bJCEVAki1b5O8XJmGQqPhIdAZq4tHHoqZtRPKios-H_jkFzBgBdu5j_O1PVT5lDqvKCh9A1dtc4AOGLu1yrjcwVB5rLbDBGoFUF-2ieAeG8mvx7belKB0sBB5Jt5VqlVpmV1qKSazSVBLW5FJStl-NU9bD82AK8mvlqQZc4FNGVt9l2GuBF4lPL_OMMzmWFhdxNQhoj-Vu-M05e9-6d5Kc~",
+          "title": "opened fiscal 2027",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/cOgedELlE7o0mUFPHNrwFQ~~/AAQRxRA~/kOfg7u5hKIAmnwbCgZOhmesaw2W9IP-ayRXcOAQmN_H8ZeuviinRIIkLXUAv_86XsO9Dj7hJk4EMfJoum0WylYgNTo8q3FieWemTe9CPGCeKgyN29wJXuRL3sr8glWhC-M0KF7C38EkA6moNgxZavHB2YTcxEY5gUiuQgMobz0JW0d4sHIkC4W91kie3jYXzvRQlCJiljrxCM52Xz1Kv6BY8tAQQ0V119HktPI-Q55K--UHhgdOoVkJQb5z2hdkF-2Ubc2ocNlGTzQ7f9naXp1cobNd7IqvUNVHnjBYUhxghJb6tMXgtPJX85gOtbkesIzkkx3HIAZHtmtbU0cSqvGe91SAmj86u22xWqNr-ldZq4uPMZDI9UI2-0nCY8MeOnoGU7AhlkfHo0ojknw-hnd8H9j9zvIxDrXespvbQbKw5No2KMKfR-qS6e1AguKPU",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/kvqGZ8t--48w3Kg3mMF0ow~~/AAQRxRA~/F4-AlbzWwsPvccLChxYR6FMsQDQe7mgk-AspPr5HuXCz1T6QJd6lPovlRdU4Nb7X9AMvSavu6jjjLrj2SiBY5OnFCXRXDR_P63dJDlpfBYK8V0RE38qfOX_vUl0qm3jeDhqVcoLdHIuAGd8vjxQbJDjS_uabwQLPySr2AvDJp7yPELGRpWcXsGrefSJNblZ5gzFVoIcfo0Qzzw4Fruq1q83ZAzpcNGIi5u4_FTwptrS6QRLyuRHYcNyp1oMIz_sw38J0hD9689oSmQZWfrsao4bvFVmHwQU8_NOTuB4_5nTsQSHWtj56A5DXpO7wLJvsCIhc2n9-gVJgzlbUZC9OFRX1qNMWIi5tfEe4fqdsJY3yrkfw8Tvb4B2y78QikGgyAkRGWWUqrPBL_Df4qnmARp94us_sjh_fZikHOZ5NlYRdkRBcBcDB-9la7dq73bHw",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/FiFKqgWJBkaz0ZmBGPdrBQ~~/AAQRxRA~/TaHpnDY5QLOHwOut5g61evHrk4yM8dk2glv4kDKc-epmCWD-lNBfekzEkj6J9uXGvwtykldzY0Zyjw9a_OWbvkoxsiPsJbpJV4LrxY6tgeA_QDP-4OEm3t1zlA6mg41_C9i44qKVlUXcCqLwymZJCKXe2yIzrZOIRdxBQmK5w53Su5E93hNZ09l3C9VphLm9gFykQ2dms5880Bho2ItZK89vfLcIMHmNF-quuZxaqWor9-zhlOeYjieD4ygyjhbO-9Vwo9c7UhBiiAmABkacMwHMYZkdrLfy_Xs_XPcFvnyF4jKxENLLvoc6NwTEGOPFe68HP46NveYPKlHcOEMNkIrY_ROOcYuSFw4gNYQRKB9HhI-BaJu--LjO-JD-IRLunkrgRS4dGLmrpJCZnPgK3fBdh1AWm67A-M1TNYaOSWTPqKLxkDSnwt2kWf3XH6VIXXGVhS1Leqn7kC7tZbZpWoupcj7Fw3cNNNm7xDYe3WgdMNoWgTn2XqwV1IkveknQSVo4Au65lWt6zsD6W9DZug~~",
+          "title": "Snowflake Q1 results",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/b2S5MnSHNIW8Yl0gixjYhg~~/AAQRxRA~/zhElb_o9uss6SbQ6bY53h75u3u0SMfqHdFsEfB0_sXPq6lEvYnyKn1nthIUGJPAJe-0EnuCRgXqQFzejIBY3_-ebvckBd6z9LBhQ_7NJ5cRoUbW_HmGEOx_GNoxnmQfZNx-00E2E_m8xWbck1KjOBkRwqrtmir-UUkNtVPaG3x5xvDnXA4Hvgb50AJD2jHAil8dqnqbyMKNyBZyAubzcNUsWeOznPTk184R7RjrcDTeni-0MnGR05LXfskZ0Y2kyr4x6lrDrGI2AZC5187cofyQmRdr3eOUuQLA0536VGHgNgIbWJaYLcpADEG6iNRd1sV1gRTbR9qPSx7_2L_sF_eeEQNx3RNMgV5tQxbudrT1KoP6wC_XChkpma4pOH38mSvqtMCvB5YeFmz-vuUrcA4XEM60czIApscqLnp9dQWwos11T-d8mEtrKErJwdWlDKAbmUt-vV0SYR5X95QI-NzO587NAWKJTfiRp5oxoxDk~",
+          "title": "standout first quarter",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/aVrlsEDxzcomYUidEg26Dw~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWybXGmEeGldh_k4ueM7A_uO9lkB-HsVwQ-pk3D-C7w0Ee7b3FbY-aYGtpkg7KXQwv9cCoiTur_pxifb_FDSsUtYaXLsGI4BIBVEd8n296_XK5cwiTVyne1x7jL3YUg-xlwNJ7JVauyHImgJZ1Jh1e5HoBa0IWsjvHzq3lioMJLSOKrL0I-Yb6UADZeZQn6WoBq0Zvj_vX5ofNfVDRgYT_-GkDZSPCW7xG7wHUw5nUmQrkIV3ylRjkUZRvVxzMUatkToUGiPazyH7uwRovN3-h6EZ6BErOso684ltzO2xmgIrfogVEwh2ORiqP4OeCxOgDG4fzNPrr7a8umW-78O-4jtGwiGp1JCxZpA-HHmM4GykifkyPNgq5JfUXEsDwiSZfsq",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/1ZRTfKq481F-FmygYnDbVg~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC6_Q3sDHXNHclfa3d46lS3pjvonNI4OmCXeL4YrjqDUsiQZkPXgAhb1cNXMbASYyhE7JBaqt0GsLAdXoHjYldBo1kdIHLjVnCktrtBdt3p1fvvHo_I1KWRdHA9Fyz9jwg2h-tkp87IHmJENCPDjbTi6OSzFwkhuWLRxUQLoJTeTN554d08aVeLliPrAqw7QZ3UXiZOoo1g5zet1muPupbeuTQhbuoyOwrVKNBBeR7I1BrcGPPRVPufXODx6QObg-AfjGi6L0FyH7moDeS3S4oHXloTC7hevp-hEny4r9CQRsZsXUra_KIt2IaZw6FHGumkgO3QPa6Kq_gRqz8zWB1Z0izezDAh4cf6dpGdXHt-pIEzofJV1_lKAByPiUETiVv8pqIVdZj2dlt65lIUslFWy4~",
+          "title": "Get the full story of Okta's pleasing Q1",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/rlUVcXbykMiiNdIrUc2I1g~~/AAQRxRA~/Ej6yS-kiE-IdDVpUf4IgictBiXLPJUPVdrbmMEoFcPw7U8U5mhaYg6tpgpwuZ-rLw3Aect30hZe6gXffyAqGllA18-X3_Omwz1ocjkd2T7iw9Ll0u6_jl9mskaO3-yFwnsaTFmk3QE9qmtDMdORWCKZq-e6wQ3nf93REbHfiCvqthCKGPUBy3V332fug3eyMbCq6NlmAk394zrYrZMOfpoUtNa-iWZNIEiGD_qxUGgI9ZmPxM-lNEe_yqt4cTH213twUeXzbDBNiC0Eu6n5qRdwlaj1Cd1nOTWsnWvSQyQFgij01UJYzm8lUkg4ocszQ2SP98LUpwNvVzFN77ymo1TW7lCwYg8JvhZBwkZBJmapcW9BTBPJRJGQfDpVy1V1h1rEzCTq9xd6lZ2qU-f1w6UO2rQWXq1dLEY1ZvcjcABl4JgKCsixJ3ihd4EmJlHFx",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/5jEhjRHykgQNjMsY5_gUsg~~/AAQRxRA~/lD0G4u0FQi6_lpER282zwj3-enFHyOucICY2NPrFI9JDc8gpgT13VnVQu7rmAUJxL3NHFIAFsGnq7V543L817PX2DPekl36SvvNSGH8D6gwESmylTXmxKq4Rg2kOl3pTXsqwz91Ja5QfXHSquMBj2f-3jsOUe9B9-F6s_ZVI2AHzlgo9oFpn6ASzwMpYX2rqqixyaLBLmSw_QZuXcsUPV6dkN4WmwdWA4X6c8KwjAvCta0WkaQmz-ZlKsYdgfTfujhr60IJd_cFWBTlAG521rcnYlde1VFSRQ2OxQqE1C-6UNjG3-bP7Izjsn2z59M8HnXykoYcpwvQNN4Y82oJUtRGrdbv2Dv-m_BA7M1_vrUUHl09FmMfLmEepJnL5zZMMvSYeHDVLnekycc2NdfrhtvSoyKXn-ljTY9H1olKaM8a6YFNB0_iKrq8B6X-J_-0eH7Icokcxl3lfTjRyOE_FVkFIaRvJ_SUxLfd2c3ER6CY~",
+          "title": "Q1 revenue climb 21%",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/hFDsP9XoU5Q2ptyrFbKMZw~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWyb-JpcT5CEYnSyK08ybuAzwXDvYW9oOSXHjAgHw-hOhCYh-qdWwPzAxV5XS02Xx30UM8G21bQZy-C69UvdRtDrV-9CzdXatd8X7RPfh5riIW-M4EP6oWL48Pt_8ezOR5WMttghEQkijA6SID2-0ZuzVdg4iKmclU00DWoZaCdgfpuwmm7qhJ2scv0SuecXl2kA5Yh1H9yspvsRykT6z33v7ThJ8jRPCWLnAm9WNcCb1WSDqj5wQWHBLjxWg2EuJ4_XFLfLtd2un8EIQtlLosMzKaHIRzES5LNdq0fEt04Mkj0glLKVhB8CqcRyUVk6uxX2J94NVK0iTMzoEltX3K6d6Q-zjPvFDF3DLUS3oODFCLYc8iJgg6xd6Fg1rdbwQqy3",
+          "title": "Motley Fool link",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1176,
+      "summaryHints": [
+        "ADSK, MDB, and OKTA post Q1 results, Dell soars nearly 40% as Gap falls, and more… Breakfast NewsClick here to read online .",
+        "MAY 29, 2026Thursday's MarketsS&P 500 7,564 (+0.58%)Nasdaq 26,917 (+0.91%)Dow 50,669 (+0.05%)Bitcoin 73,488 (-2.26%)Image shows chart of Autodesk, MonzoDB, and Okta's stock price over 5 years compared to the S&P 500 ********************************************************",
+        "Autodesk Leads Earnings from Team Rule Breakers’ Recs ********************************************************",
+        "* Autodesk (NASDAQ:ADSK ) opened fiscal 2027 yesterday by beating first-quarter revenue, profit, and cash flow expectations – with revenue up 18% year over year (YoY).",
+        "The stock dipped over 5% in pre-market trading, as management warned its sales organization restructuring could cause disruption."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Autodesk Leads Earnings from Team Rule Breakers’ Recs ********************************************************* * Autodesk (NASDAQ:ADSK ) opened fiscal 2027 yesterday by beating first-quarter revenue, profit, and cash flow expectations – with revenue up 18% year over year (YoY). The stock dipped over 5% in pre-market trading, as management warned its sales organization restructuring could cause disruption. * MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results . MDB’s cloud demand led to a standout first quarter , with cash flow nearly doubling. Management raised full-year revenue expectations to $2.92–$2.96 billion. The stock gained around 3% pre-market. * Okta (NASDAQ:OKTA ) gained more than 7% in early trading, as subscription growth helped it to a solid first quarter. Speaking of the potential for AI agent products, CEO Todd McKinnon said “the pipeline's bigger than anything we have ever seen.” Get the full story of Okta's pleasing Q1 ----------------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/Nhnr1U1xMhBe3pTLA_GOuQ~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC63QwEtM-3VXWj-aZAzV1dsoS1F5XSmMSRFTK6AXI15VIlPwlPDSwwNpNuX0vejT63CJBZeJfQnHIomVF_YTeEo2-I-eXNI9qpHFOVcsaST2tmMrHy4FHLU2L4AX4HWXTJnk3SztQzdyIJPbXRWnoncn__9gbF9bEXMRn8X2aIbuTpBuov74vVa-fglkQbWD65bJCEVAki1b5O8XJmGQqPhIdAZq4tHHoqZtRPKios-H_jkFzBgBdu5j_O1PVT5lDqvKCh9A1dtc4AOGLu1yrjcwVB5rLbDBGoFUF-2ieAeG8mvx7belKB0sBB5Jt5VqlVpmV1qKSazSVBLW5FJStl-NU9bD82AK8mvlqQZc4FNGVt9l2GuBF4lPL_OMMzmWFhdxNQhoj-Vu-M05e9-6d5Kc~",
+              "title": "opened fiscal 2027",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/b2S5MnSHNIW8Yl0gixjYhg~~/AAQRxRA~/zhElb_o9uss6SbQ6bY53h75u3u0SMfqHdFsEfB0_sXPq6lEvYnyKn1nthIUGJPAJe-0EnuCRgXqQFzejIBY3_-ebvckBd6z9LBhQ_7NJ5cRoUbW_HmGEOx_GNoxnmQfZNx-00E2E_m8xWbck1KjOBkRwqrtmir-UUkNtVPaG3x5xvDnXA4Hvgb50AJD2jHAil8dqnqbyMKNyBZyAubzcNUsWeOznPTk184R7RjrcDTeni-0MnGR05LXfskZ0Y2kyr4x6lrDrGI2AZC5187cofyQmRdr3eOUuQLA0536VGHgNgIbWJaYLcpADEG6iNRd1sV1gRTbR9qPSx7_2L_sF_eeEQNx3RNMgV5tQxbudrT1KoP6wC_XChkpma4pOH38mSvqtMCvB5YeFmz-vuUrcA4XEM60czIApscqLnp9dQWwos11T-d8mEtrKErJwdWlDKAbmUt-vV0SYR5X95QI-NzO587NAWKJTfiRp5oxoxDk~",
+              "title": "standout first quarter",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/1ZRTfKq481F-FmygYnDbVg~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC6_Q3sDHXNHclfa3d46lS3pjvonNI4OmCXeL4YrjqDUsiQZkPXgAhb1cNXMbASYyhE7JBaqt0GsLAdXoHjYldBo1kdIHLjVnCktrtBdt3p1fvvHo_I1KWRdHA9Fyz9jwg2h-tkp87IHmJENCPDjbTi6OSzFwkhuWLRxUQLoJTeTN554d08aVeLliPrAqw7QZ3UXiZOoo1g5zet1muPupbeuTQhbuoyOwrVKNBBeR7I1BrcGPPRVPufXODx6QObg-AfjGi6L0FyH7moDeS3S4oHXloTC7hevp-hEny4r9CQRsZsXUra_KIt2IaZw6FHGumkgO3QPa6Kq_gRqz8zWB1Z0izezDAh4cf6dpGdXHt-pIEzofJV1_lKAByPiUETiVv8pqIVdZj2dlt65lIUslFWy4~",
+              "title": "Get the full story of Okta's pleasing Q1",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "ADSK",
+            "MDB",
+            "OKTA",
+            "SNOW"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "News from Team Hidden Gems’ Recs You Won’t Want to Miss ---------------------------------------------------------- SentinelOne (NYSE:S ) saw fiscal Q1 revenue climb 21% YoY, as the number of customers generating more than $100,000 in annual recurring revenue rose 17% to 1,702. The AI-driven cybersecurity specialist saw non-GAAP EPS double over the same quarter last year, though the company reported some margin pressures. * 8% of workforce to be cut in growing AI focus: Planned layoffs are expected to affect about 230 employees and result in a one-time cost of approximately $25 million. Management guidance for Q2 revenue came in below analyst expectations. The stock fell close to 20% before today’s opening bell. * Costco (NASDAQ:COST ) stock remained largely unmoved overnight, even though fiscal Q3 saw steady growth with revenue up 11.6% year over year. Much of the year’s focus is on digitally enabled sales, which grew 20.8% YoY this quarter. Watch a recent Scoreboard video on COST ----------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/5jEhjRHykgQNjMsY5_gUsg~~/AAQRxRA~/lD0G4u0FQi6_lpER282zwj3-enFHyOucICY2NPrFI9JDc8gpgT13VnVQu7rmAUJxL3NHFIAFsGnq7V543L817PX2DPekl36SvvNSGH8D6gwESmylTXmxKq4Rg2kOl3pTXsqwz91Ja5QfXHSquMBj2f-3jsOUe9B9-F6s_ZVI2AHzlgo9oFpn6ASzwMpYX2rqqixyaLBLmSw_QZuXcsUPV6dkN4WmwdWA4X6c8KwjAvCta0WkaQmz-ZlKsYdgfTfujhr60IJd_cFWBTlAG521rcnYlde1VFSRQ2OxQqE1C-6UNjG3-bP7Izjsn2z59M8HnXykoYcpwvQNN4Y82oJUtRGrdbv2Dv-m_BA7M1_vrUUHl09FmMfLmEepJnL5zZMMvSYeHDVLnekycc2NdfrhtvSoyKXn-ljTY9H1olKaM8a6YFNB0_iKrq8B6X-J_-0eH7Icokcxl3lfTjRyOE_FVkFIaRvJ_SUxLfd2c3ER6CY~",
+              "title": "Q1 revenue climb 21%",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "COST"
+          ],
+          "themes": [
+            "AI Infrastructure"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Here’s Why Gap and Dell are Swinging This Morning ---------------------------------------------------- Dell (NYSE:DELL ) soared nearly 40% in overnight trading, after guidance smashed through analysts’ estimates. Management expects full-year revenue to reach $167 billion – up from previous guidance for $140 billion – including $60 billion from AI server sales. In the fiscal first quarter just reported, revenue climbed 88% YoY . * “Agentic AI is driving a new marketplace for traditional servers that we have not seen before”: COO Jeffrey W. Clarke added the company is winning in “all 4 major businesses [of] PC, server, storage, AI servers.” * Gap (NYSE:GAP ) plunged over 15% early this morning, after the clothing retailer saw Q1 revenue increase by just 1.2% YoY. Despite margins being hit by tariffs, the company returned $464 million via buybacks and raised its quarterly dividend 6%. Check on Gap’s mixed brand performance A message from The Motley Fool <p><strong>Get the AI stocks our analysts are most excited about right now</strong></p> <p>AI isn&rsquo;t just one trend &mdash; it&rsquo;s showing up across industries in ways most investors aren&rsquo;t tracking yet.</p> <p>Some companies are building it. Others are applying it. A few are quietly turning it into real revenue.</p> <p>Our analysts have just named 5 stocks they believe are positioned to benefit &mdash; right now.</p> <p><a href=\" here to get access</a></p> ****************************************************",
+          "links": [],
+          "tickers": [
+            "DELL",
+            "GAP"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "What You Need to Consider Ahead of the SpaceX IPO **************************************************** SpaceX has lowered its target IPO valuation to at least $1.8 trillion, reports Bloomberg – down from an earlier target of $2 trillion or more. * A SpaceX take from Team Rule Breakers: Fool analyst Tim Beyers notes “I’ve said before that for the story to work out for common shareholders, SpaceX will need to effectively create space-based data centers that are either as advanced or more advanced than anything else coming from industry leaders such as Nvidia (NASDAQ:NVDA ). To pull that off, I think two elements of Elon Musk’s other businesses will prove crucial: 1) Terafab, and 2) Optimus.” * “Space is a vacuum and the rules of physics apply differently in orbit than they do here on Earth”: Tim continues “Robotics have a long history of aiding space travel, and I can envision several Optimus-family or Optimus-adjacent robots performing tasks in orbital data centers that wouldn’t be safe for humans. At the same time, SpaceX’s orbital data centers will only be as good as the compute they can produce consistently. Terafab is likely to be where these chips are invented, tested, and ultimately produced.” Read the full Rule Breakers-focused take **************************************",
+          "links": [],
+          "tickers": [
+            "NVDA"
+          ],
+          "themes": [
+            "Space Economy",
+            "Semiconductors"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Today’s Take: My Longest-Held Stock ************************************** Jason Moser I keep Amazon (NASDAQ:AMZN ) on my list of positions I’d like to add to. With its massive ecommerce business along with Cloud, advertising, AI and whatever comes next, the company just has so much opportunity to capitalize on, it would be a shame to not participate. — JASON MOSER • TEAM RULE BREAKERS Here’s a sneak preview, but head to the article to share whether the reasons you bought your longest-owned stock still hold up, or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [
+            "AMZN"
+          ],
+          "themes": [
+            "AI Infrastructure"
+          ]
+        },
+        {
+          "title": "Item 6",
+          "text": "Your Take ************** YESTERDAY'S TOP RESPONSE We asked: When cash generation and reported earnings tell different stories, which do you trust more? How do you evaluate 'real' profitability? F Member foolzerrand said “I look to the cash flows (and what they're doing with that cash) before I look at the reported earnings. I'm generally eager to see that my companies are making strategic investments in their business, and I can tolerate periods of lower reported earnings when this is going on.” See more great answers from our Foolish community TODAY’S QUESTION The latest Stock Advisor Rankings are out! Corning, Tesla, Krystal Biotech, Sterling Infrastructure, Cboe, Cloudflare, DoorDash, Microsoft, MercadoLibre, and Datadog. Which two companies among these are you most interested in learning more about to potentially add to your watchlist, and why? Elaborate in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "ADSK",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Autodesk (NASDAQ:ADSK ) opened fiscal 2027 yesterday by beating first-quarter revenue, profit, and cash flow expectations – with revenue up 18% year over year (YoY)."
+          ]
+        },
+        {
+          "symbol": "AMZN",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Jason Moser I keep Amazon (NASDAQ:AMZN ) on my list of positions I’d like to add to."
+          ]
+        },
+        {
+          "symbol": "COST",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Costco (NASDAQ:COST ) stock remained largely unmoved overnight, even though fiscal Q3 saw steady growth with revenue up 11.6% year over year. Watch a recent Scoreboard video on COST ----------------------------------------------------"
+          ]
+        },
+        {
+          "symbol": "DELL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Here’s Why Gap and Dell are Swinging This Morning ---------------------------------------------------- Dell (NYSE:DELL ) soared nearly 40% in overnight trading, after guidance smashed through analysts’ estimates."
+          ]
+        },
+        {
+          "symbol": "GAP",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Gap (NYSE:GAP ) plunged over 15% early this morning, after the clothing retailer saw Q1 revenue increase by just 1.2% YoY."
+          ]
+        },
+        {
+          "symbol": "MDB",
+          "mentions": 3,
+          "move": null,
+          "notes": [
+            "* MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results . MDB’s cloud demand led to a standout first quarter , with cash flow nearly doubling."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* A SpaceX take from Team Rule Breakers: Fool analyst Tim Beyers notes “I’ve said before that for the story to work out for common shareholders, SpaceX will need to effectively create space-based data centers that are either as advanced or more advanced than anything else coming from industry leaders such as Nvidia (NASDAQ:NVDA )."
+          ]
+        },
+        {
+          "symbol": "OKTA",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Okta (NASDAQ:OKTA ) gained more than 7% in early trading, as subscription growth helped it to a solid first quarter."
+          ]
+        },
+        {
+          "symbol": "SNOW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results ."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": []
+    }
+  ],
+  "readingList": [
+    {
+      "title": "opened fiscal 2027",
+      "note": "Autodesk Leads Earnings from Team Rule Breakers’ Recs ********************************************************* * Autodesk (NASDAQ:ADSK ) opened fiscal 2027 yesterday by beating f…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/Nhnr1U1xMhBe3pTLA_GOuQ~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC63QwEtM-3VXWj-aZAzV1dsoS1F5XSmMSRFTK6AXI15VIlPwlPDSwwNpNuX0vejT63CJBZeJfQnHIomVF_YTeEo2-I-eXNI9qpHFOVcsaST2tmMrHy4FHLU2L4AX4HWXTJnk3SztQzdyIJPbXRWnoncn__9gbF9bEXMRn8X2aIbuTpBuov74vVa-fglkQbWD65bJCEVAki1b5O8XJmGQqPhIdAZq4tHHoqZtRPKios-H_jkFzBgBdu5j_O1PVT5lDqvKCh9A1dtc4AOGLu1yrjcwVB5rLbDBGoFUF-2ieAeG8mvx7belKB0sBB5Jt5VqlVpmV1qKSazSVBLW5FJStl-NU9bD82AK8mvlqQZc4FNGVt9l2GuBF4lPL_OMMzmWFhdxNQhoj-Vu-M05e9-6d5Kc~",
+          "title": "opened fiscal 2027",
+          "label": "opened fiscal 2027"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/b2S5MnSHNIW8Yl0gixjYhg~~/AAQRxRA~/zhElb_o9uss6SbQ6bY53h75u3u0SMfqHdFsEfB0_sXPq6lEvYnyKn1nthIUGJPAJe-0EnuCRgXqQFzejIBY3_-ebvckBd6z9LBhQ_7NJ5cRoUbW_HmGEOx_GNoxnmQfZNx-00E2E_m8xWbck1KjOBkRwqrtmir-UUkNtVPaG3x5xvDnXA4Hvgb50AJD2jHAil8dqnqbyMKNyBZyAubzcNUsWeOznPTk184R7RjrcDTeni-0MnGR05LXfskZ0Y2kyr4x6lrDrGI2AZC5187cofyQmRdr3eOUuQLA0536VGHgNgIbWJaYLcpADEG6iNRd1sV1gRTbR9qPSx7_2L_sF_eeEQNx3RNMgV5tQxbudrT1KoP6wC_XChkpma4pOH38mSvqtMCvB5YeFmz-vuUrcA4XEM60czIApscqLnp9dQWwos11T-d8mEtrKErJwdWlDKAbmUt-vV0SYR5X95QI-NzO587NAWKJTfiRp5oxoxDk~",
+          "title": "standout first quarter",
+          "label": "standout first quarter"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "ADSK",
+        "MDB",
+        "OKTA",
+        "SNOW"
+      ],
+      "score": 23
+    },
+    {
+      "title": "Q1 revenue climb 21%",
+      "note": "News from Team Hidden Gems’ Recs You Won’t Want to Miss ---------------------------------------------------------- SentinelOne (NYSE:S ) saw fiscal Q1 revenue climb 21% YoY, as th…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/5jEhjRHykgQNjMsY5_gUsg~~/AAQRxRA~/lD0G4u0FQi6_lpER282zwj3-enFHyOucICY2NPrFI9JDc8gpgT13VnVQu7rmAUJxL3NHFIAFsGnq7V543L817PX2DPekl36SvvNSGH8D6gwESmylTXmxKq4Rg2kOl3pTXsqwz91Ja5QfXHSquMBj2f-3jsOUe9B9-F6s_ZVI2AHzlgo9oFpn6ASzwMpYX2rqqixyaLBLmSw_QZuXcsUPV6dkN4WmwdWA4X6c8KwjAvCta0WkaQmz-ZlKsYdgfTfujhr60IJd_cFWBTlAG521rcnYlde1VFSRQ2OxQqE1C-6UNjG3-bP7Izjsn2z59M8HnXykoYcpwvQNN4Y82oJUtRGrdbv2Dv-m_BA7M1_vrUUHl09FmMfLmEepJnL5zZMMvSYeHDVLnekycc2NdfrhtvSoyKXn-ljTY9H1olKaM8a6YFNB0_iKrq8B6X-J_-0eH7Icokcxl3lfTjRyOE_FVkFIaRvJ_SUxLfd2c3ER6CY~",
+          "title": "Q1 revenue climb 21%",
+          "label": "Q1 revenue climb 21%"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "COST"
+      ],
+      "score": 17
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": 2,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Earnings Season Begins To Wrap Up",
+        "note": "Autodesk Leads Earnings from Team Rule Breakers’ Recs ********************************************************* * Autodesk (NASDAQ:ADSK ) opened fiscal 2027 yesterday by beating first-quarter revenue, profit, and cash flow expectations – with revenue up 18% year over year (YoY). The stock dipped over 5% in pre-market trading, as management warned its sales organization restructuring could cause disruption. * MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results . MDB’s cloud demand led to a standout first quarter , with cash flow nearly doubling. Management raised full-year revenue expectations to $2.92–$2.96 billion. The stock gained around 3% pre-market. * Okta (NASDAQ:OKTA ) gained more than 7% in early trading, as subscription growth helped it to a solid first quarter. Speaking of the potential for AI agent products, CEO Todd McKinnon said “the pipeline's bigger than anything we have ever seen.” Get the full story of Okta's pleasing Q1 ----------------------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Nhnr1U1xMhBe3pTLA_GOuQ~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC63QwEtM-3VXWj-aZAzV1dsoS1F5XSmMSRFTK6AXI15VIlPwlPDSwwNpNuX0vejT63CJBZeJfQnHIomVF_YTeEo2-I-eXNI9qpHFOVcsaST2tmMrHy4FHLU2L4AX4HWXTJnk3SztQzdyIJPbXRWnoncn__9gbF9bEXMRn8X2aIbuTpBuov74vVa-fglkQbWD65bJCEVAki1b5O8XJmGQqPhIdAZq4tHHoqZtRPKios-H_jkFzBgBdu5j_O1PVT5lDqvKCh9A1dtc4AOGLu1yrjcwVB5rLbDBGoFUF-2ieAeG8mvx7belKB0sBB5Jt5VqlVpmV1qKSazSVBLW5FJStl-NU9bD82AK8mvlqQZc4FNGVt9l2GuBF4lPL_OMMzmWFhdxNQhoj-Vu-M05e9-6d5Kc~",
+            "title": "opened fiscal 2027",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/b2S5MnSHNIW8Yl0gixjYhg~~/AAQRxRA~/zhElb_o9uss6SbQ6bY53h75u3u0SMfqHdFsEfB0_sXPq6lEvYnyKn1nthIUGJPAJe-0EnuCRgXqQFzejIBY3_-ebvckBd6z9LBhQ_7NJ5cRoUbW_HmGEOx_GNoxnmQfZNx-00E2E_m8xWbck1KjOBkRwqrtmir-UUkNtVPaG3x5xvDnXA4Hvgb50AJD2jHAil8dqnqbyMKNyBZyAubzcNUsWeOznPTk184R7RjrcDTeni-0MnGR05LXfskZ0Y2kyr4x6lrDrGI2AZC5187cofyQmRdr3eOUuQLA0536VGHgNgIbWJaYLcpADEG6iNRd1sV1gRTbR9qPSx7_2L_sF_eeEQNx3RNMgV5tQxbudrT1KoP6wC_XChkpma4pOH38mSvqtMCvB5YeFmz-vuUrcA4XEM60czIApscqLnp9dQWwos11T-d8mEtrKErJwdWlDKAbmUt-vV0SYR5X95QI-NzO587NAWKJTfiRp5oxoxDk~",
+            "title": "standout first quarter",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/1ZRTfKq481F-FmygYnDbVg~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC6_Q3sDHXNHclfa3d46lS3pjvonNI4OmCXeL4YrjqDUsiQZkPXgAhb1cNXMbASYyhE7JBaqt0GsLAdXoHjYldBo1kdIHLjVnCktrtBdt3p1fvvHo_I1KWRdHA9Fyz9jwg2h-tkp87IHmJENCPDjbTi6OSzFwkhuWLRxUQLoJTeTN554d08aVeLliPrAqw7QZ3UXiZOoo1g5zet1muPupbeuTQhbuoyOwrVKNBBeR7I1BrcGPPRVPufXODx6QObg-AfjGi6L0FyH7moDeS3S4oHXloTC7hevp-hEny4r9CQRsZsXUra_KIt2IaZw6FHGumkgO3QPa6Kq_gRqz8zWB1Z0izezDAh4cf6dpGdXHt-pIEzofJV1_lKAByPiUETiVv8pqIVdZj2dlt65lIUslFWy4~",
+            "title": "Get the full story of Okta's pleasing Q1",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Breakfast News: Earnings Season Begins To Wrap Up",
+        "note": "Here’s Why Gap and Dell are Swinging This Morning ---------------------------------------------------- Dell (NYSE:DELL ) soared nearly 40% in overnight trading, after guidance smashed through analysts’ estimates. Management expects full-year revenue to reach $167 billion – up from previous guidance for $140 billion – including $60 billion from AI server sales. In the fiscal first quarter just reported, revenue climbed 88% YoY . * “Agentic AI is driving a new marketplace for traditional servers that we have not seen before”: COO Jeffrey W. Clarke added the company is winning in “all 4 major businesses [of] PC, server, storage, AI servers.” * Gap (NYSE:GAP ) plunged over 15% early this morning, after the clothing retailer saw Q1 revenue increase by just 1.2% YoY. Despite margins being hit by tariffs, the company returned $464 million via buybacks and raised its quarterly dividend 6%. Check on Gap’s mixed brand performance A message from The Motley Fool <p><strong>Get the AI stocks our analysts are most excited about right now</strong></p> <p>AI isn&rsquo;t just one trend &mdash; it&rsquo;s showing up across industries in ways most investors aren&rsquo;t tracking yet.</p> <p>Some companies are building it. Others are applying it. A few are quietly turning it into real revenue.</p> <p>Our analysts have just named 5 stocks they believe are positioned to benefit &mdash; right now.</p> <p><a href=\" here to get access</a></p> ****************************************************",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/8d23IPqJNjjIrPNAJUa20Q~~/AAQRxRA~/p5iwNiTN2tRK0PT0OwhFjY--LZDzso1lsrQc-LOnJg0X6N_sGLG3GlQHoZSBgZ7l1VrVRQft_tm8gDZI16LLqt2IYIJpvvj0tBiIeR2dxy1-mkU3OJZ6t2JBPgOs6sM5x8rT7O_CvLPcjLC0vatbV1UD2Y1bf692v6BIaxxSh1WDRexYf4QhvOqFbrMR9uA8-2ga_YJthbflw0pNprYl9mGWajxS7_n7Jg-pnamt_LuQGtk5li74lEKZSeVBKW7mlIQJuZ7pw79ioQf4_XNccW-C4-iXSITHciPeG_X_qCNm17VJ9NZS1UlrsLfjSye_F4Rv7Ks_AG1eige_aKYNip70FGdbt3hYIBHYj9ssRN0_5NFwwOAOo3UWBRHzfzNgxtWx3kuWi-JHfao9X07TW6BZOIgNMtAQScJv5rYsXiRbRzxKK5f5DUNy2wCaZLrD",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/dMEslZAdPz_wQ21mFUvUBA~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWybfBH0BYt4nb1fv3V8Nq0ErktDrL50cx26lWMQwTr_VzrHRhqUmMrCYpQSDVr4Zx0r5jcFone5p48vD54b0yJsWdFx227B9QeZyWitTLYyLj_mkRnxiPBkNIwwwFLpmJURXsiYYxTBnoW80zNtb3_g8163ujgD193FsfM71QGxD-2MDWl4OsBvYpr2GLebpTfgUavLEc-1ckKkV_Ne9NCHmdhbBqnlh7X0KmuQIPLRbMyi_posBPItFKcQ1twPFrgo1N-uZdHrM5wfSZgm9JuvToweDLumiEuCAbqXUIjyEKpF428LdhKLhW1GmuGftqB0A4Dnfww42KO3eh0ObEDzHkvNntxGjb0qESqsTdikSQyUIxf-hWcefHc7gPAgGfr0",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Nhnr1U1xMhBe3pTLA_GOuQ~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC63QwEtM-3VXWj-aZAzV1dsoS1F5XSmMSRFTK6AXI15VIlPwlPDSwwNpNuX0vejT63CJBZeJfQnHIomVF_YTeEo2-I-eXNI9qpHFOVcsaST2tmMrHy4FHLU2L4AX4HWXTJnk3SztQzdyIJPbXRWnoncn__9gbF9bEXMRn8X2aIbuTpBuov74vVa-fglkQbWD65bJCEVAki1b5O8XJmGQqPhIdAZq4tHHoqZtRPKios-H_jkFzBgBdu5j_O1PVT5lDqvKCh9A1dtc4AOGLu1yrjcwVB5rLbDBGoFUF-2ieAeG8mvx7belKB0sBB5Jt5VqlVpmV1qKSazSVBLW5FJStl-NU9bD82AK8mvlqQZc4FNGVt9l2GuBF4lPL_OMMzmWFhdxNQhoj-Vu-M05e9-6d5Kc~",
+            "title": "opened fiscal 2027",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/cOgedELlE7o0mUFPHNrwFQ~~/AAQRxRA~/kOfg7u5hKIAmnwbCgZOhmesaw2W9IP-ayRXcOAQmN_H8ZeuviinRIIkLXUAv_86XsO9Dj7hJk4EMfJoum0WylYgNTo8q3FieWemTe9CPGCeKgyN29wJXuRL3sr8glWhC-M0KF7C38EkA6moNgxZavHB2YTcxEY5gUiuQgMobz0JW0d4sHIkC4W91kie3jYXzvRQlCJiljrxCM52Xz1Kv6BY8tAQQ0V119HktPI-Q55K--UHhgdOoVkJQb5z2hdkF-2Ubc2ocNlGTzQ7f9naXp1cobNd7IqvUNVHnjBYUhxghJb6tMXgtPJX85gOtbkesIzkkx3HIAZHtmtbU0cSqvGe91SAmj86u22xWqNr-ldZq4uPMZDI9UI2-0nCY8MeOnoGU7AhlkfHo0ojknw-hnd8H9j9zvIxDrXespvbQbKw5No2KMKfR-qS6e1AguKPU",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/kvqGZ8t--48w3Kg3mMF0ow~~/AAQRxRA~/F4-AlbzWwsPvccLChxYR6FMsQDQe7mgk-AspPr5HuXCz1T6QJd6lPovlRdU4Nb7X9AMvSavu6jjjLrj2SiBY5OnFCXRXDR_P63dJDlpfBYK8V0RE38qfOX_vUl0qm3jeDhqVcoLdHIuAGd8vjxQbJDjS_uabwQLPySr2AvDJp7yPELGRpWcXsGrefSJNblZ5gzFVoIcfo0Qzzw4Fruq1q83ZAzpcNGIi5u4_FTwptrS6QRLyuRHYcNyp1oMIz_sw38J0hD9689oSmQZWfrsao4bvFVmHwQU8_NOTuB4_5nTsQSHWtj56A5DXpO7wLJvsCIhc2n9-gVJgzlbUZC9OFRX1qNMWIi5tfEe4fqdsJY3yrkfw8Tvb4B2y78QikGgyAkRGWWUqrPBL_Df4qnmARp94us_sjh_fZikHOZ5NlYRdkRBcBcDB-9la7dq73bHw",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/FiFKqgWJBkaz0ZmBGPdrBQ~~/AAQRxRA~/TaHpnDY5QLOHwOut5g61evHrk4yM8dk2glv4kDKc-epmCWD-lNBfekzEkj6J9uXGvwtykldzY0Zyjw9a_OWbvkoxsiPsJbpJV4LrxY6tgeA_QDP-4OEm3t1zlA6mg41_C9i44qKVlUXcCqLwymZJCKXe2yIzrZOIRdxBQmK5w53Su5E93hNZ09l3C9VphLm9gFykQ2dms5880Bho2ItZK89vfLcIMHmNF-quuZxaqWor9-zhlOeYjieD4ygyjhbO-9Vwo9c7UhBiiAmABkacMwHMYZkdrLfy_Xs_XPcFvnyF4jKxENLLvoc6NwTEGOPFe68HP46NveYPKlHcOEMNkIrY_ROOcYuSFw4gNYQRKB9HhI-BaJu--LjO-JD-IRLunkrgRS4dGLmrpJCZnPgK3fBdh1AWm67A-M1TNYaOSWTPqKLxkDSnwt2kWf3XH6VIXXGVhS1Leqn7kC7tZbZpWoupcj7Fw3cNNNm7xDYe3WgdMNoWgTn2XqwV1IkveknQSVo4Au65lWt6zsD6W9DZug~~",
+            "title": "Snowflake Q1 results",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/b2S5MnSHNIW8Yl0gixjYhg~~/AAQRxRA~/zhElb_o9uss6SbQ6bY53h75u3u0SMfqHdFsEfB0_sXPq6lEvYnyKn1nthIUGJPAJe-0EnuCRgXqQFzejIBY3_-ebvckBd6z9LBhQ_7NJ5cRoUbW_HmGEOx_GNoxnmQfZNx-00E2E_m8xWbck1KjOBkRwqrtmir-UUkNtVPaG3x5xvDnXA4Hvgb50AJD2jHAil8dqnqbyMKNyBZyAubzcNUsWeOznPTk184R7RjrcDTeni-0MnGR05LXfskZ0Y2kyr4x6lrDrGI2AZC5187cofyQmRdr3eOUuQLA0536VGHgNgIbWJaYLcpADEG6iNRd1sV1gRTbR9qPSx7_2L_sF_eeEQNx3RNMgV5tQxbudrT1KoP6wC_XChkpma4pOH38mSvqtMCvB5YeFmz-vuUrcA4XEM60czIApscqLnp9dQWwos11T-d8mEtrKErJwdWlDKAbmUt-vV0SYR5X95QI-NzO587NAWKJTfiRp5oxoxDk~",
+            "title": "standout first quarter",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aVrlsEDxzcomYUidEg26Dw~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWybXGmEeGldh_k4ueM7A_uO9lkB-HsVwQ-pk3D-C7w0Ee7b3FbY-aYGtpkg7KXQwv9cCoiTur_pxifb_FDSsUtYaXLsGI4BIBVEd8n296_XK5cwiTVyne1x7jL3YUg-xlwNJ7JVauyHImgJZ1Jh1e5HoBa0IWsjvHzq3lioMJLSOKrL0I-Yb6UADZeZQn6WoBq0Zvj_vX5ofNfVDRgYT_-GkDZSPCW7xG7wHUw5nUmQrkIV3ylRjkUZRvVxzMUatkToUGiPazyH7uwRovN3-h6EZ6BErOso684ltzO2xmgIrfogVEwh2ORiqP4OeCxOgDG4fzNPrr7a8umW-78O-4jtGwiGp1JCxZpA-HHmM4GykifkyPNgq5JfUXEsDwiSZfsq",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/1ZRTfKq481F-FmygYnDbVg~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC6_Q3sDHXNHclfa3d46lS3pjvonNI4OmCXeL4YrjqDUsiQZkPXgAhb1cNXMbASYyhE7JBaqt0GsLAdXoHjYldBo1kdIHLjVnCktrtBdt3p1fvvHo_I1KWRdHA9Fyz9jwg2h-tkp87IHmJENCPDjbTi6OSzFwkhuWLRxUQLoJTeTN554d08aVeLliPrAqw7QZ3UXiZOoo1g5zet1muPupbeuTQhbuoyOwrVKNBBeR7I1BrcGPPRVPufXODx6QObg-AfjGi6L0FyH7moDeS3S4oHXloTC7hevp-hEny4r9CQRsZsXUra_KIt2IaZw6FHGumkgO3QPa6Kq_gRqz8zWB1Z0izezDAh4cf6dpGdXHt-pIEzofJV1_lKAByPiUETiVv8pqIVdZj2dlt65lIUslFWy4~",
+            "title": "Get the full story of Okta's pleasing Q1",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/rlUVcXbykMiiNdIrUc2I1g~~/AAQRxRA~/Ej6yS-kiE-IdDVpUf4IgictBiXLPJUPVdrbmMEoFcPw7U8U5mhaYg6tpgpwuZ-rLw3Aect30hZe6gXffyAqGllA18-X3_Omwz1ocjkd2T7iw9Ll0u6_jl9mskaO3-yFwnsaTFmk3QE9qmtDMdORWCKZq-e6wQ3nf93REbHfiCvqthCKGPUBy3V332fug3eyMbCq6NlmAk394zrYrZMOfpoUtNa-iWZNIEiGD_qxUGgI9ZmPxM-lNEe_yqt4cTH213twUeXzbDBNiC0Eu6n5qRdwlaj1Cd1nOTWsnWvSQyQFgij01UJYzm8lUkg4ocszQ2SP98LUpwNvVzFN77ymo1TW7lCwYg8JvhZBwkZBJmapcW9BTBPJRJGQfDpVy1V1h1rEzCTq9xd6lZ2qU-f1w6UO2rQWXq1dLEY1ZvcjcABl4JgKCsixJ3ihd4EmJlHFx",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5jEhjRHykgQNjMsY5_gUsg~~/AAQRxRA~/lD0G4u0FQi6_lpER282zwj3-enFHyOucICY2NPrFI9JDc8gpgT13VnVQu7rmAUJxL3NHFIAFsGnq7V543L817PX2DPekl36SvvNSGH8D6gwESmylTXmxKq4Rg2kOl3pTXsqwz91Ja5QfXHSquMBj2f-3jsOUe9B9-F6s_ZVI2AHzlgo9oFpn6ASzwMpYX2rqqixyaLBLmSw_QZuXcsUPV6dkN4WmwdWA4X6c8KwjAvCta0WkaQmz-ZlKsYdgfTfujhr60IJd_cFWBTlAG521rcnYlde1VFSRQ2OxQqE1C-6UNjG3-bP7Izjsn2z59M8HnXykoYcpwvQNN4Y82oJUtRGrdbv2Dv-m_BA7M1_vrUUHl09FmMfLmEepJnL5zZMMvSYeHDVLnekycc2NdfrhtvSoyKXn-ljTY9H1olKaM8a6YFNB0_iKrq8B6X-J_-0eH7Icokcxl3lfTjRyOE_FVkFIaRvJ_SUxLfd2c3ER6CY~",
+            "title": "Q1 revenue climb 21%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/hFDsP9XoU5Q2ptyrFbKMZw~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWyb-JpcT5CEYnSyK08ybuAzwXDvYW9oOSXHjAgHw-hOhCYh-qdWwPzAxV5XS02Xx30UM8G21bQZy-C69UvdRtDrV-9CzdXatd8X7RPfh5riIW-M4EP6oWL48Pt_8ezOR5WMttghEQkijA6SID2-0ZuzVdg4iKmclU00DWoZaCdgfpuwmm7qhJ2scv0SuecXl2kA5Yh1H9yspvsRykT6z33v7ThJ8jRPCWLnAm9WNcCb1WSDqj5wQWHBLjxWg2EuJ4_XFLfLtd2un8EIQtlLosMzKaHIRzES5LNdq0fEt04Mkj0glLKVhB8CqcRyUVk6uxX2J94NVK0iTMzoEltX3K6d6Q-zjPvFDF3DLUS3oODFCLYc8iJgg6xd6Fg1rdbwQqy3",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Earnings Season Begins To Wrap Up",
+        "note": "What You Need to Consider Ahead of the SpaceX IPO **************************************************** SpaceX has lowered its target IPO valuation to at least $1.8 trillion, reports Bloomberg – down from an earlier target of $2 trillion or more. * A SpaceX take from Team Rule Breakers: Fool analyst Tim Beyers notes “I’ve said before that for the story to work out for common shareholders, SpaceX will need to effectively create space-based data centers that are either as advanced or more advanced than anything else coming from industry leaders such as Nvidia (NASDAQ:NVDA ). To pull that off, I think two elements of Elon Musk’s other businesses will prove crucial: 1) Terafab, and 2) Optimus.” * “Space is a vacuum and the rules of physics apply differently in orbit than they do here on Earth”: Tim continues “Robotics have a long history of aiding space travel, and I can envision several Optimus-family or Optimus-adjacent robots performing tasks in orbital data centers that wouldn’t be safe for humans. At the same time, SpaceX’s orbital data centers will only be as good as the compute they can produce consistently. Terafab is likely to be where these chips are invented, tested, and ultimately produced.” Read the full Rule Breakers-focused take **************************************",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/8d23IPqJNjjIrPNAJUa20Q~~/AAQRxRA~/p5iwNiTN2tRK0PT0OwhFjY--LZDzso1lsrQc-LOnJg0X6N_sGLG3GlQHoZSBgZ7l1VrVRQft_tm8gDZI16LLqt2IYIJpvvj0tBiIeR2dxy1-mkU3OJZ6t2JBPgOs6sM5x8rT7O_CvLPcjLC0vatbV1UD2Y1bf692v6BIaxxSh1WDRexYf4QhvOqFbrMR9uA8-2ga_YJthbflw0pNprYl9mGWajxS7_n7Jg-pnamt_LuQGtk5li74lEKZSeVBKW7mlIQJuZ7pw79ioQf4_XNccW-C4-iXSITHciPeG_X_qCNm17VJ9NZS1UlrsLfjSye_F4Rv7Ks_AG1eige_aKYNip70FGdbt3hYIBHYj9ssRN0_5NFwwOAOo3UWBRHzfzNgxtWx3kuWi-JHfao9X07TW6BZOIgNMtAQScJv5rYsXiRbRzxKK5f5DUNy2wCaZLrD",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/dMEslZAdPz_wQ21mFUvUBA~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWybfBH0BYt4nb1fv3V8Nq0ErktDrL50cx26lWMQwTr_VzrHRhqUmMrCYpQSDVr4Zx0r5jcFone5p48vD54b0yJsWdFx227B9QeZyWitTLYyLj_mkRnxiPBkNIwwwFLpmJURXsiYYxTBnoW80zNtb3_g8163ujgD193FsfM71QGxD-2MDWl4OsBvYpr2GLebpTfgUavLEc-1ckKkV_Ne9NCHmdhbBqnlh7X0KmuQIPLRbMyi_posBPItFKcQ1twPFrgo1N-uZdHrM5wfSZgm9JuvToweDLumiEuCAbqXUIjyEKpF428LdhKLhW1GmuGftqB0A4Dnfww42KO3eh0ObEDzHkvNntxGjb0qESqsTdikSQyUIxf-hWcefHc7gPAgGfr0",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Nhnr1U1xMhBe3pTLA_GOuQ~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC63QwEtM-3VXWj-aZAzV1dsoS1F5XSmMSRFTK6AXI15VIlPwlPDSwwNpNuX0vejT63CJBZeJfQnHIomVF_YTeEo2-I-eXNI9qpHFOVcsaST2tmMrHy4FHLU2L4AX4HWXTJnk3SztQzdyIJPbXRWnoncn__9gbF9bEXMRn8X2aIbuTpBuov74vVa-fglkQbWD65bJCEVAki1b5O8XJmGQqPhIdAZq4tHHoqZtRPKios-H_jkFzBgBdu5j_O1PVT5lDqvKCh9A1dtc4AOGLu1yrjcwVB5rLbDBGoFUF-2ieAeG8mvx7belKB0sBB5Jt5VqlVpmV1qKSazSVBLW5FJStl-NU9bD82AK8mvlqQZc4FNGVt9l2GuBF4lPL_OMMzmWFhdxNQhoj-Vu-M05e9-6d5Kc~",
+            "title": "opened fiscal 2027",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/cOgedELlE7o0mUFPHNrwFQ~~/AAQRxRA~/kOfg7u5hKIAmnwbCgZOhmesaw2W9IP-ayRXcOAQmN_H8ZeuviinRIIkLXUAv_86XsO9Dj7hJk4EMfJoum0WylYgNTo8q3FieWemTe9CPGCeKgyN29wJXuRL3sr8glWhC-M0KF7C38EkA6moNgxZavHB2YTcxEY5gUiuQgMobz0JW0d4sHIkC4W91kie3jYXzvRQlCJiljrxCM52Xz1Kv6BY8tAQQ0V119HktPI-Q55K--UHhgdOoVkJQb5z2hdkF-2Ubc2ocNlGTzQ7f9naXp1cobNd7IqvUNVHnjBYUhxghJb6tMXgtPJX85gOtbkesIzkkx3HIAZHtmtbU0cSqvGe91SAmj86u22xWqNr-ldZq4uPMZDI9UI2-0nCY8MeOnoGU7AhlkfHo0ojknw-hnd8H9j9zvIxDrXespvbQbKw5No2KMKfR-qS6e1AguKPU",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/kvqGZ8t--48w3Kg3mMF0ow~~/AAQRxRA~/F4-AlbzWwsPvccLChxYR6FMsQDQe7mgk-AspPr5HuXCz1T6QJd6lPovlRdU4Nb7X9AMvSavu6jjjLrj2SiBY5OnFCXRXDR_P63dJDlpfBYK8V0RE38qfOX_vUl0qm3jeDhqVcoLdHIuAGd8vjxQbJDjS_uabwQLPySr2AvDJp7yPELGRpWcXsGrefSJNblZ5gzFVoIcfo0Qzzw4Fruq1q83ZAzpcNGIi5u4_FTwptrS6QRLyuRHYcNyp1oMIz_sw38J0hD9689oSmQZWfrsao4bvFVmHwQU8_NOTuB4_5nTsQSHWtj56A5DXpO7wLJvsCIhc2n9-gVJgzlbUZC9OFRX1qNMWIi5tfEe4fqdsJY3yrkfw8Tvb4B2y78QikGgyAkRGWWUqrPBL_Df4qnmARp94us_sjh_fZikHOZ5NlYRdkRBcBcDB-9la7dq73bHw",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/FiFKqgWJBkaz0ZmBGPdrBQ~~/AAQRxRA~/TaHpnDY5QLOHwOut5g61evHrk4yM8dk2glv4kDKc-epmCWD-lNBfekzEkj6J9uXGvwtykldzY0Zyjw9a_OWbvkoxsiPsJbpJV4LrxY6tgeA_QDP-4OEm3t1zlA6mg41_C9i44qKVlUXcCqLwymZJCKXe2yIzrZOIRdxBQmK5w53Su5E93hNZ09l3C9VphLm9gFykQ2dms5880Bho2ItZK89vfLcIMHmNF-quuZxaqWor9-zhlOeYjieD4ygyjhbO-9Vwo9c7UhBiiAmABkacMwHMYZkdrLfy_Xs_XPcFvnyF4jKxENLLvoc6NwTEGOPFe68HP46NveYPKlHcOEMNkIrY_ROOcYuSFw4gNYQRKB9HhI-BaJu--LjO-JD-IRLunkrgRS4dGLmrpJCZnPgK3fBdh1AWm67A-M1TNYaOSWTPqKLxkDSnwt2kWf3XH6VIXXGVhS1Leqn7kC7tZbZpWoupcj7Fw3cNNNm7xDYe3WgdMNoWgTn2XqwV1IkveknQSVo4Au65lWt6zsD6W9DZug~~",
+            "title": "Snowflake Q1 results",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/b2S5MnSHNIW8Yl0gixjYhg~~/AAQRxRA~/zhElb_o9uss6SbQ6bY53h75u3u0SMfqHdFsEfB0_sXPq6lEvYnyKn1nthIUGJPAJe-0EnuCRgXqQFzejIBY3_-ebvckBd6z9LBhQ_7NJ5cRoUbW_HmGEOx_GNoxnmQfZNx-00E2E_m8xWbck1KjOBkRwqrtmir-UUkNtVPaG3x5xvDnXA4Hvgb50AJD2jHAil8dqnqbyMKNyBZyAubzcNUsWeOznPTk184R7RjrcDTeni-0MnGR05LXfskZ0Y2kyr4x6lrDrGI2AZC5187cofyQmRdr3eOUuQLA0536VGHgNgIbWJaYLcpADEG6iNRd1sV1gRTbR9qPSx7_2L_sF_eeEQNx3RNMgV5tQxbudrT1KoP6wC_XChkpma4pOH38mSvqtMCvB5YeFmz-vuUrcA4XEM60czIApscqLnp9dQWwos11T-d8mEtrKErJwdWlDKAbmUt-vV0SYR5X95QI-NzO587NAWKJTfiRp5oxoxDk~",
+            "title": "standout first quarter",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aVrlsEDxzcomYUidEg26Dw~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWybXGmEeGldh_k4ueM7A_uO9lkB-HsVwQ-pk3D-C7w0Ee7b3FbY-aYGtpkg7KXQwv9cCoiTur_pxifb_FDSsUtYaXLsGI4BIBVEd8n296_XK5cwiTVyne1x7jL3YUg-xlwNJ7JVauyHImgJZ1Jh1e5HoBa0IWsjvHzq3lioMJLSOKrL0I-Yb6UADZeZQn6WoBq0Zvj_vX5ofNfVDRgYT_-GkDZSPCW7xG7wHUw5nUmQrkIV3ylRjkUZRvVxzMUatkToUGiPazyH7uwRovN3-h6EZ6BErOso684ltzO2xmgIrfogVEwh2ORiqP4OeCxOgDG4fzNPrr7a8umW-78O-4jtGwiGp1JCxZpA-HHmM4GykifkyPNgq5JfUXEsDwiSZfsq",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/1ZRTfKq481F-FmygYnDbVg~~/AAQRxRA~/AzLFXviXmRFk6YGL7eMfQf81ulQPpDKW__5GshZyaaE3lmFQZdjnHJO6Qz7zcLDdBhQjI1YrXlhq5rab5uAC6_Q3sDHXNHclfa3d46lS3pjvonNI4OmCXeL4YrjqDUsiQZkPXgAhb1cNXMbASYyhE7JBaqt0GsLAdXoHjYldBo1kdIHLjVnCktrtBdt3p1fvvHo_I1KWRdHA9Fyz9jwg2h-tkp87IHmJENCPDjbTi6OSzFwkhuWLRxUQLoJTeTN554d08aVeLliPrAqw7QZ3UXiZOoo1g5zet1muPupbeuTQhbuoyOwrVKNBBeR7I1BrcGPPRVPufXODx6QObg-AfjGi6L0FyH7moDeS3S4oHXloTC7hevp-hEny4r9CQRsZsXUra_KIt2IaZw6FHGumkgO3QPa6Kq_gRqz8zWB1Z0izezDAh4cf6dpGdXHt-pIEzofJV1_lKAByPiUETiVv8pqIVdZj2dlt65lIUslFWy4~",
+            "title": "Get the full story of Okta's pleasing Q1",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/rlUVcXbykMiiNdIrUc2I1g~~/AAQRxRA~/Ej6yS-kiE-IdDVpUf4IgictBiXLPJUPVdrbmMEoFcPw7U8U5mhaYg6tpgpwuZ-rLw3Aect30hZe6gXffyAqGllA18-X3_Omwz1ocjkd2T7iw9Ll0u6_jl9mskaO3-yFwnsaTFmk3QE9qmtDMdORWCKZq-e6wQ3nf93REbHfiCvqthCKGPUBy3V332fug3eyMbCq6NlmAk394zrYrZMOfpoUtNa-iWZNIEiGD_qxUGgI9ZmPxM-lNEe_yqt4cTH213twUeXzbDBNiC0Eu6n5qRdwlaj1Cd1nOTWsnWvSQyQFgij01UJYzm8lUkg4ocszQ2SP98LUpwNvVzFN77ymo1TW7lCwYg8JvhZBwkZBJmapcW9BTBPJRJGQfDpVy1V1h1rEzCTq9xd6lZ2qU-f1w6UO2rQWXq1dLEY1ZvcjcABl4JgKCsixJ3ihd4EmJlHFx",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5jEhjRHykgQNjMsY5_gUsg~~/AAQRxRA~/lD0G4u0FQi6_lpER282zwj3-enFHyOucICY2NPrFI9JDc8gpgT13VnVQu7rmAUJxL3NHFIAFsGnq7V543L817PX2DPekl36SvvNSGH8D6gwESmylTXmxKq4Rg2kOl3pTXsqwz91Ja5QfXHSquMBj2f-3jsOUe9B9-F6s_ZVI2AHzlgo9oFpn6ASzwMpYX2rqqixyaLBLmSw_QZuXcsUPV6dkN4WmwdWA4X6c8KwjAvCta0WkaQmz-ZlKsYdgfTfujhr60IJd_cFWBTlAG521rcnYlde1VFSRQ2OxQqE1C-6UNjG3-bP7Izjsn2z59M8HnXykoYcpwvQNN4Y82oJUtRGrdbv2Dv-m_BA7M1_vrUUHl09FmMfLmEepJnL5zZMMvSYeHDVLnekycc2NdfrhtvSoyKXn-ljTY9H1olKaM8a6YFNB0_iKrq8B6X-J_-0eH7Icokcxl3lfTjRyOE_FVkFIaRvJ_SUxLfd2c3ER6CY~",
+            "title": "Q1 revenue climb 21%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/hFDsP9XoU5Q2ptyrFbKMZw~~/AAQRxRA~/M8h41SBkCevh8-JgU-Gu0LNQXzGceZPHwkJ1fc-jleMdcUPzr_2sK-1TTvONYWyb-JpcT5CEYnSyK08ybuAzwXDvYW9oOSXHjAgHw-hOhCYh-qdWwPzAxV5XS02Xx30UM8G21bQZy-C69UvdRtDrV-9CzdXatd8X7RPfh5riIW-M4EP6oWL48Pt_8ezOR5WMttghEQkijA6SID2-0ZuzVdg4iKmclU00DWoZaCdgfpuwmm7qhJ2scv0SuecXl2kA5Yh1H9yspvsRykT6z33v7ThJ8jRPCWLnAm9WNcCb1WSDqj5wQWHBLjxWg2EuJ4_XFLfLtd2un8EIQtlLosMzKaHIRzES5LNdq0fEt04Mkj0glLKVhB8CqcRyUVk6uxX2J94NVK0iTMzoEltX3K6d6Q-zjPvFDF3DLUS3oODFCLYc8iJgg6xd6Fg1rdbwQqy3",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Treat import/export and margin-sensitive names with extra caution."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "NVDA",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "* A SpaceX take from Team Rule Breakers: Fool analyst Tim Beyers notes “I’ve said before that for the story to work out for common shareholders, SpaceX will need to effectively create space-based data centers that are either as advanced or more advanced than anything else coming from industry leaders such as Nvidia (NASDAQ:NVDA ).",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "COST",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "* Costco (NASDAQ:COST ) stock remained largely unmoved overnight, even though fiscal Q3 saw steady growth with revenue up 11.6% year over year. Watch a recent Scoreboard video on COST ----------------------------------------------------",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "OKTA",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "* Okta (NASDAQ:OKTA ) gained more than 7% in early trading, as subscription growth helped it to a solid first quarter.",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MDB",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results . MDB’s cloud demand led to a standout first quarter , with cash flow nearly doubling.",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ADSK",
+      "score": 57,
+      "stance": "Research Watch",
+      "evidence": "* Autodesk (NASDAQ:ADSK ) opened fiscal 2027 yesterday by beating first-quarter revenue, profit, and cash flow expectations – with revenue up 18% year over year (YoY).",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "AMZN",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* Jason Moser I keep Amazon (NASDAQ:AMZN ) on my list of positions I’d like to add to.",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "DELL",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "Here’s Why Gap and Dell are Swinging This Morning ---------------------------------------------------- Dell (NYSE:DELL ) soared nearly 40% in overnight trading, after guidance smashed through analysts’ estimates.",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "GAP",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* Gap (NYSE:GAP ) plunged over 15% early this morning, after the clothing retailer saw Q1 revenue increase by just 1.2% YoY.",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SNOW",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "* MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results .",
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "MDB",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results . MDB’s cloud demand led to a standout first quarter , with cash flow nearly doubling."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ADSK",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Autodesk (NASDAQ:ADSK ) opened fiscal 2027 yesterday by beating first-quarter revenue, profit, and cash flow expectations – with revenue up 18% year over year (YoY)."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "COST",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Costco (NASDAQ:COST ) stock remained largely unmoved overnight, even though fiscal Q3 saw steady growth with revenue up 11.6% year over year. Watch a recent Scoreboard video on COST ----------------------------------------------------"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "OKTA",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Okta (NASDAQ:OKTA ) gained more than 7% in early trading, as subscription growth helped it to a solid first quarter."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AMZN",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Jason Moser I keep Amazon (NASDAQ:AMZN ) on my list of positions I’d like to add to."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "DELL",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Here’s Why Gap and Dell are Swinging This Morning ---------------------------------------------------- Dell (NYSE:DELL ) soared nearly 40% in overnight trading, after guidance smashed through analysts’ estimates."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GAP",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Gap (NYSE:GAP ) plunged over 15% early this morning, after the clothing retailer saw Q1 revenue increase by just 1.2% YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* A SpaceX take from Team Rule Breakers: Fool analyst Tim Beyers notes “I’ve said before that for the story to work out for common shareholders, SpaceX will need to effectively create space-based data centers that are either as advanced or more advanced than anything else coming from industry leaders such as Nvidia (NASDAQ:NVDA )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SNOW",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* MongoDB (NASDAQ:MDB ) popped 10.6% by yesterday’s close, widely seen as a result of Snowflake’s (NYSE:SNOW ) Q1 results ."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Earnings Season Begins To Wrap Up"
+      ]
+    }
+  ],
+  "events": []
+}

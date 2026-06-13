@@ -1,0 +1,964 @@
+{
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T12:00:04.380Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Breakfast News: GOOG’s $80 Billion AI  Power Play",
+      "file": "2026-06-02-market-brieffoolbreakfast-news-breakfast-news-googs-80-billion-ai-power-play-19e881b85152761e.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Tue, 02 Jun 2026 11:32:44 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/cXh9sT1oZADL17vB5pJSsg~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7HdUUBS7klpVbW7jsd1eojlZqf3nRNQBaa8_vQSyHawuxI2E6R9xXSEVvaRTwXqorG-nhsDNsKRO68zrxdIkpI-dKvfaDfTkmQFzIpisX3DAvh95mF7E2Wobrjy7wujw558f_eXOpsAr1Iq0XG0SoYRqzF4s50_o9Xki_xUcoVOpQcnuipAp5LfwF7P1V8D9grwK7CxQqj1MyBdTGHLaJ3zwBFNW7rBByhVcK28nKLhoEBfF9KaawwHIcFpzeFrBw8KSFiW3NPPALen5UrThmmIEKm1h6nUCm-0p6HCO0XDq5mIUMINmx3hafJk2l2-jUz7-RKtySlr8yzoA1V6Logp0OeX4BNRq-Vs7crUlzIWjjKRvH0CtJr3HQOefvmyrS",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/kW6U8qgWvF8s8INaHZlK9Q~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFdu4yPaVe9MiamQvmy66rU43meopvOkbfYBOAZQ6-ZGM35S1N_0OpAOxngCATB9DQtUfU0723Ox8YT8ed25wtMIslE43wJrPSMZiYmGTeg2t5JMFlvdYjvFuvAGbSx5Hk2MBwBigGBGT5MtdVzd9GO3jFpJoPbPwRnZD5kSVD3FvTAjWxLxomaPhIBY_q3yYGucsHs2qS6w7fZyCWAruXejqkg4gE5jcrDKhGQPz2rUBKdovwqoZJLbfFEine8Q1LMj5fke2nDOJMiKmVqJV7hpVeMwt-IMZBhbX1hq5-6W0ns0WtdRljV0AMoiSc0uDav7EYhdnRdTHKMn0xklzjo187rkJ5LlAiPPggMxJDL923i9K5AFww5LN8iUUFdoAv",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/njXgcv7GT1HqE7fFab3z3w~~/AAQRxRA~/KmCiB22sk7gGmqTbVPFHvt-C4XBqQ9Uj7NuF8b5V4oypmTuyDH3Ozx64G_cYFYyw2qXdEV6xRh453Y7LvBOyDQ5sGAfhfIposPjWBHRRdOL6zFSTqEydpGSbWH3qPxmvJhgl7uOgccrPkahq-A0gBOODuRPwsEeFebx62iqEfDIOHTPvQWuuWOvhK5VShdVRrsDAzqcIMRBaLR3h_puF1abqZQ-aIH_JkE0geuybMeew7ORpMSRpe6nxzh6aSYRaDAjr7xf49kzqOkTB5HCnfjbx7zjssEnPRkhqZBFxxvQInwiYDba23tmyD17ChtIIkRilLCvd1fdSKazeD4DSPoEaLmHAemFML5Rz3Q3WAaQZwjp59UOYRpt4pC-0jJd2bt03UnD16tlOjhyZXAwPSK5lMOFPCwQ0WE1EHgNCRBc_WUYtsQf6TLNhLaj2UIg2",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/DziVMgS4QAjBCdo8P02b9A~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFwOU7qN6d2HSIa638LmhxdaJql7nsRrvXuXcIQF3ztWcYM9FMq8nVs7OgVaja2KtdJQlib_vuetzqd1ktNzeGPAvn8OexTYDJc6OpJxa2LGEfrjksQK8MK2ZrGljOKIcSpQnWoPT9HQ4DAeNmuwMvXO3OLqg6Pdzml3PSZltEcmNBE_Ny4hNhaUP3UbyNZDODmlPXuv47VxJYvC9oqQ0toRpMKqrrdErLo6jsSBl2oNaI8qYzv4jaIOrrNV5PVwfDOb0hWPgSaw4tl6loPE-LQEnkF4wIE51WaxBgZ5jMJMwUGdp6k4mJ160zdx0sqFXf3xJwylKSRPcPlcLj2xRvEBOISe9_bouPctXlA5XxwOQGMrfbdNFVcluxwjPFu-kC",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/qXiuDDBhPY-WNRIBPtBa7w~~/AAQRxRA~/mr4Y9NDvUNKiVCSwv7S2NG4n9a22P2pJfpWhntr3nF0M6Wzyu_ER13S71tmzT1zGzYHVUZeMOITGtNvd2WdM8s3Ir_ezORyFSQd73fnR_8Hc5TnzEFBekpWHoubV_p3HM9uj-Gv7dGyChs7aWJN0rmG63fB45rT2tqL1OedjVw12ts2TIlr3bpaoTR_g69fmr2QRKw17S5u3SNL1YsX1eHv_U8Q2al-fIDxy3iyquWk2Akdk4BMhv--GNE6lVlaaXPxpV_oFzvHE8xSvpc10upee5iezoxCr3wO30zEuflwNX_w34ID0tbr83oP0oZhatb2RCz_W6gUtG07MOGntHwXaG86guJjZ41Z37_LEFEHICC40X2wesKEoI10PXChdJEU4uX7sh9KzjtuZC5dJb2-Ztr8BsLiBlsaPXweD0navI3SN3nLnJuvWTOIn8_qu",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/AjMpFtgE5vM_kz4MWud0QA~~/AAQRxRA~/fyBCDabTrYr3Zau8gsMv08ETNRwdIzDxonJZiB5Kv7O5G3scZyp5wuhy3jbnL62oTii_ojAU-n2XlhwHczMSeddKD3iY4dbzBhO02kdRjH3e28kxvFQz_7SWNftrjYPDGXpyM9oeKo9QzNNyuN_zqBZyrVw1FzWqCFMJTcUNJRlf9_Pj0TwgdJO37YiVgop8FjZ8jacVX-mLqpTgPmulcxLT0Q0nojoRLaXjGgNUqKogkL04l44-LIbmHM4VMx8AyIeLRLIbvOQYzpeniQTYzcLvOw3LkT6uEUz2fB56BIiOCcbaRrkJEhxcfTP8CVwQp4hAZS7dKpyFFmggXVIGZ219wsNC-eJG79WEiU8Mmsk-TtY4GiMjiVB4OYXmC_VMjsGCHxFgZydwVNqY6ylJtmnxJdtDCC4JA8O18Nmf2JsrO5UyJCXpqPyb9MTo2L24M_rIANJR9OIkAromjK6E_cC9zciFG23i0OmDhLgGe3E~",
+          "title": "Review Berkshire’s latest housing purchase",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Os00VJDqDcMqvFEFfVGKvQ~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7xfavR4vEY04enEusKWi8t3WQ7PWnrpSK57_4irMasG2s-7HmPxh01otOxpOw3HuB1kG4EyoxIRj0WU-10cjzu6HNJUG_-Di6B8sDo1L6wteoUX2BPvvJiCdO6U539_dmrztkwTJruti07dQ8mbm-xjVV-z95TXgIIDJjuWy56kzXSDlyowU2nCBF_XdpF6fFeTiOh3C__vHpeN5zZ3RWiNMlWdjpF3rVGhEk-MHsuOcKjktbvTH-Ws_a1WMPouj5G86Emi0oaArlU7XKuZ_kNzLKGpWqGeqsUS_M_PBL15fmqIbh0GMG6OiHLy2vupsl0SRO_rT5aMTHuI_MD0Vejy30Iu1SJDz2f0E8cMSrPcGSIAyGGnh2_DGMSZ84slUX",
+          "title": "yesterday’s Breakfast News",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/8nwSAosvKcknTL59JndMmw~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFlWC7zEIFVHU3c2Ehr66F1SOH9JB4e34nR5TF3SkE6p7LqeKD4gLJHhJDog8PWV42YAMpIPZeEQ2HfOL7KO8ks-JZ5opW0brnezfPn2_WLIlso1y9oC2JMRxTH8zl2wih2BWNJWc_oQ_6s-bWe99mt--Kz_ORa-dcqjykx-tiiuVLZfXad_qPc0Snp1eMLs24lr7LoLYWRgaWen0bO4mKOSkmGSFKZUsBWoMzfm01aopTLk_kiDF1tk218ZfQEKlLPaEsmEGeSox_na3kjU0G313jCiuXbjwIuQrYL8S1ywmFAdcr-v07jd9xVCLHwkUoC90YWwiEE1d_bHSEPKMvqs-yd1iCHGOhwHNjB5p7YzlVb-ww2poCf7dufM-XaYJL",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/j-z2GjsSfZzN5Ts_8ZyfFQ~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFgDWyvj0TryKFXKxoAqj07W10jsUUqFgQY1TUmTgszVA39FGZcwzDKGZD9faLyctLQWp2xioV9UWYjb6ettEoqQu138zZuTtDGHYcJxLpucbnKcA_1uhBZgTyELRb-g57diInyg8YRIbR0fjqrRkMI19PZfKH8Zo9NnfTQ735ikMH14lvbphkgc8CWLQpA_aG0G6khCbF9jlE2cpgZVLmTcTQhDvpWfaVu6OV1ErhbznOZIuXToCbK_J5LUUrJaJcV7B3ZzlM-PLrCwBAYJyi90b_YWOhXxuuKt4TTKDfF_n-GQ5KhUJYwd_QgghLiuOgq-jh3W19Erk0Ay8jijBB2nQnElwzyBtMLo-abBHoJhSlxlmRSKbRPw4grwUUoJcP",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/nntyVWxAENcCAvGU3ZGnvg~~/AAQRxRA~/mr4Y9NDvUNKiVCSwv7S2NG4n9a22P2pJfpWhntr3nF0M6Wzyu_ER13S71tmzT1zGJJNxpJLLLrZqFWfMIk7uj_8Z2KUcZvux57voFFqW-VwQfcQwKdNCJQyfI3Kj8sYtOFDuARyc0G30VVlU3XyYyRLI3DeOJJsdKasCfCpjqmIJFMiMEzGfUIB39suLWEtz7LVwzLuDZHroIn540_LDspt7Acyed8CbSRULe6vcKEQAn6_QEZzYC_Q2XLqhR33PfsSygtLcDCcAY6ss6fgJtCCRdM9CEyhjEOCuKcSEByu5Cozsg851467qB0WCuS44wugQqDpQh4iTxYGlLngQS9hFGxxVqYcmPDj0Mda_CN7THUg0RELkgc8_GQ3vYcJKE3teDcCqz7XbJC1nS-6nNRQiIpnGbyLRjQ5zZzTy-Kq1g2OPG4XKtN-jrPC-JcDf",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/FAVKHiDscz_kuUPCinOSrQ~~/AAQRxRA~/cIzx2Dbyeh-93dFdp-XNfJlaZ0Q2P50JqmYTUOBVLnur3-lw19bjDsb9pXwjtDcnlUoa4Js5VSQkx90DCs-Zp0phiy8ca0lSU9_KgM1fRo5fV6DPJSOcNag3TlKF0EQKHFw5qnALD2qx4KA0K3mOGOHogtkr280tofszS-27_MfjLGRMiht52XIC_BTjfbDiRef9tMIfbDD9m8jwAZqA-5MNuXm7Keh2Ltz8KLCvodRdSdJI2ZVllHI5wDkpHNDudP1EKuMw1O1acAZ2kJ9CQ--5FvT0NSUraunlOfWTHP-NPK45Cjdow4yagAn2lfnqaTJkjelhG8dVISQp_ul6LegYKrJwNiOoWWTKFYeQif4HJLtJC3rfnFVriYnXL9l-mmlUd5pg2x4Fin7Yta-gLaXYBTfKsmQ_-e-g35Pg_r4vEV9SwWoBSiKxrF8IKmoMsOTcQ17aX0jlA-cES-sYmQ~~",
+          "title": "quarterly results beating expectations",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/49-kE9oUpstm2BdyLXwycg~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFTafhDNNKwLqOhV-qzgI7YLdSmEaeyEj9y8yXfYsYEbIAO-S8bUnRryGSH0mtwGLql_IgVE94v1uQfbB7cG-WM-OmL6UpHykuDH0nQIkWznirrfQkwqGAqEE4f0H8kwGpAT66kvJCEt5rMHKLWyUyBTmpE_4xNS40UZfjU7f37BTHaiApqHCoeefGU9mJTldobZxKBmNjayydOq-BrYmtRfpS2g-kebL263rL5jExrZsd_WwxpUVmZ3M96DlaCN95NlG6y13liEq-_ZPQGppXhUjHjY8iuQZw61uhJbjJRmdNM5z-TGYd3ONXP1ycDi20sU4UZV3AyWzci17cJDZfqnkOTPV06O71733KkCuqbtXZQsRlVORrLIAyrCofWtSw",
+          "title": "Motley Fool link",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1081,
+      "summaryHints": [
+        "Alphabet set to raise capital with Berkshire involved, space stocks fall after record rally, and more… Breakfast NewsClick here to read online .",
+        "JUNE 2, 2026Monday's MarketsS&P 500 7,600 (+0.26%)Nasdaq 27,087 (+0.42%)Dow 51,079 (+0.09%)Bitcoin 71,523 (-2.83%)Image shows chart of Alphabet and Berkshire Hathaway cash positions over the past year ****************************************",
+        "Alphabet Launches Historic Stock Sale ****************************************",
+        "* Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%.",
+        "* “Be it power, land, supply chain constraints, how do you ramp up to meet this extraordinary demand for this moment?”: CEO Sundar Pichai recently commented compute capacity was what keeps Alphabet execs up at night, with scaling up investments seen as a key way to support the growth opportunity ahead."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Alphabet Launches Historic Stock Sale ***************************************** Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%. * “Be it power, land, supply chain constraints, how do you ramp up to meet this extraordinary demand for this moment?”: CEO Sundar Pichai recently commented compute capacity was what keeps Alphabet execs up at night, with scaling up investments seen as a key way to support the growth opportunity ahead. * Berkshire’s current Alphabet holding worth around $20 billion: The team at Berkshire have been building a stake in the company since Q3 last year. The additional $10 billion is likely to take it to the third largest portfolio holding, behind Apple (NASDAQ:AAPL ) and American Express (NYSE:AXP ). Review Berkshire’s latest housing purchase ----------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/AjMpFtgE5vM_kz4MWud0QA~~/AAQRxRA~/fyBCDabTrYr3Zau8gsMv08ETNRwdIzDxonJZiB5Kv7O5G3scZyp5wuhy3jbnL62oTii_ojAU-n2XlhwHczMSeddKD3iY4dbzBhO02kdRjH3e28kxvFQz_7SWNftrjYPDGXpyM9oeKo9QzNNyuN_zqBZyrVw1FzWqCFMJTcUNJRlf9_Pj0TwgdJO37YiVgop8FjZ8jacVX-mLqpTgPmulcxLT0Q0nojoRLaXjGgNUqKogkL04l44-LIbmHM4VMx8AyIeLRLIbvOQYzpeniQTYzcLvOw3LkT6uEUz2fB56BIiOCcbaRrkJEhxcfTP8CVwQp4hAZS7dKpyFFmggXVIGZ219wsNC-eJG79WEiU8Mmsk-TtY4GiMjiVB4OYXmC_VMjsGCHxFgZydwVNqY6ylJtmnxJdtDCC4JA8O18Nmf2JsrO5UyJCXpqPyb9MTo2L24M_rIANJR9OIkAromjK6E_cC9zciFG23i0OmDhLgGe3E~",
+              "title": "Review Berkshire’s latest housing purchase",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "AAPL",
+            "AXP",
+            "BRKB",
+            "GOOG"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. Ulta has previously been recommended by Team Hidden Gems, while both are recommended by Team Rule Breakers. * Another Team RB recommendation: Hewlett Packard Enterprise (NYSE:HPE ) rocketed over 25% in pre-market trading thanks to quarterly results beating expectations due to Cloud and AI revenue increasing, with management now expecting 29%-33% revenue growth for the full year. * Revenue jumps 157% but slowing growth forecast: Credo Technology (NASDAQ:CRDO ) initially fell over 12% in early trade, before recovering most of those losses, despite posting record revenue and profitability as investors noted a slowing pace of growth for the coming quarter and a concern over gross profit margin compression. Get Sanmeet Deo’s ULTA Q4 results take ------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/Os00VJDqDcMqvFEFfVGKvQ~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7xfavR4vEY04enEusKWi8t3WQ7PWnrpSK57_4irMasG2s-7HmPxh01otOxpOw3HuB1kG4EyoxIRj0WU-10cjzu6HNJUG_-Di6B8sDo1L6wteoUX2BPvvJiCdO6U539_dmrztkwTJruti07dQ8mbm-xjVV-z95TXgIIDJjuWy56kzXSDlyowU2nCBF_XdpF6fFeTiOh3C__vHpeN5zZ3RWiNMlWdjpF3rVGhEk-MHsuOcKjktbvTH-Ws_a1WMPouj5G86Emi0oaArlU7XKuZ_kNzLKGpWqGeqsUS_M_PBL15fmqIbh0GMG6OiHLy2vupsl0SRO_rT5aMTHuI_MD0Vejy30Iu1SJDz2f0E8cMSrPcGSIAyGGnh2_DGMSZ84slUX",
+              "title": "yesterday’s Breakfast News",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/FAVKHiDscz_kuUPCinOSrQ~~/AAQRxRA~/cIzx2Dbyeh-93dFdp-XNfJlaZ0Q2P50JqmYTUOBVLnur3-lw19bjDsb9pXwjtDcnlUoa4Js5VSQkx90DCs-Zp0phiy8ca0lSU9_KgM1fRo5fV6DPJSOcNag3TlKF0EQKHFw5qnALD2qx4KA0K3mOGOHogtkr280tofszS-27_MfjLGRMiht52XIC_BTjfbDiRef9tMIfbDD9m8jwAZqA-5MNuXm7Keh2Ltz8KLCvodRdSdJI2ZVllHI5wDkpHNDudP1EKuMw1O1acAZ2kJ9CQ--5FvT0NSUraunlOfWTHP-NPK45Cjdow4yagAn2lfnqaTJkjelhG8dVISQp_ul6LegYKrJwNiOoWWTKFYeQif4HJLtJC3rfnFVriYnXL9l-mmlUd5pg2x4Fin7Yta-gLaXYBTfKsmQ_-e-g35Pg_r4vEV9SwWoBSiKxrF8IKmoMsOTcQ17aX0jlA-cES-sYmQ~~",
+              "title": "quarterly results beating expectations",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "CRDO",
+            "HPE",
+            "PANW",
+            "ULTA"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO. * Higher volatility prompts caution: General excitement has been a factor in driving related stocks higher, with Redwire up over 130% in the past month. The short-term move suggests some investors are now looking to reduce exposure ahead of the SpaceX IPO, given the potential for further volatility. * “Rocket Lab needs to be viewed as a long-term growth story”: Fool contributing analyst Lou Whiteman said last month that although the latest company results don't justify such a high valuation, “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” The stock is beating the S&P 500 by 204% since the Stock Advisor recommendation by Team HG in July 2025. Read Lou’s full comments on Rocket Lab ********************************",
+          "links": [],
+          "tickers": [
+            "RDW",
+            "RKLB"
+          ],
+          "themes": [
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Today’s Take: Best of the Meh ******************************** Neha Chamaria Nucor (NYSE:NUE ) is arguably the textbook example of a world-class business in an otherwise mediocre industry. — NEHA CHAMARIA • TEAM HIDDEN GEMS Yasser El-Shimy Three years ago, Carvana’s (NYSE:CVNA ) stock sat below $4, and bankruptcy was a real possibility. Today, it’s an S&P 500 constituent generating $20.3 billion in revenue at an 11% adjusted EBITDA margin — roughly 2.5 times the industry average. — YASSER EL-SHIMY • TEAM RULE BREAKERS Here’s a sneak preview, but head to the article to add the company you think is the best-run business in an otherwise mediocre industry, or to submit questions to any of the featured analysts today! See more in Today’s Take **************",
+          "links": [],
+          "tickers": [
+            "CVNA",
+            "NUE"
+          ],
+          "themes": [
+            "Financials"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Your Take ************** YESTERDAY'S TOP RESPONSE We asked, what's the biggest risk or opportunity you see in the market as we begin this month? K Member KoolnGang said “The accelerating demand for AI, cloud, and digital transformation is creating a significant opening to position network infrastructure and connectivity as a strategic enabler – rather than a commodity. Look into who's building.” See more great answers from our Foolish community TODAY’S QUESTION Next week’s SpaceX IPO is the investment topic du jour, and we continue to bring you takes from Fools on both Team Hidden Gems and Team Rule Breakers. Lou Whiteman on Team HG yesterday noted , “I still expect a successful IPO … SpaceX's path to the public markets is as complicated as its plan to reach Mars. It's not set up to provide the clarity market watchers love to see. Don't take that uncertainty as a sign the IPO is in trouble.” Meanwhile, Team RB’s Jim Mueller recently said , “IPOs are designed to get people excited and eager to buy. But the harsh reality is that the vast majority of them end up losing money for investors over the following three to five years. I’d rather remember that and go with the odds. Especially for a company that burns cash and has some really crazy assumptions built into its valuation.” On a scale of 1-10, how excited are you about the upcoming SpaceX IPO? (1 = not interested at all, 10 = can't wait to buy). Share your score and tell us what's driving it – what excites you or what concerns you about SpaceX as an investment? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy"
+          ]
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The additional $10 billion is likely to take it to the third largest portfolio holding, behind Apple (NASDAQ:AAPL ) and American Express (NYSE:AXP )."
+          ]
+        },
+        {
+          "symbol": "AXP",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The additional $10 billion is likely to take it to the third largest portfolio holding, behind Apple (NASDAQ:AAPL ) and American Express (NYSE:AXP )."
+          ]
+        },
+        {
+          "symbol": "BRKB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%."
+          ]
+        },
+        {
+          "symbol": "CRDO",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. * Revenue jumps 157% but slowing growth forecast: Credo Technology (NASDAQ:CRDO ) initially fell over 12% in early trade, before recovering most of those losses, despite posting record revenue and profitability as investors noted a slowing pace of growth for the coming quarter and a concern over gross profit margin compression."
+          ]
+        },
+        {
+          "symbol": "CVNA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "— NEHA CHAMARIA • TEAM HIDDEN GEMS Yasser El-Shimy Three years ago, Carvana’s (NYSE:CVNA ) stock sat below $4, and bankruptcy was a real possibility."
+          ]
+        },
+        {
+          "symbol": "GOOG",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%."
+          ]
+        },
+        {
+          "symbol": "HPE",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. * Another Team RB recommendation: Hewlett Packard Enterprise (NYSE:HPE ) rocketed over 25% in pre-market trading thanks to quarterly results beating expectations due to Cloud and AI revenue increasing, with management now expecting 29%-33% revenue growth for the full year."
+          ]
+        },
+        {
+          "symbol": "NUE",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Neha Chamaria Nucor (NYSE:NUE ) is arguably the textbook example of a world-class business in an otherwise mediocre industry."
+          ]
+        },
+        {
+          "symbol": "PANW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today."
+          ]
+        },
+        {
+          "symbol": "RDW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO."
+          ]
+        },
+        {
+          "symbol": "RKLB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO."
+          ]
+        },
+        {
+          "symbol": "ULTA",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. Get Sanmeet Deo’s ULTA Q4 results take ------------------------------------------"
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Financials",
+        "Earnings"
+      ],
+      "events": []
+    }
+  ],
+  "readingList": [
+    {
+      "title": "yesterday’s Breakfast News",
+      "note": "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) an…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/Os00VJDqDcMqvFEFfVGKvQ~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7xfavR4vEY04enEusKWi8t3WQ7PWnrpSK57_4irMasG2s-7HmPxh01otOxpOw3HuB1kG4EyoxIRj0WU-10cjzu6HNJUG_-Di6B8sDo1L6wteoUX2BPvvJiCdO6U539_dmrztkwTJruti07dQ8mbm-xjVV-z95TXgIIDJjuWy56kzXSDlyowU2nCBF_XdpF6fFeTiOh3C__vHpeN5zZ3RWiNMlWdjpF3rVGhEk-MHsuOcKjktbvTH-Ws_a1WMPouj5G86Emi0oaArlU7XKuZ_kNzLKGpWqGeqsUS_M_PBL15fmqIbh0GMG6OiHLy2vupsl0SRO_rT5aMTHuI_MD0Vejy30Iu1SJDz2f0E8cMSrPcGSIAyGGnh2_DGMSZ84slUX",
+          "title": "yesterday’s Breakfast News",
+          "label": "yesterday’s Breakfast News"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/FAVKHiDscz_kuUPCinOSrQ~~/AAQRxRA~/cIzx2Dbyeh-93dFdp-XNfJlaZ0Q2P50JqmYTUOBVLnur3-lw19bjDsb9pXwjtDcnlUoa4Js5VSQkx90DCs-Zp0phiy8ca0lSU9_KgM1fRo5fV6DPJSOcNag3TlKF0EQKHFw5qnALD2qx4KA0K3mOGOHogtkr280tofszS-27_MfjLGRMiht52XIC_BTjfbDiRef9tMIfbDD9m8jwAZqA-5MNuXm7Keh2Ltz8KLCvodRdSdJI2ZVllHI5wDkpHNDudP1EKuMw1O1acAZ2kJ9CQ--5FvT0NSUraunlOfWTHP-NPK45Cjdow4yagAn2lfnqaTJkjelhG8dVISQp_ul6LegYKrJwNiOoWWTKFYeQif4HJLtJC3rfnFVriYnXL9l-mmlUd5pg2x4Fin7Yta-gLaXYBTfKsmQ_-e-g35Pg_r4vEV9SwWoBSiKxrF8IKmoMsOTcQ17aX0jlA-cES-sYmQ~~",
+          "title": "quarterly results beating expectations",
+          "label": "quarterly results beating expectations"
+        }
+      ],
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "CRDO",
+        "HPE",
+        "PANW",
+        "ULTA"
+      ],
+      "score": 21
+    },
+    {
+      "title": "Review Berkshire’s latest housing purchase",
+      "note": "Alphabet Launches Historic Stock Sale ***************************************** Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum so…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/AjMpFtgE5vM_kz4MWud0QA~~/AAQRxRA~/fyBCDabTrYr3Zau8gsMv08ETNRwdIzDxonJZiB5Kv7O5G3scZyp5wuhy3jbnL62oTii_ojAU-n2XlhwHczMSeddKD3iY4dbzBhO02kdRjH3e28kxvFQz_7SWNftrjYPDGXpyM9oeKo9QzNNyuN_zqBZyrVw1FzWqCFMJTcUNJRlf9_Pj0TwgdJO37YiVgop8FjZ8jacVX-mLqpTgPmulcxLT0Q0nojoRLaXjGgNUqKogkL04l44-LIbmHM4VMx8AyIeLRLIbvOQYzpeniQTYzcLvOw3LkT6uEUz2fB56BIiOCcbaRrkJEhxcfTP8CVwQp4hAZS7dKpyFFmggXVIGZ219wsNC-eJG79WEiU8Mmsk-TtY4GiMjiVB4OYXmC_VMjsGCHxFgZydwVNqY6ylJtmnxJdtDCC4JA8O18Nmf2JsrO5UyJCXpqPyb9MTo2L24M_rIANJR9OIkAromjK6E_cC9zciFG23i0OmDhLgGe3E~",
+          "title": "Review Berkshire’s latest housing purchase",
+          "label": "Review Berkshire’s latest housing purchase"
+        }
+      ],
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "BRKB",
+        "GOOG"
+      ],
+      "score": 19
+    }
+  ],
+  "macro": {
+    "tone": "Risk-Off",
+    "score": 5,
+    "items": [
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Breakfast News: GOOG’s $80 Billion AI  Power Play",
+        "note": "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. Ulta has previously been recommended by Team Hidden Gems, while both are recommended by Team Rule Breakers. * Another Team RB recommendation: Hewlett Packard Enterprise (NYSE:HPE ) rocketed over 25% in pre-market trading thanks to quarterly results beating expectations due to Cloud and AI revenue increasing, with management now expecting 29%-33% revenue growth for the full year. * Revenue jumps 157% but slowing growth forecast: Credo Technology (NASDAQ:CRDO ) initially fell over 12% in early trade, before recovering most of those losses, despite posting record revenue and profitability as investors noted a slowing pace of growth for the coming quarter and a concern over gross profit margin compression. Get Sanmeet Deo’s ULTA Q4 results take ------------------------------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/Os00VJDqDcMqvFEFfVGKvQ~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7xfavR4vEY04enEusKWi8t3WQ7PWnrpSK57_4irMasG2s-7HmPxh01otOxpOw3HuB1kG4EyoxIRj0WU-10cjzu6HNJUG_-Di6B8sDo1L6wteoUX2BPvvJiCdO6U539_dmrztkwTJruti07dQ8mbm-xjVV-z95TXgIIDJjuWy56kzXSDlyowU2nCBF_XdpF6fFeTiOh3C__vHpeN5zZ3RWiNMlWdjpF3rVGhEk-MHsuOcKjktbvTH-Ws_a1WMPouj5G86Emi0oaArlU7XKuZ_kNzLKGpWqGeqsUS_M_PBL15fmqIbh0GMG6OiHLy2vupsl0SRO_rT5aMTHuI_MD0Vejy30Iu1SJDz2f0E8cMSrPcGSIAyGGnh2_DGMSZ84slUX",
+            "title": "yesterday’s Breakfast News",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/FAVKHiDscz_kuUPCinOSrQ~~/AAQRxRA~/cIzx2Dbyeh-93dFdp-XNfJlaZ0Q2P50JqmYTUOBVLnur3-lw19bjDsb9pXwjtDcnlUoa4Js5VSQkx90DCs-Zp0phiy8ca0lSU9_KgM1fRo5fV6DPJSOcNag3TlKF0EQKHFw5qnALD2qx4KA0K3mOGOHogtkr280tofszS-27_MfjLGRMiht52XIC_BTjfbDiRef9tMIfbDD9m8jwAZqA-5MNuXm7Keh2Ltz8KLCvodRdSdJI2ZVllHI5wDkpHNDudP1EKuMw1O1acAZ2kJ9CQ--5FvT0NSUraunlOfWTHP-NPK45Cjdow4yagAn2lfnqaTJkjelhG8dVISQp_ul6LegYKrJwNiOoWWTKFYeQif4HJLtJC3rfnFVriYnXL9l-mmlUd5pg2x4Fin7Yta-gLaXYBTfKsmQ_-e-g35Pg_r4vEV9SwWoBSiKxrF8IKmoMsOTcQ17aX0jlA-cES-sYmQ~~",
+            "title": "quarterly results beating expectations",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: GOOG’s $80 Billion AI  Power Play",
+        "note": "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO. * Higher volatility prompts caution: General excitement has been a factor in driving related stocks higher, with Redwire up over 130% in the past month. The short-term move suggests some investors are now looking to reduce exposure ahead of the SpaceX IPO, given the potential for further volatility. * “Rocket Lab needs to be viewed as a long-term growth story”: Fool contributing analyst Lou Whiteman said last month that although the latest company results don't justify such a high valuation, “there is nothing in the report to suggest Rocket Lab isn't on its way toward growing into the company the market expects in the years to come.” The stock is beating the S&P 500 by 204% since the Stock Advisor recommendation by Team HG in July 2025. Read Lou’s full comments on Rocket Lab ********************************",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/cXh9sT1oZADL17vB5pJSsg~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7HdUUBS7klpVbW7jsd1eojlZqf3nRNQBaa8_vQSyHawuxI2E6R9xXSEVvaRTwXqorG-nhsDNsKRO68zrxdIkpI-dKvfaDfTkmQFzIpisX3DAvh95mF7E2Wobrjy7wujw558f_eXOpsAr1Iq0XG0SoYRqzF4s50_o9Xki_xUcoVOpQcnuipAp5LfwF7P1V8D9grwK7CxQqj1MyBdTGHLaJ3zwBFNW7rBByhVcK28nKLhoEBfF9KaawwHIcFpzeFrBw8KSFiW3NPPALen5UrThmmIEKm1h6nUCm-0p6HCO0XDq5mIUMINmx3hafJk2l2-jUz7-RKtySlr8yzoA1V6Logp0OeX4BNRq-Vs7crUlzIWjjKRvH0CtJr3HQOefvmyrS",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/kW6U8qgWvF8s8INaHZlK9Q~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFdu4yPaVe9MiamQvmy66rU43meopvOkbfYBOAZQ6-ZGM35S1N_0OpAOxngCATB9DQtUfU0723Ox8YT8ed25wtMIslE43wJrPSMZiYmGTeg2t5JMFlvdYjvFuvAGbSx5Hk2MBwBigGBGT5MtdVzd9GO3jFpJoPbPwRnZD5kSVD3FvTAjWxLxomaPhIBY_q3yYGucsHs2qS6w7fZyCWAruXejqkg4gE5jcrDKhGQPz2rUBKdovwqoZJLbfFEine8Q1LMj5fke2nDOJMiKmVqJV7hpVeMwt-IMZBhbX1hq5-6W0ns0WtdRljV0AMoiSc0uDav7EYhdnRdTHKMn0xklzjo187rkJ5LlAiPPggMxJDL923i9K5AFww5LN8iUUFdoAv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/njXgcv7GT1HqE7fFab3z3w~~/AAQRxRA~/KmCiB22sk7gGmqTbVPFHvt-C4XBqQ9Uj7NuF8b5V4oypmTuyDH3Ozx64G_cYFYyw2qXdEV6xRh453Y7LvBOyDQ5sGAfhfIposPjWBHRRdOL6zFSTqEydpGSbWH3qPxmvJhgl7uOgccrPkahq-A0gBOODuRPwsEeFebx62iqEfDIOHTPvQWuuWOvhK5VShdVRrsDAzqcIMRBaLR3h_puF1abqZQ-aIH_JkE0geuybMeew7ORpMSRpe6nxzh6aSYRaDAjr7xf49kzqOkTB5HCnfjbx7zjssEnPRkhqZBFxxvQInwiYDba23tmyD17ChtIIkRilLCvd1fdSKazeD4DSPoEaLmHAemFML5Rz3Q3WAaQZwjp59UOYRpt4pC-0jJd2bt03UnD16tlOjhyZXAwPSK5lMOFPCwQ0WE1EHgNCRBc_WUYtsQf6TLNhLaj2UIg2",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/DziVMgS4QAjBCdo8P02b9A~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFwOU7qN6d2HSIa638LmhxdaJql7nsRrvXuXcIQF3ztWcYM9FMq8nVs7OgVaja2KtdJQlib_vuetzqd1ktNzeGPAvn8OexTYDJc6OpJxa2LGEfrjksQK8MK2ZrGljOKIcSpQnWoPT9HQ4DAeNmuwMvXO3OLqg6Pdzml3PSZltEcmNBE_Ny4hNhaUP3UbyNZDODmlPXuv47VxJYvC9oqQ0toRpMKqrrdErLo6jsSBl2oNaI8qYzv4jaIOrrNV5PVwfDOb0hWPgSaw4tl6loPE-LQEnkF4wIE51WaxBgZ5jMJMwUGdp6k4mJ160zdx0sqFXf3xJwylKSRPcPlcLj2xRvEBOISe9_bouPctXlA5XxwOQGMrfbdNFVcluxwjPFu-kC",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/qXiuDDBhPY-WNRIBPtBa7w~~/AAQRxRA~/mr4Y9NDvUNKiVCSwv7S2NG4n9a22P2pJfpWhntr3nF0M6Wzyu_ER13S71tmzT1zGzYHVUZeMOITGtNvd2WdM8s3Ir_ezORyFSQd73fnR_8Hc5TnzEFBekpWHoubV_p3HM9uj-Gv7dGyChs7aWJN0rmG63fB45rT2tqL1OedjVw12ts2TIlr3bpaoTR_g69fmr2QRKw17S5u3SNL1YsX1eHv_U8Q2al-fIDxy3iyquWk2Akdk4BMhv--GNE6lVlaaXPxpV_oFzvHE8xSvpc10upee5iezoxCr3wO30zEuflwNX_w34ID0tbr83oP0oZhatb2RCz_W6gUtG07MOGntHwXaG86guJjZ41Z37_LEFEHICC40X2wesKEoI10PXChdJEU4uX7sh9KzjtuZC5dJb2-Ztr8BsLiBlsaPXweD0navI3SN3nLnJuvWTOIn8_qu",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AjMpFtgE5vM_kz4MWud0QA~~/AAQRxRA~/fyBCDabTrYr3Zau8gsMv08ETNRwdIzDxonJZiB5Kv7O5G3scZyp5wuhy3jbnL62oTii_ojAU-n2XlhwHczMSeddKD3iY4dbzBhO02kdRjH3e28kxvFQz_7SWNftrjYPDGXpyM9oeKo9QzNNyuN_zqBZyrVw1FzWqCFMJTcUNJRlf9_Pj0TwgdJO37YiVgop8FjZ8jacVX-mLqpTgPmulcxLT0Q0nojoRLaXjGgNUqKogkL04l44-LIbmHM4VMx8AyIeLRLIbvOQYzpeniQTYzcLvOw3LkT6uEUz2fB56BIiOCcbaRrkJEhxcfTP8CVwQp4hAZS7dKpyFFmggXVIGZ219wsNC-eJG79WEiU8Mmsk-TtY4GiMjiVB4OYXmC_VMjsGCHxFgZydwVNqY6ylJtmnxJdtDCC4JA8O18Nmf2JsrO5UyJCXpqPyb9MTo2L24M_rIANJR9OIkAromjK6E_cC9zciFG23i0OmDhLgGe3E~",
+            "title": "Review Berkshire’s latest housing purchase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Os00VJDqDcMqvFEFfVGKvQ~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7xfavR4vEY04enEusKWi8t3WQ7PWnrpSK57_4irMasG2s-7HmPxh01otOxpOw3HuB1kG4EyoxIRj0WU-10cjzu6HNJUG_-Di6B8sDo1L6wteoUX2BPvvJiCdO6U539_dmrztkwTJruti07dQ8mbm-xjVV-z95TXgIIDJjuWy56kzXSDlyowU2nCBF_XdpF6fFeTiOh3C__vHpeN5zZ3RWiNMlWdjpF3rVGhEk-MHsuOcKjktbvTH-Ws_a1WMPouj5G86Emi0oaArlU7XKuZ_kNzLKGpWqGeqsUS_M_PBL15fmqIbh0GMG6OiHLy2vupsl0SRO_rT5aMTHuI_MD0Vejy30Iu1SJDz2f0E8cMSrPcGSIAyGGnh2_DGMSZ84slUX",
+            "title": "yesterday’s Breakfast News",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/8nwSAosvKcknTL59JndMmw~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFlWC7zEIFVHU3c2Ehr66F1SOH9JB4e34nR5TF3SkE6p7LqeKD4gLJHhJDog8PWV42YAMpIPZeEQ2HfOL7KO8ks-JZ5opW0brnezfPn2_WLIlso1y9oC2JMRxTH8zl2wih2BWNJWc_oQ_6s-bWe99mt--Kz_ORa-dcqjykx-tiiuVLZfXad_qPc0Snp1eMLs24lr7LoLYWRgaWen0bO4mKOSkmGSFKZUsBWoMzfm01aopTLk_kiDF1tk218ZfQEKlLPaEsmEGeSox_na3kjU0G313jCiuXbjwIuQrYL8S1ywmFAdcr-v07jd9xVCLHwkUoC90YWwiEE1d_bHSEPKMvqs-yd1iCHGOhwHNjB5p7YzlVb-ww2poCf7dufM-XaYJL",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/j-z2GjsSfZzN5Ts_8ZyfFQ~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFgDWyvj0TryKFXKxoAqj07W10jsUUqFgQY1TUmTgszVA39FGZcwzDKGZD9faLyctLQWp2xioV9UWYjb6ettEoqQu138zZuTtDGHYcJxLpucbnKcA_1uhBZgTyELRb-g57diInyg8YRIbR0fjqrRkMI19PZfKH8Zo9NnfTQ735ikMH14lvbphkgc8CWLQpA_aG0G6khCbF9jlE2cpgZVLmTcTQhDvpWfaVu6OV1ErhbznOZIuXToCbK_J5LUUrJaJcV7B3ZzlM-PLrCwBAYJyi90b_YWOhXxuuKt4TTKDfF_n-GQ5KhUJYwd_QgghLiuOgq-jh3W19Erk0Ay8jijBB2nQnElwzyBtMLo-abBHoJhSlxlmRSKbRPw4grwUUoJcP",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/nntyVWxAENcCAvGU3ZGnvg~~/AAQRxRA~/mr4Y9NDvUNKiVCSwv7S2NG4n9a22P2pJfpWhntr3nF0M6Wzyu_ER13S71tmzT1zGJJNxpJLLLrZqFWfMIk7uj_8Z2KUcZvux57voFFqW-VwQfcQwKdNCJQyfI3Kj8sYtOFDuARyc0G30VVlU3XyYyRLI3DeOJJsdKasCfCpjqmIJFMiMEzGfUIB39suLWEtz7LVwzLuDZHroIn540_LDspt7Acyed8CbSRULe6vcKEQAn6_QEZzYC_Q2XLqhR33PfsSygtLcDCcAY6ss6fgJtCCRdM9CEyhjEOCuKcSEByu5Cozsg851467qB0WCuS44wugQqDpQh4iTxYGlLngQS9hFGxxVqYcmPDj0Mda_CN7THUg0RELkgc8_GQ3vYcJKE3teDcCqz7XbJC1nS-6nNRQiIpnGbyLRjQ5zZzTy-Kq1g2OPG4XKtN-jrPC-JcDf",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/FAVKHiDscz_kuUPCinOSrQ~~/AAQRxRA~/cIzx2Dbyeh-93dFdp-XNfJlaZ0Q2P50JqmYTUOBVLnur3-lw19bjDsb9pXwjtDcnlUoa4Js5VSQkx90DCs-Zp0phiy8ca0lSU9_KgM1fRo5fV6DPJSOcNag3TlKF0EQKHFw5qnALD2qx4KA0K3mOGOHogtkr280tofszS-27_MfjLGRMiht52XIC_BTjfbDiRef9tMIfbDD9m8jwAZqA-5MNuXm7Keh2Ltz8KLCvodRdSdJI2ZVllHI5wDkpHNDudP1EKuMw1O1acAZ2kJ9CQ--5FvT0NSUraunlOfWTHP-NPK45Cjdow4yagAn2lfnqaTJkjelhG8dVISQp_ul6LegYKrJwNiOoWWTKFYeQif4HJLtJC3rfnFVriYnXL9l-mmlUd5pg2x4Fin7Yta-gLaXYBTfKsmQ_-e-g35Pg_r4vEV9SwWoBSiKxrF8IKmoMsOTcQ17aX0jlA-cES-sYmQ~~",
+            "title": "quarterly results beating expectations",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/49-kE9oUpstm2BdyLXwycg~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFTafhDNNKwLqOhV-qzgI7YLdSmEaeyEj9y8yXfYsYEbIAO-S8bUnRryGSH0mtwGLql_IgVE94v1uQfbB7cG-WM-OmL6UpHykuDH0nQIkWznirrfQkwqGAqEE4f0H8kwGpAT66kvJCEt5rMHKLWyUyBTmpE_4xNS40UZfjU7f37BTHaiApqHCoeefGU9mJTldobZxKBmNjayydOq-BrYmtRfpS2g-kebL263rL5jExrZsd_WwxpUVmZ3M96DlaCN95NlG6y13liEq-_ZPQGppXhUjHjY8iuQZw61uhJbjJRmdNM5z-TGYd3ONXP1ycDi20sU4UZV3AyWzci17cJDZfqnkOTPV06O71733KkCuqbtXZQsRlVORrLIAyrCofWtSw",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Market Weakness",
+        "source": "Breakfast News: GOOG’s $80 Billion AI  Power Play",
+        "note": "Your Take ************** YESTERDAY'S TOP RESPONSE We asked, what's the biggest risk or opportunity you see in the market as we begin this month? K Member KoolnGang said “The accelerating demand for AI, cloud, and digital transformation is creating a significant opening to position network infrastructure and connectivity as a strategic enabler – rather than a commodity. Look into who's building.” See more great answers from our Foolish community TODAY’S QUESTION Next week’s SpaceX IPO is the investment topic du jour, and we continue to bring you takes from Fools on both Team Hidden Gems and Team Rule Breakers. Lou Whiteman on Team HG yesterday noted , “I still expect a successful IPO … SpaceX's path to the public markets is as complicated as its plan to reach Mars. It's not set up to provide the clarity market watchers love to see. Don't take that uncertainty as a sign the IPO is in trouble.” Meanwhile, Team RB’s Jim Mueller recently said , “IPOs are designed to get people excited and eager to buy. But the harsh reality is that the vast majority of them end up losing money for investors over the following three to five years. I’d rather remember that and go with the odds. Especially for a company that burns cash and has some really crazy assumptions built into its valuation.” On a scale of 1-10, how excited are you about the upcoming SpaceX IPO? (1 = not interested at all, 10 = can't wait to buy). Share your score and tell us what's driving it – what excites you or what concerns you about SpaceX as an investment? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/cXh9sT1oZADL17vB5pJSsg~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7HdUUBS7klpVbW7jsd1eojlZqf3nRNQBaa8_vQSyHawuxI2E6R9xXSEVvaRTwXqorG-nhsDNsKRO68zrxdIkpI-dKvfaDfTkmQFzIpisX3DAvh95mF7E2Wobrjy7wujw558f_eXOpsAr1Iq0XG0SoYRqzF4s50_o9Xki_xUcoVOpQcnuipAp5LfwF7P1V8D9grwK7CxQqj1MyBdTGHLaJ3zwBFNW7rBByhVcK28nKLhoEBfF9KaawwHIcFpzeFrBw8KSFiW3NPPALen5UrThmmIEKm1h6nUCm-0p6HCO0XDq5mIUMINmx3hafJk2l2-jUz7-RKtySlr8yzoA1V6Logp0OeX4BNRq-Vs7crUlzIWjjKRvH0CtJr3HQOefvmyrS",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/kW6U8qgWvF8s8INaHZlK9Q~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFdu4yPaVe9MiamQvmy66rU43meopvOkbfYBOAZQ6-ZGM35S1N_0OpAOxngCATB9DQtUfU0723Ox8YT8ed25wtMIslE43wJrPSMZiYmGTeg2t5JMFlvdYjvFuvAGbSx5Hk2MBwBigGBGT5MtdVzd9GO3jFpJoPbPwRnZD5kSVD3FvTAjWxLxomaPhIBY_q3yYGucsHs2qS6w7fZyCWAruXejqkg4gE5jcrDKhGQPz2rUBKdovwqoZJLbfFEine8Q1LMj5fke2nDOJMiKmVqJV7hpVeMwt-IMZBhbX1hq5-6W0ns0WtdRljV0AMoiSc0uDav7EYhdnRdTHKMn0xklzjo187rkJ5LlAiPPggMxJDL923i9K5AFww5LN8iUUFdoAv",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/njXgcv7GT1HqE7fFab3z3w~~/AAQRxRA~/KmCiB22sk7gGmqTbVPFHvt-C4XBqQ9Uj7NuF8b5V4oypmTuyDH3Ozx64G_cYFYyw2qXdEV6xRh453Y7LvBOyDQ5sGAfhfIposPjWBHRRdOL6zFSTqEydpGSbWH3qPxmvJhgl7uOgccrPkahq-A0gBOODuRPwsEeFebx62iqEfDIOHTPvQWuuWOvhK5VShdVRrsDAzqcIMRBaLR3h_puF1abqZQ-aIH_JkE0geuybMeew7ORpMSRpe6nxzh6aSYRaDAjr7xf49kzqOkTB5HCnfjbx7zjssEnPRkhqZBFxxvQInwiYDba23tmyD17ChtIIkRilLCvd1fdSKazeD4DSPoEaLmHAemFML5Rz3Q3WAaQZwjp59UOYRpt4pC-0jJd2bt03UnD16tlOjhyZXAwPSK5lMOFPCwQ0WE1EHgNCRBc_WUYtsQf6TLNhLaj2UIg2",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/DziVMgS4QAjBCdo8P02b9A~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFwOU7qN6d2HSIa638LmhxdaJql7nsRrvXuXcIQF3ztWcYM9FMq8nVs7OgVaja2KtdJQlib_vuetzqd1ktNzeGPAvn8OexTYDJc6OpJxa2LGEfrjksQK8MK2ZrGljOKIcSpQnWoPT9HQ4DAeNmuwMvXO3OLqg6Pdzml3PSZltEcmNBE_Ny4hNhaUP3UbyNZDODmlPXuv47VxJYvC9oqQ0toRpMKqrrdErLo6jsSBl2oNaI8qYzv4jaIOrrNV5PVwfDOb0hWPgSaw4tl6loPE-LQEnkF4wIE51WaxBgZ5jMJMwUGdp6k4mJ160zdx0sqFXf3xJwylKSRPcPlcLj2xRvEBOISe9_bouPctXlA5XxwOQGMrfbdNFVcluxwjPFu-kC",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/qXiuDDBhPY-WNRIBPtBa7w~~/AAQRxRA~/mr4Y9NDvUNKiVCSwv7S2NG4n9a22P2pJfpWhntr3nF0M6Wzyu_ER13S71tmzT1zGzYHVUZeMOITGtNvd2WdM8s3Ir_ezORyFSQd73fnR_8Hc5TnzEFBekpWHoubV_p3HM9uj-Gv7dGyChs7aWJN0rmG63fB45rT2tqL1OedjVw12ts2TIlr3bpaoTR_g69fmr2QRKw17S5u3SNL1YsX1eHv_U8Q2al-fIDxy3iyquWk2Akdk4BMhv--GNE6lVlaaXPxpV_oFzvHE8xSvpc10upee5iezoxCr3wO30zEuflwNX_w34ID0tbr83oP0oZhatb2RCz_W6gUtG07MOGntHwXaG86guJjZ41Z37_LEFEHICC40X2wesKEoI10PXChdJEU4uX7sh9KzjtuZC5dJb2-Ztr8BsLiBlsaPXweD0navI3SN3nLnJuvWTOIn8_qu",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AjMpFtgE5vM_kz4MWud0QA~~/AAQRxRA~/fyBCDabTrYr3Zau8gsMv08ETNRwdIzDxonJZiB5Kv7O5G3scZyp5wuhy3jbnL62oTii_ojAU-n2XlhwHczMSeddKD3iY4dbzBhO02kdRjH3e28kxvFQz_7SWNftrjYPDGXpyM9oeKo9QzNNyuN_zqBZyrVw1FzWqCFMJTcUNJRlf9_Pj0TwgdJO37YiVgop8FjZ8jacVX-mLqpTgPmulcxLT0Q0nojoRLaXjGgNUqKogkL04l44-LIbmHM4VMx8AyIeLRLIbvOQYzpeniQTYzcLvOw3LkT6uEUz2fB56BIiOCcbaRrkJEhxcfTP8CVwQp4hAZS7dKpyFFmggXVIGZ219wsNC-eJG79WEiU8Mmsk-TtY4GiMjiVB4OYXmC_VMjsGCHxFgZydwVNqY6ylJtmnxJdtDCC4JA8O18Nmf2JsrO5UyJCXpqPyb9MTo2L24M_rIANJR9OIkAromjK6E_cC9zciFG23i0OmDhLgGe3E~",
+            "title": "Review Berkshire’s latest housing purchase",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Os00VJDqDcMqvFEFfVGKvQ~~/AAQRxRA~/G8iAxr6vQIK1G2n1UVdeiE3L0OLQEIO1bHlrL5uG_sDdUBd7VBcOJrNYhR2B-Jl7xfavR4vEY04enEusKWi8t3WQ7PWnrpSK57_4irMasG2s-7HmPxh01otOxpOw3HuB1kG4EyoxIRj0WU-10cjzu6HNJUG_-Di6B8sDo1L6wteoUX2BPvvJiCdO6U539_dmrztkwTJruti07dQ8mbm-xjVV-z95TXgIIDJjuWy56kzXSDlyowU2nCBF_XdpF6fFeTiOh3C__vHpeN5zZ3RWiNMlWdjpF3rVGhEk-MHsuOcKjktbvTH-Ws_a1WMPouj5G86Emi0oaArlU7XKuZ_kNzLKGpWqGeqsUS_M_PBL15fmqIbh0GMG6OiHLy2vupsl0SRO_rT5aMTHuI_MD0Vejy30Iu1SJDz2f0E8cMSrPcGSIAyGGnh2_DGMSZ84slUX",
+            "title": "yesterday’s Breakfast News",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/8nwSAosvKcknTL59JndMmw~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFlWC7zEIFVHU3c2Ehr66F1SOH9JB4e34nR5TF3SkE6p7LqeKD4gLJHhJDog8PWV42YAMpIPZeEQ2HfOL7KO8ks-JZ5opW0brnezfPn2_WLIlso1y9oC2JMRxTH8zl2wih2BWNJWc_oQ_6s-bWe99mt--Kz_ORa-dcqjykx-tiiuVLZfXad_qPc0Snp1eMLs24lr7LoLYWRgaWen0bO4mKOSkmGSFKZUsBWoMzfm01aopTLk_kiDF1tk218ZfQEKlLPaEsmEGeSox_na3kjU0G313jCiuXbjwIuQrYL8S1ywmFAdcr-v07jd9xVCLHwkUoC90YWwiEE1d_bHSEPKMvqs-yd1iCHGOhwHNjB5p7YzlVb-ww2poCf7dufM-XaYJL",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/j-z2GjsSfZzN5Ts_8ZyfFQ~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFgDWyvj0TryKFXKxoAqj07W10jsUUqFgQY1TUmTgszVA39FGZcwzDKGZD9faLyctLQWp2xioV9UWYjb6ettEoqQu138zZuTtDGHYcJxLpucbnKcA_1uhBZgTyELRb-g57diInyg8YRIbR0fjqrRkMI19PZfKH8Zo9NnfTQ735ikMH14lvbphkgc8CWLQpA_aG0G6khCbF9jlE2cpgZVLmTcTQhDvpWfaVu6OV1ErhbznOZIuXToCbK_J5LUUrJaJcV7B3ZzlM-PLrCwBAYJyi90b_YWOhXxuuKt4TTKDfF_n-GQ5KhUJYwd_QgghLiuOgq-jh3W19Erk0Ay8jijBB2nQnElwzyBtMLo-abBHoJhSlxlmRSKbRPw4grwUUoJcP",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/nntyVWxAENcCAvGU3ZGnvg~~/AAQRxRA~/mr4Y9NDvUNKiVCSwv7S2NG4n9a22P2pJfpWhntr3nF0M6Wzyu_ER13S71tmzT1zGJJNxpJLLLrZqFWfMIk7uj_8Z2KUcZvux57voFFqW-VwQfcQwKdNCJQyfI3Kj8sYtOFDuARyc0G30VVlU3XyYyRLI3DeOJJsdKasCfCpjqmIJFMiMEzGfUIB39suLWEtz7LVwzLuDZHroIn540_LDspt7Acyed8CbSRULe6vcKEQAn6_QEZzYC_Q2XLqhR33PfsSygtLcDCcAY6ss6fgJtCCRdM9CEyhjEOCuKcSEByu5Cozsg851467qB0WCuS44wugQqDpQh4iTxYGlLngQS9hFGxxVqYcmPDj0Mda_CN7THUg0RELkgc8_GQ3vYcJKE3teDcCqz7XbJC1nS-6nNRQiIpnGbyLRjQ5zZzTy-Kq1g2OPG4XKtN-jrPC-JcDf",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/FAVKHiDscz_kuUPCinOSrQ~~/AAQRxRA~/cIzx2Dbyeh-93dFdp-XNfJlaZ0Q2P50JqmYTUOBVLnur3-lw19bjDsb9pXwjtDcnlUoa4Js5VSQkx90DCs-Zp0phiy8ca0lSU9_KgM1fRo5fV6DPJSOcNag3TlKF0EQKHFw5qnALD2qx4KA0K3mOGOHogtkr280tofszS-27_MfjLGRMiht52XIC_BTjfbDiRef9tMIfbDD9m8jwAZqA-5MNuXm7Keh2Ltz8KLCvodRdSdJI2ZVllHI5wDkpHNDudP1EKuMw1O1acAZ2kJ9CQ--5FvT0NSUraunlOfWTHP-NPK45Cjdow4yagAn2lfnqaTJkjelhG8dVISQp_ul6LegYKrJwNiOoWWTKFYeQif4HJLtJC3rfnFVriYnXL9l-mmlUd5pg2x4Fin7Yta-gLaXYBTfKsmQ_-e-g35Pg_r4vEV9SwWoBSiKxrF8IKmoMsOTcQ17aX0jlA-cES-sYmQ~~",
+            "title": "quarterly results beating expectations",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/49-kE9oUpstm2BdyLXwycg~~/AAQRxRA~/rZRnx2HUTajaK4EH0D5Jd4Ak6OXiLgJNs7zHi11HwWI4zvnZvZQVdL1Z9LJMAPUFTafhDNNKwLqOhV-qzgI7YLdSmEaeyEj9y8yXfYsYEbIAO-S8bUnRryGSH0mtwGLql_IgVE94v1uQfbB7cG-WM-OmL6UpHykuDH0nQIkWznirrfQkwqGAqEE4f0H8kwGpAT66kvJCEt5rMHKLWyUyBTmpE_4xNS40UZfjU7f37BTHaiApqHCoeefGU9mJTldobZxKBmNjayydOq-BrYmtRfpS2g-kebL263rL5jExrZsd_WwxpUVmZ3M96DlaCN95NlG6y13liEq-_ZPQGppXhUjHjY8iuQZw61uhJbjJRmdNM5z-TGYd3ONXP1ycDi20sU4UZV3AyWzci17cJDZfqnkOTPV06O71733KkCuqbtXZQsRlVORrLIAyrCofWtSw",
+            "title": "Motley Fool link",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Treat import/export and margin-sensitive names with extra caution.",
+      "Require stronger chart confirmation; avoid buying weak opens blindly.",
+      "Consider smaller initial size until macro pressure cools."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "HPE",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. * Another Team RB recommendation: Hewlett Packard Enterprise (NYSE:HPE ) rocketed over 25% in pre-market trading thanks to quarterly results beating expectations due to Cloud and AI revenue increasing, with management now expecting 29%-33% revenue growth for the full year.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "CRDO",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. * Revenue jumps 157% but slowing growth forecast: Credo Technology (NASDAQ:CRDO ) initially fell over 12% in early trade, before recovering most of those losses, despite posting record revenue and profitability as investors noted a slowing pace of growth for the coming quarter and a concern over gross profit margin compression.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "RDW",
+      "score": 67,
+      "stance": "Research Watch",
+      "evidence": "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "RKLB",
+      "score": 67,
+      "stance": "Research Watch",
+      "evidence": "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ULTA",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. Get Sanmeet Deo’s ULTA Q4 results take ------------------------------------------",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "AAPL",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "The additional $10 billion is likely to take it to the third largest portfolio holding, behind Apple (NASDAQ:AAPL ) and American Express (NYSE:AXP ).",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AXP",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "The additional $10 billion is likely to take it to the third largest portfolio holding, behind Apple (NASDAQ:AAPL ) and American Express (NYSE:AXP ).",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BRKB",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CVNA",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "— NEHA CHAMARIA • TEAM HIDDEN GEMS Yasser El-Shimy Three years ago, Carvana’s (NYSE:CVNA ) stock sat below $4, and bankruptcy was a real possibility.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GOOG",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NUE",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Neha Chamaria Nucor (NYSE:NUE ) is arguably the textbook example of a world-class business in an otherwise mediocre industry.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PANW",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today.",
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "CRDO",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. * Revenue jumps 157% but slowing growth forecast: Credo Technology (NASDAQ:CRDO ) initially fell over 12% in early trade, before recovering most of those losses, despite posting record revenue and profitability as investors noted a slowing pace of growth for the coming quarter and a concern over gross profit margin compression."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HPE",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. * Another Team RB recommendation: Hewlett Packard Enterprise (NYSE:HPE ) rocketed over 25% in pre-market trading thanks to quarterly results beating expectations due to Cloud and AI revenue increasing, with management now expecting 29%-33% revenue growth for the full year."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ULTA",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today. Get Sanmeet Deo’s ULTA Q4 results take ------------------------------------------"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AAPL",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "The additional $10 billion is likely to take it to the third largest portfolio holding, behind Apple (NASDAQ:AAPL ) and American Express (NYSE:AXP )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AXP",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "The additional $10 billion is likely to take it to the third largest portfolio holding, behind Apple (NASDAQ:AAPL ) and American Express (NYSE:AXP )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BRKB",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CVNA",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "— NEHA CHAMARIA • TEAM HIDDEN GEMS Yasser El-Shimy Three years ago, Carvana’s (NYSE:CVNA ) stock sat below $4, and bankruptcy was a real possibility."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GOOG",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Alphabet (NASDAQ:GOOG ) confirmed it will sell $80 billion in stock, including a $10 billion sum sold to Berkshire Hathaway (NYSE:BRKB ), as it seeks more capital to fund AI compute infrastructure to meet “unprecedented customer demand.” Berkshire stock was little changed ahead of the opening bell, while Alphabet fell around 2.5%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NUE",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Neha Chamaria Nucor (NYSE:NUE ) is arguably the textbook example of a world-class business in an otherwise mediocre industry."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PANW",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Results Roundup: CRDO Disappoints as HPE Wins Big ---------------------------------------------------- As highlighted in yesterday’s Breakfast News , Ulta Beauty (NASDAQ:ULTA ) and Palo Alto (NASDAQ:PANW ) release earnings after the closing bell today."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "RDW",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "RKLB",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Space Stocks Jitter Ahead of SpaceX IPO ------------------------------------------ Space stocks including Rocket Lab (NASDAQ:RKLB ) and Redwire (NYSE:RDW ) fell 14.7% and 15.83% yesterday respectively, as the sector takes a pause from a record-breaking rally ahead of the SpaceX IPO."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: GOOG’s $80 Billion AI  Power Play"
+      ]
+    }
+  ],
+  "events": []
+}
