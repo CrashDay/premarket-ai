@@ -1,0 +1,982 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T12:28:27.041Z",
+  "sourceCount": 1,
+  "sources": [
+    {
+      "title": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+      "file": "2026-06-15-market-brieffoolbreakfast-news-breakfast-news-war-stops-futures-pop-oil-drops-19ecb0e383db631d.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Mon, 15 Jun 2026 11:32:47 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/ix23ic0z7wJ_BTfOw0s92g~~/AAQRxRA~/va_kQkJamgUd6iK62He8XCMBDiSIoAoTz_k83N56E6fxpc35-rG6ikO9eK5FaU4rV9IdeCfb8kRjHFw2p25rwRV7OUPsegfh9O6sG2gabl_Tqavlue4arNUxxjN6JVpnf_uAg9StIzUo8vuO-PSnmqMMst2QdkVHvBVfkK3kU4El8rzYR957GxBpTHhAjKDtbKfVlIRhLMyxFMcCGjJcaGV8VnGZvaP1a2bDE5mAK3YcH81l3WU1mis2NrDlQTNGeOd3MBhdrkVFjSH7eD6VLZW_Q-AXPNPa9jKViRt0ikaw44yORicEx-a0sFrpgkEU_8zNhacHDlvJHaQUwxxqLfhSi1zCzGLT7823RtnHTNybUGwzs7wZxdSwNCWBdHfmkHDS7q5xwk6-kxV1t8xdAB94hOhSRlKu0r2X4I0QTPgYffsVzyg3URlFFrAbSEwV",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/mRUzyWTV4mg7l0e_rkoJXw~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtjjQ8LFBoa_S_QvCYAFl-IgMk7wQx8ZWVfnzEXskRM6ORx-ZdN4gMGQUfzqgRKB7vS2Uva4KjncqSf1LURw40xoHw7Cf2XIw8B7ukfAckbxavVzwi7YUg_Wj2PTxkYq_Y1O3v3hDxrDn_kb_giQ4HEnhI4lw9uVtms69dlJ_t_kwH10__qMbvZZZky5E4qxVT_CQNRf2juoo3R6edn63-fKgmlV0uhBKtM-geFz65otHONnb8ggKffSdzefYspOHcM05C602_Fua5mIaHpNcK89XhrFdigRYXSvtHnveQlFtH7RpAJ-O1qkG029EBWhsvZRumFRyKWM7Ar13gcyNVclCbufnsht-Hlzao9QWNKRyyPDwA_eoZdgGQsO_r1IBi",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+          "title": "Examine energy's impact on May inflation",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/jyg4VXy2pbILty5_NEaEhA~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtTvEgSSaRBYHcM8MrDEKoIn1z1YwZgUyxNACmtleNSdDTFyZX0gDTYu8CDZ0-HH6HYdeF9AjafcCaT9YcBF3mjJoV63l4pl6pI_to-LiyBzAGtIzNaXFGon_2DwzbhuSWYXnEfCA0kXP6m2Aj-Jb3iqkofgISr-DT5hSYhxGQz74RYI0FxaHccHSRYM66V3L7x5XGJ_q_bzGvG0to5gLqDiIeh-nvT32lTb17Adv-cKmcpm4L-YMEy2_aIKnwwUEvoCe2eg-rFDMLyKre2_DAyuBlvXf1qEhHNo6YeRpV3ALPIfoRszZfwQILoTxeuzOjYsmT0J3aO8yBG6OLWiGs_-ZvzhIzrJPoCpYj_ZJAwzm_H-6b5XUkrEo8ZQOQPGvM",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/OUUXC1yzvl0TPkB5fla5yA~~/AAQRxRA~/A4Ff6BgKplgYg-hn7cODgc1hkbFbgraPj2Kf1yotUXOUjqgFQPgl4QpnOm0lquOvkLEwG7-S2Nit9iISlKKIRFBXD544gdISpxAa9jCWif0CTmSqge4o_ggGoCMos6MtLCnip-bG429G1lv3S9TVNu_Rb08ZbwjcI0PqFzuQpf_xpr7Lw178aDHZjgn7AGKHIV0mkNz6PSwT7X5JLHUg0tOu4dL4RKOMPsYec-dUhwX6W6BBTJcRnxgIRL6KAGxFUuQ6Mjd6fFuYmC60E6O-tgpIvHwDIDsWVE4EO2vjUyiG5ZUe6SuFH5ZPkzSFRs9PcBD_efosr1Olx4_hn1BkwzM5Z6Iuv6cHZGfXIqcbkm4_cZBRZ-c0UWQKZnKumwxXXzusQr7i-CHSaK4swqu4NEY0rd5CRHidd7kLq-DQx2SlnvzXM_6sC7qxy-71-1YT",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/3JW86MkxyC_VXE3IlOiZcA~~/AAQRxRA~/pEk_mAC5fnfbmaURbQxIvBpfSQbnobZgx2QVU6Bd-Ddd55Fy0e6FbRKIzJT5VukpwjBNipf5G1PAPl0B-dnwkp1A-PVj17F-L9NMfdQl9Dep127LSXdR4665S5mEgDUboMwzklxFZDVTMA9WqFu8JVusKS7LwY44mpQ3pos_fF53_KEQDO_LvLyM2lzSAiQGQRWxv5WNyJFLMEFsyGerDGmf9ndYWY86Qk2_RdPip3qQcEnOVAblKTWiq3GyD7m1RWAP7J1yOWDo1sPQSAzretff7RDbqqry2bvGVWaWAvRtN1wHgKwyAtcO3bvAeuaAiS6snzbovlMgmwCOYB6HRvwGKOJ7GJC9m737CoEx7GGW2m13cset1U7mvcpD2nVI6oh3Qg1RY8LhimYeaFqZNJAsviMDb35GJjW4YZESO6_Si7SsXuG-myGzMCb7xiDsbrRb7hEapJ5Br2R8rU-3csfvNJchbrV-n0ZrvWc1a7g~",
+          "title": "Check how the bidding war panned out",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/t7R5M5B6z6RhhrJq8suAEg~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYttfUbTUuWd56Jjgy0TvyJ-dazvThu2t14UoWVUiG8jZyyueqPGa12B9HDzl0SXxP6VtjM9JzDLosl8oWrPaD_wjl2SPtXEXCAsB1SireJ4Ujp6Pw7AuEBNNkidaxr25DbQXt1kZ9nM80XNHgixWsf9iD6ujljLi9sHr-eZqY2bMPuQXTzyozyvXChR0IIgiaXezlU2o85jPjQr2nf2l1Cm7yKahYh4PufSS2vKmRn2agJF4Ozg3HX5nInaAb6K2Ge08HwALEQESUvsbF_nG7i9knlf_6A1lh1_UxilayOiJaJB47B_vtxerqcLeeYkH8JV88zM3YX0Xk_iLS2EARTl3XS5hlXbQpmm3kJfuwXHKBy7r0CqXujEPb4KhghhoQV",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/5s23kBNJOD1UrtSfaBf1Wg~~/AAQRxRA~/A4Ff6BgKplgYg-hn7cODgc1hkbFbgraPj2Kf1yotUXOUjqgFQPgl4QpnOm0lquOvNA8Z3RmrKThFiSqP_ZAEv2rIreiiLBtyXwizHDJvI1QQZALiwYHZWKTmUuGzDLDwpUSQBaLmZbICRxX0bmrn7lU6DdFMN97ps68LNhKlmHP_EKowkKLatYLqiGi9n9PaE6ioPwcpT7Do6bbhtRrYkq9zOLQc0iDAfq8aHY10OmxxyuSwtMfvpHstX3UfvchXNQrhlhj0jhQiQXld1_S0hbzqk_y9luLd5dKB1fTwCB09w8DkPz7QXKAg4MRFYTPhGjp0xYRv4QdeLeoCfuD_PV_FyBGeVbtukVimbJqD6zjTcZGRRpGbTtZmhwHALWaasDDtKK1tfFzyHH0U3jqnnpVibnrjU5nYdmTsTEKkzESnYkRaoNrtCPSyoE_lXGiD",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/pSVo5KjsyeLROu9kcK5BhA~~/AAQRxRA~/H2JspjtJqDr4BIk4dR837LAqDASr8-gkpCWldUxEbM33eTKQrEq-FMQkUVvPYXPidBp-gPi7QPX-y6thn1CUcVEWsFQwGWGO0K4dZC60qFtLRr7VXkohb6tEHF7Gz72aUfdkJPGcjKS4jjZAfHtyjR6cISNFW3nLz4Kegg_7wSXFYSyBiTv2k_3ML2Wxg5f2svKStcCaalM584o7rtP2b_ohBcXtSSjVijrBELzRf-W3OL6I_fTnCytnj-dYZwE8UN_9P2hoABVOyVIreqvbMuCSsxybVxCv3oW72EjRqjRRRNx2LVSexasSRah2ekCBONBGQhL9uzY1URctxUOiELBJsVGPe6CLPmWrTn6u-jMWUnALA0VT2NsEGBsgvHdbKXTKYzlHvaTNuRlKhyZXPOzjnQoN7EUrFeOniGl-GQnpwRGZeBu3zdb74hpW4xk2",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/AqmhheEl84dM2GM8jpUoVQ~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtTHseuBq4qQhTrYf99lpJ31xaQ1VkOtrrNz9U_sOYdHyn03P9-0Nv3WA5gK7QWh-0m7LuTeAiyFIXUM-Q8U1KcK8gTfSVOfB_hkkoZpaRp96ktjsc5S-nBU4x-QviFUST99WunM2QD7rY3kXs1b-_Dri8gcikC9beXubOkFizQxKUfB7ilHhK3ABcxN7iEmvUYHrNa1PZLhFkP1g5jfsfeZlWisneuCG5fO7LQ9npBOl5jYRh4hKz6DxXCPt-DIaY8nV6S3DBSSLg2OAMojKEo8bFycf-DhynxhWAytA36uKwF7A9MRuRu5mX3TzDsPdM3Zu8ate9HQbpXLdEP3q_yDlht01YgZkfQJmiKHBW2o8uT5mB9cXgXf4SpbQzYJRN",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/kEEe2FERUKT57_-R6xI3Rg~~/AAQRxRA~/JKFTcBTXNzYDMRoQiBjPLrJRw9jTcihePPT-Yq8_X3g-RFQCbKbYKDIUdiMkVxcDGwS_dNzG6e-u1tHHMUFCj2TEsoIQn19LAVlGk2RIbEs-Vmn4KsUwVI0rYlS1VmbwY9DvCH30R4HvCI3QibTLkS99J_iuM76NWSfMko9FLCzPULK8JusMs-m7ENXeSEqNBF_idcGXSQDtJS79FYRJ0dVSMwBe18QAsCU4NiM358YDBdyH6KgyZeYxW-y_N3Gtmn-CCQLKiRQM2Wliko1lpHWfJ56qldMzgcfDmYMvuK3WX8hVTaxPGTrAcCrcdNrw56EV2gHxMrULO_w9swuJZnBY_6UcUAK2PLER1wZDmr1YpOzTIU099AInuoOvYvbgWq7ALLUNlucBc5Jh0Dso5npQlq7faLqQRjlziM8UGxQZeUyL7m4MZ4pmKuAhnGn3o_SAxVgHR2nAgfXPyQVBWeQVFU8cHUHh8T5Y3z416Sc~",
+          "title": "Read Lou's take on the new space race",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/2u-DwboHHNFWO_rpUHn0Ww~~/AAQRxRA~/EBFUCGLQRhmh2JuxS89kOeAWRZNhY0xCtorEV30UW_MfV9S2Tb5kvKqEnJ8TMVvW9aZAZ0B09xXe_bntIgtZEAPstPSlN6-kRXxlTlf97NDJg_dYrgT_fhR2CI8LrrKKHeRvneedPj657DleqWPygsJbwSkLL_IOhg1NeQD25gKgXIdFw4GJUt1GbJ4_sfUpxGmBwzQ6rmjQV10ebu1I1xzRJv1ImjwKD6IRZdLOD_iOYqd7p8P5MR1B2kAbgwtr",
+          "title": "Click here to see the Epic Portfolio now",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1080,
+      "summaryHints": [
+        "Iran ceasefire deal brings market optimism, Paramount’s Warner Bros takeover approved, and more… Breakfast NewsClick here to read online .",
+        "JUNE 15, 2026Friday's MarketsS&P 500 7,431 (+0.5%)Nasdaq 25,889 (+0.31%)Dow 51,202 (+0.7%)Bitcoin 63,507 (+0.28%)Image shows chart of Nasdaq and S&P 500 performance in 2026 -------------------------------------------- 1.",
+        "Futures Jump as U.S.-Iran Truce Announced -------------------------------------------- Stock futures jumped after news broke of an agreement between the U.S.",
+        "and Iran to end their conflict in the Middle East, set to be signed on Friday, leading to the opening of the Strait of Hormuz and the free flow of oil.",
+        "In pre-market trading, S&P 500 futures rose around 1.2%, with Nasdaq futures gaining more than 2%."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Futures Jump as U.S.-Iran Truce Announced -------------------------------------------- Stock futures jumped after news broke of an agreement between the U.S. and Iran to end their conflict in the Middle East, set to be signed on Friday, leading to the opening of the Strait of Hormuz and the free flow of oil. In pre-market trading, S&P 500 futures rose around 1.2%, with Nasdaq futures gaining more than 2%. Oil prices quickly fell, with benchmark WTI crude below $81 per barrel early this morning. * Late recovery leaves stock market flat: Despite dips early in the week, ahead of the excitement of Friday’s SpaceX (NASDAQ:SPCX ) IPO, the S&P 500 ended the week up 0.65% with the Nasdaq up 0.70%. * First challenge for new Fed head: The Fed’s meeting to set interest rates takes place today – the first under new chair Kevin Warsh. The CME FedWatch tool shows a 96.6% probability of no change, with a greater than 50% chance of a rate rise by the end of the year. Examine energy's impact on May inflation Divider ---------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+              "title": "Examine energy's impact on May inflation",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "SPCX"
+          ],
+          "themes": [
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "Paramount Gets the Green Light --------------------------------- The Department of Justice announced its approval of the Paramount Skydance (NASDAQ:PSKY ) takeover of Warner Bros. (NASDAQ:WBD ) Friday afternoon. The deal would end a long-standing Hollywood rivalry, giving Paramount control of media outlets including CNN and HBO Max – with the latter to combine with Paramount+ to reach around 200 million subscribers. Paramount stock gained over 4% in pre-market trading, with Warner largely unchanged. * “The transaction is not likely to result in harm to competition or American consumers”: The Antitrust Division has not announced requirements for any divestitures, clearing the way for a merger that’s raised political concerns – Paramount CEO David Ellison’s father Larry is a major donor to President Trump. * “Fewer opportunities for creators, fewer jobs …, higher costs, and less choice”: An open letter signed by over 1,400 actors, directors, and filmmakers had opposed the takeover, and California's Attorney General Rob Bonta has yet to decide whether to try to block the deal. Check how the bidding war panned out Divider ---------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/3JW86MkxyC_VXE3IlOiZcA~~/AAQRxRA~/pEk_mAC5fnfbmaURbQxIvBpfSQbnobZgx2QVU6Bd-Ddd55Fy0e6FbRKIzJT5VukpwjBNipf5G1PAPl0B-dnwkp1A-PVj17F-L9NMfdQl9Dep127LSXdR4665S5mEgDUboMwzklxFZDVTMA9WqFu8JVusKS7LwY44mpQ3pos_fF53_KEQDO_LvLyM2lzSAiQGQRWxv5WNyJFLMEFsyGerDGmf9ndYWY86Qk2_RdPip3qQcEnOVAblKTWiq3GyD7m1RWAP7J1yOWDo1sPQSAzretff7RDbqqry2bvGVWaWAvRtN1wHgKwyAtcO3bvAeuaAiS6snzbovlMgmwCOYB6HRvwGKOJ7GJC9m737CoEx7GGW2m13cset1U7mvcpD2nVI6oh3Qg1RY8LhimYeaFqZNJAsviMDb35GJjW4YZESO6_Si7SsXuG-myGzMCb7xiDsbrRb7hEapJ5Br2R8rU-3csfvNJchbrV-n0ZrvWc1a7g~",
+              "title": "Check how the bidding war panned out",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "PSKY",
+            "WBD",
+            "XYZ"
+          ],
+          "themes": [
+            "Streaming And Media",
+            "Regulatory Risk"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%. It would be pretty easy to conclude that the moves were related to SpaceX, with Elon Musk’s $2 trillion space giant pulling capital away from smaller space names. The best advice is not to get caught up in near-term volatility, but to focus on the quality of the individual businesses. Investors in space companies need to buckle up. These are highly valued stocks in the early stages of their growth trajectory. We shouldn’t be surprised if any or all of these stocks – SpaceX included – lose half their value or more in the quarters to come, even if they turn out to be fabulously successful investments. So it is when investing in companies attempting to boldly go where no one has ever gone before. Read Lou's take on the new space race DividerA message from The Motley Fool <p><strong>Great picks are just the start.</strong></p> <p>Stock Advisor has given you great individual recommendations. But in a market where over $1 trillion in software value just evaporated and AI is repricing entire industries, individual picks aren't always enough.</p> <p>Tom Gardner brought together two of Motley Fool's investing teams — Hidden Gems and Rule Breakers — to build a complete 50-stock portfolio from scratch. Every stock. Every risk level. The teams don't always agree, and nothing got in without being challenged. That tension is exactly what makes it different.</p> <p><a href=\" here to see the Epic Portfolio now</a></p> ------------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/kEEe2FERUKT57_-R6xI3Rg~~/AAQRxRA~/JKFTcBTXNzYDMRoQiBjPLrJRw9jTcihePPT-Yq8_X3g-RFQCbKbYKDIUdiMkVxcDGwS_dNzG6e-u1tHHMUFCj2TEsoIQn19LAVlGk2RIbEs-Vmn4KsUwVI0rYlS1VmbwY9DvCH30R4HvCI3QibTLkS99J_iuM76NWSfMko9FLCzPULK8JusMs-m7ENXeSEqNBF_idcGXSQDtJS79FYRJ0dVSMwBe18QAsCU4NiM358YDBdyH6KgyZeYxW-y_N3Gtmn-CCQLKiRQM2Wliko1lpHWfJ56qldMzgcfDmYMvuK3WX8hVTaxPGTrAcCrcdNrw56EV2gHxMrULO_w9swuJZnBY_6UcUAK2PLER1wZDmr1YpOzTIU099AInuoOvYvbgWq7ALLUNlucBc5Jh0Dso5npQlq7faLqQRjlziM8UGxQZeUyL7m4MZ4pmKuAhnGn3o_SAxVgHR2nAgfXPyQVBWeQVFU8cHUHh8T5Y3z416Sc~",
+              "title": "Read Lou's take on the new space race",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "ASTS",
+            "FLY",
+            "RDW",
+            "RKLB"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * CarMax (NYSE:KMX ) – put in the Stock Advisor Penalty Box by Team Rule Breakers – is due to release first-quarter earnings for fiscal 2027 Wednesday, following a 47% fall in non-GAAP EPS year over year (YoY) in the final quarter of 2026 – as sales remained sluggish in the competitive used car market, and management raised its cost reductions target. * Accenture (NYSE:ACN ) will post Q3 results Thursday, after TMF chief investment officer Andy Cross noted “the challenges the world's largest digital consulting firm is facing” – with only a 1% rise in Q2 bookings in local currencies. Recommended by both Team Hidden Gems and Team Rule Breakers, Accenture is also currently on hold in the SA Penalty Box by Team RB. * Kroger (NYSE:KR ), recommended in Dividend Investor, reports Q1 Thursday. Digital sales helped the retail giant grow profit 37% YoY in its previous quarter, though management expects comparable sales growth of only 1-2% in the current year. Kroger has raised its dividend for 20 consecutive years. See what's just gone in SA's Penalty Box Divider ------------",
+          "links": [],
+          "tickers": [
+            "ACN",
+            "KMX",
+            "KR"
+          ],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Your Take ------------ FRIDAY'S TOP RESPONSE We asked, How are you playing the space economy theme, if at all? B Member BumChicken said “I own Rocket Lab, up over 150%! I add on dips!” See more great answers from our Foolish community TODAY'S QUESTION What's a region or international market you're watching, and why? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "Space Economy"
+          ]
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "ACN",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * Accenture (NYSE:ACN ) will post Q3 results Thursday, after TMF chief investment officer Andy Cross noted “the challenges the world's largest digital consulting firm is facing” – with only a 1% rise in Q2 bookings in local currencies."
+          ]
+        },
+        {
+          "symbol": "ASTS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+          ]
+        },
+        {
+          "symbol": "FLY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+          ]
+        },
+        {
+          "symbol": "KMX",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * CarMax (NYSE:KMX ) – put in the Stock Advisor Penalty Box by Team Rule Breakers – is due to release first-quarter earnings for fiscal 2027 Wednesday, following a 47% fall in non-GAAP EPS year over year (YoY) in the final quarter of 2026 – as sales remained sluggish in the competitive used car market, and management raised its cost reductions target."
+          ]
+        },
+        {
+          "symbol": "KR",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * Kroger (NYSE:KR ), recommended in Dividend Investor, reports Q1 Thursday."
+          ]
+        },
+        {
+          "symbol": "PSKY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Paramount Gets the Green Light --------------------------------- The Department of Justice announced its approval of the Paramount Skydance (NASDAQ:PSKY ) takeover of Warner Bros."
+          ]
+        },
+        {
+          "symbol": "RDW",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+          ]
+        },
+        {
+          "symbol": "RKLB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+          ]
+        },
+        {
+          "symbol": "SPCX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Late recovery leaves stock market flat: Despite dips early in the week, ahead of the excitement of Friday’s SpaceX (NASDAQ:SPCX ) IPO, the S&P 500 ended the week up 0.65% with the Nasdaq up 0.70%."
+          ]
+        },
+        {
+          "symbol": "WBD",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(NASDAQ:WBD ) Friday afternoon."
+          ]
+        },
+        {
+          "symbol": "XYZ",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "* “Fewer opportunities for creators, fewer jobs …, higher costs, and less choice”: An open letter signed by over 1,400 actors, directors, and filmmakers had opposed the takeover, and California's Attorney General Rob Bonta has yet to decide whether to try to block the deal."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Streaming And Media",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": []
+    }
+  ],
+  "readingList": [
+    {
+      "title": "Check how the bidding war panned out",
+      "note": "Paramount Gets the Green Light --------------------------------- The Department of Justice announced its approval of the Paramount Skydance (NASDAQ:PSKY ) takeover of Warner Bros.…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/3JW86MkxyC_VXE3IlOiZcA~~/AAQRxRA~/pEk_mAC5fnfbmaURbQxIvBpfSQbnobZgx2QVU6Bd-Ddd55Fy0e6FbRKIzJT5VukpwjBNipf5G1PAPl0B-dnwkp1A-PVj17F-L9NMfdQl9Dep127LSXdR4665S5mEgDUboMwzklxFZDVTMA9WqFu8JVusKS7LwY44mpQ3pos_fF53_KEQDO_LvLyM2lzSAiQGQRWxv5WNyJFLMEFsyGerDGmf9ndYWY86Qk2_RdPip3qQcEnOVAblKTWiq3GyD7m1RWAP7J1yOWDo1sPQSAzretff7RDbqqry2bvGVWaWAvRtN1wHgKwyAtcO3bvAeuaAiS6snzbovlMgmwCOYB6HRvwGKOJ7GJC9m737CoEx7GGW2m13cset1U7mvcpD2nVI6oh3Qg1RY8LhimYeaFqZNJAsviMDb35GJjW4YZESO6_Si7SsXuG-myGzMCb7xiDsbrRb7hEapJ5Br2R8rU-3csfvNJchbrV-n0ZrvWc1a7g~",
+          "title": "Check how the bidding war panned out",
+          "label": "Check how the bidding war panned out"
+        }
+      ],
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "PSKY",
+        "WBD",
+        "XYZ"
+      ],
+      "score": 19
+    },
+    {
+      "title": "Read Lou's take on the new space race",
+      "note": "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% F…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/kEEe2FERUKT57_-R6xI3Rg~~/AAQRxRA~/JKFTcBTXNzYDMRoQiBjPLrJRw9jTcihePPT-Yq8_X3g-RFQCbKbYKDIUdiMkVxcDGwS_dNzG6e-u1tHHMUFCj2TEsoIQn19LAVlGk2RIbEs-Vmn4KsUwVI0rYlS1VmbwY9DvCH30R4HvCI3QibTLkS99J_iuM76NWSfMko9FLCzPULK8JusMs-m7ENXeSEqNBF_idcGXSQDtJS79FYRJ0dVSMwBe18QAsCU4NiM358YDBdyH6KgyZeYxW-y_N3Gtmn-CCQLKiRQM2Wliko1lpHWfJ56qldMzgcfDmYMvuK3WX8hVTaxPGTrAcCrcdNrw56EV2gHxMrULO_w9swuJZnBY_6UcUAK2PLER1wZDmr1YpOzTIU099AInuoOvYvbgWq7ALLUNlucBc5Jh0Dso5npQlq7faLqQRjlziM8UGxQZeUyL7m4MZ4pmKuAhnGn3o_SAxVgHR2nAgfXPyQVBWeQVFU8cHUHh8T5Y3z416Sc~",
+          "title": "Read Lou's take on the new space race",
+          "label": "Read Lou's take on the new space race"
+        }
+      ],
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "ASTS",
+        "FLY",
+        "RDW",
+        "RKLB"
+      ],
+      "score": 19
+    },
+    {
+      "title": "Examine energy's impact on May inflation",
+      "note": "Futures Jump as U.S.-Iran Truce Announced -------------------------------------------- Stock futures jumped after news broke of an agreement between the U.S. and Iran to end their…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+          "title": "Examine energy's impact on May inflation",
+          "label": "Examine energy's impact on May inflation"
+        }
+      ],
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "SPCX"
+      ],
+      "score": 17
+    }
+  ],
+  "macro": {
+    "tone": "Risk-Off",
+    "score": 13,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+        "note": "Futures Jump as U.S.-Iran Truce Announced -------------------------------------------- Stock futures jumped after news broke of an agreement between the U.S. and Iran to end their conflict in the Middle East, set to be signed on Friday, leading to the opening of the Strait of Hormuz and the free flow of oil. In pre-market trading, S&P 500 futures rose around 1.2%, with Nasdaq futures gaining more than 2%. Oil prices quickly fell, with benchmark WTI crude below $81 per barrel early this morning. * Late recovery leaves stock market flat: Despite dips early in the week, ahead of the excitement of Friday’s SpaceX (NASDAQ:SPCX ) IPO, the S&P 500 ended the week up 0.65% with the Nasdaq up 0.70%. * First challenge for new Fed head: The Fed’s meeting to set interest rates takes place today – the first under new chair Kevin Warsh. The CME FedWatch tool shows a 96.6% probability of no change, with a greater than 50% chance of a rate rise by the end of the year. Examine energy's impact on May inflation Divider ---------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+            "title": "Examine energy's impact on May inflation",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Oil Shock",
+        "source": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+        "note": "Futures Jump as U.S.-Iran Truce Announced -------------------------------------------- Stock futures jumped after news broke of an agreement between the U.S. and Iran to end their conflict in the Middle East, set to be signed on Friday, leading to the opening of the Strait of Hormuz and the free flow of oil. In pre-market trading, S&P 500 futures rose around 1.2%, with Nasdaq futures gaining more than 2%. Oil prices quickly fell, with benchmark WTI crude below $81 per barrel early this morning. * Late recovery leaves stock market flat: Despite dips early in the week, ahead of the excitement of Friday’s SpaceX (NASDAQ:SPCX ) IPO, the S&P 500 ended the week up 0.65% with the Nasdaq up 0.70%. * First challenge for new Fed head: The Fed’s meeting to set interest rates takes place today – the first under new chair Kevin Warsh. The CME FedWatch tool shows a 96.6% probability of no change, with a greater than 50% chance of a rate rise by the end of the year. Examine energy's impact on May inflation Divider ---------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+            "title": "Examine energy's impact on May inflation",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Fed And Rates",
+        "source": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+        "note": "Futures Jump as U.S.-Iran Truce Announced -------------------------------------------- Stock futures jumped after news broke of an agreement between the U.S. and Iran to end their conflict in the Middle East, set to be signed on Friday, leading to the opening of the Strait of Hormuz and the free flow of oil. In pre-market trading, S&P 500 futures rose around 1.2%, with Nasdaq futures gaining more than 2%. Oil prices quickly fell, with benchmark WTI crude below $81 per barrel early this morning. * Late recovery leaves stock market flat: Despite dips early in the week, ahead of the excitement of Friday’s SpaceX (NASDAQ:SPCX ) IPO, the S&P 500 ended the week up 0.65% with the Nasdaq up 0.70%. * First challenge for new Fed head: The Fed’s meeting to set interest rates takes place today – the first under new chair Kevin Warsh. The CME FedWatch tool shows a 96.6% probability of no change, with a greater than 50% chance of a rate rise by the end of the year. Examine energy's impact on May inflation Divider ---------------------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+            "title": "Examine energy's impact on May inflation",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+        "note": "Paramount Gets the Green Light --------------------------------- The Department of Justice announced its approval of the Paramount Skydance (NASDAQ:PSKY ) takeover of Warner Bros. (NASDAQ:WBD ) Friday afternoon. The deal would end a long-standing Hollywood rivalry, giving Paramount control of media outlets including CNN and HBO Max – with the latter to combine with Paramount+ to reach around 200 million subscribers. Paramount stock gained over 4% in pre-market trading, with Warner largely unchanged. * “The transaction is not likely to result in harm to competition or American consumers”: The Antitrust Division has not announced requirements for any divestitures, clearing the way for a merger that’s raised political concerns – Paramount CEO David Ellison’s father Larry is a major donor to President Trump. * “Fewer opportunities for creators, fewer jobs …, higher costs, and less choice”: An open letter signed by over 1,400 actors, directors, and filmmakers had opposed the takeover, and California's Attorney General Rob Bonta has yet to decide whether to try to block the deal. Check how the bidding war panned out Divider ---------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/3JW86MkxyC_VXE3IlOiZcA~~/AAQRxRA~/pEk_mAC5fnfbmaURbQxIvBpfSQbnobZgx2QVU6Bd-Ddd55Fy0e6FbRKIzJT5VukpwjBNipf5G1PAPl0B-dnwkp1A-PVj17F-L9NMfdQl9Dep127LSXdR4665S5mEgDUboMwzklxFZDVTMA9WqFu8JVusKS7LwY44mpQ3pos_fF53_KEQDO_LvLyM2lzSAiQGQRWxv5WNyJFLMEFsyGerDGmf9ndYWY86Qk2_RdPip3qQcEnOVAblKTWiq3GyD7m1RWAP7J1yOWDo1sPQSAzretff7RDbqqry2bvGVWaWAvRtN1wHgKwyAtcO3bvAeuaAiS6snzbovlMgmwCOYB6HRvwGKOJ7GJC9m737CoEx7GGW2m13cset1U7mvcpD2nVI6oh3Qg1RY8LhimYeaFqZNJAsviMDb35GJjW4YZESO6_Si7SsXuG-myGzMCb7xiDsbrRb7hEapJ5Br2R8rU-3csfvNJchbrV-n0ZrvWc1a7g~",
+            "title": "Check how the bidding war panned out",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+        "note": "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%. It would be pretty easy to conclude that the moves were related to SpaceX, with Elon Musk’s $2 trillion space giant pulling capital away from smaller space names. The best advice is not to get caught up in near-term volatility, but to focus on the quality of the individual businesses. Investors in space companies need to buckle up. These are highly valued stocks in the early stages of their growth trajectory. We shouldn’t be surprised if any or all of these stocks – SpaceX included – lose half their value or more in the quarters to come, even if they turn out to be fabulously successful investments. So it is when investing in companies attempting to boldly go where no one has ever gone before. Read Lou's take on the new space race DividerA message from The Motley Fool <p><strong>Great picks are just the start.</strong></p> <p>Stock Advisor has given you great individual recommendations. But in a market where over $1 trillion in software value just evaporated and AI is repricing entire industries, individual picks aren't always enough.</p> <p>Tom Gardner brought together two of Motley Fool's investing teams — Hidden Gems and Rule Breakers — to build a complete 50-stock portfolio from scratch. Every stock. Every risk level. The teams don't always agree, and nothing got in without being challenged. That tension is exactly what makes it different.</p> <p><a href=\" here to see the Epic Portfolio now</a></p> ------------------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/kEEe2FERUKT57_-R6xI3Rg~~/AAQRxRA~/JKFTcBTXNzYDMRoQiBjPLrJRw9jTcihePPT-Yq8_X3g-RFQCbKbYKDIUdiMkVxcDGwS_dNzG6e-u1tHHMUFCj2TEsoIQn19LAVlGk2RIbEs-Vmn4KsUwVI0rYlS1VmbwY9DvCH30R4HvCI3QibTLkS99J_iuM76NWSfMko9FLCzPULK8JusMs-m7ENXeSEqNBF_idcGXSQDtJS79FYRJ0dVSMwBe18QAsCU4NiM358YDBdyH6KgyZeYxW-y_N3Gtmn-CCQLKiRQM2Wliko1lpHWfJ56qldMzgcfDmYMvuK3WX8hVTaxPGTrAcCrcdNrw56EV2gHxMrULO_w9swuJZnBY_6UcUAK2PLER1wZDmr1YpOzTIU099AInuoOvYvbgWq7ALLUNlucBc5Jh0Dso5npQlq7faLqQRjlziM8UGxQZeUyL7m4MZ4pmKuAhnGn3o_SAxVgHR2nAgfXPyQVBWeQVFU8cHUHh8T5Y3z416Sc~",
+            "title": "Read Lou's take on the new space race",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+        "note": "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * CarMax (NYSE:KMX ) – put in the Stock Advisor Penalty Box by Team Rule Breakers – is due to release first-quarter earnings for fiscal 2027 Wednesday, following a 47% fall in non-GAAP EPS year over year (YoY) in the final quarter of 2026 – as sales remained sluggish in the competitive used car market, and management raised its cost reductions target. * Accenture (NYSE:ACN ) will post Q3 results Thursday, after TMF chief investment officer Andy Cross noted “the challenges the world's largest digital consulting firm is facing” – with only a 1% rise in Q2 bookings in local currencies. Recommended by both Team Hidden Gems and Team Rule Breakers, Accenture is also currently on hold in the SA Penalty Box by Team RB. * Kroger (NYSE:KR ), recommended in Dividend Investor, reports Q1 Thursday. Digital sales helped the retail giant grow profit 37% YoY in its previous quarter, though management expects comparable sales growth of only 1-2% in the current year. Kroger has raised its dividend for 20 consecutive years. See what's just gone in SA's Penalty Box Divider ------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/ix23ic0z7wJ_BTfOw0s92g~~/AAQRxRA~/va_kQkJamgUd6iK62He8XCMBDiSIoAoTz_k83N56E6fxpc35-rG6ikO9eK5FaU4rV9IdeCfb8kRjHFw2p25rwRV7OUPsegfh9O6sG2gabl_Tqavlue4arNUxxjN6JVpnf_uAg9StIzUo8vuO-PSnmqMMst2QdkVHvBVfkK3kU4El8rzYR957GxBpTHhAjKDtbKfVlIRhLMyxFMcCGjJcaGV8VnGZvaP1a2bDE5mAK3YcH81l3WU1mis2NrDlQTNGeOd3MBhdrkVFjSH7eD6VLZW_Q-AXPNPa9jKViRt0ikaw44yORicEx-a0sFrpgkEU_8zNhacHDlvJHaQUwxxqLfhSi1zCzGLT7823RtnHTNybUGwzs7wZxdSwNCWBdHfmkHDS7q5xwk6-kxV1t8xdAB94hOhSRlKu0r2X4I0QTPgYffsVzyg3URlFFrAbSEwV",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mRUzyWTV4mg7l0e_rkoJXw~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtjjQ8LFBoa_S_QvCYAFl-IgMk7wQx8ZWVfnzEXskRM6ORx-ZdN4gMGQUfzqgRKB7vS2Uva4KjncqSf1LURw40xoHw7Cf2XIw8B7ukfAckbxavVzwi7YUg_Wj2PTxkYq_Y1O3v3hDxrDn_kb_giQ4HEnhI4lw9uVtms69dlJ_t_kwH10__qMbvZZZky5E4qxVT_CQNRf2juoo3R6edn63-fKgmlV0uhBKtM-geFz65otHONnb8ggKffSdzefYspOHcM05C602_Fua5mIaHpNcK89XhrFdigRYXSvtHnveQlFtH7RpAJ-O1qkG029EBWhsvZRumFRyKWM7Ar13gcyNVclCbufnsht-Hlzao9QWNKRyyPDwA_eoZdgGQsO_r1IBi",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+            "title": "Examine energy's impact on May inflation",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/jyg4VXy2pbILty5_NEaEhA~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtTvEgSSaRBYHcM8MrDEKoIn1z1YwZgUyxNACmtleNSdDTFyZX0gDTYu8CDZ0-HH6HYdeF9AjafcCaT9YcBF3mjJoV63l4pl6pI_to-LiyBzAGtIzNaXFGon_2DwzbhuSWYXnEfCA0kXP6m2Aj-Jb3iqkofgISr-DT5hSYhxGQz74RYI0FxaHccHSRYM66V3L7x5XGJ_q_bzGvG0to5gLqDiIeh-nvT32lTb17Adv-cKmcpm4L-YMEy2_aIKnwwUEvoCe2eg-rFDMLyKre2_DAyuBlvXf1qEhHNo6YeRpV3ALPIfoRszZfwQILoTxeuzOjYsmT0J3aO8yBG6OLWiGs_-ZvzhIzrJPoCpYj_ZJAwzm_H-6b5XUkrEo8ZQOQPGvM",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/OUUXC1yzvl0TPkB5fla5yA~~/AAQRxRA~/A4Ff6BgKplgYg-hn7cODgc1hkbFbgraPj2Kf1yotUXOUjqgFQPgl4QpnOm0lquOvkLEwG7-S2Nit9iISlKKIRFBXD544gdISpxAa9jCWif0CTmSqge4o_ggGoCMos6MtLCnip-bG429G1lv3S9TVNu_Rb08ZbwjcI0PqFzuQpf_xpr7Lw178aDHZjgn7AGKHIV0mkNz6PSwT7X5JLHUg0tOu4dL4RKOMPsYec-dUhwX6W6BBTJcRnxgIRL6KAGxFUuQ6Mjd6fFuYmC60E6O-tgpIvHwDIDsWVE4EO2vjUyiG5ZUe6SuFH5ZPkzSFRs9PcBD_efosr1Olx4_hn1BkwzM5Z6Iuv6cHZGfXIqcbkm4_cZBRZ-c0UWQKZnKumwxXXzusQr7i-CHSaK4swqu4NEY0rd5CRHidd7kLq-DQx2SlnvzXM_6sC7qxy-71-1YT",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/3JW86MkxyC_VXE3IlOiZcA~~/AAQRxRA~/pEk_mAC5fnfbmaURbQxIvBpfSQbnobZgx2QVU6Bd-Ddd55Fy0e6FbRKIzJT5VukpwjBNipf5G1PAPl0B-dnwkp1A-PVj17F-L9NMfdQl9Dep127LSXdR4665S5mEgDUboMwzklxFZDVTMA9WqFu8JVusKS7LwY44mpQ3pos_fF53_KEQDO_LvLyM2lzSAiQGQRWxv5WNyJFLMEFsyGerDGmf9ndYWY86Qk2_RdPip3qQcEnOVAblKTWiq3GyD7m1RWAP7J1yOWDo1sPQSAzretff7RDbqqry2bvGVWaWAvRtN1wHgKwyAtcO3bvAeuaAiS6snzbovlMgmwCOYB6HRvwGKOJ7GJC9m737CoEx7GGW2m13cset1U7mvcpD2nVI6oh3Qg1RY8LhimYeaFqZNJAsviMDb35GJjW4YZESO6_Si7SsXuG-myGzMCb7xiDsbrRb7hEapJ5Br2R8rU-3csfvNJchbrV-n0ZrvWc1a7g~",
+            "title": "Check how the bidding war panned out",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/t7R5M5B6z6RhhrJq8suAEg~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYttfUbTUuWd56Jjgy0TvyJ-dazvThu2t14UoWVUiG8jZyyueqPGa12B9HDzl0SXxP6VtjM9JzDLosl8oWrPaD_wjl2SPtXEXCAsB1SireJ4Ujp6Pw7AuEBNNkidaxr25DbQXt1kZ9nM80XNHgixWsf9iD6ujljLi9sHr-eZqY2bMPuQXTzyozyvXChR0IIgiaXezlU2o85jPjQr2nf2l1Cm7yKahYh4PufSS2vKmRn2agJF4Ozg3HX5nInaAb6K2Ge08HwALEQESUvsbF_nG7i9knlf_6A1lh1_UxilayOiJaJB47B_vtxerqcLeeYkH8JV88zM3YX0Xk_iLS2EARTl3XS5hlXbQpmm3kJfuwXHKBy7r0CqXujEPb4KhghhoQV",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5s23kBNJOD1UrtSfaBf1Wg~~/AAQRxRA~/A4Ff6BgKplgYg-hn7cODgc1hkbFbgraPj2Kf1yotUXOUjqgFQPgl4QpnOm0lquOvNA8Z3RmrKThFiSqP_ZAEv2rIreiiLBtyXwizHDJvI1QQZALiwYHZWKTmUuGzDLDwpUSQBaLmZbICRxX0bmrn7lU6DdFMN97ps68LNhKlmHP_EKowkKLatYLqiGi9n9PaE6ioPwcpT7Do6bbhtRrYkq9zOLQc0iDAfq8aHY10OmxxyuSwtMfvpHstX3UfvchXNQrhlhj0jhQiQXld1_S0hbzqk_y9luLd5dKB1fTwCB09w8DkPz7QXKAg4MRFYTPhGjp0xYRv4QdeLeoCfuD_PV_FyBGeVbtukVimbJqD6zjTcZGRRpGbTtZmhwHALWaasDDtKK1tfFzyHH0U3jqnnpVibnrjU5nYdmTsTEKkzESnYkRaoNrtCPSyoE_lXGiD",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/pSVo5KjsyeLROu9kcK5BhA~~/AAQRxRA~/H2JspjtJqDr4BIk4dR837LAqDASr8-gkpCWldUxEbM33eTKQrEq-FMQkUVvPYXPidBp-gPi7QPX-y6thn1CUcVEWsFQwGWGO0K4dZC60qFtLRr7VXkohb6tEHF7Gz72aUfdkJPGcjKS4jjZAfHtyjR6cISNFW3nLz4Kegg_7wSXFYSyBiTv2k_3ML2Wxg5f2svKStcCaalM584o7rtP2b_ohBcXtSSjVijrBELzRf-W3OL6I_fTnCytnj-dYZwE8UN_9P2hoABVOyVIreqvbMuCSsxybVxCv3oW72EjRqjRRRNx2LVSexasSRah2ekCBONBGQhL9uzY1URctxUOiELBJsVGPe6CLPmWrTn6u-jMWUnALA0VT2NsEGBsgvHdbKXTKYzlHvaTNuRlKhyZXPOzjnQoN7EUrFeOniGl-GQnpwRGZeBu3zdb74hpW4xk2",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AqmhheEl84dM2GM8jpUoVQ~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtTHseuBq4qQhTrYf99lpJ31xaQ1VkOtrrNz9U_sOYdHyn03P9-0Nv3WA5gK7QWh-0m7LuTeAiyFIXUM-Q8U1KcK8gTfSVOfB_hkkoZpaRp96ktjsc5S-nBU4x-QviFUST99WunM2QD7rY3kXs1b-_Dri8gcikC9beXubOkFizQxKUfB7ilHhK3ABcxN7iEmvUYHrNa1PZLhFkP1g5jfsfeZlWisneuCG5fO7LQ9npBOl5jYRh4hKz6DxXCPt-DIaY8nV6S3DBSSLg2OAMojKEo8bFycf-DhynxhWAytA36uKwF7A9MRuRu5mX3TzDsPdM3Zu8ate9HQbpXLdEP3q_yDlht01YgZkfQJmiKHBW2o8uT5mB9cXgXf4SpbQzYJRN",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/kEEe2FERUKT57_-R6xI3Rg~~/AAQRxRA~/JKFTcBTXNzYDMRoQiBjPLrJRw9jTcihePPT-Yq8_X3g-RFQCbKbYKDIUdiMkVxcDGwS_dNzG6e-u1tHHMUFCj2TEsoIQn19LAVlGk2RIbEs-Vmn4KsUwVI0rYlS1VmbwY9DvCH30R4HvCI3QibTLkS99J_iuM76NWSfMko9FLCzPULK8JusMs-m7ENXeSEqNBF_idcGXSQDtJS79FYRJ0dVSMwBe18QAsCU4NiM358YDBdyH6KgyZeYxW-y_N3Gtmn-CCQLKiRQM2Wliko1lpHWfJ56qldMzgcfDmYMvuK3WX8hVTaxPGTrAcCrcdNrw56EV2gHxMrULO_w9swuJZnBY_6UcUAK2PLER1wZDmr1YpOzTIU099AInuoOvYvbgWq7ALLUNlucBc5Jh0Dso5npQlq7faLqQRjlziM8UGxQZeUyL7m4MZ4pmKuAhnGn3o_SAxVgHR2nAgfXPyQVBWeQVFU8cHUHh8T5Y3z416Sc~",
+            "title": "Read Lou's take on the new space race",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2u-DwboHHNFWO_rpUHn0Ww~~/AAQRxRA~/EBFUCGLQRhmh2JuxS89kOeAWRZNhY0xCtorEV30UW_MfV9S2Tb5kvKqEnJ8TMVvW9aZAZ0B09xXe_bntIgtZEAPstPSlN6-kRXxlTlf97NDJg_dYrgT_fhR2CI8LrrKKHeRvneedPj657DleqWPygsJbwSkLL_IOhg1NeQD25gKgXIdFw4GJUt1GbJ4_sfUpxGmBwzQ6rmjQV10ebu1I1xzRJv1ImjwKD6IRZdLOD_iOYqd7p8P5MR1B2kAbgwtr",
+            "title": "Click here to see the Epic Portfolio now",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: War Stops, Futures Pop, Oil Drops",
+        "note": "Your Take ------------ FRIDAY'S TOP RESPONSE We asked, How are you playing the space economy theme, if at all? B Member BumChicken said “I own Rocket Lab, up over 150%! I add on dips!” See more great answers from our Foolish community TODAY'S QUESTION What's a region or international market you're watching, and why? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. The Morning Show Have an Appetite for More? -------------------------- Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/ix23ic0z7wJ_BTfOw0s92g~~/AAQRxRA~/va_kQkJamgUd6iK62He8XCMBDiSIoAoTz_k83N56E6fxpc35-rG6ikO9eK5FaU4rV9IdeCfb8kRjHFw2p25rwRV7OUPsegfh9O6sG2gabl_Tqavlue4arNUxxjN6JVpnf_uAg9StIzUo8vuO-PSnmqMMst2QdkVHvBVfkK3kU4El8rzYR957GxBpTHhAjKDtbKfVlIRhLMyxFMcCGjJcaGV8VnGZvaP1a2bDE5mAK3YcH81l3WU1mis2NrDlQTNGeOd3MBhdrkVFjSH7eD6VLZW_Q-AXPNPa9jKViRt0ikaw44yORicEx-a0sFrpgkEU_8zNhacHDlvJHaQUwxxqLfhSi1zCzGLT7823RtnHTNybUGwzs7wZxdSwNCWBdHfmkHDS7q5xwk6-kxV1t8xdAB94hOhSRlKu0r2X4I0QTPgYffsVzyg3URlFFrAbSEwV",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/mRUzyWTV4mg7l0e_rkoJXw~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtjjQ8LFBoa_S_QvCYAFl-IgMk7wQx8ZWVfnzEXskRM6ORx-ZdN4gMGQUfzqgRKB7vS2Uva4KjncqSf1LURw40xoHw7Cf2XIw8B7ukfAckbxavVzwi7YUg_Wj2PTxkYq_Y1O3v3hDxrDn_kb_giQ4HEnhI4lw9uVtms69dlJ_t_kwH10__qMbvZZZky5E4qxVT_CQNRf2juoo3R6edn63-fKgmlV0uhBKtM-geFz65otHONnb8ggKffSdzefYspOHcM05C602_Fua5mIaHpNcK89XhrFdigRYXSvtHnveQlFtH7RpAJ-O1qkG029EBWhsvZRumFRyKWM7Ar13gcyNVclCbufnsht-Hlzao9QWNKRyyPDwA_eoZdgGQsO_r1IBi",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/yhN6HZPDBYKRRrIKlPhRxg~~/AAQRxRA~/9LXyhEV9LlShAVH_DiVPaxaczyS7eSPukc2Ovy1UgugZ0uGojrOAP8xIRVk9JQKu8LZfZKV3jEsGXYBG5MyyFx70Cw2i5b7aNf4HCffd1QG07SlcV0URU0EejepQSjPqeQgOSkO_n33FMRvArQKREmXnNI7ATdcOSW4nLuUswin_Dn8I6AOls6-tYqPxkvxiO_n2DwpWiqB4cxQ6bqrCgRImPcU7lEK60NOT8qEjFvd9LqELoxncc47xQcRKP0dBtqtz_Ds_0Fw23xfBKyCFtUzsUCKlrsitLWUwTYG4fCDIaKZuqrag5KsxaERnp2izr2sVOKGDRxR40NM6p7RylFhcmjwmGd3w8OcmPOcEp21qDbOPICxvopaN299vj9hTP_yUEI16WttRFx4jaWH2-3i7ZGMYle4YxW4npLaoDAvw1WlV7UkBEHxmkYTuJPY030Tcy4pxSTSMuxUFXWD_bA~~",
+            "title": "Examine energy's impact on May inflation",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/jyg4VXy2pbILty5_NEaEhA~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtTvEgSSaRBYHcM8MrDEKoIn1z1YwZgUyxNACmtleNSdDTFyZX0gDTYu8CDZ0-HH6HYdeF9AjafcCaT9YcBF3mjJoV63l4pl6pI_to-LiyBzAGtIzNaXFGon_2DwzbhuSWYXnEfCA0kXP6m2Aj-Jb3iqkofgISr-DT5hSYhxGQz74RYI0FxaHccHSRYM66V3L7x5XGJ_q_bzGvG0to5gLqDiIeh-nvT32lTb17Adv-cKmcpm4L-YMEy2_aIKnwwUEvoCe2eg-rFDMLyKre2_DAyuBlvXf1qEhHNo6YeRpV3ALPIfoRszZfwQILoTxeuzOjYsmT0J3aO8yBG6OLWiGs_-ZvzhIzrJPoCpYj_ZJAwzm_H-6b5XUkrEo8ZQOQPGvM",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/OUUXC1yzvl0TPkB5fla5yA~~/AAQRxRA~/A4Ff6BgKplgYg-hn7cODgc1hkbFbgraPj2Kf1yotUXOUjqgFQPgl4QpnOm0lquOvkLEwG7-S2Nit9iISlKKIRFBXD544gdISpxAa9jCWif0CTmSqge4o_ggGoCMos6MtLCnip-bG429G1lv3S9TVNu_Rb08ZbwjcI0PqFzuQpf_xpr7Lw178aDHZjgn7AGKHIV0mkNz6PSwT7X5JLHUg0tOu4dL4RKOMPsYec-dUhwX6W6BBTJcRnxgIRL6KAGxFUuQ6Mjd6fFuYmC60E6O-tgpIvHwDIDsWVE4EO2vjUyiG5ZUe6SuFH5ZPkzSFRs9PcBD_efosr1Olx4_hn1BkwzM5Z6Iuv6cHZGfXIqcbkm4_cZBRZ-c0UWQKZnKumwxXXzusQr7i-CHSaK4swqu4NEY0rd5CRHidd7kLq-DQx2SlnvzXM_6sC7qxy-71-1YT",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/3JW86MkxyC_VXE3IlOiZcA~~/AAQRxRA~/pEk_mAC5fnfbmaURbQxIvBpfSQbnobZgx2QVU6Bd-Ddd55Fy0e6FbRKIzJT5VukpwjBNipf5G1PAPl0B-dnwkp1A-PVj17F-L9NMfdQl9Dep127LSXdR4665S5mEgDUboMwzklxFZDVTMA9WqFu8JVusKS7LwY44mpQ3pos_fF53_KEQDO_LvLyM2lzSAiQGQRWxv5WNyJFLMEFsyGerDGmf9ndYWY86Qk2_RdPip3qQcEnOVAblKTWiq3GyD7m1RWAP7J1yOWDo1sPQSAzretff7RDbqqry2bvGVWaWAvRtN1wHgKwyAtcO3bvAeuaAiS6snzbovlMgmwCOYB6HRvwGKOJ7GJC9m737CoEx7GGW2m13cset1U7mvcpD2nVI6oh3Qg1RY8LhimYeaFqZNJAsviMDb35GJjW4YZESO6_Si7SsXuG-myGzMCb7xiDsbrRb7hEapJ5Br2R8rU-3csfvNJchbrV-n0ZrvWc1a7g~",
+            "title": "Check how the bidding war panned out",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/t7R5M5B6z6RhhrJq8suAEg~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYttfUbTUuWd56Jjgy0TvyJ-dazvThu2t14UoWVUiG8jZyyueqPGa12B9HDzl0SXxP6VtjM9JzDLosl8oWrPaD_wjl2SPtXEXCAsB1SireJ4Ujp6Pw7AuEBNNkidaxr25DbQXt1kZ9nM80XNHgixWsf9iD6ujljLi9sHr-eZqY2bMPuQXTzyozyvXChR0IIgiaXezlU2o85jPjQr2nf2l1Cm7yKahYh4PufSS2vKmRn2agJF4Ozg3HX5nInaAb6K2Ge08HwALEQESUvsbF_nG7i9knlf_6A1lh1_UxilayOiJaJB47B_vtxerqcLeeYkH8JV88zM3YX0Xk_iLS2EARTl3XS5hlXbQpmm3kJfuwXHKBy7r0CqXujEPb4KhghhoQV",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5s23kBNJOD1UrtSfaBf1Wg~~/AAQRxRA~/A4Ff6BgKplgYg-hn7cODgc1hkbFbgraPj2Kf1yotUXOUjqgFQPgl4QpnOm0lquOvNA8Z3RmrKThFiSqP_ZAEv2rIreiiLBtyXwizHDJvI1QQZALiwYHZWKTmUuGzDLDwpUSQBaLmZbICRxX0bmrn7lU6DdFMN97ps68LNhKlmHP_EKowkKLatYLqiGi9n9PaE6ioPwcpT7Do6bbhtRrYkq9zOLQc0iDAfq8aHY10OmxxyuSwtMfvpHstX3UfvchXNQrhlhj0jhQiQXld1_S0hbzqk_y9luLd5dKB1fTwCB09w8DkPz7QXKAg4MRFYTPhGjp0xYRv4QdeLeoCfuD_PV_FyBGeVbtukVimbJqD6zjTcZGRRpGbTtZmhwHALWaasDDtKK1tfFzyHH0U3jqnnpVibnrjU5nYdmTsTEKkzESnYkRaoNrtCPSyoE_lXGiD",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/pSVo5KjsyeLROu9kcK5BhA~~/AAQRxRA~/H2JspjtJqDr4BIk4dR837LAqDASr8-gkpCWldUxEbM33eTKQrEq-FMQkUVvPYXPidBp-gPi7QPX-y6thn1CUcVEWsFQwGWGO0K4dZC60qFtLRr7VXkohb6tEHF7Gz72aUfdkJPGcjKS4jjZAfHtyjR6cISNFW3nLz4Kegg_7wSXFYSyBiTv2k_3ML2Wxg5f2svKStcCaalM584o7rtP2b_ohBcXtSSjVijrBELzRf-W3OL6I_fTnCytnj-dYZwE8UN_9P2hoABVOyVIreqvbMuCSsxybVxCv3oW72EjRqjRRRNx2LVSexasSRah2ekCBONBGQhL9uzY1URctxUOiELBJsVGPe6CLPmWrTn6u-jMWUnALA0VT2NsEGBsgvHdbKXTKYzlHvaTNuRlKhyZXPOzjnQoN7EUrFeOniGl-GQnpwRGZeBu3zdb74hpW4xk2",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AqmhheEl84dM2GM8jpUoVQ~~/AAQRxRA~/g0Ij3gsYtlpozD6dDQaG9nV1JGU4Cgpbmdb_fsm-eTdZegwVxuTO_UCYWHYW5pYtTHseuBq4qQhTrYf99lpJ31xaQ1VkOtrrNz9U_sOYdHyn03P9-0Nv3WA5gK7QWh-0m7LuTeAiyFIXUM-Q8U1KcK8gTfSVOfB_hkkoZpaRp96ktjsc5S-nBU4x-QviFUST99WunM2QD7rY3kXs1b-_Dri8gcikC9beXubOkFizQxKUfB7ilHhK3ABcxN7iEmvUYHrNa1PZLhFkP1g5jfsfeZlWisneuCG5fO7LQ9npBOl5jYRh4hKz6DxXCPt-DIaY8nV6S3DBSSLg2OAMojKEo8bFycf-DhynxhWAytA36uKwF7A9MRuRu5mX3TzDsPdM3Zu8ate9HQbpXLdEP3q_yDlht01YgZkfQJmiKHBW2o8uT5mB9cXgXf4SpbQzYJRN",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/kEEe2FERUKT57_-R6xI3Rg~~/AAQRxRA~/JKFTcBTXNzYDMRoQiBjPLrJRw9jTcihePPT-Yq8_X3g-RFQCbKbYKDIUdiMkVxcDGwS_dNzG6e-u1tHHMUFCj2TEsoIQn19LAVlGk2RIbEs-Vmn4KsUwVI0rYlS1VmbwY9DvCH30R4HvCI3QibTLkS99J_iuM76NWSfMko9FLCzPULK8JusMs-m7ENXeSEqNBF_idcGXSQDtJS79FYRJ0dVSMwBe18QAsCU4NiM358YDBdyH6KgyZeYxW-y_N3Gtmn-CCQLKiRQM2Wliko1lpHWfJ56qldMzgcfDmYMvuK3WX8hVTaxPGTrAcCrcdNrw56EV2gHxMrULO_w9swuJZnBY_6UcUAK2PLER1wZDmr1YpOzTIU099AInuoOvYvbgWq7ALLUNlucBc5Jh0Dso5npQlq7faLqQRjlziM8UGxQZeUyL7m4MZ4pmKuAhnGn3o_SAxVgHR2nAgfXPyQVBWeQVFU8cHUHh8T5Y3z416Sc~",
+            "title": "Read Lou's take on the new space race",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2u-DwboHHNFWO_rpUHn0Ww~~/AAQRxRA~/EBFUCGLQRhmh2JuxS89kOeAWRZNhY0xCtorEV30UW_MfV9S2Tb5kvKqEnJ8TMVvW9aZAZ0B09xXe_bntIgtZEAPstPSlN6-kRXxlTlf97NDJg_dYrgT_fhR2CI8LrrKKHeRvneedPj657DleqWPygsJbwSkLL_IOhg1NeQD25gKgXIdFw4GJUt1GbJ4_sfUpxGmBwzQ6rmjQV10ebu1I1xzRJv1ImjwKD6IRZdLOD_iOYqd7p8P5MR1B2kAbgwtr",
+            "title": "Click here to see the Epic Portfolio now",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Check rate-sensitive groups and bond yields before chasing breakouts.",
+      "Consider smaller initial size until macro pressure cools."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "KR",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * Kroger (NYSE:KR ), recommended in Dividend Investor, reports Q1 Thursday.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SPCX",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "* Late recovery leaves stock market flat: Despite dips early in the week, ahead of the excitement of Friday’s SpaceX (NASDAQ:SPCX ) IPO, the S&P 500 ended the week up 0.65% with the Nasdaq up 0.70%.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ACN",
+      "score": 57,
+      "stance": "Research Watch",
+      "evidence": "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * Accenture (NYSE:ACN ) will post Q3 results Thursday, after TMF chief investment officer Andy Cross noted “the challenges the world's largest digital consulting firm is facing” – with only a 1% rise in Q2 bookings in local currencies.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "KMX",
+      "score": 57,
+      "stance": "Research Watch",
+      "evidence": "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * CarMax (NYSE:KMX ) – put in the Stock Advisor Penalty Box by Team Rule Breakers – is due to release first-quarter earnings for fiscal 2027 Wednesday, following a 47% fall in non-GAAP EPS year over year (YoY) in the final quarter of 2026 – as sales remained sluggish in the competitive used car market, and management raised its cost reductions target.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "XYZ",
+      "score": 53,
+      "stance": "Research Watch",
+      "evidence": "* “Fewer opportunities for creators, fewer jobs …, higher costs, and less choice”: An open letter signed by over 1,400 actors, directors, and filmmakers had opposed the takeover, and California's Attorney General Rob Bonta has yet to decide whether to try to block the deal.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ASTS",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "FLY",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PSKY",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "Paramount Gets the Green Light --------------------------------- The Department of Justice announced its approval of the Paramount Skydance (NASDAQ:PSKY ) takeover of Warner Bros.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "RDW",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "RKLB",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "WBD",
+      "score": 51,
+      "stance": "Research Watch",
+      "evidence": "(NASDAQ:WBD ) Friday afternoon.",
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "ACN",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * Accenture (NYSE:ACN ) will post Q3 results Thursday, after TMF chief investment officer Andy Cross noted “the challenges the world's largest digital consulting firm is facing” – with only a 1% rise in Q2 bookings in local currencies."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "KMX",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * CarMax (NYSE:KMX ) – put in the Stock Advisor Penalty Box by Team Rule Breakers – is due to release first-quarter earnings for fiscal 2027 Wednesday, following a 47% fall in non-GAAP EPS year over year (YoY) in the final quarter of 2026 – as sales remained sluggish in the competitive used car market, and management raised its cost reductions target."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "KR",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "This Week’s Key Earnings to Watch: KMX, ACN, and KR ------------------------------------------------------ * Kroger (NYSE:KR ), recommended in Dividend Investor, reports Q1 Thursday."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ASTS",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "FLY",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PSKY",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Paramount Gets the Green Light --------------------------------- The Department of Justice announced its approval of the Paramount Skydance (NASDAQ:PSKY ) takeover of Warner Bros."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "RDW",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "RKLB",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Volatility is the Price of Space Investing --------------------------------------------- Lou Whiteman LOU WHITEMAN, TEAM HIDDEN GEMS Rocket Lab (NASDAQ:RKLB ) shares fell by 12% Friday, the first day of trading for SpaceX, with Firefly Aerospace (NASDAQ:FLY ) down 19%, Redwire (NYSE:RDW ) down 11%, and AST SpaceMobile (NASDAQ:ASTS ) down 15%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPCX",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Late recovery leaves stock market flat: Despite dips early in the week, ahead of the excitement of Friday’s SpaceX (NASDAQ:SPCX ) IPO, the S&P 500 ended the week up 0.65% with the Nasdaq up 0.70%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "WBD",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "(NASDAQ:WBD ) Friday afternoon."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "XYZ",
+      "mentions": 0,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* “Fewer opportunities for creators, fewer jobs …, higher costs, and less choice”: An open letter signed by over 1,400 actors, directors, and filmmakers had opposed the takeover, and California's Attorney General Rob Bonta has yet to decide whether to try to block the deal."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ]
+    },
+    {
+      "name": "Regulatory Risk",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: War Stops, Futures Pop, Oil Drops"
+      ]
+    }
+  ],
+  "events": []
+}
