@@ -1432,6 +1432,7 @@ function extractTickers(text) {
     "Q",
     "SEC",
     "SP",
+    "USD",
     "YOY",
     "UTC",
     "USA",

@@ -8,6 +8,7 @@ import "dotenv/config";
 const ROOT = path.resolve(import.meta.dirname, "../..");
 const DATA_DIR = path.join(ROOT, "data", "schwab");
 const TOKEN_PATH = path.join(DATA_DIR, "oauth.json");
+const DEFAULT_TRADER_TOKEN_PATH = path.resolve(ROOT, "..", "Trader", "data", "schwab_tokens.json");
 const AUTH_BASE_URL = "https://api.schwabapi.com/v1/oauth/authorize";
 const TOKEN_URL = "https://api.schwabapi.com/v1/oauth/token";
 const TRADER_BASE_URL = "https://api.schwabapi.com/trader/v1";
@@ -29,6 +30,7 @@ export function getSchwabPaths() {
   return {
     dataDir: DATA_DIR,
     tokenPath: TOKEN_PATH,
+    traderTokenPath: getTraderTokenPath(),
   };
 }
 
@@ -184,16 +186,21 @@ export async function loadSchwabHolding(symbol, date) {
 }
 
 async function getUsableAccessToken() {
+  const traderToken = await readTraderToken();
+  if (isAccessTokenUsable(traderToken)) {
+    return { ok: true, accessToken: traderToken.accessToken };
+  }
+
   const token = await readToken();
+  if (isAccessTokenUsable(token)) {
+    return { ok: true, accessToken: token.accessToken };
+  }
+
   if (!token) {
     return {
       ok: false,
-      reason: "No Schwab OAuth token found yet. Run npm run schwab:connect first.",
+      reason: `No usable Schwab OAuth token found in ${TOKEN_PATH} or ${getTraderTokenPath()}. Run Trader's Schwab auth or npm run schwab:connect first.`,
     };
-  }
-
-  if (token.accessToken && token.accessTokenExpiresAt && Date.now() < new Date(token.accessTokenExpiresAt).getTime() - ACCESS_TOKEN_BUFFER_MS) {
-    return { ok: true, accessToken: token.accessToken };
   }
 
   if (!token.refreshToken) {
@@ -222,6 +229,34 @@ async function getUsableAccessToken() {
   };
   await saveToken(merged);
   return { ok: true, accessToken: merged.accessToken };
+}
+
+function isAccessTokenUsable(token) {
+  if (!token?.accessToken || !token?.accessTokenExpiresAt) return false;
+  const expiresAt = new Date(token.accessTokenExpiresAt).getTime();
+  return Number.isFinite(expiresAt) && Date.now() < expiresAt - ACCESS_TOKEN_BUFFER_MS;
+}
+
+function getTraderTokenPath() {
+  const configured = String(process.env.SCHWAB_TRADER_TOKEN_PATH || "").trim();
+  return configured ? path.resolve(configured) : DEFAULT_TRADER_TOKEN_PATH;
+}
+
+async function readTraderToken() {
+  try {
+    const payload = JSON.parse(await readFile(getTraderTokenPath(), "utf8"));
+    return normalizeTraderTokenCache(payload);
+  } catch {
+    return null;
+  }
+}
+
+export function normalizeTraderTokenCache(payload) {
+  if (!payload || typeof payload !== "object") return null;
+  return {
+    accessToken: payload.access_token || payload.accessToken || "",
+    accessTokenExpiresAt: payload.expires_at || payload.accessTokenExpiresAt || "",
+  };
 }
 
 function isAuthRecoveryError(error) {

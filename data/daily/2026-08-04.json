@@ -1,0 +1,2314 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T19:59:11.788Z",
+  "sourceCount": 2,
+  "sources": [
+    {
+      "title": "Breakfast News: Palantir's Karp Makes Bold Call",
+      "file": "2026-08-04-market-brieffoolbreakfast-news-breakfast-news-palantirs-karp-makes-bold-call-19fcc8c3d09299a2.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Tue, 04 Aug 2026 11:32:49 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/tj46AZTbjXn_jrUhyPCV_g~~/AAQRxRA~/D3K3-Nea5A22ddMgczYGnUGvz5H_blrla_Yi7KoLauMcAsnzHgnPCQyG2YS68W-V5fFA2oHfXFw2Cijx3JPPJb2tTYaCO7QRJS7BA4FxY-F-qtGSi1Pm65bdI_pTfWsym5cZRfZ1nrsA_OyWN1DDuar8AXqLD68-UXUlDjSoc15DfdZ7WHgFtSo6evw34-JWjc6LWtR_LE1C0AtslMBGwm3CywoNluErIHwi9ax8LeQUErXXAKOlHqht8hq5V3MTd0vacvQoo_SQrkCg6f6rKNDqLIPPdFyAdIP0c9zarZfQk7ZakzW8jZwe2_sD9LJ3SAYojqAQ8d0rmCNIrUJhUT137euBAbfrDAJabk2zyzYe3RuqGn7rOpZAhK9iIdPV1lhE9UcVRFH0Z_1R5woV7pL1pEw9U40wSDiTm9Y73-dOdVm2ELP0OirK6NZU4Fjc",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/s_kd8Rb6ee-8Hsg5kwRCaQ~~/AAQRxRA~/fBz5IwaHxuMQJz5FTm1sNk0BGBR_dZZXCjAFkkDImJGT4R5zV0Q_UuwVVDj0LXlzkyg-ACJ7KFoH5cLiCJLvno7gOLWUeVcCXKRw03x3SLCVJjVzEQxTQZjqhAOmnKIXcSVTOYSdsjIspQAFpBreVga9BOi5D4xJ6RmR0ELolm-QmOCd8oiKGGH0kZsBDMaTU4oGljt81qRPoeeiyVyl95Ytx8CAqHqZWNGZTMyApvbKPC0s-gQj8__vGhW5Uu1FANi4YlpLS7euEFq25hjdN2ZhW_kys2T7CAR4JqGNougrrezIo6chfE6N6ET-fbehbjarpxPwbXyDbQxUXcF27nssd-Fy_HAJp7uDGSkOl3srXBYY-w9Nn-4DF8zdIhYk3J840nHHo5hj2iEA44LQacWlq-XUlRmCRYWqaGycARyHDgzGvWRF5fcEEWZct-WraR0s-Xn6MAczl7vIHNDdMaGsieYjA3DJtD87huJFMe8~",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/9LjPrFigctT65AEJlVun4Q~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rdqwadyxVjWWpnhGRoYqlUFGu8ydX5QsLcztiX5CZRe77Tv4d7XtCqL0pJ_JjGYtBOTd8MbVHjZ3O7joNc-RSjVqKdXR-kfCoV8n8HoixSjQmXTR8BhzU59x9a8ivdu_q_rn8sWgFTGpaSltwCaoPKUNLLp4steMUd0bCapoYfNz8m-UV35QQYT6jqRDVjB48W1k0EpWHWdAAUQtXXgpp3Nd38kpcKPAeqXU6pmLcrx0PV8etCDpZ8b-p6eV-YyQQMYdlh2kRmn6MyYpRcno-BWIjsylLnArxwncZwpsBXLGV8_EEKMnwDKdt8RYxbesMhXFEQMit8lNpdtQNzo03_pbMcI6jilKOCcxRGL7iWEtJzrpx8BZ-j5Fvmey0QQ5F",
+          "title": "Palantir",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/dmnIOyoTEuYJxKrY_rDTMg~~/AAQRxRA~/h37VsIB2IrMINonvxo2Djf-j9aG6F8SVmhHxt19xo4O-PhX8mNW9mRIjrMuRw-Z6nDDno0qvDLL4aWLlJ3TJ9wjYVTbUeiVwoEhjPiu9UEgogd1NSTPmv9Bhat4nygIL5RH8sMbk-oLTMBYoBx_rOoY7YnVc2tHMjjri94dTaGMkxKMiqfQCyCS8FluOUQDAfXM3-s29bIDdMhmhgzFtNkm_6EYCq0CeFotFE9tsuAFQI5EFk3m9d7iElUY2bGwVkrwPzDV5Uk_4F94cKXUbeinvYYytRANltd3sYHBViu0lqwyNZyOltYv29td9_w2hVMdP5bN1gnd94XyskZMjK5fkuYpjZaXWsIQ_rjExKL9WLYjtBAKaa4Tn-vkfvIz5Hr6zBCDwX3It8rHm7w756MfVUmymWN1G7QX-KmpIHZZ6XfP-2M1G8Bmrw87d7RvmaLZL2oe1T-A4cF-Ldm1odw~~",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/AEt4bP2psrUB5J1hhtHm8Q~~/AAQRxRA~/BITLanZ7fZtjCliX9w1_IxiKiuQwCM_EJ4SRfp1OdLMRIQO6ZhoYo5_wLwpG8N0w6_osIjtqFZZI66V7-k7Vxrg4CVAUQ-RPFDnRcSxi0pmfuSqxj6rf129KtN-5tJRjNHXboxrSP445pkMNqsCJQL5ztRFIxux9eEqQD0FZK2KbCsNfSlLsJuFTTrLoirwfrCcpx2V0-DmFyWRSqgr_ICFpXZOLg01_xofjoxvYLjgcJkK2iIj8tKkdMWKw1f45-o2C37oLyiUd94U_A47gs8KGllmdI10SUHVjE-T4q4DoC8qZlj9Q5W0UIxI6A1xYcKJStJKnoTl4PHEvHf-mfYZcHtfMf7QUDAsdrWZZgN_DZHws8fDpO_vExEhMJBaHbLx1OmHm__hrT4igu1vepgLoJTlM-G5F-w-i4yFEzxrQ_Qe_ikwBlzpjfK07sRJx",
+          "title": "Watch a Scoreboard video on Palantir",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/tLmFw0t5Q3mc4fl0XvHZzA~~/AAQRxRA~/dWeq9sgd1O25-61o7IqXxFvDFQJMmUmN8z30tLGlLLlerd_9jnakEyxHoIBtdcPkqLeqsxSZF903n3pu0iXHz8zqkvu-XNgsfQUDt11ECRBbjR_ekQs5E3i_xDeP9ijCfA1IORAZCqeNFKrdFEvcyDE3325Eg5I0z6VHmttSF7FDZ4JWOiUxp2DOffPPEa0LQIFBWSjORNcZKcCnT1S4mKbfqgkG3oPAujtvIRpmfRzcijvKhOkWntkTdO3HltVe",
+          "title": "Get the Portfolio with Epic &rarr;",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/IpSRtlM9BKc5Xl8CdtJcaw~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r0ZDc5EUZkSYiDtXJWk7Goo3XRIyyyCbYUW1gDxlECV5oUBdEMrgnMxE_13q8FLWtVJE2yLCUxSjh_ZvgUhKuXyl8PlvL_58iBrlgx15r1qZNb0E-Sw7vBn6VorHLfDYPoku-2JlQVWUMaDdcMPnt2LqvvVR_JCjRIhkwvigaey418fidTUOv6TjQMQU53IFRPB4Ao7P4xjAJFDXiSFV9JTZ334ot_CjcBgoJuOpkWjTrlrNAGOZZIBcxZq86Bn7fy8kFdafGQveYmaOdY5jwKPZItbMtaLmmnKz4B8OHfFqS7i-ihmomLePY24CxwuW2DOKgbFQGSkmTBgJ-zFZJ11e0uCH4otgFtf8IWBKAUMIQ-ONGlp7vbfzl3V6ucuch",
+          "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/HlGXH1r9aPMZJtCZ-Olplg~~/AAQRxRA~/jyhVhUWaTpPEEPag2YJ0B6F35N8b66FFcUdaRwbuyA7Z7np_bk-3N7LH_TeLGf4_Yg6wSPO8BWpADjmNZTQizo0Vj8T-meYEr0BbQuycK7sMHpLbD9hbsQzt1MoMaqSFYIQszhSTo4vXHdJKpWELirlq-QMJeb6Hmwa_V-SOPzNZ7Rxxz1hvtH2ZpALPB_uZ1UYVpEvL9shxs_f8pUxW8XsNBSTW4uWTmIaE4kBBOuKjRLC-SSIeWWrRLx7eD9-2wUYAamRBC4MIb_kDkX4dtFAI0JdTFqT9OpGtmf02ZKcUWZ0tOa2qWkp5k38ns6zQ6DeZ-ujLXUIuQU8QFFbaSlUg3XDzm66kkHtWTdw6SLj-FTAhhgj2O2bDHi2pXNUNsCNfgerYcqFVSj0VVDSajG0Vii9nLg0dd7icQn8RJ9TeXdP7qQIZ6xfC7XoRGsE2Z9_83DZh3a4dVqbZWOjl_aTKEVfSijVwEy_rLimLQZo~",
+          "title": "Alphabet's latest quarter spending",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/2K6Sk5S86Tg9nLhHvQxw-g~~/AAQRxRA~/fWBZILGB3H5K_ktn2LhfU7rPnkkjGK79eelp0Q4fuDc0GXZGcUSp8-oJgHk6SqwxgP_OUvLUQcMZGde8cC0giI5i73foR8IhtIixBkZ6tjbj9ynt1e2shKNXVTX7vwiZilB_cZ9GQGsvmcR5oh-WkJPCmj3saUVRdAIPqUGFoWVI9kiNjtHlA4-f32twUemXvKONMUTet8rZFAjGo_SC9fqsSX-iCMlyAuxonyMHdxqRtK474TdEklda8gDMtvaj17vCMP5St_vvomJs4xs-Yv-DKMlDHy7gLP_PSa5Fj307WiatEAovj1_8Ox0hf807AW8vJ_0QuL64nmqEcKC1L1c06aPcC6S3BkhFxCKO8OoVt3xgux7L1GMo06hD6hJYAJJpBxClrn1OFWtioddY74XIUPI993OuX_91Nd_ClHGeb682Dee_MJKjULYGIwqYzOhu4qCOAsO8blwCpUfibA~~",
+          "title": "Learn how rival Amazon spent – and won",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/uGrQ-L5REIzcgHK8n0SykQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rVLH_hzyvPOAnPCXjUEAUEjWLhSn6SjwbS2n_sgJ2P8SdpWVqIajDizYmjW4RYl0GTWLADRJngWuZZvivyPTFnXTjtk7tAdKj47uTUw2jIBTY5VfXOumE_tBFwj_-YYJSiLDwxnR3WQw22Cy9C_o_3n2NR1rdN7emB36oFow1eiPpUoR9GIgXOXJNMYsSrrOJqooWYVrhTptd91RX-2ZuP9pSiK5TfqItMuPBbgm5GGSeOWFgUyJwMVrkHUKK0I4dAFT_vrmY77b1UiqOeybKUEbPAO9n8cNgi2C9jnZpy6zhpdhqEv8mp0jRNufo6R2wfy4R6d_vViEMqIG7jZBCkWxcO9wFDtBXY2AVED1aqw8G_lR9-5kS2i0cXlPmf-Fa",
+          "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/c41ntKNB-eQ6UnO7CpKhwA~~/AAQRxRA~/Lcnyrvy3CQCYojYZFr2y7vnqp573j4ilJ0cz_EgOBHifcImUQnULtJeh5Vzn42w6NN-tOLc9MPTzBBQ_Tg1zTrpqRYhkFWJGKLPkUJwTHurSoLsM1zE3-n-QqGuYApmRYVjlbalsRRJIMsb_SJPLzxuYKOZRQi1cHWPNLoVNjeNNzDvp9SFWEPQ5nvSnvCh8N8vhXnEOpGsfcnVW-7OFU-99ut0Eox6BsUPjBqkBXyvPxDM8oFwL1FrD_1F_yE3yKVZ2h1LQoCuLnsMWTwQwtqYHP6GbUrN43BQ2ooRFutARFjM4VWNgSgXlF6Q7O0_NFXq_6fL84xQLSwWjPbI7E_en1cUhZOl616ynCLDqKC78_7BUrvpb6Xmu2-N6aB0Xf5aqYmO0YLl4D1B_lwussHKfLGW_pgZ27fMqhTKxXwFamXZQh_YKDleS8D_1yMHkZgfslAPFKwAsy0j5ZCcZgw~~",
+          "title": "despite results beating expectations",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/9wd2M1MxelaN8__Isku3OQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r7jlk9MWiMNnV4zCJ8Onh7YWiU_M5F0Ri7qG0AZlatSDmRjlsErXv21F79sQh2WXbTRCo4LjboUBDna2q2msQ46iewxGjj7tmls1KYsleS4O-IfcotWqYzwPlqjOR9Ksgoiv1U8pAo025nslHh9-NfFugBNNhJrnPc0Z5_kqHn5MiMpytLLpkNUwQIl4Rb2PVzG8KN8XTpiOgjp61MCJ32b7UA2Ro9qnDQbgDHzouxEeeLb-jTtS9OIgc5kK_lf1ykdQtLMD-qyD3NjCogIbx-TzCR2zFK2OLbcNV9jf-TsYCU1JOuDqw38Pckt3fc7pI60WFoqjJPzih-XfwiO6mJvwLQhBhKuIYk-AK9AaPhLcoUXb3H7lgie12GgliEzPU",
+          "title": "Sterling Infrastructure Grab",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1808,
+      "summaryHints": [
+        "PLTR enjoys strong U.S.",
+        "revenue boost, Alphabet’s DeepMind highlights AI growth, and more… Breakfast News   Click here to read online .",
+        "AUGUST 4, 2026Monday's MarketsS&P 500 7,601 (+1.48%)Nasdaq 25,914 (+2.13%)Dow 53,178 (+1.32%)Bitcoin 63,879 (+0.85%)------------------------------------------------------ 1.",
+        "Beware the Cautionary Tale of Leopold Aschenbrenner ------------------------------------------------------ Tim Beyers   — TIM BEYERS • TEAM RULE BREAKERS We live in dangerous times, Fools.",
+        "More than ever, investors seem hell-bent on lighting themselves and their savings on fire with leverage and concentrated bets they have no business making."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Beware the Cautionary Tale of Leopold Aschenbrenner ------------------------------------------------------ Tim Beyers — TIM BEYERS • TEAM RULE BREAKERS We live in dangerous times, Fools. More than ever, investors seem hell-bent on lighting themselves and their savings on fire with leverage and concentrated bets they have no business making. The latest cautionary tale is Leopold Aschenbrenner, a novice hedge fund manager who now appears to have blown up billions in capital by trading recklessly. When can we agree – as both Team Rule Breakers and Team Hidden Gems do – that it doesn't need to be like this? * The setup was a house of cards: The Wall Street Journal and Financial Times have both reported thoroughly on the troubles at his fund, Situational Awareness, so we won't rehash it. The summary is simple: Aschenbrenner overbet on a single theme – AI hardware and infrastructure – and used leverage to do it, running up big returns when times were good but creating a structure that blew apart the moment the sector retreated. In the end, two years of work came undone in hours. * New investors, please adopt two habits: First, dollar-cost average into your investments monthly. Second, invest at least 50% of your capital into equal-weight index funds. You don’t need to do this forever – I don't use index funds or dollar-cost average anymore either – but I've been at this for more than 20 years and made valuable mistakes I no longer repeat. If you're new, you need the time and space to make mistakes without destroying yourself financially. Divider ----------------------------------------------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "'Priced for Perfection,' Palantir Still Soars 15% ---------------------------------------------------- Image shows chart of Palantir's gross profit over the past three years Palantir popped 15% in pre-market trading as quarterly revenue and earnings beat market expectations . U.S. government revenue grew 90% from a year ago, with U.S. commercial revenue rising an impressive 149%, leading to management increasing full-year guidance. International growth was one of the few weak spots in the entire report. * “Forget consensus…to my knowledge, no businesses at our scale has even grown half this much”: CEO Alex Karp struck an upbeat tone when discussing the importance of the results. This isn't a modest beat, but a step-change in scale, with net income roughly tripling and the company crossing $1 billion in quarterly profit for the first time. A beat this size, on top of a company that's already priced for hypergrowth, shows investors demand is still outrunning even lofty expectations. * Karp says strong growth “looks like this is going to go on for at least another 18 months”: The revenue guidance increase reflects about an 82% year-over-year growth. A guidance raise this large is enough to impress investors now, but the focus will quickly shift to whether Palantir can keep raising guidance at this pace or whether increases start shrinking. A shrinking \"raise\" (even alongside continued beats) is often an early sign that a hypergrowth story is normalizing. Watch a Scoreboard video on Palantir DividerA message from The Motley Fool <p><strong>Your portfolio could be more exposed than you think.</strong></p> <p>The S&amp;P 500's top 10 stocks now make up nearly 37% of the entire index &mdash; more concentrated than the peak of the dot-com bubble. If you've been adding to your winners over the last few years, your own portfolio has probably drifted the same direction without you meaning it to.</p> <p>Here's what history says about moments like this: every time the market has gotten this concentrated, the other 490 stocks outperformed the top 10 over the following five years &mdash; 88% of the time.</p> <p>Tom Gardner built a complete 50-stock portfolio designed for exactly this moment. And Motley Fool is putting $100,000 of its own money in alongside the Motley Fool members who follow it.</p> <p><a href=\" the Portfolio with Epic &rarr;</a></p> ----------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/9LjPrFigctT65AEJlVun4Q~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rdqwadyxVjWWpnhGRoYqlUFGu8ydX5QsLcztiX5CZRe77Tv4d7XtCqL0pJ_JjGYtBOTd8MbVHjZ3O7joNc-RSjVqKdXR-kfCoV8n8HoixSjQmXTR8BhzU59x9a8ivdu_q_rn8sWgFTGpaSltwCaoPKUNLLp4steMUd0bCapoYfNz8m-UV35QQYT6jqRDVjB48W1k0EpWHWdAAUQtXXgpp3Nd38kpcKPAeqXU6pmLcrx0PV8etCDpZ8b-p6eV-YyQQMYdlh2kRmn6MyYpRcno-BWIjsylLnArxwncZwpsBXLGV8_EEKMnwDKdt8RYxbesMhXFEQMit8lNpdtQNzo03_pbMcI6jilKOCcxRGL7iWEtJzrpx8BZ-j5Fvmey0QQ5F",
+              "title": "Palantir",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/AEt4bP2psrUB5J1hhtHm8Q~~/AAQRxRA~/BITLanZ7fZtjCliX9w1_IxiKiuQwCM_EJ4SRfp1OdLMRIQO6ZhoYo5_wLwpG8N0w6_osIjtqFZZI66V7-k7Vxrg4CVAUQ-RPFDnRcSxi0pmfuSqxj6rf129KtN-5tJRjNHXboxrSP445pkMNqsCJQL5ztRFIxux9eEqQD0FZK2KbCsNfSlLsJuFTTrLoirwfrCcpx2V0-DmFyWRSqgr_ICFpXZOLg01_xofjoxvYLjgcJkK2iIj8tKkdMWKw1f45-o2C37oLyiUd94U_A47gs8KGllmdI10SUHVjE-T4q4DoC8qZlj9Q5W0UIxI6A1xYcKJStJKnoTl4PHEvHf-mfYZcHtfMf7QUDAsdrWZZgN_DZHws8fDpO_vExEhMJBaHbLx1OmHm__hrT4igu1vepgLoJTlM-G5F-w-i4yFEzxrQ_Qe_ikwBlzpjfK07sRJx",
+              "title": "Watch a Scoreboard video on Palantir",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Alphabet Burns Cash Now, But Vows AI Payoff Later ---------------------------------------------------- Alphabet ’s DeepMind executive Jasjeet Sekhon said the industry's heavy AI-related capital spending is a precursor to the next stage of AI, known as recursive self-improvement (RSI). This is where AI systems help create increasingly capable successor systems, rather than each new model generation being manually trained by humans. * Helping to justify Q2’s increased capex spend and full-year forecast: Sekhon acknowledged that revenues from AI do not yet sustain the level of AI-related capex being made, and instead chose to frame Alphabet's latest quarter spending as a wager on a future payoff rather than something justified by current returns. * “I certainly don’t love it, but I’ve also been at this game long enough to know to wait before acting”: Fool analyst Tim Beyers isn’t a fan of the sharp increased free cash flow burn rate at Alphabet. However, with his long-term investment hat on, Tim says “in this case, what I’m waiting for is a mechanism to help me understand how to measure Alphabet’s progress toward achieving the capex payoff we all want to believe is coming.” Investors should track whether management's own commentary keeps hedging capex with speculative future payoffs like RSI versus grounding it in near-term, measurable returns. Learn how rival Amazon spent – and won Divider -------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/IpSRtlM9BKc5Xl8CdtJcaw~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r0ZDc5EUZkSYiDtXJWk7Goo3XRIyyyCbYUW1gDxlECV5oUBdEMrgnMxE_13q8FLWtVJE2yLCUxSjh_ZvgUhKuXyl8PlvL_58iBrlgx15r1qZNb0E-Sw7vBn6VorHLfDYPoku-2JlQVWUMaDdcMPnt2LqvvVR_JCjRIhkwvigaey418fidTUOv6TjQMQU53IFRPB4Ao7P4xjAJFDXiSFV9JTZ334ot_CjcBgoJuOpkWjTrlrNAGOZZIBcxZq86Bn7fy8kFdafGQveYmaOdY5jwKPZItbMtaLmmnKz4B8OHfFqS7i-ihmomLePY24CxwuW2DOKgbFQGSkmTBgJ-zFZJ11e0uCH4otgFtf8IWBKAUMIQ-ONGlp7vbfzl3V6ucuch",
+              "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/HlGXH1r9aPMZJtCZ-Olplg~~/AAQRxRA~/jyhVhUWaTpPEEPag2YJ0B6F35N8b66FFcUdaRwbuyA7Z7np_bk-3N7LH_TeLGf4_Yg6wSPO8BWpADjmNZTQizo0Vj8T-meYEr0BbQuycK7sMHpLbD9hbsQzt1MoMaqSFYIQszhSTo4vXHdJKpWELirlq-QMJeb6Hmwa_V-SOPzNZ7Rxxz1hvtH2ZpALPB_uZ1UYVpEvL9shxs_f8pUxW8XsNBSTW4uWTmIaE4kBBOuKjRLC-SSIeWWrRLx7eD9-2wUYAamRBC4MIb_kDkX4dtFAI0JdTFqT9OpGtmf02ZKcUWZ0tOa2qWkp5k38ns6zQ6DeZ-ujLXUIuQU8QFFbaSlUg3XDzm66kkHtWTdw6SLj-FTAhhgj2O2bDHi2pXNUNsCNfgerYcqFVSj0VVDSajG0Vii9nLg0dd7icQn8RJ9TeXdP7qQIZ6xfC7XoRGsE2Z9_83DZh3a4dVqbZWOjl_aTKEVfSijVwEy_rLimLQZo~",
+              "title": "Alphabet's latest quarter spending",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/2K6Sk5S86Tg9nLhHvQxw-g~~/AAQRxRA~/fWBZILGB3H5K_ktn2LhfU7rPnkkjGK79eelp0Q4fuDc0GXZGcUSp8-oJgHk6SqwxgP_OUvLUQcMZGde8cC0giI5i73foR8IhtIixBkZ6tjbj9ynt1e2shKNXVTX7vwiZilB_cZ9GQGsvmcR5oh-WkJPCmj3saUVRdAIPqUGFoWVI9kiNjtHlA4-f32twUemXvKONMUTet8rZFAjGo_SC9fqsSX-iCMlyAuxonyMHdxqRtK474TdEklda8gDMtvaj17vCMP5St_vvomJs4xs-Yv-DKMlDHy7gLP_PSa5Fj307WiatEAovj1_8Ox0hf807AW8vJ_0QuL64nmqEcKC1L1c06aPcC6S3BkhFxCKO8OoVt3xgux7L1GMo06hD6hJYAJJpBxClrn1OFWtioddY74XIUPI993OuX_91Nd_ClHGeb682Dee_MJKjULYGIwqYzOhu4qCOAsO8blwCpUfibA~~",
+              "title": "Learn how rival Amazon spent – and won",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "RSI"
+          ],
+          "themes": [
+            "AI Infrastructure"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Sterling Loses Its Shine as Grab and Wix Gleam ------------------------------------------------- * Sterling Infrastructure fell over 4% before the opening bell despite results beating expectations . $250.8 million of the $1.17 billion revenue came from recent acquisitions, meaning acquired revenue accounted for a meaningful share of the 90% headline growth rate rather than organic demand. This provides a distinction between the numbers versus the narrative behind them, and will be assessed going forward to see where the company’s growth is actually coming from. The stock is outperforming the S&P 500 by 90% since the April 2025 Stock Advisor rec by Team Hidden Gems. * Grab rallied around 4% in pre-market trading as quarterly revenue jumped 21.7%, driven by Monthly Transacting Users hitting a record 54 million. However, the 571% net income headline jump for the Team Rule Breakers rec mostly came from a one-time accounting gain from a corporate transaction. It’s not evidence that Grab's core ride-hailing-and-delivery business suddenly got 5x more profitable. * Wix.com also rose around 4% before the market opened after it reported Q2 revenue of $563 million, up 15% year over year (YoY), and bookings of $569 million, up 12% YoY, driven by strong Base44 performance. After launching a proprietary LLM, CFO Lio Semesh said it “marks a turning point in lowering our AI inference and compute costs.” This matters as it should act to boost profit margins in coming quarters for the Team Hidden Gems recommendation currently in the Stock Advisor Penalty Box. Understand why WIX is in the Penalty Box Divider ----------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/uGrQ-L5REIzcgHK8n0SykQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rVLH_hzyvPOAnPCXjUEAUEjWLhSn6SjwbS2n_sgJ2P8SdpWVqIajDizYmjW4RYl0GTWLADRJngWuZZvivyPTFnXTjtk7tAdKj47uTUw2jIBTY5VfXOumE_tBFwj_-YYJSiLDwxnR3WQw22Cy9C_o_3n2NR1rdN7emB36oFow1eiPpUoR9GIgXOXJNMYsSrrOJqooWYVrhTptd91RX-2ZuP9pSiK5TfqItMuPBbgm5GGSeOWFgUyJwMVrkHUKK0I4dAFT_vrmY77b1UiqOeybKUEbPAO9n8cNgi2C9jnZpy6zhpdhqEv8mp0jRNufo6R2wfy4R6d_vViEMqIG7jZBCkWxcO9wFDtBXY2AVED1aqw8G_lR9-5kS2i0cXlPmf-Fa",
+              "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/c41ntKNB-eQ6UnO7CpKhwA~~/AAQRxRA~/Lcnyrvy3CQCYojYZFr2y7vnqp573j4ilJ0cz_EgOBHifcImUQnULtJeh5Vzn42w6NN-tOLc9MPTzBBQ_Tg1zTrpqRYhkFWJGKLPkUJwTHurSoLsM1zE3-n-QqGuYApmRYVjlbalsRRJIMsb_SJPLzxuYKOZRQi1cHWPNLoVNjeNNzDvp9SFWEPQ5nvSnvCh8N8vhXnEOpGsfcnVW-7OFU-99ut0Eox6BsUPjBqkBXyvPxDM8oFwL1FrD_1F_yE3yKVZ2h1LQoCuLnsMWTwQwtqYHP6GbUrN43BQ2ooRFutARFjM4VWNgSgXlF6Q7O0_NFXq_6fL84xQLSwWjPbI7E_en1cUhZOl616ynCLDqKC78_7BUrvpb6Xmu2-N6aB0Xf5aqYmO0YLl4D1B_lwussHKfLGW_pgZ27fMqhTKxXwFamXZQh_YKDleS8D_1yMHkZgfslAPFKwAsy0j5ZCcZgw~~",
+              "title": "despite results beating expectations",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Next Up: Q2 Earnings from Tunes, Travel, and Tech ---------------------------------------------------- * Spotify fell around 2% before the market opened. After a disappointing last quarter where ad-supported revenue fell by 5%, the latest results showed a slight miss versus guidance for Monthly Active Users (MAUs). However, revenue grew by 14%, but the ongoing concerns over slowing subscription growth in streaming weighed on the stock. This is important as users ultimately drive engagement and activity for the Team Rule Breakers and Team Hidden Gems rec. * Booking Holdings releases results after the closing bell. Recommended in Stock Advisor by both Team Rule Breakers and Team Hidden Gems, this quarter is expected to show a slower pace of growth due to the conflict in the Middle East. Guidance on how long it expects lower room and gross bookings from this area will be key for the stock reaction. * Upstart reports earnings once the market closes. After beating revenue expectations last quarter , analysts forecast a 37.9% jump in YoY revenue. Beside the headline figures, core personal loan conversion rates will be watched for the Team Rule Breakers and Team Hidden Gems rec, after management said last quarter they were \"unseasonably strong and stable.\" * Toast earnings are due following the closing bell, as it aims to build on the momentum from last quarter . The core test tonight is how Toast's growth engine – net new locations plus payment volume per location – is performing, and how management expects it to track for the Foundational Stock in Rule Breakers through to year end. Delve into a full TOST earnings preview Divider ----------------------------------------",
+          "links": [],
+          "tickers": [
+            "UPST"
+          ],
+          "themes": [
+            "Streaming And Media",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 6",
+          "text": "Today’s Take: Paying the Tech Premium ---------------------------------------- At times many tech companies can look “overvalued” for whatever reason and it’s not always justified. But sometimes it is justified because the market is looking forward at the potential for companies that aren’t just growing but also scaling. Companies with strong intellectual property or tech prowess, network effects and even optionality can oftentimes produce a competitive position that is difficult to encroach. Even if the company isn’t profitable to that point, the growth it’s witnessing based on factors like these can indicate scaling is inevitable which means strong operating leverage and expanding margins, hence the market’s enthusiasm via robust valuation multiples. — JASON MOSER • TEAM RULE BREAKERS Join the debate on tech's valuation Divider ------------",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 7",
+          "text": "Your Take ------------ YESTERDAY'S TOP TAKE We asked: Do you prefer investing in dominant industry giants or smaller, nimbler companies? Member borneofan said “I avoid dominant business as a rule. Large companies are best inside an index ETF. Dominant but small is a good place to be, [that's] a growth bet. I argue over how much to index within [Schwab 1000 Index ETF ], and an EAFE ETF. If my personal activity is behind the index, I sell my positions to buy the index. When I outperform, I sell the index to buy independent stuff. I tend to underperform on a composite return when megacaps zoom. But I am less volatile and do better when exUS and small/mid caps do well. Plus I always lag from gold/commodity insurance.” TODAY'S QUESTION What’s your biggest question as an investor? Share in the comments on today’s article! Divider The Morning Show ************************** Have an Appetite for More? ************************** Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "RSI",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Alphabet Burns Cash Now, But Vows AI Payoff Later ---------------------------------------------------- Alphabet ’s DeepMind executive Jasjeet Sekhon said the industry's heavy AI-related capital spending is a precursor to the next stage of AI, known as recursive self-improvement (RSI). However, with his long-term investment hat on, Tim says “in this case, what I’m waiting for is a mechanism to help me understand how to measure Alphabet’s progress toward achieving the capex payoff we all want to believe is coming.” Investors should track whether management's own commentary keeps hedging capex with speculative future payoffs like RSI versus grounding it in near-term, measurable returns."
+          ]
+        },
+        {
+          "symbol": "UPST",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "* Upstart reports earnings once the market closes."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Streaming And Media",
+        "Earnings"
+      ],
+      "events": []
+    },
+    {
+      "title": "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth",
+      "file": "2026-08-04-market-briefstock-analysismarket-bullets-market-bullets-amazon-tops-3t-spotify-hits-300m-subscribers-wayfair-surges-over--19fccdecd4906bab.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Tue, 04 Aug 2026 13:03:00 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [
+        {
+          "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
+          "title": "Wayfair W Earnings Q2 2026",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
+          "title": "Bp 2q Earnings Oil Iran War",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+          "title": "Ukraine targets Wildberries sites",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
+          "title": "Us Iran War Trump Hormuz",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+          "title": "Five states hold primaries",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1942,
+      "summaryHints": [
+        "​ 💲McDonald's, BP, Pfizer, Palantir earnings and more | Tuesday - August 04, 2026 | View Online Presented by Empower --------------- Market Overview --------------- S&P 500 +1.48% Pre: +0.32% Nasdaq +2.13% Pre: +1.04% Dow +1.32% Pre: +1.23% ------------------- Stock & Market News -------------------",
+        "* Amazon tops $3T: Amazon (AMZN  ) surpassed $3T in market value after strong earnings, accelerating AWS cloud growth, and AI momentum boosted investor confidence.",
+        "* Visa acquires BioCatch: Visa (V  ) is buying AI fraud detection platform BioCatch for $2.4B in cash, expanding its fraud prevention capabilities.",
+        "BioCatch generated more than $185M in annual recurring revenue at the end of 2025.",
+        "The deal is expected to close by early 2027."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Apple seeks OpenAI injunction: Apple (AAPL  ) asked a U.S.",
+            "OpenAI denied possessing or seeking Apple’s confidential information."
+          ]
+        },
+        {
+          "symbol": "AMZN",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Amazon tops $3T: Amazon (AMZN  ) surpassed $3T in market value after strong earnings, accelerating AWS cloud growth, and AI momentum boosted investor confidence."
+          ]
+        },
+        {
+          "symbol": "APO",
+          "mentions": 1,
+          "move": "+63.68%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Apollo Global Management (APO  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "ATTO",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "BA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* FAA certifies 737 Max 7: Boeing (BA  ) received Federal Aviation Administration certification for the 737 Max 7 after years of delays, clearing the company to begin deliveries."
+          ]
+        },
+        {
+          "symbol": "BLSM",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "BP",
+          "mentions": 6,
+          "move": "+48.21%",
+          "notes": [
+            "​ 💲McDonald's, BP, Pfizer, Palantir earnings and more | Tuesday - August 04, 2026 | View Online Presented by Empower --------------- Market Overview --------------- S&P 500 +1.48% Pre: +0.32% Nasdaq +2.13% Pre: +1.04% Dow +1.32% Pre: +1.23% ------------------- Stock & Market News -------------------",
+            "* BP: BP (BP  ) reported a Q2 net profit of $5.7B, beating expectations, as higher oil and gas prices from the Iran conflict boosted earnings.",
+            "* Financials   · As Reported   · Metrics   · Press Release BP p.l.c."
+          ]
+        },
+        {
+          "symbol": "BRVE",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "CAT",
+          "mentions": 1,
+          "move": "+23.98%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Caterpillar (CAT  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "CEG",
+          "mentions": 1,
+          "move": "+30.29%",
+          "notes": []
+        },
+        {
+          "symbol": "CNQ",
+          "mentions": 1,
+          "move": "+48.31%",
+          "notes": []
+        },
+        {
+          "symbol": "CVX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Chevron awards staff bonuses: Chevron (CVX  ) will pay most employees a special bonus equal to half a month's base pay after record earnings, citing strong operations and Hess integration."
+          ]
+        },
+        {
+          "symbol": "DDOG",
+          "mentions": 1,
+          "move": "+30.45%",
+          "notes": []
+        },
+        {
+          "symbol": "DELL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Volta secures AI funding: AI cloud startup Volta raised $300M at a $2.4B valuation, backed by Dell (DELL  ), NVIDIA (NVDA  ), and others."
+          ]
+        },
+        {
+          "symbol": "FANG",
+          "mentions": 1,
+          "move": "+51.22%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Diamondback Energy (FANG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "HSBC",
+          "mentions": 2,
+          "move": "+16.06%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release HSBC Holdings (HSBC  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "ITUB",
+          "mentions": 1,
+          "move": "+16.47%",
+          "notes": []
+        },
+        {
+          "symbol": "LLY",
+          "mentions": 1,
+          "move": "+31.35%",
+          "notes": []
+        },
+        {
+          "symbol": "LTGO",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "MCD",
+          "mentions": 2,
+          "move": "+3.74%",
+          "notes": [
+            "* McDonald's: McDonald's (MCD  ) reported weaker-than-expected U.S.",
+            "* Financials   · As Reported   · Metrics   · Press Release McDonald's (MCD  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "MCK",
+          "mentions": 1,
+          "move": "+6.39%",
+          "notes": []
+        },
+        {
+          "symbol": "MELI",
+          "mentions": 1,
+          "move": "+42.43%",
+          "notes": []
+        },
+        {
+          "symbol": "MPC",
+          "mentions": 1,
+          "move": "+53.48%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Marathon Petroleum (MPC  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "MRK",
+          "mentions": 1,
+          "move": "+5.07%",
+          "notes": [
+            "(MRK  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Volta secures AI funding: AI cloud startup Volta raised $300M at a $2.4B valuation, backed by Dell (DELL  ), NVIDIA (NVDA  ), and others."
+          ]
+        },
+        {
+          "symbol": "OKE",
+          "mentions": 1,
+          "move": "+52.77%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release ONEOK (OKE  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "ON",
+          "mentions": 2,
+          "move": "+52.77%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release ONEOK (OKE  ) has released its quarterly earnings.",
+            "* Financials   · As Reported   · Metrics   · Press Release ON Semiconductor (ON  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "PFE",
+          "mentions": 2,
+          "move": "+2.27%",
+          "notes": [
+            "* Pfizer: Pfizer (PFE  ) beat Q2 profit estimates on strong demand for Eliquis and raised the low end of its 2026 revenue guidance to $60.5–$62.5B.",
+            "* Financials   · As Reported   · Metrics   · Press Release Pfizer (PFE  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "PLTR",
+          "mentions": 2,
+          "move": "+92.73%",
+          "notes": [
+            "* Palantir: Palantir (PLTR  ) lifted its full-year revenue and operating income forecasts after U.S.",
+            "View definitions --------------- Recent Earnings --------------- Palantir (PLTR  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "SPCX",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* SpaceX prioritizes Starlink launches: SpaceX (SPCX  ) is increasingly using Falcon 9 launches for Starlink, limiting capacity for third-party customers until 2028–29 and strengthening its satellite business while squeezing rival space companies.",
+            "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- SpaceX (SPCX  ) will report today after close."
+          ]
+        },
+        {
+          "symbol": "SPOT",
+          "mentions": 2,
+          "move": "+16.83%",
+          "notes": [
+            "* Spotify: Spotify (SPOT  ) reached 300M premium subscribers in Q2 as revenue rose 14% YoY to €4.78B.",
+            "* Financials   · As Reported   · Metrics   · Press Release Spotify Technology (SPOT  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "TX",
+          "mentions": 1,
+          "move": "+12.45%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Vertex Pharmaceuticals (VRTX  ) has released its quarterly earnings.",
+            "* Financials   · As Reported   · Metrics Ternium (TX  ) will report today after close."
+          ]
+        },
+        {
+          "symbol": "VOGX",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "VRTX",
+          "mentions": 1,
+          "move": "+12.45%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Vertex Pharmaceuticals (VRTX  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "XYZ",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "court to block OpenAI   from using alleged trade secrets in its consumer hardware efforts, escalating the companies’ legal dispute."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Space Economy",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": [
+        {
+          "kind": "economic",
+          "date": "2026-08-04",
+          "time": "8:30 AM",
+          "title": "Balance of Trade"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-04",
+          "time": "8:30 AM",
+          "title": "Exports and Imports"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-04",
+          "time": "10:00 AM",
+          "title": "JOLTs Job Openings"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-04",
+          "time": "4:30 PM",
+          "title": "API Crude Oil Stock Change"
+        }
+      ]
+    }
+  ],
+  "readingList": [
+    {
+      "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+      "note": "Alphabet Burns Cash Now, But Vows AI Payoff Later ---------------------------------------------------- Alphabet ’s DeepMind executive Jasjeet Sekhon said the industry's heavy AI-r…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/IpSRtlM9BKc5Xl8CdtJcaw~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r0ZDc5EUZkSYiDtXJWk7Goo3XRIyyyCbYUW1gDxlECV5oUBdEMrgnMxE_13q8FLWtVJE2yLCUxSjh_ZvgUhKuXyl8PlvL_58iBrlgx15r1qZNb0E-Sw7vBn6VorHLfDYPoku-2JlQVWUMaDdcMPnt2LqvvVR_JCjRIhkwvigaey418fidTUOv6TjQMQU53IFRPB4Ao7P4xjAJFDXiSFV9JTZ334ot_CjcBgoJuOpkWjTrlrNAGOZZIBcxZq86Bn7fy8kFdafGQveYmaOdY5jwKPZItbMtaLmmnKz4B8OHfFqS7i-ihmomLePY24CxwuW2DOKgbFQGSkmTBgJ-zFZJ11e0uCH4otgFtf8IWBKAUMIQ-ONGlp7vbfzl3V6ucuch",
+          "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+          "label": "Alphabet Burns Cash Now, But Vows AI Payoff Later"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/HlGXH1r9aPMZJtCZ-Olplg~~/AAQRxRA~/jyhVhUWaTpPEEPag2YJ0B6F35N8b66FFcUdaRwbuyA7Z7np_bk-3N7LH_TeLGf4_Yg6wSPO8BWpADjmNZTQizo0Vj8T-meYEr0BbQuycK7sMHpLbD9hbsQzt1MoMaqSFYIQszhSTo4vXHdJKpWELirlq-QMJeb6Hmwa_V-SOPzNZ7Rxxz1hvtH2ZpALPB_uZ1UYVpEvL9shxs_f8pUxW8XsNBSTW4uWTmIaE4kBBOuKjRLC-SSIeWWrRLx7eD9-2wUYAamRBC4MIb_kDkX4dtFAI0JdTFqT9OpGtmf02ZKcUWZ0tOa2qWkp5k38ns6zQ6DeZ-ujLXUIuQU8QFFbaSlUg3XDzm66kkHtWTdw6SLj-FTAhhgj2O2bDHi2pXNUNsCNfgerYcqFVSj0VVDSajG0Vii9nLg0dd7icQn8RJ9TeXdP7qQIZ6xfC7XoRGsE2Z9_83DZh3a4dVqbZWOjl_aTKEVfSijVwEy_rLimLQZo~",
+          "title": "Alphabet's latest quarter spending",
+          "label": "Alphabet's latest quarter spending"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "RSI"
+      ],
+      "score": 21
+    },
+    {
+      "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+      "note": "Sterling Loses Its Shine as Grab and Wix Gleam ------------------------------------------------- * Sterling Infrastructure fell over 4% before the opening bell despite results bea…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/uGrQ-L5REIzcgHK8n0SykQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rVLH_hzyvPOAnPCXjUEAUEjWLhSn6SjwbS2n_sgJ2P8SdpWVqIajDizYmjW4RYl0GTWLADRJngWuZZvivyPTFnXTjtk7tAdKj47uTUw2jIBTY5VfXOumE_tBFwj_-YYJSiLDwxnR3WQw22Cy9C_o_3n2NR1rdN7emB36oFow1eiPpUoR9GIgXOXJNMYsSrrOJqooWYVrhTptd91RX-2ZuP9pSiK5TfqItMuPBbgm5GGSeOWFgUyJwMVrkHUKK0I4dAFT_vrmY77b1UiqOeybKUEbPAO9n8cNgi2C9jnZpy6zhpdhqEv8mp0jRNufo6R2wfy4R6d_vViEMqIG7jZBCkWxcO9wFDtBXY2AVED1aqw8G_lR9-5kS2i0cXlPmf-Fa",
+          "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+          "label": "Sterling Loses Its Shine as Grab and Wix Gleam"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/c41ntKNB-eQ6UnO7CpKhwA~~/AAQRxRA~/Lcnyrvy3CQCYojYZFr2y7vnqp573j4ilJ0cz_EgOBHifcImUQnULtJeh5Vzn42w6NN-tOLc9MPTzBBQ_Tg1zTrpqRYhkFWJGKLPkUJwTHurSoLsM1zE3-n-QqGuYApmRYVjlbalsRRJIMsb_SJPLzxuYKOZRQi1cHWPNLoVNjeNNzDvp9SFWEPQ5nvSnvCh8N8vhXnEOpGsfcnVW-7OFU-99ut0Eox6BsUPjBqkBXyvPxDM8oFwL1FrD_1F_yE3yKVZ2h1LQoCuLnsMWTwQwtqYHP6GbUrN43BQ2ooRFutARFjM4VWNgSgXlF6Q7O0_NFXq_6fL84xQLSwWjPbI7E_en1cUhZOl616ynCLDqKC78_7BUrvpb6Xmu2-N6aB0Xf5aqYmO0YLl4D1B_lwussHKfLGW_pgZ27fMqhTKxXwFamXZQh_YKDleS8D_1yMHkZgfslAPFKwAsy0j5ZCcZgw~~",
+          "title": "despite results beating expectations",
+          "label": "despite results beating expectations"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [],
+      "score": 18
+    },
+    {
+      "title": "Watch a Scoreboard video on Palantir",
+      "note": "'Priced for Perfection,' Palantir Still Soars 15% ---------------------------------------------------- Image shows chart of Palantir's gross profit over the past three years Palan…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/AEt4bP2psrUB5J1hhtHm8Q~~/AAQRxRA~/BITLanZ7fZtjCliX9w1_IxiKiuQwCM_EJ4SRfp1OdLMRIQO6ZhoYo5_wLwpG8N0w6_osIjtqFZZI66V7-k7Vxrg4CVAUQ-RPFDnRcSxi0pmfuSqxj6rf129KtN-5tJRjNHXboxrSP445pkMNqsCJQL5ztRFIxux9eEqQD0FZK2KbCsNfSlLsJuFTTrLoirwfrCcpx2V0-DmFyWRSqgr_ICFpXZOLg01_xofjoxvYLjgcJkK2iIj8tKkdMWKw1f45-o2C37oLyiUd94U_A47gs8KGllmdI10SUHVjE-T4q4DoC8qZlj9Q5W0UIxI6A1xYcKJStJKnoTl4PHEvHf-mfYZcHtfMf7QUDAsdrWZZgN_DZHws8fDpO_vExEhMJBaHbLx1OmHm__hrT4igu1vepgLoJTlM-G5F-w-i4yFEzxrQ_Qe_ikwBlzpjfK07sRJx",
+          "title": "Watch a Scoreboard video on Palantir",
+          "label": "Watch a Scoreboard video on Palantir"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [],
+      "score": 16
+    }
+  ],
+  "macro": {
+    "tone": "Risk-Off",
+    "score": 10,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Palantir's Karp Makes Bold Call",
+        "note": "Beware the Cautionary Tale of Leopold Aschenbrenner ------------------------------------------------------ Tim Beyers — TIM BEYERS • TEAM RULE BREAKERS We live in dangerous times, Fools. More than ever, investors seem hell-bent on lighting themselves and their savings on fire with leverage and concentrated bets they have no business making. The latest cautionary tale is Leopold Aschenbrenner, a novice hedge fund manager who now appears to have blown up billions in capital by trading recklessly. When can we agree – as both Team Rule Breakers and Team Hidden Gems do – that it doesn't need to be like this? * The setup was a house of cards: The Wall Street Journal and Financial Times have both reported thoroughly on the troubles at his fund, Situational Awareness, so we won't rehash it. The summary is simple: Aschenbrenner overbet on a single theme – AI hardware and infrastructure – and used leverage to do it, running up big returns when times were good but creating a structure that blew apart the moment the sector retreated. In the end, two years of work came undone in hours. * New investors, please adopt two habits: First, dollar-cost average into your investments monthly. Second, invest at least 50% of your capital into equal-weight index funds. You don’t need to do this forever – I don't use index funds or dollar-cost average anymore either – but I've been at this for more than 20 years and made valuable mistakes I no longer repeat. If you're new, you need the time and space to make mistakes without destroying yourself financially. Divider ----------------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/tj46AZTbjXn_jrUhyPCV_g~~/AAQRxRA~/D3K3-Nea5A22ddMgczYGnUGvz5H_blrla_Yi7KoLauMcAsnzHgnPCQyG2YS68W-V5fFA2oHfXFw2Cijx3JPPJb2tTYaCO7QRJS7BA4FxY-F-qtGSi1Pm65bdI_pTfWsym5cZRfZ1nrsA_OyWN1DDuar8AXqLD68-UXUlDjSoc15DfdZ7WHgFtSo6evw34-JWjc6LWtR_LE1C0AtslMBGwm3CywoNluErIHwi9ax8LeQUErXXAKOlHqht8hq5V3MTd0vacvQoo_SQrkCg6f6rKNDqLIPPdFyAdIP0c9zarZfQk7ZakzW8jZwe2_sD9LJ3SAYojqAQ8d0rmCNIrUJhUT137euBAbfrDAJabk2zyzYe3RuqGn7rOpZAhK9iIdPV1lhE9UcVRFH0Z_1R5woV7pL1pEw9U40wSDiTm9Y73-dOdVm2ELP0OirK6NZU4Fjc",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/s_kd8Rb6ee-8Hsg5kwRCaQ~~/AAQRxRA~/fBz5IwaHxuMQJz5FTm1sNk0BGBR_dZZXCjAFkkDImJGT4R5zV0Q_UuwVVDj0LXlzkyg-ACJ7KFoH5cLiCJLvno7gOLWUeVcCXKRw03x3SLCVJjVzEQxTQZjqhAOmnKIXcSVTOYSdsjIspQAFpBreVga9BOi5D4xJ6RmR0ELolm-QmOCd8oiKGGH0kZsBDMaTU4oGljt81qRPoeeiyVyl95Ytx8CAqHqZWNGZTMyApvbKPC0s-gQj8__vGhW5Uu1FANi4YlpLS7euEFq25hjdN2ZhW_kys2T7CAR4JqGNougrrezIo6chfE6N6ET-fbehbjarpxPwbXyDbQxUXcF27nssd-Fy_HAJp7uDGSkOl3srXBYY-w9Nn-4DF8zdIhYk3J840nHHo5hj2iEA44LQacWlq-XUlRmCRYWqaGycARyHDgzGvWRF5fcEEWZct-WraR0s-Xn6MAczl7vIHNDdMaGsieYjA3DJtD87huJFMe8~",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9LjPrFigctT65AEJlVun4Q~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rdqwadyxVjWWpnhGRoYqlUFGu8ydX5QsLcztiX5CZRe77Tv4d7XtCqL0pJ_JjGYtBOTd8MbVHjZ3O7joNc-RSjVqKdXR-kfCoV8n8HoixSjQmXTR8BhzU59x9a8ivdu_q_rn8sWgFTGpaSltwCaoPKUNLLp4steMUd0bCapoYfNz8m-UV35QQYT6jqRDVjB48W1k0EpWHWdAAUQtXXgpp3Nd38kpcKPAeqXU6pmLcrx0PV8etCDpZ8b-p6eV-YyQQMYdlh2kRmn6MyYpRcno-BWIjsylLnArxwncZwpsBXLGV8_EEKMnwDKdt8RYxbesMhXFEQMit8lNpdtQNzo03_pbMcI6jilKOCcxRGL7iWEtJzrpx8BZ-j5Fvmey0QQ5F",
+            "title": "Palantir",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/dmnIOyoTEuYJxKrY_rDTMg~~/AAQRxRA~/h37VsIB2IrMINonvxo2Djf-j9aG6F8SVmhHxt19xo4O-PhX8mNW9mRIjrMuRw-Z6nDDno0qvDLL4aWLlJ3TJ9wjYVTbUeiVwoEhjPiu9UEgogd1NSTPmv9Bhat4nygIL5RH8sMbk-oLTMBYoBx_rOoY7YnVc2tHMjjri94dTaGMkxKMiqfQCyCS8FluOUQDAfXM3-s29bIDdMhmhgzFtNkm_6EYCq0CeFotFE9tsuAFQI5EFk3m9d7iElUY2bGwVkrwPzDV5Uk_4F94cKXUbeinvYYytRANltd3sYHBViu0lqwyNZyOltYv29td9_w2hVMdP5bN1gnd94XyskZMjK5fkuYpjZaXWsIQ_rjExKL9WLYjtBAKaa4Tn-vkfvIz5Hr6zBCDwX3It8rHm7w756MfVUmymWN1G7QX-KmpIHZZ6XfP-2M1G8Bmrw87d7RvmaLZL2oe1T-A4cF-Ldm1odw~~",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AEt4bP2psrUB5J1hhtHm8Q~~/AAQRxRA~/BITLanZ7fZtjCliX9w1_IxiKiuQwCM_EJ4SRfp1OdLMRIQO6ZhoYo5_wLwpG8N0w6_osIjtqFZZI66V7-k7Vxrg4CVAUQ-RPFDnRcSxi0pmfuSqxj6rf129KtN-5tJRjNHXboxrSP445pkMNqsCJQL5ztRFIxux9eEqQD0FZK2KbCsNfSlLsJuFTTrLoirwfrCcpx2V0-DmFyWRSqgr_ICFpXZOLg01_xofjoxvYLjgcJkK2iIj8tKkdMWKw1f45-o2C37oLyiUd94U_A47gs8KGllmdI10SUHVjE-T4q4DoC8qZlj9Q5W0UIxI6A1xYcKJStJKnoTl4PHEvHf-mfYZcHtfMf7QUDAsdrWZZgN_DZHws8fDpO_vExEhMJBaHbLx1OmHm__hrT4igu1vepgLoJTlM-G5F-w-i4yFEzxrQ_Qe_ikwBlzpjfK07sRJx",
+            "title": "Watch a Scoreboard video on Palantir",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/tLmFw0t5Q3mc4fl0XvHZzA~~/AAQRxRA~/dWeq9sgd1O25-61o7IqXxFvDFQJMmUmN8z30tLGlLLlerd_9jnakEyxHoIBtdcPkqLeqsxSZF903n3pu0iXHz8zqkvu-XNgsfQUDt11ECRBbjR_ekQs5E3i_xDeP9ijCfA1IORAZCqeNFKrdFEvcyDE3325Eg5I0z6VHmttSF7FDZ4JWOiUxp2DOffPPEa0LQIFBWSjORNcZKcCnT1S4mKbfqgkG3oPAujtvIRpmfRzcijvKhOkWntkTdO3HltVe",
+            "title": "Get the Portfolio with Epic &rarr;",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/IpSRtlM9BKc5Xl8CdtJcaw~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r0ZDc5EUZkSYiDtXJWk7Goo3XRIyyyCbYUW1gDxlECV5oUBdEMrgnMxE_13q8FLWtVJE2yLCUxSjh_ZvgUhKuXyl8PlvL_58iBrlgx15r1qZNb0E-Sw7vBn6VorHLfDYPoku-2JlQVWUMaDdcMPnt2LqvvVR_JCjRIhkwvigaey418fidTUOv6TjQMQU53IFRPB4Ao7P4xjAJFDXiSFV9JTZ334ot_CjcBgoJuOpkWjTrlrNAGOZZIBcxZq86Bn7fy8kFdafGQveYmaOdY5jwKPZItbMtaLmmnKz4B8OHfFqS7i-ihmomLePY24CxwuW2DOKgbFQGSkmTBgJ-zFZJ11e0uCH4otgFtf8IWBKAUMIQ-ONGlp7vbfzl3V6ucuch",
+            "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HlGXH1r9aPMZJtCZ-Olplg~~/AAQRxRA~/jyhVhUWaTpPEEPag2YJ0B6F35N8b66FFcUdaRwbuyA7Z7np_bk-3N7LH_TeLGf4_Yg6wSPO8BWpADjmNZTQizo0Vj8T-meYEr0BbQuycK7sMHpLbD9hbsQzt1MoMaqSFYIQszhSTo4vXHdJKpWELirlq-QMJeb6Hmwa_V-SOPzNZ7Rxxz1hvtH2ZpALPB_uZ1UYVpEvL9shxs_f8pUxW8XsNBSTW4uWTmIaE4kBBOuKjRLC-SSIeWWrRLx7eD9-2wUYAamRBC4MIb_kDkX4dtFAI0JdTFqT9OpGtmf02ZKcUWZ0tOa2qWkp5k38ns6zQ6DeZ-ujLXUIuQU8QFFbaSlUg3XDzm66kkHtWTdw6SLj-FTAhhgj2O2bDHi2pXNUNsCNfgerYcqFVSj0VVDSajG0Vii9nLg0dd7icQn8RJ9TeXdP7qQIZ6xfC7XoRGsE2Z9_83DZh3a4dVqbZWOjl_aTKEVfSijVwEy_rLimLQZo~",
+            "title": "Alphabet's latest quarter spending",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2K6Sk5S86Tg9nLhHvQxw-g~~/AAQRxRA~/fWBZILGB3H5K_ktn2LhfU7rPnkkjGK79eelp0Q4fuDc0GXZGcUSp8-oJgHk6SqwxgP_OUvLUQcMZGde8cC0giI5i73foR8IhtIixBkZ6tjbj9ynt1e2shKNXVTX7vwiZilB_cZ9GQGsvmcR5oh-WkJPCmj3saUVRdAIPqUGFoWVI9kiNjtHlA4-f32twUemXvKONMUTet8rZFAjGo_SC9fqsSX-iCMlyAuxonyMHdxqRtK474TdEklda8gDMtvaj17vCMP5St_vvomJs4xs-Yv-DKMlDHy7gLP_PSa5Fj307WiatEAovj1_8Ox0hf807AW8vJ_0QuL64nmqEcKC1L1c06aPcC6S3BkhFxCKO8OoVt3xgux7L1GMo06hD6hJYAJJpBxClrn1OFWtioddY74XIUPI993OuX_91Nd_ClHGeb682Dee_MJKjULYGIwqYzOhu4qCOAsO8blwCpUfibA~~",
+            "title": "Learn how rival Amazon spent – and won",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/uGrQ-L5REIzcgHK8n0SykQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rVLH_hzyvPOAnPCXjUEAUEjWLhSn6SjwbS2n_sgJ2P8SdpWVqIajDizYmjW4RYl0GTWLADRJngWuZZvivyPTFnXTjtk7tAdKj47uTUw2jIBTY5VfXOumE_tBFwj_-YYJSiLDwxnR3WQw22Cy9C_o_3n2NR1rdN7emB36oFow1eiPpUoR9GIgXOXJNMYsSrrOJqooWYVrhTptd91RX-2ZuP9pSiK5TfqItMuPBbgm5GGSeOWFgUyJwMVrkHUKK0I4dAFT_vrmY77b1UiqOeybKUEbPAO9n8cNgi2C9jnZpy6zhpdhqEv8mp0jRNufo6R2wfy4R6d_vViEMqIG7jZBCkWxcO9wFDtBXY2AVED1aqw8G_lR9-5kS2i0cXlPmf-Fa",
+            "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/c41ntKNB-eQ6UnO7CpKhwA~~/AAQRxRA~/Lcnyrvy3CQCYojYZFr2y7vnqp573j4ilJ0cz_EgOBHifcImUQnULtJeh5Vzn42w6NN-tOLc9MPTzBBQ_Tg1zTrpqRYhkFWJGKLPkUJwTHurSoLsM1zE3-n-QqGuYApmRYVjlbalsRRJIMsb_SJPLzxuYKOZRQi1cHWPNLoVNjeNNzDvp9SFWEPQ5nvSnvCh8N8vhXnEOpGsfcnVW-7OFU-99ut0Eox6BsUPjBqkBXyvPxDM8oFwL1FrD_1F_yE3yKVZ2h1LQoCuLnsMWTwQwtqYHP6GbUrN43BQ2ooRFutARFjM4VWNgSgXlF6Q7O0_NFXq_6fL84xQLSwWjPbI7E_en1cUhZOl616ynCLDqKC78_7BUrvpb6Xmu2-N6aB0Xf5aqYmO0YLl4D1B_lwussHKfLGW_pgZ27fMqhTKxXwFamXZQh_YKDleS8D_1yMHkZgfslAPFKwAsy0j5ZCcZgw~~",
+            "title": "despite results beating expectations",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9wd2M1MxelaN8__Isku3OQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r7jlk9MWiMNnV4zCJ8Onh7YWiU_M5F0Ri7qG0AZlatSDmRjlsErXv21F79sQh2WXbTRCo4LjboUBDna2q2msQ46iewxGjj7tmls1KYsleS4O-IfcotWqYzwPlqjOR9Ksgoiv1U8pAo025nslHh9-NfFugBNNhJrnPc0Z5_kqHn5MiMpytLLpkNUwQIl4Rb2PVzG8KN8XTpiOgjp61MCJ32b7UA2Ro9qnDQbgDHzouxEeeLb-jTtS9OIgc5kK_lf1ykdQtLMD-qyD3NjCogIbx-TzCR2zFK2OLbcNV9jf-TsYCU1JOuDqw38Pckt3fc7pI60WFoqjJPzih-XfwiO6mJvwLQhBhKuIYk-AK9AaPhLcoUXb3H7lgie12GgliEzPU",
+            "title": "Sterling Infrastructure Grab",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Palantir's Karp Makes Bold Call",
+        "note": "Alphabet Burns Cash Now, But Vows AI Payoff Later ---------------------------------------------------- Alphabet ’s DeepMind executive Jasjeet Sekhon said the industry's heavy AI-related capital spending is a precursor to the next stage of AI, known as recursive self-improvement (RSI). This is where AI systems help create increasingly capable successor systems, rather than each new model generation being manually trained by humans. * Helping to justify Q2’s increased capex spend and full-year forecast: Sekhon acknowledged that revenues from AI do not yet sustain the level of AI-related capex being made, and instead chose to frame Alphabet's latest quarter spending as a wager on a future payoff rather than something justified by current returns. * “I certainly don’t love it, but I’ve also been at this game long enough to know to wait before acting”: Fool analyst Tim Beyers isn’t a fan of the sharp increased free cash flow burn rate at Alphabet. However, with his long-term investment hat on, Tim says “in this case, what I’m waiting for is a mechanism to help me understand how to measure Alphabet’s progress toward achieving the capex payoff we all want to believe is coming.” Investors should track whether management's own commentary keeps hedging capex with speculative future payoffs like RSI versus grounding it in near-term, measurable returns. Learn how rival Amazon spent – and won Divider -------------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/IpSRtlM9BKc5Xl8CdtJcaw~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r0ZDc5EUZkSYiDtXJWk7Goo3XRIyyyCbYUW1gDxlECV5oUBdEMrgnMxE_13q8FLWtVJE2yLCUxSjh_ZvgUhKuXyl8PlvL_58iBrlgx15r1qZNb0E-Sw7vBn6VorHLfDYPoku-2JlQVWUMaDdcMPnt2LqvvVR_JCjRIhkwvigaey418fidTUOv6TjQMQU53IFRPB4Ao7P4xjAJFDXiSFV9JTZ334ot_CjcBgoJuOpkWjTrlrNAGOZZIBcxZq86Bn7fy8kFdafGQveYmaOdY5jwKPZItbMtaLmmnKz4B8OHfFqS7i-ihmomLePY24CxwuW2DOKgbFQGSkmTBgJ-zFZJ11e0uCH4otgFtf8IWBKAUMIQ-ONGlp7vbfzl3V6ucuch",
+            "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HlGXH1r9aPMZJtCZ-Olplg~~/AAQRxRA~/jyhVhUWaTpPEEPag2YJ0B6F35N8b66FFcUdaRwbuyA7Z7np_bk-3N7LH_TeLGf4_Yg6wSPO8BWpADjmNZTQizo0Vj8T-meYEr0BbQuycK7sMHpLbD9hbsQzt1MoMaqSFYIQszhSTo4vXHdJKpWELirlq-QMJeb6Hmwa_V-SOPzNZ7Rxxz1hvtH2ZpALPB_uZ1UYVpEvL9shxs_f8pUxW8XsNBSTW4uWTmIaE4kBBOuKjRLC-SSIeWWrRLx7eD9-2wUYAamRBC4MIb_kDkX4dtFAI0JdTFqT9OpGtmf02ZKcUWZ0tOa2qWkp5k38ns6zQ6DeZ-ujLXUIuQU8QFFbaSlUg3XDzm66kkHtWTdw6SLj-FTAhhgj2O2bDHi2pXNUNsCNfgerYcqFVSj0VVDSajG0Vii9nLg0dd7icQn8RJ9TeXdP7qQIZ6xfC7XoRGsE2Z9_83DZh3a4dVqbZWOjl_aTKEVfSijVwEy_rLimLQZo~",
+            "title": "Alphabet's latest quarter spending",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2K6Sk5S86Tg9nLhHvQxw-g~~/AAQRxRA~/fWBZILGB3H5K_ktn2LhfU7rPnkkjGK79eelp0Q4fuDc0GXZGcUSp8-oJgHk6SqwxgP_OUvLUQcMZGde8cC0giI5i73foR8IhtIixBkZ6tjbj9ynt1e2shKNXVTX7vwiZilB_cZ9GQGsvmcR5oh-WkJPCmj3saUVRdAIPqUGFoWVI9kiNjtHlA4-f32twUemXvKONMUTet8rZFAjGo_SC9fqsSX-iCMlyAuxonyMHdxqRtK474TdEklda8gDMtvaj17vCMP5St_vvomJs4xs-Yv-DKMlDHy7gLP_PSa5Fj307WiatEAovj1_8Ox0hf807AW8vJ_0QuL64nmqEcKC1L1c06aPcC6S3BkhFxCKO8OoVt3xgux7L1GMo06hD6hJYAJJpBxClrn1OFWtioddY74XIUPI993OuX_91Nd_ClHGeb682Dee_MJKjULYGIwqYzOhu4qCOAsO8blwCpUfibA~~",
+            "title": "Learn how rival Amazon spent – and won",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Palantir's Karp Makes Bold Call",
+        "note": "Sterling Loses Its Shine as Grab and Wix Gleam ------------------------------------------------- * Sterling Infrastructure fell over 4% before the opening bell despite results beating expectations . $250.8 million of the $1.17 billion revenue came from recent acquisitions, meaning acquired revenue accounted for a meaningful share of the 90% headline growth rate rather than organic demand. This provides a distinction between the numbers versus the narrative behind them, and will be assessed going forward to see where the company’s growth is actually coming from. The stock is outperforming the S&P 500 by 90% since the April 2025 Stock Advisor rec by Team Hidden Gems. * Grab rallied around 4% in pre-market trading as quarterly revenue jumped 21.7%, driven by Monthly Transacting Users hitting a record 54 million. However, the 571% net income headline jump for the Team Rule Breakers rec mostly came from a one-time accounting gain from a corporate transaction. It’s not evidence that Grab's core ride-hailing-and-delivery business suddenly got 5x more profitable. * Wix.com also rose around 4% before the market opened after it reported Q2 revenue of $563 million, up 15% year over year (YoY), and bookings of $569 million, up 12% YoY, driven by strong Base44 performance. After launching a proprietary LLM, CFO Lio Semesh said it “marks a turning point in lowering our AI inference and compute costs.” This matters as it should act to boost profit margins in coming quarters for the Team Hidden Gems recommendation currently in the Stock Advisor Penalty Box. Understand why WIX is in the Penalty Box Divider ----------------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/uGrQ-L5REIzcgHK8n0SykQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rVLH_hzyvPOAnPCXjUEAUEjWLhSn6SjwbS2n_sgJ2P8SdpWVqIajDizYmjW4RYl0GTWLADRJngWuZZvivyPTFnXTjtk7tAdKj47uTUw2jIBTY5VfXOumE_tBFwj_-YYJSiLDwxnR3WQw22Cy9C_o_3n2NR1rdN7emB36oFow1eiPpUoR9GIgXOXJNMYsSrrOJqooWYVrhTptd91RX-2ZuP9pSiK5TfqItMuPBbgm5GGSeOWFgUyJwMVrkHUKK0I4dAFT_vrmY77b1UiqOeybKUEbPAO9n8cNgi2C9jnZpy6zhpdhqEv8mp0jRNufo6R2wfy4R6d_vViEMqIG7jZBCkWxcO9wFDtBXY2AVED1aqw8G_lR9-5kS2i0cXlPmf-Fa",
+            "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/c41ntKNB-eQ6UnO7CpKhwA~~/AAQRxRA~/Lcnyrvy3CQCYojYZFr2y7vnqp573j4ilJ0cz_EgOBHifcImUQnULtJeh5Vzn42w6NN-tOLc9MPTzBBQ_Tg1zTrpqRYhkFWJGKLPkUJwTHurSoLsM1zE3-n-QqGuYApmRYVjlbalsRRJIMsb_SJPLzxuYKOZRQi1cHWPNLoVNjeNNzDvp9SFWEPQ5nvSnvCh8N8vhXnEOpGsfcnVW-7OFU-99ut0Eox6BsUPjBqkBXyvPxDM8oFwL1FrD_1F_yE3yKVZ2h1LQoCuLnsMWTwQwtqYHP6GbUrN43BQ2ooRFutARFjM4VWNgSgXlF6Q7O0_NFXq_6fL84xQLSwWjPbI7E_en1cUhZOl616ynCLDqKC78_7BUrvpb6Xmu2-N6aB0Xf5aqYmO0YLl4D1B_lwussHKfLGW_pgZ27fMqhTKxXwFamXZQh_YKDleS8D_1yMHkZgfslAPFKwAsy0j5ZCcZgw~~",
+            "title": "despite results beating expectations",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Palantir's Karp Makes Bold Call",
+        "note": "Next Up: Q2 Earnings from Tunes, Travel, and Tech ---------------------------------------------------- * Spotify fell around 2% before the market opened. After a disappointing last quarter where ad-supported revenue fell by 5%, the latest results showed a slight miss versus guidance for Monthly Active Users (MAUs). However, revenue grew by 14%, but the ongoing concerns over slowing subscription growth in streaming weighed on the stock. This is important as users ultimately drive engagement and activity for the Team Rule Breakers and Team Hidden Gems rec. * Booking Holdings releases results after the closing bell. Recommended in Stock Advisor by both Team Rule Breakers and Team Hidden Gems, this quarter is expected to show a slower pace of growth due to the conflict in the Middle East. Guidance on how long it expects lower room and gross bookings from this area will be key for the stock reaction. * Upstart reports earnings once the market closes. After beating revenue expectations last quarter , analysts forecast a 37.9% jump in YoY revenue. Beside the headline figures, core personal loan conversion rates will be watched for the Team Rule Breakers and Team Hidden Gems rec, after management said last quarter they were \"unseasonably strong and stable.\" * Toast earnings are due following the closing bell, as it aims to build on the momentum from last quarter . The core test tonight is how Toast's growth engine – net new locations plus payment volume per location – is performing, and how management expects it to track for the Foundational Stock in Rule Breakers through to year end. Delve into a full TOST earnings preview Divider ----------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/tj46AZTbjXn_jrUhyPCV_g~~/AAQRxRA~/D3K3-Nea5A22ddMgczYGnUGvz5H_blrla_Yi7KoLauMcAsnzHgnPCQyG2YS68W-V5fFA2oHfXFw2Cijx3JPPJb2tTYaCO7QRJS7BA4FxY-F-qtGSi1Pm65bdI_pTfWsym5cZRfZ1nrsA_OyWN1DDuar8AXqLD68-UXUlDjSoc15DfdZ7WHgFtSo6evw34-JWjc6LWtR_LE1C0AtslMBGwm3CywoNluErIHwi9ax8LeQUErXXAKOlHqht8hq5V3MTd0vacvQoo_SQrkCg6f6rKNDqLIPPdFyAdIP0c9zarZfQk7ZakzW8jZwe2_sD9LJ3SAYojqAQ8d0rmCNIrUJhUT137euBAbfrDAJabk2zyzYe3RuqGn7rOpZAhK9iIdPV1lhE9UcVRFH0Z_1R5woV7pL1pEw9U40wSDiTm9Y73-dOdVm2ELP0OirK6NZU4Fjc",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/s_kd8Rb6ee-8Hsg5kwRCaQ~~/AAQRxRA~/fBz5IwaHxuMQJz5FTm1sNk0BGBR_dZZXCjAFkkDImJGT4R5zV0Q_UuwVVDj0LXlzkyg-ACJ7KFoH5cLiCJLvno7gOLWUeVcCXKRw03x3SLCVJjVzEQxTQZjqhAOmnKIXcSVTOYSdsjIspQAFpBreVga9BOi5D4xJ6RmR0ELolm-QmOCd8oiKGGH0kZsBDMaTU4oGljt81qRPoeeiyVyl95Ytx8CAqHqZWNGZTMyApvbKPC0s-gQj8__vGhW5Uu1FANi4YlpLS7euEFq25hjdN2ZhW_kys2T7CAR4JqGNougrrezIo6chfE6N6ET-fbehbjarpxPwbXyDbQxUXcF27nssd-Fy_HAJp7uDGSkOl3srXBYY-w9Nn-4DF8zdIhYk3J840nHHo5hj2iEA44LQacWlq-XUlRmCRYWqaGycARyHDgzGvWRF5fcEEWZct-WraR0s-Xn6MAczl7vIHNDdMaGsieYjA3DJtD87huJFMe8~",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9LjPrFigctT65AEJlVun4Q~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rdqwadyxVjWWpnhGRoYqlUFGu8ydX5QsLcztiX5CZRe77Tv4d7XtCqL0pJ_JjGYtBOTd8MbVHjZ3O7joNc-RSjVqKdXR-kfCoV8n8HoixSjQmXTR8BhzU59x9a8ivdu_q_rn8sWgFTGpaSltwCaoPKUNLLp4steMUd0bCapoYfNz8m-UV35QQYT6jqRDVjB48W1k0EpWHWdAAUQtXXgpp3Nd38kpcKPAeqXU6pmLcrx0PV8etCDpZ8b-p6eV-YyQQMYdlh2kRmn6MyYpRcno-BWIjsylLnArxwncZwpsBXLGV8_EEKMnwDKdt8RYxbesMhXFEQMit8lNpdtQNzo03_pbMcI6jilKOCcxRGL7iWEtJzrpx8BZ-j5Fvmey0QQ5F",
+            "title": "Palantir",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/dmnIOyoTEuYJxKrY_rDTMg~~/AAQRxRA~/h37VsIB2IrMINonvxo2Djf-j9aG6F8SVmhHxt19xo4O-PhX8mNW9mRIjrMuRw-Z6nDDno0qvDLL4aWLlJ3TJ9wjYVTbUeiVwoEhjPiu9UEgogd1NSTPmv9Bhat4nygIL5RH8sMbk-oLTMBYoBx_rOoY7YnVc2tHMjjri94dTaGMkxKMiqfQCyCS8FluOUQDAfXM3-s29bIDdMhmhgzFtNkm_6EYCq0CeFotFE9tsuAFQI5EFk3m9d7iElUY2bGwVkrwPzDV5Uk_4F94cKXUbeinvYYytRANltd3sYHBViu0lqwyNZyOltYv29td9_w2hVMdP5bN1gnd94XyskZMjK5fkuYpjZaXWsIQ_rjExKL9WLYjtBAKaa4Tn-vkfvIz5Hr6zBCDwX3It8rHm7w756MfVUmymWN1G7QX-KmpIHZZ6XfP-2M1G8Bmrw87d7RvmaLZL2oe1T-A4cF-Ldm1odw~~",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AEt4bP2psrUB5J1hhtHm8Q~~/AAQRxRA~/BITLanZ7fZtjCliX9w1_IxiKiuQwCM_EJ4SRfp1OdLMRIQO6ZhoYo5_wLwpG8N0w6_osIjtqFZZI66V7-k7Vxrg4CVAUQ-RPFDnRcSxi0pmfuSqxj6rf129KtN-5tJRjNHXboxrSP445pkMNqsCJQL5ztRFIxux9eEqQD0FZK2KbCsNfSlLsJuFTTrLoirwfrCcpx2V0-DmFyWRSqgr_ICFpXZOLg01_xofjoxvYLjgcJkK2iIj8tKkdMWKw1f45-o2C37oLyiUd94U_A47gs8KGllmdI10SUHVjE-T4q4DoC8qZlj9Q5W0UIxI6A1xYcKJStJKnoTl4PHEvHf-mfYZcHtfMf7QUDAsdrWZZgN_DZHws8fDpO_vExEhMJBaHbLx1OmHm__hrT4igu1vepgLoJTlM-G5F-w-i4yFEzxrQ_Qe_ikwBlzpjfK07sRJx",
+            "title": "Watch a Scoreboard video on Palantir",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/tLmFw0t5Q3mc4fl0XvHZzA~~/AAQRxRA~/dWeq9sgd1O25-61o7IqXxFvDFQJMmUmN8z30tLGlLLlerd_9jnakEyxHoIBtdcPkqLeqsxSZF903n3pu0iXHz8zqkvu-XNgsfQUDt11ECRBbjR_ekQs5E3i_xDeP9ijCfA1IORAZCqeNFKrdFEvcyDE3325Eg5I0z6VHmttSF7FDZ4JWOiUxp2DOffPPEa0LQIFBWSjORNcZKcCnT1S4mKbfqgkG3oPAujtvIRpmfRzcijvKhOkWntkTdO3HltVe",
+            "title": "Get the Portfolio with Epic &rarr;",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/IpSRtlM9BKc5Xl8CdtJcaw~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r0ZDc5EUZkSYiDtXJWk7Goo3XRIyyyCbYUW1gDxlECV5oUBdEMrgnMxE_13q8FLWtVJE2yLCUxSjh_ZvgUhKuXyl8PlvL_58iBrlgx15r1qZNb0E-Sw7vBn6VorHLfDYPoku-2JlQVWUMaDdcMPnt2LqvvVR_JCjRIhkwvigaey418fidTUOv6TjQMQU53IFRPB4Ao7P4xjAJFDXiSFV9JTZ334ot_CjcBgoJuOpkWjTrlrNAGOZZIBcxZq86Bn7fy8kFdafGQveYmaOdY5jwKPZItbMtaLmmnKz4B8OHfFqS7i-ihmomLePY24CxwuW2DOKgbFQGSkmTBgJ-zFZJ11e0uCH4otgFtf8IWBKAUMIQ-ONGlp7vbfzl3V6ucuch",
+            "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HlGXH1r9aPMZJtCZ-Olplg~~/AAQRxRA~/jyhVhUWaTpPEEPag2YJ0B6F35N8b66FFcUdaRwbuyA7Z7np_bk-3N7LH_TeLGf4_Yg6wSPO8BWpADjmNZTQizo0Vj8T-meYEr0BbQuycK7sMHpLbD9hbsQzt1MoMaqSFYIQszhSTo4vXHdJKpWELirlq-QMJeb6Hmwa_V-SOPzNZ7Rxxz1hvtH2ZpALPB_uZ1UYVpEvL9shxs_f8pUxW8XsNBSTW4uWTmIaE4kBBOuKjRLC-SSIeWWrRLx7eD9-2wUYAamRBC4MIb_kDkX4dtFAI0JdTFqT9OpGtmf02ZKcUWZ0tOa2qWkp5k38ns6zQ6DeZ-ujLXUIuQU8QFFbaSlUg3XDzm66kkHtWTdw6SLj-FTAhhgj2O2bDHi2pXNUNsCNfgerYcqFVSj0VVDSajG0Vii9nLg0dd7icQn8RJ9TeXdP7qQIZ6xfC7XoRGsE2Z9_83DZh3a4dVqbZWOjl_aTKEVfSijVwEy_rLimLQZo~",
+            "title": "Alphabet's latest quarter spending",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2K6Sk5S86Tg9nLhHvQxw-g~~/AAQRxRA~/fWBZILGB3H5K_ktn2LhfU7rPnkkjGK79eelp0Q4fuDc0GXZGcUSp8-oJgHk6SqwxgP_OUvLUQcMZGde8cC0giI5i73foR8IhtIixBkZ6tjbj9ynt1e2shKNXVTX7vwiZilB_cZ9GQGsvmcR5oh-WkJPCmj3saUVRdAIPqUGFoWVI9kiNjtHlA4-f32twUemXvKONMUTet8rZFAjGo_SC9fqsSX-iCMlyAuxonyMHdxqRtK474TdEklda8gDMtvaj17vCMP5St_vvomJs4xs-Yv-DKMlDHy7gLP_PSa5Fj307WiatEAovj1_8Ox0hf807AW8vJ_0QuL64nmqEcKC1L1c06aPcC6S3BkhFxCKO8OoVt3xgux7L1GMo06hD6hJYAJJpBxClrn1OFWtioddY74XIUPI993OuX_91Nd_ClHGeb682Dee_MJKjULYGIwqYzOhu4qCOAsO8blwCpUfibA~~",
+            "title": "Learn how rival Amazon spent – and won",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/uGrQ-L5REIzcgHK8n0SykQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rVLH_hzyvPOAnPCXjUEAUEjWLhSn6SjwbS2n_sgJ2P8SdpWVqIajDizYmjW4RYl0GTWLADRJngWuZZvivyPTFnXTjtk7tAdKj47uTUw2jIBTY5VfXOumE_tBFwj_-YYJSiLDwxnR3WQw22Cy9C_o_3n2NR1rdN7emB36oFow1eiPpUoR9GIgXOXJNMYsSrrOJqooWYVrhTptd91RX-2ZuP9pSiK5TfqItMuPBbgm5GGSeOWFgUyJwMVrkHUKK0I4dAFT_vrmY77b1UiqOeybKUEbPAO9n8cNgi2C9jnZpy6zhpdhqEv8mp0jRNufo6R2wfy4R6d_vViEMqIG7jZBCkWxcO9wFDtBXY2AVED1aqw8G_lR9-5kS2i0cXlPmf-Fa",
+            "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/c41ntKNB-eQ6UnO7CpKhwA~~/AAQRxRA~/Lcnyrvy3CQCYojYZFr2y7vnqp573j4ilJ0cz_EgOBHifcImUQnULtJeh5Vzn42w6NN-tOLc9MPTzBBQ_Tg1zTrpqRYhkFWJGKLPkUJwTHurSoLsM1zE3-n-QqGuYApmRYVjlbalsRRJIMsb_SJPLzxuYKOZRQi1cHWPNLoVNjeNNzDvp9SFWEPQ5nvSnvCh8N8vhXnEOpGsfcnVW-7OFU-99ut0Eox6BsUPjBqkBXyvPxDM8oFwL1FrD_1F_yE3yKVZ2h1LQoCuLnsMWTwQwtqYHP6GbUrN43BQ2ooRFutARFjM4VWNgSgXlF6Q7O0_NFXq_6fL84xQLSwWjPbI7E_en1cUhZOl616ynCLDqKC78_7BUrvpb6Xmu2-N6aB0Xf5aqYmO0YLl4D1B_lwussHKfLGW_pgZ27fMqhTKxXwFamXZQh_YKDleS8D_1yMHkZgfslAPFKwAsy0j5ZCcZgw~~",
+            "title": "despite results beating expectations",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9wd2M1MxelaN8__Isku3OQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r7jlk9MWiMNnV4zCJ8Onh7YWiU_M5F0Ri7qG0AZlatSDmRjlsErXv21F79sQh2WXbTRCo4LjboUBDna2q2msQ46iewxGjj7tmls1KYsleS4O-IfcotWqYzwPlqjOR9Ksgoiv1U8pAo025nslHh9-NfFugBNNhJrnPc0Z5_kqHn5MiMpytLLpkNUwQIl4Rb2PVzG8KN8XTpiOgjp61MCJ32b7UA2Ro9qnDQbgDHzouxEeeLb-jTtS9OIgc5kK_lf1ykdQtLMD-qyD3NjCogIbx-TzCR2zFK2OLbcNV9jf-TsYCU1JOuDqw38Pckt3fc7pI60WFoqjJPzih-XfwiO6mJvwLQhBhKuIYk-AK9AaPhLcoUXb3H7lgie12GgliEzPU",
+            "title": "Sterling Infrastructure Grab",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Palantir's Karp Makes Bold Call",
+        "note": "Today’s Take: Paying the Tech Premium ---------------------------------------- At times many tech companies can look “overvalued” for whatever reason and it’s not always justified. But sometimes it is justified because the market is looking forward at the potential for companies that aren’t just growing but also scaling. Companies with strong intellectual property or tech prowess, network effects and even optionality can oftentimes produce a competitive position that is difficult to encroach. Even if the company isn’t profitable to that point, the growth it’s witnessing based on factors like these can indicate scaling is inevitable which means strong operating leverage and expanding margins, hence the market’s enthusiasm via robust valuation multiples. — JASON MOSER • TEAM RULE BREAKERS Join the debate on tech's valuation Divider ------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/tj46AZTbjXn_jrUhyPCV_g~~/AAQRxRA~/D3K3-Nea5A22ddMgczYGnUGvz5H_blrla_Yi7KoLauMcAsnzHgnPCQyG2YS68W-V5fFA2oHfXFw2Cijx3JPPJb2tTYaCO7QRJS7BA4FxY-F-qtGSi1Pm65bdI_pTfWsym5cZRfZ1nrsA_OyWN1DDuar8AXqLD68-UXUlDjSoc15DfdZ7WHgFtSo6evw34-JWjc6LWtR_LE1C0AtslMBGwm3CywoNluErIHwi9ax8LeQUErXXAKOlHqht8hq5V3MTd0vacvQoo_SQrkCg6f6rKNDqLIPPdFyAdIP0c9zarZfQk7ZakzW8jZwe2_sD9LJ3SAYojqAQ8d0rmCNIrUJhUT137euBAbfrDAJabk2zyzYe3RuqGn7rOpZAhK9iIdPV1lhE9UcVRFH0Z_1R5woV7pL1pEw9U40wSDiTm9Y73-dOdVm2ELP0OirK6NZU4Fjc",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/s_kd8Rb6ee-8Hsg5kwRCaQ~~/AAQRxRA~/fBz5IwaHxuMQJz5FTm1sNk0BGBR_dZZXCjAFkkDImJGT4R5zV0Q_UuwVVDj0LXlzkyg-ACJ7KFoH5cLiCJLvno7gOLWUeVcCXKRw03x3SLCVJjVzEQxTQZjqhAOmnKIXcSVTOYSdsjIspQAFpBreVga9BOi5D4xJ6RmR0ELolm-QmOCd8oiKGGH0kZsBDMaTU4oGljt81qRPoeeiyVyl95Ytx8CAqHqZWNGZTMyApvbKPC0s-gQj8__vGhW5Uu1FANi4YlpLS7euEFq25hjdN2ZhW_kys2T7CAR4JqGNougrrezIo6chfE6N6ET-fbehbjarpxPwbXyDbQxUXcF27nssd-Fy_HAJp7uDGSkOl3srXBYY-w9Nn-4DF8zdIhYk3J840nHHo5hj2iEA44LQacWlq-XUlRmCRYWqaGycARyHDgzGvWRF5fcEEWZct-WraR0s-Xn6MAczl7vIHNDdMaGsieYjA3DJtD87huJFMe8~",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9LjPrFigctT65AEJlVun4Q~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rdqwadyxVjWWpnhGRoYqlUFGu8ydX5QsLcztiX5CZRe77Tv4d7XtCqL0pJ_JjGYtBOTd8MbVHjZ3O7joNc-RSjVqKdXR-kfCoV8n8HoixSjQmXTR8BhzU59x9a8ivdu_q_rn8sWgFTGpaSltwCaoPKUNLLp4steMUd0bCapoYfNz8m-UV35QQYT6jqRDVjB48W1k0EpWHWdAAUQtXXgpp3Nd38kpcKPAeqXU6pmLcrx0PV8etCDpZ8b-p6eV-YyQQMYdlh2kRmn6MyYpRcno-BWIjsylLnArxwncZwpsBXLGV8_EEKMnwDKdt8RYxbesMhXFEQMit8lNpdtQNzo03_pbMcI6jilKOCcxRGL7iWEtJzrpx8BZ-j5Fvmey0QQ5F",
+            "title": "Palantir",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/dmnIOyoTEuYJxKrY_rDTMg~~/AAQRxRA~/h37VsIB2IrMINonvxo2Djf-j9aG6F8SVmhHxt19xo4O-PhX8mNW9mRIjrMuRw-Z6nDDno0qvDLL4aWLlJ3TJ9wjYVTbUeiVwoEhjPiu9UEgogd1NSTPmv9Bhat4nygIL5RH8sMbk-oLTMBYoBx_rOoY7YnVc2tHMjjri94dTaGMkxKMiqfQCyCS8FluOUQDAfXM3-s29bIDdMhmhgzFtNkm_6EYCq0CeFotFE9tsuAFQI5EFk3m9d7iElUY2bGwVkrwPzDV5Uk_4F94cKXUbeinvYYytRANltd3sYHBViu0lqwyNZyOltYv29td9_w2hVMdP5bN1gnd94XyskZMjK5fkuYpjZaXWsIQ_rjExKL9WLYjtBAKaa4Tn-vkfvIz5Hr6zBCDwX3It8rHm7w756MfVUmymWN1G7QX-KmpIHZZ6XfP-2M1G8Bmrw87d7RvmaLZL2oe1T-A4cF-Ldm1odw~~",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/AEt4bP2psrUB5J1hhtHm8Q~~/AAQRxRA~/BITLanZ7fZtjCliX9w1_IxiKiuQwCM_EJ4SRfp1OdLMRIQO6ZhoYo5_wLwpG8N0w6_osIjtqFZZI66V7-k7Vxrg4CVAUQ-RPFDnRcSxi0pmfuSqxj6rf129KtN-5tJRjNHXboxrSP445pkMNqsCJQL5ztRFIxux9eEqQD0FZK2KbCsNfSlLsJuFTTrLoirwfrCcpx2V0-DmFyWRSqgr_ICFpXZOLg01_xofjoxvYLjgcJkK2iIj8tKkdMWKw1f45-o2C37oLyiUd94U_A47gs8KGllmdI10SUHVjE-T4q4DoC8qZlj9Q5W0UIxI6A1xYcKJStJKnoTl4PHEvHf-mfYZcHtfMf7QUDAsdrWZZgN_DZHws8fDpO_vExEhMJBaHbLx1OmHm__hrT4igu1vepgLoJTlM-G5F-w-i4yFEzxrQ_Qe_ikwBlzpjfK07sRJx",
+            "title": "Watch a Scoreboard video on Palantir",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/tLmFw0t5Q3mc4fl0XvHZzA~~/AAQRxRA~/dWeq9sgd1O25-61o7IqXxFvDFQJMmUmN8z30tLGlLLlerd_9jnakEyxHoIBtdcPkqLeqsxSZF903n3pu0iXHz8zqkvu-XNgsfQUDt11ECRBbjR_ekQs5E3i_xDeP9ijCfA1IORAZCqeNFKrdFEvcyDE3325Eg5I0z6VHmttSF7FDZ4JWOiUxp2DOffPPEa0LQIFBWSjORNcZKcCnT1S4mKbfqgkG3oPAujtvIRpmfRzcijvKhOkWntkTdO3HltVe",
+            "title": "Get the Portfolio with Epic &rarr;",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/IpSRtlM9BKc5Xl8CdtJcaw~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r0ZDc5EUZkSYiDtXJWk7Goo3XRIyyyCbYUW1gDxlECV5oUBdEMrgnMxE_13q8FLWtVJE2yLCUxSjh_ZvgUhKuXyl8PlvL_58iBrlgx15r1qZNb0E-Sw7vBn6VorHLfDYPoku-2JlQVWUMaDdcMPnt2LqvvVR_JCjRIhkwvigaey418fidTUOv6TjQMQU53IFRPB4Ao7P4xjAJFDXiSFV9JTZ334ot_CjcBgoJuOpkWjTrlrNAGOZZIBcxZq86Bn7fy8kFdafGQveYmaOdY5jwKPZItbMtaLmmnKz4B8OHfFqS7i-ihmomLePY24CxwuW2DOKgbFQGSkmTBgJ-zFZJ11e0uCH4otgFtf8IWBKAUMIQ-ONGlp7vbfzl3V6ucuch",
+            "title": "Alphabet Burns Cash Now, But Vows AI Payoff Later",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/HlGXH1r9aPMZJtCZ-Olplg~~/AAQRxRA~/jyhVhUWaTpPEEPag2YJ0B6F35N8b66FFcUdaRwbuyA7Z7np_bk-3N7LH_TeLGf4_Yg6wSPO8BWpADjmNZTQizo0Vj8T-meYEr0BbQuycK7sMHpLbD9hbsQzt1MoMaqSFYIQszhSTo4vXHdJKpWELirlq-QMJeb6Hmwa_V-SOPzNZ7Rxxz1hvtH2ZpALPB_uZ1UYVpEvL9shxs_f8pUxW8XsNBSTW4uWTmIaE4kBBOuKjRLC-SSIeWWrRLx7eD9-2wUYAamRBC4MIb_kDkX4dtFAI0JdTFqT9OpGtmf02ZKcUWZ0tOa2qWkp5k38ns6zQ6DeZ-ujLXUIuQU8QFFbaSlUg3XDzm66kkHtWTdw6SLj-FTAhhgj2O2bDHi2pXNUNsCNfgerYcqFVSj0VVDSajG0Vii9nLg0dd7icQn8RJ9TeXdP7qQIZ6xfC7XoRGsE2Z9_83DZh3a4dVqbZWOjl_aTKEVfSijVwEy_rLimLQZo~",
+            "title": "Alphabet's latest quarter spending",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2K6Sk5S86Tg9nLhHvQxw-g~~/AAQRxRA~/fWBZILGB3H5K_ktn2LhfU7rPnkkjGK79eelp0Q4fuDc0GXZGcUSp8-oJgHk6SqwxgP_OUvLUQcMZGde8cC0giI5i73foR8IhtIixBkZ6tjbj9ynt1e2shKNXVTX7vwiZilB_cZ9GQGsvmcR5oh-WkJPCmj3saUVRdAIPqUGFoWVI9kiNjtHlA4-f32twUemXvKONMUTet8rZFAjGo_SC9fqsSX-iCMlyAuxonyMHdxqRtK474TdEklda8gDMtvaj17vCMP5St_vvomJs4xs-Yv-DKMlDHy7gLP_PSa5Fj307WiatEAovj1_8Ox0hf807AW8vJ_0QuL64nmqEcKC1L1c06aPcC6S3BkhFxCKO8OoVt3xgux7L1GMo06hD6hJYAJJpBxClrn1OFWtioddY74XIUPI993OuX_91Nd_ClHGeb682Dee_MJKjULYGIwqYzOhu4qCOAsO8blwCpUfibA~~",
+            "title": "Learn how rival Amazon spent – and won",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/uGrQ-L5REIzcgHK8n0SykQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26rVLH_hzyvPOAnPCXjUEAUEjWLhSn6SjwbS2n_sgJ2P8SdpWVqIajDizYmjW4RYl0GTWLADRJngWuZZvivyPTFnXTjtk7tAdKj47uTUw2jIBTY5VfXOumE_tBFwj_-YYJSiLDwxnR3WQw22Cy9C_o_3n2NR1rdN7emB36oFow1eiPpUoR9GIgXOXJNMYsSrrOJqooWYVrhTptd91RX-2ZuP9pSiK5TfqItMuPBbgm5GGSeOWFgUyJwMVrkHUKK0I4dAFT_vrmY77b1UiqOeybKUEbPAO9n8cNgi2C9jnZpy6zhpdhqEv8mp0jRNufo6R2wfy4R6d_vViEMqIG7jZBCkWxcO9wFDtBXY2AVED1aqw8G_lR9-5kS2i0cXlPmf-Fa",
+            "title": "Sterling Loses Its Shine as Grab and Wix Gleam",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/c41ntKNB-eQ6UnO7CpKhwA~~/AAQRxRA~/Lcnyrvy3CQCYojYZFr2y7vnqp573j4ilJ0cz_EgOBHifcImUQnULtJeh5Vzn42w6NN-tOLc9MPTzBBQ_Tg1zTrpqRYhkFWJGKLPkUJwTHurSoLsM1zE3-n-QqGuYApmRYVjlbalsRRJIMsb_SJPLzxuYKOZRQi1cHWPNLoVNjeNNzDvp9SFWEPQ5nvSnvCh8N8vhXnEOpGsfcnVW-7OFU-99ut0Eox6BsUPjBqkBXyvPxDM8oFwL1FrD_1F_yE3yKVZ2h1LQoCuLnsMWTwQwtqYHP6GbUrN43BQ2ooRFutARFjM4VWNgSgXlF6Q7O0_NFXq_6fL84xQLSwWjPbI7E_en1cUhZOl616ynCLDqKC78_7BUrvpb6Xmu2-N6aB0Xf5aqYmO0YLl4D1B_lwussHKfLGW_pgZ27fMqhTKxXwFamXZQh_YKDleS8D_1yMHkZgfslAPFKwAsy0j5ZCcZgw~~",
+            "title": "despite results beating expectations",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9wd2M1MxelaN8__Isku3OQ~~/AAQRxRA~/-j6BipBbTGmrNmicoLuNd68DJBdM0i2FVh-N7-hc2UMgz9lY2S-Gu4HEfb7Gx26r7jlk9MWiMNnV4zCJ8Onh7YWiU_M5F0Ri7qG0AZlatSDmRjlsErXv21F79sQh2WXbTRCo4LjboUBDna2q2msQ46iewxGjj7tmls1KYsleS4O-IfcotWqYzwPlqjOR9Ksgoiv1U8pAo025nslHh9-NfFugBNNhJrnPc0Z5_kqHn5MiMpytLLpkNUwQIl4Rb2PVzG8KN8XTpiOgjp61MCJ32b7UA2Ro9qnDQbgDHzouxEeeLb-jTtS9OIgc5kK_lf1ykdQtLMD-qyD3NjCogIbx-TzCR2zFK2OLbcNV9jf-TsYCU1JOuDqw38Pckt3fc7pI60WFoqjJPzih-XfwiO6mJvwLQhBhKuIYk-AK9AaPhLcoUXb3H7lgie12GgliEzPU",
+            "title": "Sterling Infrastructure Grab",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Consider smaller initial size until macro pressure cools."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "BP",
+      "score": 93,
+      "stance": "Buy Candidate",
+      "evidence": "​ 💲McDonald's, BP, Pfizer, Palantir earnings and more | Tuesday - August 04, 2026 | View Online Presented by Empower --------------- Market Overview --------------- S&P 500 +1.48% Pre: +0.32% Nasdaq +2.13% Pre: +1.04% Dow +1.32% Pre: +1.23% ------------------- Stock & Market News -------------------",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "HSBC",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release HSBC Holdings (HSBC  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ON",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release ONEOK (OKE  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PLTR",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "* Palantir: Palantir (PLTR  ) lifted its full-year revenue and operating income forecasts after U.S.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SPOT",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "* Spotify: Spotify (SPOT  ) reached 300M premium subscribers in Q2 as revenue rose 14% YoY to €4.78B.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "APO",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Apollo Global Management (APO  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "CAT",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Caterpillar (CAT  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "CEG",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CNQ",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "DDOG",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "FANG",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Diamondback Energy (FANG  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ITUB",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LLY",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MCD",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* McDonald's: McDonald's (MCD  ) reported weaker-than-expected U.S.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MCK",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MELI",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MPC",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Marathon Petroleum (MPC  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MRK",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "(MRK  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "OKE",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release ONEOK (OKE  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PFE",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Pfizer: Pfizer (PFE  ) beat Q2 profit estimates on strong demand for Eliquis and raised the low end of its 2026 revenue guidance to $60.5–$62.5B.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TX",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Vertex Pharmaceuticals (VRTX  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "VRTX",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Vertex Pharmaceuticals (VRTX  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "DELL",
+      "score": 79,
+      "stance": "Buy Candidate",
+      "evidence": "* Volta secures AI funding: AI cloud startup Volta raised $300M at a $2.4B valuation, backed by Dell (DELL  ), NVIDIA (NVDA  ), and others.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 79,
+      "stance": "Buy Candidate",
+      "evidence": "* Volta secures AI funding: AI cloud startup Volta raised $300M at a $2.4B valuation, backed by Dell (DELL  ), NVIDIA (NVDA  ), and others.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SPCX",
+      "score": 77,
+      "stance": "Buy Candidate",
+      "evidence": "* SpaceX prioritizes Starlink launches: SpaceX (SPCX  ) is increasingly using Falcon 9 launches for Starlink, limiting capacity for third-party customers until 2028–29 and strengthening its satellite business while squeezing rival space companies.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AMZN",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Amazon tops $3T: Amazon (AMZN  ) surpassed $3T in market value after strong earnings, accelerating AWS cloud growth, and AI momentum boosted investor confidence.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "RSI",
+      "score": 65,
+      "stance": "Research Watch",
+      "evidence": "Alphabet Burns Cash Now, But Vows AI Payoff Later ---------------------------------------------------- Alphabet ’s DeepMind executive Jasjeet Sekhon said the industry's heavy AI-related capital spending is a precursor to the next stage of AI, known as recursive self-improvement (RSI). However, with his long-term investment hat on, Tim says “in this case, what I’m waiting for is a mechanism to help me understand how to measure Alphabet’s progress toward achieving the capex payoff we all want to believe is coming.” Investors should track whether management's own commentary keeps hedging capex with speculative future payoffs like RSI versus grounding it in near-term, measurable returns.",
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AAPL",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "* Apple seeks OpenAI injunction: Apple (AAPL  ) asked a U.S.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ATTO",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BA",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "* FAA certifies 737 Max 7: Boeing (BA  ) received Federal Aviation Administration certification for the 737 Max 7 after years of delays, clearing the company to begin deliveries.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BLSM",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BRVE",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CVX",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "* Chevron awards staff bonuses: Chevron (CVX  ) will pay most employees a special bonus equal to half a month's base pay after record earnings, citing strong operations and Hess integration.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "LTGO",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "VOGX",
+      "score": 63,
+      "stance": "Setup Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "XYZ",
+      "score": 57,
+      "stance": "Research Watch",
+      "evidence": "court to block OpenAI   from using alleged trade secrets in its consumer hardware efforts, escalating the companies’ legal dispute.",
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "UPST",
+      "score": 45,
+      "stance": "Research Watch",
+      "evidence": "* Upstart reports earnings once the market closes.",
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "BP",
+      "mentions": 6,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "​ 💲McDonald's, BP, Pfizer, Palantir earnings and more | Tuesday - August 04, 2026 | View Online Presented by Empower --------------- Market Overview --------------- S&P 500 +1.48% Pre: +0.32% Nasdaq +2.13% Pre: +1.04% Dow +1.32% Pre: +1.23% ------------------- Stock & Market News -------------------",
+        "* BP: BP (BP  ) reported a Q2 net profit of $5.7B, beating expectations, as higher oil and gas prices from the Iran conflict boosted earnings.",
+        "* Financials   · As Reported   · Metrics   · Press Release BP p.l.c."
+      ],
+      "latestMove": "+48.21%"
+    },
+    {
+      "symbol": "HSBC",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release HSBC Holdings (HSBC  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+16.06%"
+    },
+    {
+      "symbol": "MCD",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* McDonald's: McDonald's (MCD  ) reported weaker-than-expected U.S.",
+        "* Financials   · As Reported   · Metrics   · Press Release McDonald's (MCD  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+3.74%"
+    },
+    {
+      "symbol": "ON",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release ONEOK (OKE  ) has released its quarterly earnings.",
+        "* Financials   · As Reported   · Metrics   · Press Release ON Semiconductor (ON  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+52.77%"
+    },
+    {
+      "symbol": "PFE",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Pfizer: Pfizer (PFE  ) beat Q2 profit estimates on strong demand for Eliquis and raised the low end of its 2026 revenue guidance to $60.5–$62.5B.",
+        "* Financials   · As Reported   · Metrics   · Press Release Pfizer (PFE  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+2.27%"
+    },
+    {
+      "symbol": "PLTR",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Palantir: Palantir (PLTR  ) lifted its full-year revenue and operating income forecasts after U.S.",
+        "View definitions --------------- Recent Earnings --------------- Palantir (PLTR  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+92.73%"
+    },
+    {
+      "symbol": "RSI",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "Alphabet Burns Cash Now, But Vows AI Payoff Later ---------------------------------------------------- Alphabet ’s DeepMind executive Jasjeet Sekhon said the industry's heavy AI-related capital spending is a precursor to the next stage of AI, known as recursive self-improvement (RSI). However, with his long-term investment hat on, Tim says “in this case, what I’m waiting for is a mechanism to help me understand how to measure Alphabet’s progress toward achieving the capex payoff we all want to believe is coming.” Investors should track whether management's own commentary keeps hedging capex with speculative future payoffs like RSI versus grounding it in near-term, measurable returns."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPCX",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* SpaceX prioritizes Starlink launches: SpaceX (SPCX  ) is increasingly using Falcon 9 launches for Starlink, limiting capacity for third-party customers until 2028–29 and strengthening its satellite business while squeezing rival space companies.",
+        "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- SpaceX (SPCX  ) will report today after close."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPOT",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Spotify: Spotify (SPOT  ) reached 300M premium subscribers in Q2 as revenue rose 14% YoY to €4.78B.",
+        "* Financials   · As Reported   · Metrics   · Press Release Spotify Technology (SPOT  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+16.83%"
+    },
+    {
+      "symbol": "AAPL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Apple seeks OpenAI injunction: Apple (AAPL  ) asked a U.S.",
+        "OpenAI denied possessing or seeking Apple’s confidential information."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AMZN",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Amazon tops $3T: Amazon (AMZN  ) surpassed $3T in market value after strong earnings, accelerating AWS cloud growth, and AI momentum boosted investor confidence."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "APO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Apollo Global Management (APO  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+63.68%"
+    },
+    {
+      "symbol": "ATTO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "BA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* FAA certifies 737 Max 7: Boeing (BA  ) received Federal Aviation Administration certification for the 737 Max 7 after years of delays, clearing the company to begin deliveries."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BLSM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "BRVE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "CAT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Caterpillar (CAT  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+23.98%"
+    },
+    {
+      "symbol": "CEG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+30.29%"
+    },
+    {
+      "symbol": "CNQ",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+48.31%"
+    },
+    {
+      "symbol": "CVX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Chevron awards staff bonuses: Chevron (CVX  ) will pay most employees a special bonus equal to half a month's base pay after record earnings, citing strong operations and Hess integration."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "DDOG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+30.45%"
+    },
+    {
+      "symbol": "DELL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Volta secures AI funding: AI cloud startup Volta raised $300M at a $2.4B valuation, backed by Dell (DELL  ), NVIDIA (NVDA  ), and others."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "FANG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Diamondback Energy (FANG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+51.22%"
+    },
+    {
+      "symbol": "ITUB",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+16.47%"
+    },
+    {
+      "symbol": "LLY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+31.35%"
+    },
+    {
+      "symbol": "LTGO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "MCK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+6.39%"
+    },
+    {
+      "symbol": "MELI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+42.43%"
+    },
+    {
+      "symbol": "MPC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Marathon Petroleum (MPC  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+53.48%"
+    },
+    {
+      "symbol": "MRK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(MRK  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+5.07%"
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Volta secures AI funding: AI cloud startup Volta raised $300M at a $2.4B valuation, backed by Dell (DELL  ), NVIDIA (NVDA  ), and others."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "OKE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release ONEOK (OKE  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+52.77%"
+    },
+    {
+      "symbol": "TX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Vertex Pharmaceuticals (VRTX  ) has released its quarterly earnings.",
+        "* Financials   · As Reported   · Metrics Ternium (TX  ) will report today after close."
+      ],
+      "latestMove": "+12.45%"
+    },
+    {
+      "symbol": "VOGX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "VRTX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Vertex Pharmaceuticals (VRTX  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+12.45%"
+    },
+    {
+      "symbol": "UPST",
+      "mentions": 0,
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* Upstart reports earnings once the market closes."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "XYZ",
+      "mentions": 0,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "court to block OpenAI   from using alleged trade secrets in its consumer hardware efforts, escalating the companies’ legal dispute."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call",
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call",
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call",
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Palantir's Karp Makes Bold Call"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "kind": "economic",
+      "date": "2026-08-04",
+      "time": "8:30 AM",
+      "title": "Balance of Trade",
+      "source": "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-04",
+      "time": "8:30 AM",
+      "title": "Exports and Imports",
+      "source": "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-04",
+      "time": "10:00 AM",
+      "title": "JOLTs Job Openings",
+      "source": "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-04",
+      "time": "4:30 PM",
+      "title": "API Crude Oil Stock Change",
+      "source": "Market Bullets: Amazon tops $3T, Spotify hits 300M subscribers, Wayfair surges over 15% on blockbuster growth"
+    }
+  ]
+}

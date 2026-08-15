@@ -1,0 +1,2047 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T13:30:32.582Z",
+  "sourceCount": 3,
+  "sources": [
+    {
+      "title": "Breakfast News: Rocket Lab Earnings Fail to Launch",
+      "file": "2026-08-11-market-brieffoolbreakfast-news-breakfast-news-rocket-lab-earnings-fail-to-launch-19ff098ce17fb69b.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Tue, 11 Aug 2026 11:32:53 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/1Nxivmg_rj93UG203DSr2w~~/AAQRxRA~/slNDCCSmz9Qg7uIi3DlzUZo3TAj8eFZ2S2Itwy1lD5K_PSWtbunifFcFvWDhZXRehF2Dhk9v0XaPm61aLTDwavsoft_gKNDmVm5-GUwEfxQ209WUYF52chqF1xY3Ei4mQYVzanl2L4M7valtE51sxhfANNOH_CUVt7eAcq1HxaXYOsIPvHkdMCrs0NbrWN59CJB03oG-WjWakOr0eg1btbsQcUIgRwviJBrhg6WYYAG9d_wJzeEte0cjQX-jcHPQeu1Vpr__Q4K7V9eUs_mbwWcvbAbPtjqFvAODxJMOrT_kacOdfOPRPvylD3t3-MQT5hvDPH0uYRZSJnofeWrQg38mt9Aa6qbhNntc6NHvkm42CdPQpJzv82ANez5ErcHWpudWSlp1OPsSrEOxmzf4gweIrqscCVkNRrPSr3W65lOhT_KH0jlJrKz4I1Qx6Bf2",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/On5Q3qwN-AMm_5RXBdzv1A~~/AAQRxRA~/slNDCCSmz9Qg7uIi3DlzUZo3TAj8eFZ2S2Itwy1lD5K_PSWtbunifFcFvWDhZXRehF2Dhk9v0XaPm61aLTDwavsoft_gKNDmVm5-GUwEfxTfPT77On9F0JvEmysEoGX4GHJLwOiOt0f4VeH5zFZwJxLrKfKq6sjFg8uTklbUqwyPDzWbuyJnB5gW5aggEeK7nEZKyv_MQcdVRsKCoAPO5AwShnCjY02N4hQ8FXVilJWtqx91rPftE915GTy6oQ3SHfUWIsNOA8OVQd6WNzFJMVmEIJikqm39pZS46u4tAflTLSyVbB-Dxx9m9htB822RvfxW0GvpFEV2pgeSj5zTMAO-tj2BvBtPug_zfY8CibAln8w314YTcwh03z3jGf_pCaI_yMrOIYSjPoqMa3D3OJkKw74lJ7qHHvA4zu20nKY9wFYQfrtRJYk3iawT-Gsx",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/2d_b9fEcLj5_x5I681KjZQ~~/AAQRxRA~/4-350PWuBCBHrypFuwx4ExcUzdFKs9URKRZjVig3ONy81UbuQruwQcso6_C2L5KylPpbljX-UPmnnLO1BX2eGD_guZjZfbKfFuRKdqmSLFo-a0PapwPqT2cO3Z45-86gvcyHEm0dW5gQ19IJhL0UWmbe0aH-IkraK7c1svQ-rmnH7hcGxb5kpUu6gQ4c19RJbvfsXmV0sr5kxoNaeH_KNmnSo4gdpp2QOfrNLHILiugS3OhrsU1QJbiICEqhHcRTiqJVivUeZh7ENxBjRm0xCLJTp4sgKrfZU0TwoBhCyqvcLP0dmZQlRDRfWCuFPzNR6-ONwuWeyqWQ9uDPoVFKSM-MNbB4NoETpgGOBaTHJqYKhKPzDpHwD-yZKNIdetLGqSByNm9OBLP8dF2bHfzn0-TzyJVGZa-8-FlBt4rAZ3V0zuEshxkcerGONPa-M4ea",
+          "title": "Rocket Lab",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/PxvSTycncsbdxvbJiIdNMg~~/AAQRxRA~/wKiwWgaaWTiH-kuu_NBvGF19kt3MFdic9acWmG7lU38PKFDyoUszVl1ZpMhBrKO7tyEkyQ_KqbP7wcyYkTcLT77eFKq0ULwk3BA0FQVqs8WNhOmiuMoyqBTPn9SRaMLsqkvgLAwYxV1FbZBhyplZM8b0XMTMelr3IhpTiOPZENmfbh2KGWS77-xiv1c0QssxLlPWNeYxm9oyWCtCvfqKoiD5IYc_D5gAWQkfdIQ4sFSFxPgspgbpZrS9stCATHZ_Ies9o_YOJoLSOrkNDgrDP3ZN4KtY288aySiOfueWbv6253up5B05CgWzJbKcm0Lts_xd5njk0w5qt6FYQ9PVC1BoiwIkypUsTGKckkTg6pEXlZ0T27vdushjaV9sfPlUcvhyIFTIejkOYcZAFXg7OQEXdgj5fffV3eDkv2G2RzEWYlLWnSdVX2qEiFGKDt9VZAyE1_n6X-r3NgzDjAIpgA~~",
+          "title": "its strongest quarter on record",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/7-uexlk7NduaNha0zVZa2A~~/AAQRxRA~/Hd_2yJdFv6iIoBlXACliR04Hs6whTrL8OEWHwGkGsBCtsCohs4BB386CHuDc_lvWWRRdsLC7NgWa3dtpqevR868w54ObyiRFusKgcnKjeAFR3bpyaOLTDFwVamNCvvtmDW28EWLf02I7j4_lkYjyVvirRIINOmtQqH_8EEIio1arzQUxj70CJY4aHIKR4d-MbbYzhqjfT8u4XD_D_ccoSqYXnD9ZNPkrvdP0r8x5_UGUonRl38gxxcRSJ9Q5snhfHx_P2aObGv4MXwdiQM9MrAlakKUohrPeo4h9rnOc6ji6JeIE2EDxZkzRPb7X56tCCl_H5YmkIO03AAq9RyFywbn4XkjPFRQUWXv8ksFFft8AI1OI5SbJwme_DzSLiVvVWXSj9R35bIS5t_Qj6Efd_wicbBCXUD-Wmev73RUQT8amhcTYbNF2XlYQA483zre477JJEDanGyy9oZF86CQ9Qg~~",
+          "title": "Delve into RKLB’s Midyear Check-In",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/EXn1rpM8hUsxoNgIuMcyLQ~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD8IccoJBmM07zFox0XLlv_MRYR8xZsdoU4RE6G7UBXd9gnLRPz1nCWocgdiY7Iu45cctB65JikfWQwlqLqwNuzOoVPjXTcR8uyaogX5x6xjAY4L0T88Y3eqsK-aj8S9Ksg2u2OZe03UiuUc8KXN9R0KSXpICay7NNJL10MkpszzSGXeexpJo0x6qGXLeVkMbIt9XVvufDdcTfBJcZ6RhCbwWMtnlIfKWcdBwpLAhPFDYpd0Am3mbio2RCN8FhObyc8tToD_cRJ-NgX8b-lAulG2h1qaNKka6bu3lNXH_4-1surALVBlvavgPxvholyt34rgbIj1FBqj7s8nRwBiv4-m66J9xJECQkuaoIPMiBi57hEfJJTk8AvHEYrS_UHBpC",
+          "title": "Hims & Hers Health",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/ENv_Bc5QxGkY25LuuBOWQQ~~/AAQRxRA~/Y3JneVRNscVU2Pz8yO55qtfWIdjwt8MauimLRowVXA7lFaME8GBDC4UwlEn9BVuYRR4uQEOVQRuQqVfd7g-HeOGHiKUrrLClMKgKvwWRESmh-OYELhfPCAE6GwlkKxTc14FYOgxf5zcJYLKV3fsEJPmfsaDCELvsRuyjVPjPZ7b8qIwwM40XHdN6LmVE-3t9jyJWD0CTDpth6Lg4M33pD2kGm0pUEiwMtZ-AdA4EGQFGo5QMaZxnlUgAXTzH3ndYk9iTDJ1dp8KfrrwTJEJbj2b7qMxcRfEJjUIreW-4RcLwXgrCoW6oEulFU0QbCZWbCy6_hFD-1pobvgrBun-fB8hxlW0FHtDc12sN-bnkI3_8CkXIabrPpKFi5ASUkIt-FbE97pDPxcS5a83Z5tL6s9yoje9Y2pVMsoCdug5Da-1O0CFQAT_Z8x3XLUpVO7CECyjOrD-tfTIyfBkC5llD5A~~",
+          "title": "revenue climbed 38% to $753.2 million",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/5MUc_rw1lHxAVg67xPg6Tg~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD_KceRFc878ZVp2XpynaXbGlKy513h00OUsZyMJlqUVfPS5J5nhMan7wzdqd-gNPLrNTz1KopkbNu_p0wPmmaqAeXm0g5jGY681h3CoklCsV6sQEuM3kcj9B5bVQKdpWhlBU-iNuJ6fYquZi3wS7ZeRKRpWw5KWYaEoIfybEUcAKUFzFvgQM15DQr_qr62SybTLnKigib8nT4RvsjBeF8NZJEyAK9jZKNg_NZjnIMKZA2CMCqfpt2Zxf8KXF9YtBeW7pD7ycDH4LJTANJeVN1aNJChExnWO9HzyfCaW3lA5dOc47Yf36Zg-PFx5rkeuPo7rhlvWmr9ZAVImDzBF-YIU7kB8CtiTSsZ4VwiMqosuBOMsGqpAasrjxWBBnVPDRC",
+          "title": "Hims & Hers Health",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/c0FYPmqVjbj8GKmRCsPbZQ~~/AAQRxRA~/4-350PWuBCBHrypFuwx4ExcUzdFKs9URKRZjVig3ONy81UbuQruwQcso6_C2L5KydlfP50ImINtqTJeeL9KxKLII_8pR_ITSDvmDba-JA39Oo5bKhyYh8P74SNWJKF1oKf_JdKVab57q4-CY8r71wTBhyeRBx-fC8PLI7vUWnefS9SzWmjJVUTN32m38x6YwRDqzEbdtzY2mhQ-73YN1wk9CmGd3eY3CRnx-2PSPwDrbd8532xuzuzSDaVchUiofLm51IP3c6G9hBITLN2S31xJVYbJIN6m_401cJap2RdH3xo_q3xoj2_A8sm6DrFyAtHCsBPBSZ9IQZXANvsgbPM32K7mkinwav3Mku79gl5MuV3mhwENU1YjZ-8qsg1JCuOVG1xgVmxTDPEt3khag-JFR0G7Ebpbz5CB6DUkTiFiUO_ue9s4mMaOJ2TGovJIa",
+          "title": "On Holding BridgeBio Pharma",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/qCLYuD16v-PsfUOLlU3fWg~~/AAQRxRA~/3SGzzvQGlODLm_dWdqeUC3bIBiCh7lp8VnmH4fV_BVeS_G3UBg4iF_IoFNtTusLbpLWr5G3kxud4ODz69CjD29_KbH33zEYh3TBICLentv_wvcsmCBcDTxmlkcP5toJtfDDqWlcQdeHFaKX0Sy9X3_VMpuy42CtcqtQ8jGAE8Gx-tEoVv6K0xKIRmlWjzajr42n9rosGagi9IA5MzDGSIIAEtcECSOUbnubvZ4baxM2vuaEU7f7rZGm9nAmPvJSJEya0HnsedotTss0cXU5CUBJ7DrHHrM4oQq675aMU_E3Zgpkanp0haBL6mNZ9Jhoft5NXXoH0B401t9pqlJr3BbcSP6-_Mx70kHsR8D4Rhx9kmTN2lzDD9Ay3CZXFKWWwDbN_s453lwYyGh2WmI9cSBKeyVrkKIyLlxkYOcIk7kIDj1iravSDDKrrVu-sFPh-Vb366K64VvkNDuyWyuQ5hA~~",
+          "title": "more than doubled second-quarter revenue",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/Z16nhDOUwTBjoyRDiA6f1A~~/AAQRxRA~/FFAvewcqgS7dMEeWaUAlWH399o9F0s_1M8aixr_W7gIjem8s1Gm-2ZknJemJu40DUjiGmxs3FYkEFKf3sPbVnnGlxTstoNwsngkRbGMFJYEBuiHzzpOqDN552wlMSvhXQhViFMN5Leaplfaeu4-R1N7STOnmuiVxiGOnhVk5kCLOlluI6g5wlOFrlVLDTdTKlkkmgJibTkkIX3_aiiw8ogHQ4aZEj8FttUUN-nEMxI1xgJb7bAXRalYi63jbBCiRWziRiS3waarXQSetIJr1velWRe_ksVqqiQEJt7x35lRECGB4EbSrWdKx7thbendjAAsnxVDW7S4pJTLRfWEIF9sjUFe_3_tXNs19Qd9J9eRmwKrVZyETNeINKkpLbzUpAxoAur8J7XG1c9YXNw4nUwqlQmLfLYO4RjRX1KMEMaxgQigMvM_CfwKuuWmePFpxwVTMoOheMegEG01w_SPrIQ6DSCnfSRJKy65YpMrx1P4~",
+          "title": "Review what’s helping BBIO secure sales",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/O-VpqrdOLKc3dmfOb2Of3A~~/AAQRxRA~/WKd_Pvw55bV_QU_TDl61n8Hn6tzWnK-bV3j-1dn-AqC0aDN14M61dayPmWQPbhJ7bNSIIbBUjUAiN-tWW43Yi-XXACMZcHnvWIiaPBjp_UqHh99ghktMnCZqyPMbX8X3GSRhpxdFZwifAn9dbkBFcvLpn5CgJS86dmvlspVEZ9qruD9AJOVWljSSc1B4kgJ4Z4T81LSjgn2tg5enE5WxvyPgBFYxadjnWweaTlMDYfIkVi6JcFdS3jS5vAAnZSRt",
+          "title": "Get the Portfolio with Epic &rarr;",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1351,
+      "summaryHints": [
+        "Rocket Lab falls despite record results, cybersecurity stocks jump on AI threats, and more… Breakfast News   Click here to read online .",
+        "AUGUST 11, 2026Monday's MarketsS&P 500 7,753 (-0.06%)Nasdaq 26,605 (-0.32%)Dow 53,976 (-0.11%)Bitcoin 64,037 (-1.61%)----------------------------------- 1.",
+        "Rocket Lab: Up on Paper, Down 7% ----------------------------------- Image shows chart of Rocket Lab's free cash flow burn over the past three years Rocket Lab just delivered its strongest quarter on record , but the stock fell around 7% in pre-market trading.",
+        "Despite beating on revenue, the adjusted loss of $0.08 per share missed the expected loss of $0.06, a 33% earnings miss that overshadowed the top-line strength.",
+        "Non-GAAP free cash flow burned $110.1 million in the second quarter, up from $77.4 million burned in the first."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Rocket Lab: Up on Paper, Down 7% ----------------------------------- Image shows chart of Rocket Lab's free cash flow burn over the past three years Rocket Lab just delivered its strongest quarter on record , but the stock fell around 7% in pre-market trading. Despite beating on revenue, the adjusted loss of $0.08 per share missed the expected loss of $0.06, a 33% earnings miss that overshadowed the top-line strength. Non-GAAP free cash flow burned $110.1 million in the second quarter, up from $77.4 million burned in the first. The business is growing, but it's still spending faster than it's collecting. * CEO Peter Beck said \"Q2 was another fantastic quarter\": Beck isn't wrong that Q2 was strong – the record backlog is real. But investors zeroed in on the $0.02 miss and the wider cash burn, both of which say the business hasn't cracked how to grow without spending even more to do it. That's the operating-leverage question this stock still has to answer. * Third-quarter guidance projects an adjusted EBITDA loss despite $250 million to $265 million in revenue: Long-term holders should watch free cash flow and share count over the next two or three quarters, not this one pre-market swing, for a stock both Team Hidden Gems and Team Rule Breakers still recommend. Delve into RKLB’s Midyear Check-In Divider -----------------------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/2d_b9fEcLj5_x5I681KjZQ~~/AAQRxRA~/4-350PWuBCBHrypFuwx4ExcUzdFKs9URKRZjVig3ONy81UbuQruwQcso6_C2L5KylPpbljX-UPmnnLO1BX2eGD_guZjZfbKfFuRKdqmSLFo-a0PapwPqT2cO3Z45-86gvcyHEm0dW5gQ19IJhL0UWmbe0aH-IkraK7c1svQ-rmnH7hcGxb5kpUu6gQ4c19RJbvfsXmV0sr5kxoNaeH_KNmnSo4gdpp2QOfrNLHILiugS3OhrsU1QJbiICEqhHcRTiqJVivUeZh7ENxBjRm0xCLJTp4sgKrfZU0TwoBhCyqvcLP0dmZQlRDRfWCuFPzNR6-ONwuWeyqWQ9uDPoVFKSM-MNbB4NoETpgGOBaTHJqYKhKPzDpHwD-yZKNIdetLGqSByNm9OBLP8dF2bHfzn0-TzyJVGZa-8-FlBt4rAZ3V0zuEshxkcerGONPa-M4ea",
+              "title": "Rocket Lab",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/PxvSTycncsbdxvbJiIdNMg~~/AAQRxRA~/wKiwWgaaWTiH-kuu_NBvGF19kt3MFdic9acWmG7lU38PKFDyoUszVl1ZpMhBrKO7tyEkyQ_KqbP7wcyYkTcLT77eFKq0ULwk3BA0FQVqs8WNhOmiuMoyqBTPn9SRaMLsqkvgLAwYxV1FbZBhyplZM8b0XMTMelr3IhpTiOPZENmfbh2KGWS77-xiv1c0QssxLlPWNeYxm9oyWCtCvfqKoiD5IYc_D5gAWQkfdIQ4sFSFxPgspgbpZrS9stCATHZ_Ies9o_YOJoLSOrkNDgrDP3ZN4KtY288aySiOfueWbv6253up5B05CgWzJbKcm0Lts_xd5njk0w5qt6FYQ9PVC1BoiwIkypUsTGKckkTg6pEXlZ0T27vdushjaV9sfPlUcvhyIFTIejkOYcZAFXg7OQEXdgj5fffV3eDkv2G2RzEWYlLWnSdVX2qEiFGKDt9VZAyE1_n6X-r3NgzDjAIpgA~~",
+              "title": "its strongest quarter on record",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/7-uexlk7NduaNha0zVZa2A~~/AAQRxRA~/Hd_2yJdFv6iIoBlXACliR04Hs6whTrL8OEWHwGkGsBCtsCohs4BB386CHuDc_lvWWRRdsLC7NgWa3dtpqevR868w54ObyiRFusKgcnKjeAFR3bpyaOLTDFwVamNCvvtmDW28EWLf02I7j4_lkYjyVvirRIINOmtQqH_8EEIio1arzQUxj70CJY4aHIKR4d-MbbYzhqjfT8u4XD_D_ccoSqYXnD9ZNPkrvdP0r8x5_UGUonRl38gxxcRSJ9Q5snhfHx_P2aObGv4MXwdiQM9MrAlakKUohrPeo4h9rnOc6ji6JeIE2EDxZkzRPb7X56tCCl_H5YmkIO03AAq9RyFywbn4XkjPFRQUWXv8ksFFft8AI1OI5SbJwme_DzSLiVvVWXSj9R35bIS5t_Qj6Efd_wicbBCXUD-Wmev73RUQT8amhcTYbNF2XlYQA483zre477JJEDanGyy9oZF86CQ9Qg~~",
+              "title": "Delve into RKLB’s Midyear Check-In",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "BridgeBio Stalls, While Hims and On Fall Despite Good Quarters ----------------------------------------------------------------- * Hims & Hers Health fell about 7% this morning even thoughrevenue climbed 38% to $753.2 million , beating estimates. The company swung to a $127.9 million second-quarter loss, versus a year-ago profit and far worse than analysts expected, because cost of revenue more than doubled and crushed gross margin. Subscribers still grew 19%, and revenue per subscriber rose 21%, so the growth story is intact. The market just cared more about the shrinking margin. * On Holding fell more than 12% in early trading despite a strong quarter. Wholesale sales, its sales to other retailers, grew just 4.8%, and revenue in the Americas, its largest market, rose only 4.5%. Full-year guidance for \"low-20%\" constant-currency growth implies a slowdown from the first half's 24% pace, and shares that had run up on hopes of faster growth fell double digits on the news. * BridgeBio Pharma was little changed after earnings revealed itmore than doubled second-quarter revenue to $243.7 million, powered by its heart-disease drug Attruby. The operating loss for the Rule Breakers recommendation narrowed 20% to $107.1 million, and management now expects breakeven by 2027. A $1 billion preferred-equity raise that closed July 1 pushed cash to roughly $1.7 billion, funding three pipeline launches heading toward FDA decisions. Review what’s helping BBIO secure sales DividerA message from The Motley Fool <p><strong>&ldquo;This could be the portfolio I believe in most at The Motley Fool in our history&rdquo;</strong></p> <p>A quote from our CEO Tom Gardner, and here's how you know he means it: we're investing $100,000 of Motley Fool's own money into it. Real capital, invested right alongside members who follow along. </p> <p><a href=\" the Portfolio with Epic &rarr;</a></p> ------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/EXn1rpM8hUsxoNgIuMcyLQ~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD8IccoJBmM07zFox0XLlv_MRYR8xZsdoU4RE6G7UBXd9gnLRPz1nCWocgdiY7Iu45cctB65JikfWQwlqLqwNuzOoVPjXTcR8uyaogX5x6xjAY4L0T88Y3eqsK-aj8S9Ksg2u2OZe03UiuUc8KXN9R0KSXpICay7NNJL10MkpszzSGXeexpJo0x6qGXLeVkMbIt9XVvufDdcTfBJcZ6RhCbwWMtnlIfKWcdBwpLAhPFDYpd0Am3mbio2RCN8FhObyc8tToD_cRJ-NgX8b-lAulG2h1qaNKka6bu3lNXH_4-1surALVBlvavgPxvholyt34rgbIj1FBqj7s8nRwBiv4-m66J9xJECQkuaoIPMiBi57hEfJJTk8AvHEYrS_UHBpC",
+              "title": "Hims & Hers Health",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/ENv_Bc5QxGkY25LuuBOWQQ~~/AAQRxRA~/Y3JneVRNscVU2Pz8yO55qtfWIdjwt8MauimLRowVXA7lFaME8GBDC4UwlEn9BVuYRR4uQEOVQRuQqVfd7g-HeOGHiKUrrLClMKgKvwWRESmh-OYELhfPCAE6GwlkKxTc14FYOgxf5zcJYLKV3fsEJPmfsaDCELvsRuyjVPjPZ7b8qIwwM40XHdN6LmVE-3t9jyJWD0CTDpth6Lg4M33pD2kGm0pUEiwMtZ-AdA4EGQFGo5QMaZxnlUgAXTzH3ndYk9iTDJ1dp8KfrrwTJEJbj2b7qMxcRfEJjUIreW-4RcLwXgrCoW6oEulFU0QbCZWbCy6_hFD-1pobvgrBun-fB8hxlW0FHtDc12sN-bnkI3_8CkXIabrPpKFi5ASUkIt-FbE97pDPxcS5a83Z5tL6s9yoje9Y2pVMsoCdug5Da-1O0CFQAT_Z8x3XLUpVO7CECyjOrD-tfTIyfBkC5llD5A~~",
+              "title": "revenue climbed 38% to $753.2 million",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/5MUc_rw1lHxAVg67xPg6Tg~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD_KceRFc878ZVp2XpynaXbGlKy513h00OUsZyMJlqUVfPS5J5nhMan7wzdqd-gNPLrNTz1KopkbNu_p0wPmmaqAeXm0g5jGY681h3CoklCsV6sQEuM3kcj9B5bVQKdpWhlBU-iNuJ6fYquZi3wS7ZeRKRpWw5KWYaEoIfybEUcAKUFzFvgQM15DQr_qr62SybTLnKigib8nT4RvsjBeF8NZJEyAK9jZKNg_NZjnIMKZA2CMCqfpt2Zxf8KXF9YtBeW7pD7ycDH4LJTANJeVN1aNJChExnWO9HzyfCaW3lA5dOc47Yf36Zg-PFx5rkeuPo7rhlvWmr9ZAVImDzBF-YIU7kB8CtiTSsZ4VwiMqosuBOMsGqpAasrjxWBBnVPDRC",
+              "title": "Hims & Hers Health",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/qCLYuD16v-PsfUOLlU3fWg~~/AAQRxRA~/3SGzzvQGlODLm_dWdqeUC3bIBiCh7lp8VnmH4fV_BVeS_G3UBg4iF_IoFNtTusLbpLWr5G3kxud4ODz69CjD29_KbH33zEYh3TBICLentv_wvcsmCBcDTxmlkcP5toJtfDDqWlcQdeHFaKX0Sy9X3_VMpuy42CtcqtQ8jGAE8Gx-tEoVv6K0xKIRmlWjzajr42n9rosGagi9IA5MzDGSIIAEtcECSOUbnubvZ4baxM2vuaEU7f7rZGm9nAmPvJSJEya0HnsedotTss0cXU5CUBJ7DrHHrM4oQq675aMU_E3Zgpkanp0haBL6mNZ9Jhoft5NXXoH0B401t9pqlJr3BbcSP6-_Mx70kHsR8D4Rhx9kmTN2lzDD9Ay3CZXFKWWwDbN_s453lwYyGh2WmI9cSBKeyVrkKIyLlxkYOcIk7kIDj1iravSDDKrrVu-sFPh-Vb366K64VvkNDuyWyuQ5hA~~",
+              "title": "more than doubled second-quarter revenue",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/Z16nhDOUwTBjoyRDiA6f1A~~/AAQRxRA~/FFAvewcqgS7dMEeWaUAlWH399o9F0s_1M8aixr_W7gIjem8s1Gm-2ZknJemJu40DUjiGmxs3FYkEFKf3sPbVnnGlxTstoNwsngkRbGMFJYEBuiHzzpOqDN552wlMSvhXQhViFMN5Leaplfaeu4-R1N7STOnmuiVxiGOnhVk5kCLOlluI6g5wlOFrlVLDTdTKlkkmgJibTkkIX3_aiiw8ogHQ4aZEj8FttUUN-nEMxI1xgJb7bAXRalYi63jbBCiRWziRiS3waarXQSetIJr1velWRe_ksVqqiQEJt7x35lRECGB4EbSrWdKx7thbendjAAsnxVDW7S4pJTLRfWEIF9sjUFe_3_tXNs19Qd9J9eRmwKrVZyETNeINKkpLbzUpAxoAur8J7XG1c9YXNw4nUwqlQmLfLYO4RjRX1KMEMaxgQigMvM_CfwKuuWmePFpxwVTMoOheMegEG01w_SPrIQ6DSCnfSRJKy65YpMrx1P4~",
+              "title": "Review what’s helping BBIO secure sales",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": [
+            "Space Economy",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "Who Lists First Sets the AI Price ------------------------------------ OpenAI let current and former employees cash out $7 billion of stock Monday at an $852 billion valuation – the third such sale in two years, with still no IPO date set. The company confidentially filed with the SEC in June but hasn't set a timeline. Rival Anthropic, valued at $965 billion, is moving faster: it's meeting with investors ahead of a targeted September or October debut that some expect could become the largest IPO ever. * Whichever company lists first sets the reference price for the sector: Both will lean on growth and capability to justify sky-high valuations. The same numbers-versus-narrative test we apply to earnings will apply here – revenue growth is real for both, but so is the cash they're burning to get it. * Treat pre-IPO investor meetings as messaging, not evidence: Don't form a valuation view from positioning alone. Anthropic's executives still have to answer investor questions about cheaper Chinese AI rivals and friction with the Trump administration before any IPO happens. Hear why 5 Fools would skip OpenAI's IPO Divider -------------------------------------------------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings",
+            "Regulatory Risk"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "CrowdStrike and Palo Alto Jump 5% as AI Threats Grow ------------------------------------------------------- AI agents have rewritten cybersecurity's threat landscape, and last week's Black Hat conference in Las Vegas made that impossible to ignore. Cybersecurity stocks rallied Monday: CrowdStrike and Palo Alto Networks jumped more than 5% to fresh highs. CrowdStrike is beating the S&P 500 by 127% since the Hidden Gems recommendation from November 2024. * “Yes, I think they're going to have to move fast, but CrowdStrike has AI in its DNA”: Fool contributing analyst Danny Vena flagged the same threat last week, but said CrowdStrike and Palo Alto \"have long had AI baked into their cybersecurity, and I think that gives them an edge against some of the legacy non-AI cybersecurity players.\" * The uncomfortable flip side: The same AI agents fueling this rally are also arming the attackers. Palo Alto's identity platform and data-security products are positioned to capture spending as more AI agents multiply the number of identities to secure, while CrowdStrike's endpoint business rides the AI-driven modernization cycle. Find out why AI made cyber stronger Divider ------------------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "The Airbnb Experience ------------------------ It takes a special company to win the sustained approval of both Team Hidden Gems and Team Rule Breakers. Airbnb has done so. We've recommended the stock over 70 times since 2021, at prices as high as $204 and as low as $87. Our average cost basis across all ABNB recs in Fooldom is $135.51. The stock advanced to $184 this week. That makes nearly all of our positions profitable, though many aren't beating the market. We think that could well change, after arguably its strongest quarterly earnings report in years. * AI flipped the switch: Airbnb re-accelerated growth last quarter as bookings rose 10% and first-time bookers hit their highest rate in four years. AI powered much of the lift, clearing nearly 45% of support issues and shipping new features faster. (AI monetization – yep.) * Cash for days: No rival in travel throws off cash like Airbnb. It converts nearly 37% of revenue to free cash flow. That results in more than $9.5 billion sitting in net cash and investments on its balance sheet. The company has cash enough to aggressively fund investments in AI and share buybacks. Team Hidden Gems has a 5-year price prediction of $348.51. Team Rule Breakers has a 5-year price prediction of $322.42 (averaging its base and bull cases). Airbnb is priced at $184 today. If shares get to our targets, we'll have a very solid market beater across many, many investments. Divider ------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 6",
+          "text": "Your Take ------------ YESTERDAY'S TOP TAKE We asked, what's a stock you held through an ugly sell-off that you're now glad you kept? Member CyberMikey said “[CrowdStrike’s] faulty update was a serious mistake, but I viewed it as an operational failure rather than a break in the underlying product or competitive position.” TODAY'S QUESTION What's a stock in your portfolio that unites the growth crowd and the value crowd? Share in the comments on today’s article! Divider The Morning Show ************************** Have an Appetite for More? ************************** Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        }
+      ],
+      "tickers": [],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": []
+    },
+    {
+      "title": "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer",
+      "file": "2026-08-11-market-briefstock-analysismarket-bullets-market-bullets-intel-boosts-stock-offering-to-20b-nvidia-secures-500b-for-ai-bui-19ff0eed07a87b0c.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Tue, 11 Aug 2026 13:06:15 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [],
+      "wordCount": 7,
+      "summaryHints": [
+        "​ Unsubscribe   | Dimmuhvarf 13A, Kopavogur, 203"
+      ],
+      "items": [],
+      "tickers": [],
+      "themes": [],
+      "events": []
+    },
+    {
+      "title": "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer",
+      "file": "2026-08-11-market-briefstock-analysismarket-bullets-market-bullets-intel-boosts-stock-offering-to-20b-nvidia-secures-500b-for-ai-bui-19ff0fc34ba8659b.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Tue, 11 Aug 2026 13:21:27 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [
+        {
+          "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+          "title": "Intel Intc Stock Offering Ai",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+          "title": "Nvidia secures $500B for AI",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+          "title": "Boeing Evtol Archer Stake",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/11/foundayo-eli-lilly-wegovy-pill-uk.html",
+          "title": "Foundayo Eli Lilly Wegovy Pill Uk",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+          "title": "Oil Prices Today Us Crude 84",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1729,
+      "summaryHints": [
+        "​ 🏘️ Small business optimism hits a high | Tuesday - August 11, 2026 | View Online Presented by --------------- Market Overview --------------- S&P 500 -0.06% Pre: +0.17% Nasdaq -0.32% Pre: +0.31% Dow -0.11% Pre: +0.09% ------------------- Stock & Market News -------------------",
+        "* Intel upsizes AI stock offering: Intel (INTC  ) increased its stock sale to $20B at $95 a share, targeting about $19.7B in net proceeds for capex and working capital as AI demand accelerates.",
+        "The deal could rise further through a $2.25B underwriter option.",
+        "* Anthropic targets blockbuster IPO: Anthropic   is preparing for a September or early October IPO at a $965B valuation, while reassuring investors on Chinese competition, political tensions, and AI infrastructure risks.",
+        "Run-rate revenue topped $47B in May."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "ACHR",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Boeing takes a stake in Archer: Boeing (BA  ) agreed to sell Wisk Aero, SkyGrid, and Insitu to Archer Aviation (ACHR  ) for a 19.75% stake, sharpening Boeing’s focus on core operations while expanding Archer’s aircraft and defense portfolio."
+          ]
+        },
+        {
+          "symbol": "ALC",
+          "mentions": 1,
+          "move": "+7.95%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Alcon (ALC  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "APO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+          ]
+        },
+        {
+          "symbol": "BA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Boeing takes a stake in Archer: Boeing (BA  ) agreed to sell Wisk Aero, SkyGrid, and Insitu to Archer Aviation (ACHR  ) for a 19.75% stake, sharpening Boeing’s focus on core operations while expanding Archer’s aircraft and defense portfolio."
+          ]
+        },
+        {
+          "symbol": "BLK",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+          ]
+        },
+        {
+          "symbol": "BX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+          ]
+        },
+        {
+          "symbol": "CAVA",
+          "mentions": 2,
+          "move": "+28.93%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- CAVA Group (CAVA  ) will report today after close."
+          ]
+        },
+        {
+          "symbol": "COHR",
+          "mentions": 1,
+          "move": "+29.68%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Coherent (COHR  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "DJT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Trump Media API & earnings: Trump Media (DJT  ) said more than 10 firms, mainly high-frequency traders, are paying $60,000-$100,000 monthly for faster Truth Social feeds."
+          ]
+        },
+        {
+          "symbol": "EAT",
+          "mentions": 1,
+          "move": "+4.88%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Brinker International (EAT  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "ESLT",
+          "mentions": 1,
+          "move": "+15.91%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Elbit Systems (ESLT  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "FERG",
+          "mentions": 1,
+          "move": "+27.33%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Ferguson Enterprises (FERG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "FOIL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(FOIL  ), a Chinese copper foils producer with $1.56B in TTM revenue and 24.88% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "GM",
+          "mentions": 3,
+          "move": null,
+          "notes": [
+            "* Samsung SDI buys GM venture: Samsung SDI (KRX:006400  ) will acquire GM’s (GM  ) 49.99% stake in their Indiana battery JV as weaker EV demand reshapes investment plans."
+          ]
+        },
+        {
+          "symbol": "GOOGL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  )."
+          ]
+        },
+        {
+          "symbol": "GS",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+          ]
+        },
+        {
+          "symbol": "INTC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Intel upsizes AI stock offering: Intel (INTC  ) increased its stock sale to $20B at $95 a share, targeting about $19.7B in net proceeds for capex and working capital as AI demand accelerates."
+          ]
+        },
+        {
+          "symbol": "KRX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Samsung SDI buys GM venture: Samsung SDI (KRX:006400  ) will acquire GM’s (GM  ) 49.99% stake in their Indiana battery JV as weaker EV demand reshapes investment plans."
+          ]
+        },
+        {
+          "symbol": "LLY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Lilly expands weight loss pill: Eli Lilly (LLY  ) won U.K."
+          ]
+        },
+        {
+          "symbol": "META",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  )."
+          ]
+        },
+        {
+          "symbol": "NU",
+          "mentions": 1,
+          "move": "+49.23%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Nu Holdings (NU  ) will report Thursday."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+          ]
+        },
+        {
+          "symbol": "NVO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "approval for Foundayo, challenging Novo Nordisk’s (NVO  ) lead with its Wegovy pill."
+          ]
+        },
+        {
+          "symbol": "RKLB",
+          "mentions": 1,
+          "move": "+61.99%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Rocket Lab (RKLB  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "SE",
+          "mentions": 1,
+          "move": "+48.09%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Sea Limited (SE  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "SLAB",
+          "mentions": 1,
+          "move": "+18.44%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Silicon Laboratories (SLAB  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "SNAP",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  )."
+          ]
+        },
+        {
+          "symbol": "SPG",
+          "mentions": 1,
+          "move": "+19.52%",
+          "notes": [
+            "View definitions --------------- Recent Earnings --------------- Simon Property Group (SPG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "STN",
+          "mentions": 1,
+          "move": "+12.75%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Stantec (STN  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "TDY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Teledyne agrees to buy Varex: Teledyne (TDY  ) agreed to acquire Varex Imaging (VREX  ) for about $1.1B, or $18.90 a share in cash, expanding its healthcare imaging business."
+          ]
+        },
+        {
+          "symbol": "TEO",
+          "mentions": 1,
+          "move": "+9.31%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Telecom Argentina (TEO  ) will report today after close."
+          ]
+        },
+        {
+          "symbol": "UGP",
+          "mentions": 1,
+          "move": "+45.07%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Ultrapar Participações (UGP  ) will report tomorrow after market close."
+          ]
+        },
+        {
+          "symbol": "VREX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Teledyne agrees to buy Varex: Teledyne (TDY  ) agreed to acquire Varex Imaging (VREX  ) for about $1.1B, or $18.90 a share in cash, expanding its healthcare imaging business."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Streaming And Media",
+        "Financials",
+        "Semiconductors",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": [
+        {
+          "kind": "economic",
+          "date": "2026-08-11",
+          "time": "8:15 AM",
+          "title": "ADP Employment Change Weekly"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-11",
+          "time": "10:00 AM",
+          "title": "Existing Home Sales"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-11",
+          "time": "4:30 PM",
+          "title": "API Crude Oil Stock Change"
+        }
+      ]
+    }
+  ],
+  "readingList": [
+    {
+      "title": "Hims & Hers Health",
+      "note": "BridgeBio Stalls, While Hims and On Fall Despite Good Quarters ----------------------------------------------------------------- * Hims & Hers Health fell about 7% this morning ev…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/EXn1rpM8hUsxoNgIuMcyLQ~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD8IccoJBmM07zFox0XLlv_MRYR8xZsdoU4RE6G7UBXd9gnLRPz1nCWocgdiY7Iu45cctB65JikfWQwlqLqwNuzOoVPjXTcR8uyaogX5x6xjAY4L0T88Y3eqsK-aj8S9Ksg2u2OZe03UiuUc8KXN9R0KSXpICay7NNJL10MkpszzSGXeexpJo0x6qGXLeVkMbIt9XVvufDdcTfBJcZ6RhCbwWMtnlIfKWcdBwpLAhPFDYpd0Am3mbio2RCN8FhObyc8tToD_cRJ-NgX8b-lAulG2h1qaNKka6bu3lNXH_4-1surALVBlvavgPxvholyt34rgbIj1FBqj7s8nRwBiv4-m66J9xJECQkuaoIPMiBi57hEfJJTk8AvHEYrS_UHBpC",
+          "title": "Hims & Hers Health",
+          "label": "Hims & Hers Health"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/ENv_Bc5QxGkY25LuuBOWQQ~~/AAQRxRA~/Y3JneVRNscVU2Pz8yO55qtfWIdjwt8MauimLRowVXA7lFaME8GBDC4UwlEn9BVuYRR4uQEOVQRuQqVfd7g-HeOGHiKUrrLClMKgKvwWRESmh-OYELhfPCAE6GwlkKxTc14FYOgxf5zcJYLKV3fsEJPmfsaDCELvsRuyjVPjPZ7b8qIwwM40XHdN6LmVE-3t9jyJWD0CTDpth6Lg4M33pD2kGm0pUEiwMtZ-AdA4EGQFGo5QMaZxnlUgAXTzH3ndYk9iTDJ1dp8KfrrwTJEJbj2b7qMxcRfEJjUIreW-4RcLwXgrCoW6oEulFU0QbCZWbCy6_hFD-1pobvgrBun-fB8hxlW0FHtDc12sN-bnkI3_8CkXIabrPpKFi5ASUkIt-FbE97pDPxcS5a83Z5tL6s9yoje9Y2pVMsoCdug5Da-1O0CFQAT_Z8x3XLUpVO7CECyjOrD-tfTIyfBkC5llD5A~~",
+          "title": "revenue climbed 38% to $753.2 million",
+          "label": "revenue climbed 38% to $753.2 million"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Rocket Lab Earnings Fail to Launch"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [],
+      "score": 24
+    },
+    {
+      "title": "its strongest quarter on record",
+      "note": "Rocket Lab: Up on Paper, Down 7% ----------------------------------- Image shows chart of Rocket Lab's free cash flow burn over the past three years Rocket Lab just delivered its…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/PxvSTycncsbdxvbJiIdNMg~~/AAQRxRA~/wKiwWgaaWTiH-kuu_NBvGF19kt3MFdic9acWmG7lU38PKFDyoUszVl1ZpMhBrKO7tyEkyQ_KqbP7wcyYkTcLT77eFKq0ULwk3BA0FQVqs8WNhOmiuMoyqBTPn9SRaMLsqkvgLAwYxV1FbZBhyplZM8b0XMTMelr3IhpTiOPZENmfbh2KGWS77-xiv1c0QssxLlPWNeYxm9oyWCtCvfqKoiD5IYc_D5gAWQkfdIQ4sFSFxPgspgbpZrS9stCATHZ_Ies9o_YOJoLSOrkNDgrDP3ZN4KtY288aySiOfueWbv6253up5B05CgWzJbKcm0Lts_xd5njk0w5qt6FYQ9PVC1BoiwIkypUsTGKckkTg6pEXlZ0T27vdushjaV9sfPlUcvhyIFTIejkOYcZAFXg7OQEXdgj5fffV3eDkv2G2RzEWYlLWnSdVX2qEiFGKDt9VZAyE1_n6X-r3NgzDjAIpgA~~",
+          "title": "its strongest quarter on record",
+          "label": "its strongest quarter on record"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/7-uexlk7NduaNha0zVZa2A~~/AAQRxRA~/Hd_2yJdFv6iIoBlXACliR04Hs6whTrL8OEWHwGkGsBCtsCohs4BB386CHuDc_lvWWRRdsLC7NgWa3dtpqevR868w54ObyiRFusKgcnKjeAFR3bpyaOLTDFwVamNCvvtmDW28EWLf02I7j4_lkYjyVvirRIINOmtQqH_8EEIio1arzQUxj70CJY4aHIKR4d-MbbYzhqjfT8u4XD_D_ccoSqYXnD9ZNPkrvdP0r8x5_UGUonRl38gxxcRSJ9Q5snhfHx_P2aObGv4MXwdiQM9MrAlakKUohrPeo4h9rnOc6ji6JeIE2EDxZkzRPb7X56tCCl_H5YmkIO03AAq9RyFywbn4XkjPFRQUWXv8ksFFft8AI1OI5SbJwme_DzSLiVvVWXSj9R35bIS5t_Qj6Efd_wicbBCXUD-Wmev73RUQT8amhcTYbNF2XlYQA483zre477JJEDanGyy9oZF86CQ9Qg~~",
+          "title": "Delve into RKLB’s Midyear Check-In",
+          "label": "Delve into RKLB’s Midyear Check-In"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Rocket Lab Earnings Fail to Launch"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [],
+      "score": 18
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": -1,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Rocket Lab Earnings Fail to Launch",
+        "note": "BridgeBio Stalls, While Hims and On Fall Despite Good Quarters ----------------------------------------------------------------- * Hims & Hers Health fell about 7% this morning even thoughrevenue climbed 38% to $753.2 million , beating estimates. The company swung to a $127.9 million second-quarter loss, versus a year-ago profit and far worse than analysts expected, because cost of revenue more than doubled and crushed gross margin. Subscribers still grew 19%, and revenue per subscriber rose 21%, so the growth story is intact. The market just cared more about the shrinking margin. * On Holding fell more than 12% in early trading despite a strong quarter. Wholesale sales, its sales to other retailers, grew just 4.8%, and revenue in the Americas, its largest market, rose only 4.5%. Full-year guidance for \"low-20%\" constant-currency growth implies a slowdown from the first half's 24% pace, and shares that had run up on hopes of faster growth fell double digits on the news. * BridgeBio Pharma was little changed after earnings revealed itmore than doubled second-quarter revenue to $243.7 million, powered by its heart-disease drug Attruby. The operating loss for the Rule Breakers recommendation narrowed 20% to $107.1 million, and management now expects breakeven by 2027. A $1 billion preferred-equity raise that closed July 1 pushed cash to roughly $1.7 billion, funding three pipeline launches heading toward FDA decisions. Review what’s helping BBIO secure sales DividerA message from The Motley Fool <p><strong>&ldquo;This could be the portfolio I believe in most at The Motley Fool in our history&rdquo;</strong></p> <p>A quote from our CEO Tom Gardner, and here's how you know he means it: we're investing $100,000 of Motley Fool's own money into it. Real capital, invested right alongside members who follow along. </p> <p><a href=\" the Portfolio with Epic &rarr;</a></p> ------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/EXn1rpM8hUsxoNgIuMcyLQ~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD8IccoJBmM07zFox0XLlv_MRYR8xZsdoU4RE6G7UBXd9gnLRPz1nCWocgdiY7Iu45cctB65JikfWQwlqLqwNuzOoVPjXTcR8uyaogX5x6xjAY4L0T88Y3eqsK-aj8S9Ksg2u2OZe03UiuUc8KXN9R0KSXpICay7NNJL10MkpszzSGXeexpJo0x6qGXLeVkMbIt9XVvufDdcTfBJcZ6RhCbwWMtnlIfKWcdBwpLAhPFDYpd0Am3mbio2RCN8FhObyc8tToD_cRJ-NgX8b-lAulG2h1qaNKka6bu3lNXH_4-1surALVBlvavgPxvholyt34rgbIj1FBqj7s8nRwBiv4-m66J9xJECQkuaoIPMiBi57hEfJJTk8AvHEYrS_UHBpC",
+            "title": "Hims & Hers Health",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ENv_Bc5QxGkY25LuuBOWQQ~~/AAQRxRA~/Y3JneVRNscVU2Pz8yO55qtfWIdjwt8MauimLRowVXA7lFaME8GBDC4UwlEn9BVuYRR4uQEOVQRuQqVfd7g-HeOGHiKUrrLClMKgKvwWRESmh-OYELhfPCAE6GwlkKxTc14FYOgxf5zcJYLKV3fsEJPmfsaDCELvsRuyjVPjPZ7b8qIwwM40XHdN6LmVE-3t9jyJWD0CTDpth6Lg4M33pD2kGm0pUEiwMtZ-AdA4EGQFGo5QMaZxnlUgAXTzH3ndYk9iTDJ1dp8KfrrwTJEJbj2b7qMxcRfEJjUIreW-4RcLwXgrCoW6oEulFU0QbCZWbCy6_hFD-1pobvgrBun-fB8hxlW0FHtDc12sN-bnkI3_8CkXIabrPpKFi5ASUkIt-FbE97pDPxcS5a83Z5tL6s9yoje9Y2pVMsoCdug5Da-1O0CFQAT_Z8x3XLUpVO7CECyjOrD-tfTIyfBkC5llD5A~~",
+            "title": "revenue climbed 38% to $753.2 million",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5MUc_rw1lHxAVg67xPg6Tg~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD_KceRFc878ZVp2XpynaXbGlKy513h00OUsZyMJlqUVfPS5J5nhMan7wzdqd-gNPLrNTz1KopkbNu_p0wPmmaqAeXm0g5jGY681h3CoklCsV6sQEuM3kcj9B5bVQKdpWhlBU-iNuJ6fYquZi3wS7ZeRKRpWw5KWYaEoIfybEUcAKUFzFvgQM15DQr_qr62SybTLnKigib8nT4RvsjBeF8NZJEyAK9jZKNg_NZjnIMKZA2CMCqfpt2Zxf8KXF9YtBeW7pD7ycDH4LJTANJeVN1aNJChExnWO9HzyfCaW3lA5dOc47Yf36Zg-PFx5rkeuPo7rhlvWmr9ZAVImDzBF-YIU7kB8CtiTSsZ4VwiMqosuBOMsGqpAasrjxWBBnVPDRC",
+            "title": "Hims & Hers Health",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/qCLYuD16v-PsfUOLlU3fWg~~/AAQRxRA~/3SGzzvQGlODLm_dWdqeUC3bIBiCh7lp8VnmH4fV_BVeS_G3UBg4iF_IoFNtTusLbpLWr5G3kxud4ODz69CjD29_KbH33zEYh3TBICLentv_wvcsmCBcDTxmlkcP5toJtfDDqWlcQdeHFaKX0Sy9X3_VMpuy42CtcqtQ8jGAE8Gx-tEoVv6K0xKIRmlWjzajr42n9rosGagi9IA5MzDGSIIAEtcECSOUbnubvZ4baxM2vuaEU7f7rZGm9nAmPvJSJEya0HnsedotTss0cXU5CUBJ7DrHHrM4oQq675aMU_E3Zgpkanp0haBL6mNZ9Jhoft5NXXoH0B401t9pqlJr3BbcSP6-_Mx70kHsR8D4Rhx9kmTN2lzDD9Ay3CZXFKWWwDbN_s453lwYyGh2WmI9cSBKeyVrkKIyLlxkYOcIk7kIDj1iravSDDKrrVu-sFPh-Vb366K64VvkNDuyWyuQ5hA~~",
+            "title": "more than doubled second-quarter revenue",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Z16nhDOUwTBjoyRDiA6f1A~~/AAQRxRA~/FFAvewcqgS7dMEeWaUAlWH399o9F0s_1M8aixr_W7gIjem8s1Gm-2ZknJemJu40DUjiGmxs3FYkEFKf3sPbVnnGlxTstoNwsngkRbGMFJYEBuiHzzpOqDN552wlMSvhXQhViFMN5Leaplfaeu4-R1N7STOnmuiVxiGOnhVk5kCLOlluI6g5wlOFrlVLDTdTKlkkmgJibTkkIX3_aiiw8ogHQ4aZEj8FttUUN-nEMxI1xgJb7bAXRalYi63jbBCiRWziRiS3waarXQSetIJr1velWRe_ksVqqiQEJt7x35lRECGB4EbSrWdKx7thbendjAAsnxVDW7S4pJTLRfWEIF9sjUFe_3_tXNs19Qd9J9eRmwKrVZyETNeINKkpLbzUpAxoAur8J7XG1c9YXNw4nUwqlQmLfLYO4RjRX1KMEMaxgQigMvM_CfwKuuWmePFpxwVTMoOheMegEG01w_SPrIQ6DSCnfSRJKy65YpMrx1P4~",
+            "title": "Review what’s helping BBIO secure sales",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Rocket Lab Earnings Fail to Launch",
+        "note": "Who Lists First Sets the AI Price ------------------------------------ OpenAI let current and former employees cash out $7 billion of stock Monday at an $852 billion valuation – the third such sale in two years, with still no IPO date set. The company confidentially filed with the SEC in June but hasn't set a timeline. Rival Anthropic, valued at $965 billion, is moving faster: it's meeting with investors ahead of a targeted September or October debut that some expect could become the largest IPO ever. * Whichever company lists first sets the reference price for the sector: Both will lean on growth and capability to justify sky-high valuations. The same numbers-versus-narrative test we apply to earnings will apply here – revenue growth is real for both, but so is the cash they're burning to get it. * Treat pre-IPO investor meetings as messaging, not evidence: Don't form a valuation view from positioning alone. Anthropic's executives still have to answer investor questions about cheaper Chinese AI rivals and friction with the Trump administration before any IPO happens. Hear why 5 Fools would skip OpenAI's IPO Divider -------------------------------------------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/1Nxivmg_rj93UG203DSr2w~~/AAQRxRA~/slNDCCSmz9Qg7uIi3DlzUZo3TAj8eFZ2S2Itwy1lD5K_PSWtbunifFcFvWDhZXRehF2Dhk9v0XaPm61aLTDwavsoft_gKNDmVm5-GUwEfxQ209WUYF52chqF1xY3Ei4mQYVzanl2L4M7valtE51sxhfANNOH_CUVt7eAcq1HxaXYOsIPvHkdMCrs0NbrWN59CJB03oG-WjWakOr0eg1btbsQcUIgRwviJBrhg6WYYAG9d_wJzeEte0cjQX-jcHPQeu1Vpr__Q4K7V9eUs_mbwWcvbAbPtjqFvAODxJMOrT_kacOdfOPRPvylD3t3-MQT5hvDPH0uYRZSJnofeWrQg38mt9Aa6qbhNntc6NHvkm42CdPQpJzv82ANez5ErcHWpudWSlp1OPsSrEOxmzf4gweIrqscCVkNRrPSr3W65lOhT_KH0jlJrKz4I1Qx6Bf2",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/On5Q3qwN-AMm_5RXBdzv1A~~/AAQRxRA~/slNDCCSmz9Qg7uIi3DlzUZo3TAj8eFZ2S2Itwy1lD5K_PSWtbunifFcFvWDhZXRehF2Dhk9v0XaPm61aLTDwavsoft_gKNDmVm5-GUwEfxTfPT77On9F0JvEmysEoGX4GHJLwOiOt0f4VeH5zFZwJxLrKfKq6sjFg8uTklbUqwyPDzWbuyJnB5gW5aggEeK7nEZKyv_MQcdVRsKCoAPO5AwShnCjY02N4hQ8FXVilJWtqx91rPftE915GTy6oQ3SHfUWIsNOA8OVQd6WNzFJMVmEIJikqm39pZS46u4tAflTLSyVbB-Dxx9m9htB822RvfxW0GvpFEV2pgeSj5zTMAO-tj2BvBtPug_zfY8CibAln8w314YTcwh03z3jGf_pCaI_yMrOIYSjPoqMa3D3OJkKw74lJ7qHHvA4zu20nKY9wFYQfrtRJYk3iawT-Gsx",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2d_b9fEcLj5_x5I681KjZQ~~/AAQRxRA~/4-350PWuBCBHrypFuwx4ExcUzdFKs9URKRZjVig3ONy81UbuQruwQcso6_C2L5KylPpbljX-UPmnnLO1BX2eGD_guZjZfbKfFuRKdqmSLFo-a0PapwPqT2cO3Z45-86gvcyHEm0dW5gQ19IJhL0UWmbe0aH-IkraK7c1svQ-rmnH7hcGxb5kpUu6gQ4c19RJbvfsXmV0sr5kxoNaeH_KNmnSo4gdpp2QOfrNLHILiugS3OhrsU1QJbiICEqhHcRTiqJVivUeZh7ENxBjRm0xCLJTp4sgKrfZU0TwoBhCyqvcLP0dmZQlRDRfWCuFPzNR6-ONwuWeyqWQ9uDPoVFKSM-MNbB4NoETpgGOBaTHJqYKhKPzDpHwD-yZKNIdetLGqSByNm9OBLP8dF2bHfzn0-TzyJVGZa-8-FlBt4rAZ3V0zuEshxkcerGONPa-M4ea",
+            "title": "Rocket Lab",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/PxvSTycncsbdxvbJiIdNMg~~/AAQRxRA~/wKiwWgaaWTiH-kuu_NBvGF19kt3MFdic9acWmG7lU38PKFDyoUszVl1ZpMhBrKO7tyEkyQ_KqbP7wcyYkTcLT77eFKq0ULwk3BA0FQVqs8WNhOmiuMoyqBTPn9SRaMLsqkvgLAwYxV1FbZBhyplZM8b0XMTMelr3IhpTiOPZENmfbh2KGWS77-xiv1c0QssxLlPWNeYxm9oyWCtCvfqKoiD5IYc_D5gAWQkfdIQ4sFSFxPgspgbpZrS9stCATHZ_Ies9o_YOJoLSOrkNDgrDP3ZN4KtY288aySiOfueWbv6253up5B05CgWzJbKcm0Lts_xd5njk0w5qt6FYQ9PVC1BoiwIkypUsTGKckkTg6pEXlZ0T27vdushjaV9sfPlUcvhyIFTIejkOYcZAFXg7OQEXdgj5fffV3eDkv2G2RzEWYlLWnSdVX2qEiFGKDt9VZAyE1_n6X-r3NgzDjAIpgA~~",
+            "title": "its strongest quarter on record",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/7-uexlk7NduaNha0zVZa2A~~/AAQRxRA~/Hd_2yJdFv6iIoBlXACliR04Hs6whTrL8OEWHwGkGsBCtsCohs4BB386CHuDc_lvWWRRdsLC7NgWa3dtpqevR868w54ObyiRFusKgcnKjeAFR3bpyaOLTDFwVamNCvvtmDW28EWLf02I7j4_lkYjyVvirRIINOmtQqH_8EEIio1arzQUxj70CJY4aHIKR4d-MbbYzhqjfT8u4XD_D_ccoSqYXnD9ZNPkrvdP0r8x5_UGUonRl38gxxcRSJ9Q5snhfHx_P2aObGv4MXwdiQM9MrAlakKUohrPeo4h9rnOc6ji6JeIE2EDxZkzRPb7X56tCCl_H5YmkIO03AAq9RyFywbn4XkjPFRQUWXv8ksFFft8AI1OI5SbJwme_DzSLiVvVWXSj9R35bIS5t_Qj6Efd_wicbBCXUD-Wmev73RUQT8amhcTYbNF2XlYQA483zre477JJEDanGyy9oZF86CQ9Qg~~",
+            "title": "Delve into RKLB’s Midyear Check-In",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/EXn1rpM8hUsxoNgIuMcyLQ~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD8IccoJBmM07zFox0XLlv_MRYR8xZsdoU4RE6G7UBXd9gnLRPz1nCWocgdiY7Iu45cctB65JikfWQwlqLqwNuzOoVPjXTcR8uyaogX5x6xjAY4L0T88Y3eqsK-aj8S9Ksg2u2OZe03UiuUc8KXN9R0KSXpICay7NNJL10MkpszzSGXeexpJo0x6qGXLeVkMbIt9XVvufDdcTfBJcZ6RhCbwWMtnlIfKWcdBwpLAhPFDYpd0Am3mbio2RCN8FhObyc8tToD_cRJ-NgX8b-lAulG2h1qaNKka6bu3lNXH_4-1surALVBlvavgPxvholyt34rgbIj1FBqj7s8nRwBiv4-m66J9xJECQkuaoIPMiBi57hEfJJTk8AvHEYrS_UHBpC",
+            "title": "Hims & Hers Health",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/ENv_Bc5QxGkY25LuuBOWQQ~~/AAQRxRA~/Y3JneVRNscVU2Pz8yO55qtfWIdjwt8MauimLRowVXA7lFaME8GBDC4UwlEn9BVuYRR4uQEOVQRuQqVfd7g-HeOGHiKUrrLClMKgKvwWRESmh-OYELhfPCAE6GwlkKxTc14FYOgxf5zcJYLKV3fsEJPmfsaDCELvsRuyjVPjPZ7b8qIwwM40XHdN6LmVE-3t9jyJWD0CTDpth6Lg4M33pD2kGm0pUEiwMtZ-AdA4EGQFGo5QMaZxnlUgAXTzH3ndYk9iTDJ1dp8KfrrwTJEJbj2b7qMxcRfEJjUIreW-4RcLwXgrCoW6oEulFU0QbCZWbCy6_hFD-1pobvgrBun-fB8hxlW0FHtDc12sN-bnkI3_8CkXIabrPpKFi5ASUkIt-FbE97pDPxcS5a83Z5tL6s9yoje9Y2pVMsoCdug5Da-1O0CFQAT_Z8x3XLUpVO7CECyjOrD-tfTIyfBkC5llD5A~~",
+            "title": "revenue climbed 38% to $753.2 million",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5MUc_rw1lHxAVg67xPg6Tg~~/AAQRxRA~/P4Bc99kKjKBKbkUfKw5MezTeVRq0xbL7_i6nX9jcPfnouBsqaWQ7sod66fQ4TXiD_KceRFc878ZVp2XpynaXbGlKy513h00OUsZyMJlqUVfPS5J5nhMan7wzdqd-gNPLrNTz1KopkbNu_p0wPmmaqAeXm0g5jGY681h3CoklCsV6sQEuM3kcj9B5bVQKdpWhlBU-iNuJ6fYquZi3wS7ZeRKRpWw5KWYaEoIfybEUcAKUFzFvgQM15DQr_qr62SybTLnKigib8nT4RvsjBeF8NZJEyAK9jZKNg_NZjnIMKZA2CMCqfpt2Zxf8KXF9YtBeW7pD7ycDH4LJTANJeVN1aNJChExnWO9HzyfCaW3lA5dOc47Yf36Zg-PFx5rkeuPo7rhlvWmr9ZAVImDzBF-YIU7kB8CtiTSsZ4VwiMqosuBOMsGqpAasrjxWBBnVPDRC",
+            "title": "Hims & Hers Health",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/c0FYPmqVjbj8GKmRCsPbZQ~~/AAQRxRA~/4-350PWuBCBHrypFuwx4ExcUzdFKs9URKRZjVig3ONy81UbuQruwQcso6_C2L5KydlfP50ImINtqTJeeL9KxKLII_8pR_ITSDvmDba-JA39Oo5bKhyYh8P74SNWJKF1oKf_JdKVab57q4-CY8r71wTBhyeRBx-fC8PLI7vUWnefS9SzWmjJVUTN32m38x6YwRDqzEbdtzY2mhQ-73YN1wk9CmGd3eY3CRnx-2PSPwDrbd8532xuzuzSDaVchUiofLm51IP3c6G9hBITLN2S31xJVYbJIN6m_401cJap2RdH3xo_q3xoj2_A8sm6DrFyAtHCsBPBSZ9IQZXANvsgbPM32K7mkinwav3Mku79gl5MuV3mhwENU1YjZ-8qsg1JCuOVG1xgVmxTDPEt3khag-JFR0G7Ebpbz5CB6DUkTiFiUO_ue9s4mMaOJ2TGovJIa",
+            "title": "On Holding BridgeBio Pharma",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/qCLYuD16v-PsfUOLlU3fWg~~/AAQRxRA~/3SGzzvQGlODLm_dWdqeUC3bIBiCh7lp8VnmH4fV_BVeS_G3UBg4iF_IoFNtTusLbpLWr5G3kxud4ODz69CjD29_KbH33zEYh3TBICLentv_wvcsmCBcDTxmlkcP5toJtfDDqWlcQdeHFaKX0Sy9X3_VMpuy42CtcqtQ8jGAE8Gx-tEoVv6K0xKIRmlWjzajr42n9rosGagi9IA5MzDGSIIAEtcECSOUbnubvZ4baxM2vuaEU7f7rZGm9nAmPvJSJEya0HnsedotTss0cXU5CUBJ7DrHHrM4oQq675aMU_E3Zgpkanp0haBL6mNZ9Jhoft5NXXoH0B401t9pqlJr3BbcSP6-_Mx70kHsR8D4Rhx9kmTN2lzDD9Ay3CZXFKWWwDbN_s453lwYyGh2WmI9cSBKeyVrkKIyLlxkYOcIk7kIDj1iravSDDKrrVu-sFPh-Vb366K64VvkNDuyWyuQ5hA~~",
+            "title": "more than doubled second-quarter revenue",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/Z16nhDOUwTBjoyRDiA6f1A~~/AAQRxRA~/FFAvewcqgS7dMEeWaUAlWH399o9F0s_1M8aixr_W7gIjem8s1Gm-2ZknJemJu40DUjiGmxs3FYkEFKf3sPbVnnGlxTstoNwsngkRbGMFJYEBuiHzzpOqDN552wlMSvhXQhViFMN5Leaplfaeu4-R1N7STOnmuiVxiGOnhVk5kCLOlluI6g5wlOFrlVLDTdTKlkkmgJibTkkIX3_aiiw8ogHQ4aZEj8FttUUN-nEMxI1xgJb7bAXRalYi63jbBCiRWziRiS3waarXQSetIJr1velWRe_ksVqqiQEJt7x35lRECGB4EbSrWdKx7thbendjAAsnxVDW7S4pJTLRfWEIF9sjUFe_3_tXNs19Qd9J9eRmwKrVZyETNeINKkpLbzUpAxoAur8J7XG1c9YXNw4nUwqlQmLfLYO4RjRX1KMEMaxgQigMvM_CfwKuuWmePFpxwVTMoOheMegEG01w_SPrIQ6DSCnfSRJKy65YpMrx1P4~",
+            "title": "Review what’s helping BBIO secure sales",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/O-VpqrdOLKc3dmfOb2Of3A~~/AAQRxRA~/WKd_Pvw55bV_QU_TDl61n8Hn6tzWnK-bV3j-1dn-AqC0aDN14M61dayPmWQPbhJ7bNSIIbBUjUAiN-tWW43Yi-XXACMZcHnvWIiaPBjp_UqHh99ghktMnCZqyPMbX8X3GSRhpxdFZwifAn9dbkBFcvLpn5CgJS86dmvlspVEZ9qruD9AJOVWljSSc1B4kgJ4Z4T81LSjgn2tg5enE5WxvyPgBFYxadjnWweaTlMDYfIkVi6JcFdS3jS5vAAnZSRt",
+            "title": "Get the Portfolio with Epic &rarr;",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer",
+        "note": "​ Unsubscribe | Dimmuhvarf 13A, Kopavogur, 203",
+        "risk": -1,
+        "links": []
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer",
+        "note": "​ 🏘️ Small business optimism hits a high | Tuesday - August 11, 2026 | View Online Presented by --------------- Market Overview --------------- S&P 500 -0.06% Pre: +0.17% Nasdaq -0.32% Pre: +0.31% Dow -0.11% Pre: +0.09% ------------------- Stock & Market News -------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+            "title": "Intel Intc Stock Offering Ai",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+            "title": "Nvidia secures $500B for AI",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+            "title": "Boeing Evtol Archer Stake",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/11/foundayo-eli-lilly-wegovy-pill-uk.html",
+            "title": "Foundayo Eli Lilly Wegovy Pill Uk",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+            "title": "Oil Prices Today Us Crude 84",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "CAVA",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- CAVA Group (CAVA  ) will report today after close.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "GM",
+      "score": 83,
+      "stance": "Buy Candidate",
+      "evidence": "* Samsung SDI buys GM venture: Samsung SDI (KRX:006400  ) will acquire GM’s (GM  ) 49.99% stake in their Indiana battery JV as weaker EV demand reshapes investment plans.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "ALC",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Alcon (ALC  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "COHR",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Coherent (COHR  ) will report tomorrow after market close.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ESLT",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Elbit Systems (ESLT  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "FERG",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Ferguson Enterprises (FERG  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "NU",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Nu Holdings (NU  ) will report Thursday.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "RKLB",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Rocket Lab (RKLB  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SE",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Sea Limited (SE  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SLAB",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Silicon Laboratories (SLAB  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SPG",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "View definitions --------------- Recent Earnings --------------- Simon Property Group (SPG  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "STN",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Stantec (STN  ) will report tomorrow after market close.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "TEO",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Telecom Argentina (TEO  ) will report today after close.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "UGP",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Ultrapar Participações (UGP  ) will report tomorrow after market close.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "EAT",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Brinker International (EAT  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ACHR",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Boeing takes a stake in Archer: Boeing (BA  ) agreed to sell Wisk Aero, SkyGrid, and Insitu to Archer Aviation (ACHR  ) for a 19.75% stake, sharpening Boeing’s focus on core operations while expanding Archer’s aircraft and defense portfolio.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BA",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Boeing takes a stake in Archer: Boeing (BA  ) agreed to sell Wisk Aero, SkyGrid, and Insitu to Archer Aviation (ACHR  ) for a 19.75% stake, sharpening Boeing’s focus on core operations while expanding Archer’s aircraft and defense portfolio.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "FOIL",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "(FOIL  ), a Chinese copper foils producer with $1.56B in TTM revenue and 24.88% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "KRX",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Samsung SDI buys GM venture: Samsung SDI (KRX:006400  ) will acquire GM’s (GM  ) 49.99% stake in their Indiana battery JV as weaker EV demand reshapes investment plans.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "TDY",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Teledyne agrees to buy Varex: Teledyne (TDY  ) agreed to acquire Varex Imaging (VREX  ) for about $1.1B, or $18.90 a share in cash, expanding its healthcare imaging business.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "VREX",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* Teledyne agrees to buy Varex: Teledyne (TDY  ) agreed to acquire Varex Imaging (VREX  ) for about $1.1B, or $18.90 a share in cash, expanding its healthcare imaging business.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "APO",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BLK",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BX",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "DJT",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Trump Media API & earnings: Trump Media (DJT  ) said more than 10 firms, mainly high-frequency traders, are paying $60,000-$100,000 monthly for faster Truth Social feeds.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "GS",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "INTC",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Intel upsizes AI stock offering: Intel (INTC  ) increased its stock sale to $20B at $95 a share, targeting about $19.7B in net proceeds for capex and working capital as AI demand accelerates.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LLY",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Lilly expands weight loss pill: Eli Lilly (LLY  ) won U.K.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVO",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "approval for Foundayo, challenging Novo Nordisk’s (NVO  ) lead with its Wegovy pill.",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GOOGL",
+      "score": 39,
+      "stance": "Risk Watch",
+      "evidence": "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  ).",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    },
+    {
+      "symbol": "META",
+      "score": 39,
+      "stance": "Risk Watch",
+      "evidence": "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  ).",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    },
+    {
+      "symbol": "SNAP",
+      "score": 39,
+      "stance": "Risk Watch",
+      "evidence": "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  ).",
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "GM",
+      "mentions": 3,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Samsung SDI buys GM venture: Samsung SDI (KRX:006400  ) will acquire GM’s (GM  ) 49.99% stake in their Indiana battery JV as weaker EV demand reshapes investment plans."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CAVA",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release View Earnings Calendar ----------------- Upcoming Earnings ----------------- CAVA Group (CAVA  ) will report today after close."
+      ],
+      "latestMove": "+28.93%"
+    },
+    {
+      "symbol": "ACHR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Boeing takes a stake in Archer: Boeing (BA  ) agreed to sell Wisk Aero, SkyGrid, and Insitu to Archer Aviation (ACHR  ) for a 19.75% stake, sharpening Boeing’s focus on core operations while expanding Archer’s aircraft and defense portfolio."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ALC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Alcon (ALC  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+7.95%"
+    },
+    {
+      "symbol": "APO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Boeing takes a stake in Archer: Boeing (BA  ) agreed to sell Wisk Aero, SkyGrid, and Insitu to Archer Aviation (ACHR  ) for a 19.75% stake, sharpening Boeing’s focus on core operations while expanding Archer’s aircraft and defense portfolio."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BLK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "COHR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Coherent (COHR  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+29.68%"
+    },
+    {
+      "symbol": "DJT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Trump Media API & earnings: Trump Media (DJT  ) said more than 10 firms, mainly high-frequency traders, are paying $60,000-$100,000 monthly for faster Truth Social feeds."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "EAT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Brinker International (EAT  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+4.88%"
+    },
+    {
+      "symbol": "ESLT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Elbit Systems (ESLT  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+15.91%"
+    },
+    {
+      "symbol": "FERG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Ferguson Enterprises (FERG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+27.33%"
+    },
+    {
+      "symbol": "FOIL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(FOIL  ), a Chinese copper foils producer with $1.56B in TTM revenue and 24.88% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GOOGL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "INTC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Intel upsizes AI stock offering: Intel (INTC  ) increased its stock sale to $20B at $95 a share, targeting about $19.7B in net proceeds for capex and working capital as AI demand accelerates."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "KRX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Samsung SDI buys GM venture: Samsung SDI (KRX:006400  ) will acquire GM’s (GM  ) 49.99% stake in their Indiana battery JV as weaker EV demand reshapes investment plans."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LLY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Lilly expands weight loss pill: Eli Lilly (LLY  ) won U.K."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "META",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NU",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Nu Holdings (NU  ) will report Thursday."
+      ],
+      "latestMove": "+49.23%"
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Nvidia secures $500B for AI: Nvidia (NVDA  ) partnered with Apollo (APO  ), Blackstone (BX  ), BlackRock (BLK  ), Goldman (GS  ), and others to mobilize $500B for AI data centers and hardware."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NVO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "approval for Foundayo, challenging Novo Nordisk’s (NVO  ) lead with its Wegovy pill."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "RKLB",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Rocket Lab (RKLB  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+61.99%"
+    },
+    {
+      "symbol": "SE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Sea Limited (SE  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+48.09%"
+    },
+    {
+      "symbol": "SLAB",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Silicon Laboratories (SLAB  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+18.44%"
+    },
+    {
+      "symbol": "SNAP",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "appeals court allowed over 3,000 lawsuits alleging youth social media addiction to proceed against Meta (META  ), Alphabet (GOOGL  ), ByteDance’s   TikTok, and Snap (SNAP  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "View definitions --------------- Recent Earnings --------------- Simon Property Group (SPG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+19.52%"
+    },
+    {
+      "symbol": "STN",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Stantec (STN  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+12.75%"
+    },
+    {
+      "symbol": "TDY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Teledyne agrees to buy Varex: Teledyne (TDY  ) agreed to acquire Varex Imaging (VREX  ) for about $1.1B, or $18.90 a share in cash, expanding its healthcare imaging business."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "TEO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Telecom Argentina (TEO  ) will report today after close."
+      ],
+      "latestMove": "+9.31%"
+    },
+    {
+      "symbol": "UGP",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Ultrapar Participações (UGP  ) will report tomorrow after market close."
+      ],
+      "latestMove": "+45.07%"
+    },
+    {
+      "symbol": "VREX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Teledyne agrees to buy Varex: Teledyne (TDY  ) agreed to acquire Varex Imaging (VREX  ) for about $1.1B, or $18.90 a share in cash, expanding its healthcare imaging business."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Rocket Lab Earnings Fail to Launch",
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Rocket Lab Earnings Fail to Launch",
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ]
+    },
+    {
+      "name": "Regulatory Risk",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Rocket Lab Earnings Fail to Launch",
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Rocket Lab Earnings Fail to Launch"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "kind": "economic",
+      "date": "2026-08-11",
+      "time": "8:15 AM",
+      "title": "ADP Employment Change Weekly",
+      "source": "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-11",
+      "time": "10:00 AM",
+      "title": "Existing Home Sales",
+      "source": "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-11",
+      "time": "4:30 PM",
+      "title": "API Crude Oil Stock Change",
+      "source": "Market Bullets: Intel boosts stock offering to $20B, Nvidia secures $500B for AI buildout, Boeing takes a stake in Archer"
+    }
+  ]
+}

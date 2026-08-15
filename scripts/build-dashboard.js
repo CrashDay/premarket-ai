@@ -678,6 +678,31 @@ function renderDashboard({
       line-height: 1.5;
     }
 
+    .schwab-feed-status {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+    }
+
+    .schwab-feed-status.LIVE {
+      background: #dcfce7;
+      color: #16794c;
+    }
+
+    .schwab-feed-status.STALE {
+      background: #fef3c7;
+      color: #9a6700;
+    }
+
+    .schwab-feed-status.OFFLINE {
+      background: #fee4e2;
+      color: #b42318;
+    }
+
     .source-meta {
       color: var(--muted);
       font-size: 13px;
@@ -2003,6 +2028,7 @@ function renderSchwabPanel(summary, latestDay, selectedAccount = null) {
   if (!summary?.ok) {
     const note = summary?.reason || "Schwab is not connected yet.";
     return `<div>
+      <p><span class="schwab-feed-status OFFLINE">OFFLINE</span></p>
       <p class="note">${escapeHtml(note)}</p>
       <p class="note" style="margin-top: 10px;"><strong>Next step:</strong> add <code>SCHWAB_APP_KEY</code>, <code>SCHWAB_APP_SECRET</code>, and <code>SCHWAB_CALLBACK_URL</code> to <code>.env</code>, then run <code>npm run schwab:connect</code> followed by <code>npm run schwab:sync -- --date ${escapeHtml(latestDay?.date ?? "YYYY-MM-DD")}</code>.</p>
     </div>`;
@@ -2010,8 +2036,12 @@ function renderSchwabPanel(summary, latestDay, selectedAccount = null) {
 
   const holdings = selectedAccount?.positions ?? [];
   const selectedLabel = selectedAccount ? `${selectedAccount.displayName} (${selectedAccount.accountNumberMasked})` : "No account selected";
+  const syncedAtMs = Date.parse(summary.syncedAt || "");
+  const feedAgeMs = Number.isFinite(syncedAtMs) ? Date.now() - syncedAtMs : Number.POSITIVE_INFINITY;
+  const feedStatus = feedAgeMs <= 15 * 60 * 1000 ? "LIVE" : "STALE";
 
   return `<div>
+    <p><span class="schwab-feed-status ${feedStatus}">${feedStatus}</span></p>
     <div class="list">
       <article class="item">
         <div class="row"><strong>${escapeHtml(selectedLabel)}</strong><span class="score">${escapeHtml(formatCompactCurrency(selectedAccount?.balances?.liquidationValue ?? summary.totals?.equity))}</span></div>

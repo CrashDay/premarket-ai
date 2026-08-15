@@ -221,6 +221,7 @@ Then fill in `.env` with the needed values:
 - `SCHWAB_APP_SECRET`
 - `SCHWAB_CALLBACK_URL`
 - `SCHWAB_HOLDINGS_ACCOUNT` after you know which account to use
+- `SCHWAB_TRADER_TOKEN_PATH` only if the sibling Trader repo is not at `..\Trader`; premarket-ai automatically prefers Trader's current access token
 
 For Gmail import on the new machine:
 

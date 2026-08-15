@@ -1,0 +1,2366 @@
+{
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-08T13:25:57.408Z",
+  "sourceCount": 2,
+  "sources": [
+    {
+      "title": "Breakfast News: Meta Testing New All-Seeing AI",
+      "file": "2026-07-08-market-brieffoolbreakfast-news-breakfast-news-meta-testing-new-all-seeing-ai-19f417f846ba2b3c.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Wed, 08 Jul 2026 11:31:43 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/54m_fMqRsVKVJWsincQ8Rw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdrxYr5cingUan2L3HPGI4BlE2BxsD1D9ezFWJaYA_0HEye6hnp2o90dAQ0CQ1tC2y9O_-ZgNjK0AN2HMnjNdOpYqe0wjYfqXGVnNsbaOvsA8nI6uF1JyM2nwcQwsOHAWdbSHpqqnieMk3cbThAnbBXGFG-V1lcrjQ3jpIXjeb1wUpJffufmEHCH2Zitqlyp5VKPq_Gg7NWKXWbAMejB9ZKwFEvVEYt37_RhwGysalXz1O6uk-y-1TFG_ubC0sJLcOJZPuB40oKc1DwO8L0BBIqZY5b5_RnIq_3ZT-bcX37izwM1Jgxn_S18pMC6VOkXhT9cGBl2oYRFI-QG-bwvXxf__3eS52GF1yv-wO-Gssll8oJNK6VewNYUd7o2a3LJ4D",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/RgOq5pgfW6Yb4uA0SsXL8g~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DTaVg879nqfEYEaj-Rk0QLU4tNaMfN8p4uZMOIjoHDY0ZP4s0I6uLwi6ukga3OQRe_ovC9jXFzne8IKAPmGrVdjaF0-gHvvEzHDKa78pR3fPppGjnYNUzMD75dbZVXPRbpRQREmtxj03Hv_OIQKTwjvXt-zLZPxEtPmDKeArjiV9c6N8KgWWEQXTk271MMkmEm8Ohx9DlfofLnF3mzDfmwAi9sqRJhK-PxzRT9fMk3A88uee8B2bqJ8KIwdgP4d0kVDMd2Rx_Nd1NEk_xRyMZp1Inm_20y7OsAGclBLaAffgj1B3HXeXEbvs-QpyIO6o1n8BWtTTc6vZcJtA_yCNyWiy9RiG2FGc-qwp5r1KXgbp7RlyYE9i1tBZPAMX6SU3O",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/zuceI4riKRroeDX4_rOgcw~~/AAQRxRA~/6OQ6OlzpOG3tGtHw47iDPg_Z0tE7HockSJbjBwbVyZxuRCGhZMhTOvDr66p-MzO1-Ay-JeqtS_Z95THof2wjwsZyobBrmuVkD6lKbtf6fyhsjTREGIO6pGkegMJJM6VA97ern48l6BjO4dAeVJaziJLlM5qRpd1W9nYSYRg5pmqAyVpf1xHoPS72bDAIfBE2QQPSq9J7gm80T425ZJcBGVpUqYG1-s1XKjCPILzycU4GKIxndTOxsS3rhew_Y2Vur00FQKBNPDiWdZokVv-JIXqjLnm_2RQC4Kcg8gNNkutu4jNJJ0IBTUbpF-uB3o_DWdxcjlTfD-BDHT3EZWGh6CDRGXb3EVRi8clR7PcFOOg5WmmUOT2k4pT2MGFXrNQ71ubJiICkr2_yWUM6YCwS60ueiUzCQi41WGpV602OD1OIx_I9yLyjXjqKNkEbeBbMAaJVBnikor8sVEMUpJyt_Q~~",
+          "title": "Dig into Meta's mid-year check-in",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/RXiQUoM_ZtoA41Sk1SGvdg~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DVOU_yVo8SXTKORrcZP-CnRS-s6vgi-htS6J70Xr8-wL2x0xBxKtZmtU40UvYnLBO9b8skJB5Em3H8Eu9M7S7zxUnDdK76QSe1-HfroQMl5whX0URu6GPRWkzGnbM_HLGFQX4fYDK8Q1JPfmGfCw-E9mEKXfOMkTQCQAOkP7jB-j6p9JaQMQXm9hUNVqD-3bicK679SAYuJ9KXz_lsQ4UghgucbXNKxcU3qMHNLMFCQxePZlJIBFFlw1xxuS6zsenqraF7vZbe9G7sH8SX3n1uWpMRgBWX7XD9ZynIBqqkqMB9Fr073VruxxrVf3cs9rqphU5FnD-SMJMCJiSM7W-qHhphf4EiPhk5J7Ayq_LmUvyV_6odRf1jv8YhO5OIxq6",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/aqbQd9kthHDRKDYnxzX4zw~~/AAQRxRA~/ROHQDZtMbLaZL4iLtVVAyljJbHInwAL8OFNwyyOsVjmmWZvExAb05EFPkW0-dt__0XTTDfrxmF5ljnB56O32-moWFFpA-2uMNGftP2Q5IoJlaxz2fypBEaR55qJ4NoWxf_1HUtaGtp55W16SrCqIn_xsoPKDX8JzDKDRyXK6YPwOw-9z0QRLwk69Js0dN3CbbGcPi94tZEeiI-fm2WxgeHPm4RVgdKmeA185Jnjd_UdflMxPn4japRrhyJeIGFNZHzQzxnhBowXszvNyS6mb5qg-awP5PDmqOBHB9gwr_9bl2HnAtIKMaE328qAqD5vjC79lSZSUaMt3HPBKrUZT7Ai_BjFQp7BZINdS2I6c99bK3yl4Ks74PyQhzmw13f1BnmdbEFapX56ZeCzh5AoVFgBLtTN0cg76PMY0S7LGPObHyXwrjnBUo3JxlSzJiw18",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/LaN8L_OHcF3czsXZBUtdvg~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DYtMaJf0lXhXFlQIorUi7Bccui9X-QC08OMdc0gECMD-KTNAYWbb3UIFilUdSz8L61pmkemC7k9H4nmIBlaZMzX8lzorfE3P6ENfBj3OxowlsdceeOenOE2OG8KEl9XspCIgYS6U0nLobYpoE6bgbjRL2x4mK4i0KlDae5hhsDcEP8oxS-NaUsotWAAaMZPmQFmDctcp22ZjWBZsqbt17Hn19jFR6pJlNLIkwhI04uXZyK4DfDV4Q8F5rczJF1VYy5XcHiDxvnA0no2r0ATG-0PWAfqr6P6zPtA97Q9ZbJm3z2VGMu83htfjsy1tRvhcyDf9C5OzHT8772Z9gzqc_zF134hmgobUfZ9EG-O5WFnex8AgMaq4GsEhrimHbU_CB",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/qbqzQn1dS8ZpbDCqBm2zaw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdxmRNQ7uYWk-k77XKJ-cGP1eDfxNw8ayVbwJuqOXOXoMUdEwebdVaIdk9S1lqM7_KGQw7yrCSCM0as1dhAYIFSz03Y7dmzWLg0fjnEr31IM3YcNAkNzEKkXND49PhB9c3MK4qSsUCuZT0qqchj4TZ4xmAW0oOHm6OT7odHczMabL4Wqw5khR3RsBrUiAcoQ4i9kIGTQshcVpyZBycs5N8Dco7puK6MweRLRkXeOXyG1c6eZ7nm5ZgbKBiaXH-V5VdiTHynJpima7K_Z7uOpfZfAnM2Id4LYi8F6fe4-h_5ecc8c3LSpBTp60msyJvuOGI3GYLql6syiQfhll3JFAhLx-Bc8uVIetRSMBzlBQ9yX1ujbsmy9NiMVDquBw4pTvB",
+          "title": "Unpack why chips slid into a bear market",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/OIMvuepklKpdqQA94BRWvg~~/AAQRxRA~/FR1ZeebSStfDG-whPD3z53-6LARWgiQB0M81DwrBICiTXSSYK2f7PR2QlyEyT1k0sLSirWScWgLRPQcgEI0O1fxte5neI4mf6uiCxNM7bu1PmQBJK64SQz314O2RY9GKdcvyrATNKK5ZTs6nU-r2iA8zt5JSfucZ7FcG8RnEyufOcdkktRI7igwsOx7UH8UE8sTEZ4QyEin3Tgn7WAvR4aSUZ56fZFLlWQZ7bQzE0lynKgiYcL223iE3W5QDZIdT",
+          "title": "See the full 50-stock portfolio &rarr;",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/9dWUEbULrgiLUHjMY0nRqA~~/AAQRxRA~/ROHQDZtMbLaZL4iLtVVAyljJbHInwAL8OFNwyyOsVjmmWZvExAb05EFPkW0-dt__kitr3JKcTsUqhfVhhdzFk1uVl8Lhn9_IZOQDRgLKX5Vf0MhSV1QhVN3VFU6_l4sqQ3D0vsmiD-6TorQRHjNRg0B5xFwRcCWsseP0tmuj0um2jqbKgnYLQFv0ezfMgd-LP_C6AR6_UZluZ2jVfPXnA8VeZ8XdIRtMaA48tMVFzyP45ASOCIpFhMcR8JVfz_6BvJNfqaC3-kcMDinPO2Ygdh7oRGdny8vgJV9gTTmPYByKvSfHAlODeU51AQR9wSiiJ0tyaGTKC-43CMqI7VxMAqO0ljh1NYb19NUPBwbimyCTczAValwO5qITpeyZKQ4QiCW6flWYSymVTaBUiJezdoEw7GFx9YBTPT7sAMwtWXJ0f7BO1CD5VUZj0HTR36lG",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+          "title": "management expecting revenue growth of between 4% and 5%",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/5vFgcGsMUZEaZJQUzaXS0A~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DDerjXG7qcTwwXJNWL60RDUe-LjSZ90UDAe5vkiILuURiRucljY1enFOwGxLPrV7jOsczMTzv_fd1NI_zMF8pa8ZMPjODklRqXVbStJM1XXF6ShtpEaeXELIQzQo8B7Keb-sDV4xGa2Jd9bvZwlLkxNvyLeiKSbVszOFiw1phlPTv228xXK-FZD1KBZgCHeXOkQdeiuOLmPgcMvmykPlFU2MBV1NGbq96l7hZofvXvt7YsM3j7VvDYFM44CO6YkvsyF2T-5I3CgcoHqaKIy8j-_v_QGy_6R6wKRqXF7ZoIRD5G1AfmmtUTwwIoaQ3r84nd2mdEGh19eHdC5bzYgt4-wKUL1zqZG-ZgNECSINyv1O4lwORqfaGTceDqNtn8oQ6",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+          "title": "membership loyalty renewal reach 90%",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1279,
+      "summaryHints": [
+        "Meta reportedly testing super specs, AI chips face Chinese competition, and more… Breakfast NewsClick here to read online .",
+        "JULY 8, 2026Tuesday's MarketsS&P 500 7,504 (-0.45%)Nasdaq 25,819 (-1.16%)Dow 52,925 (-0.25%)Bitcoin 63,697 (+0.11%)Image shows chart of Meta's gross profit over the past 5 years ----------------------------------------------------- 1.",
+        "Report: Meta’s ‘Super Sensing’ Glasses Begin Tests ----------------------------------------------------- Meta (NASDAQ:META ) – recommended by both Team Hidden Gems and Team Rule Breakers – has reached the prototype testing stage with its new generation of AI glasses, reports the Financial Times.",
+        "The new devices are designed to track everything the wearer sees and hears continuously, with Meta providing an AI tool to analyze and query those experiences.",
+        "* “A personal agent that’s with you all day long, helping you remember things and achieve your goals”: CEO Mark Zuckerberg spoke of the technological direction when first-quarter results came out in April, telling us, “We're on track to deliver personal superintelligence to billions of people.”"
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "Report: Meta’s ‘Super Sensing’ Glasses Begin Tests ----------------------------------------------------- Meta (NASDAQ:META ) – recommended by both Team Hidden Gems and Team Rule Breakers – has reached the prototype testing stage with its new generation of AI glasses, reports the Financial Times. The new devices are designed to track everything the wearer sees and hears continuously, with Meta providing an AI tool to analyze and query those experiences. * “A personal agent that’s with you all day long, helping you remember things and achieve your goals”: CEO Mark Zuckerberg spoke of the technological direction when first-quarter results came out in April, telling us, “We're on track to deliver personal superintelligence to billions of people.” * Privacy challenges ahead: The report suggests the new glasses will not light an LED when they’re recording, raising concerns for other people being potentially recorded. In one proposal, raw data would not be stored – only metadata and extracted images, to be used in AI queries. Dig into Meta's mid-year check-in Divider ------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/zuceI4riKRroeDX4_rOgcw~~/AAQRxRA~/6OQ6OlzpOG3tGtHw47iDPg_Z0tE7HockSJbjBwbVyZxuRCGhZMhTOvDr66p-MzO1-Ay-JeqtS_Z95THof2wjwsZyobBrmuVkD6lKbtf6fyhsjTREGIO6pGkegMJJM6VA97ern48l6BjO4dAeVJaziJLlM5qRpd1W9nYSYRg5pmqAyVpf1xHoPS72bDAIfBE2QQPSq9J7gm80T425ZJcBGVpUqYG1-s1XKjCPILzycU4GKIxndTOxsS3rhew_Y2Vur00FQKBNPDiWdZokVv-JIXqjLnm_2RQC4Kcg8gNNkutu4jNJJ0IBTUbpF-uB3o_DWdxcjlTfD-BDHT3EZWGh6CDRGXb3EVRi8clR7PcFOOg5WmmUOT2k4pT2MGFXrNQ71ubJiICkr2_yWUM6YCwS60ueiUzCQi41WGpV602OD1OIx_I9yLyjXjqKNkEbeBbMAaJVBnikor8sVEMUpJyt_Q~~",
+              "title": "Dig into Meta's mid-year check-in",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "META"
+          ],
+          "themes": [
+            "AI Infrastructure"
+          ]
+        },
+        {
+          "title": "Item 2",
+          "text": "Global Chip Wars Heating Up ------------------------------ DeepSeek is developing its own in-house AI processor, according to Reuters, intended to reduce the Chinese AI developer’s reliance on Nvidia (NASDAQ:NVDA ) and Huawei. The new chip is intended for the inference phase of AI once a model has been trained, and the development is in line with Beijing’s plans to minimize the country’s dependence on critical U.S. semiconductor technology. * “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year. * Apple makes moves for Chinese memory: Apple (NASDAQ:AAPL ) is testing DRAM chips from ChangXin Memory. The move comes as the company seeks U.S government permission to use more CXMT products. Unpack why chips slid into a bear market DividerA message from The Motley Fool <p><strong>We're putting $100,000 behind it.</strong></p> <p>\"This could be the portfolio I believe in most at The Motley Fool in our history\" &mdash; Tom Gardner</p> <p>Here's how you know he means it: we're investing $100,000 of Motley Fool's own money into it. Real capital, invested right alongside members who follow along.</p> <p>Two investing teams. Every risk level in mind. Equal weights across all 50 stocks so anyone can follow along.</p> <p><a href=\" the full 50-stock portfolio &rarr;</a></p> ----------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/qbqzQn1dS8ZpbDCqBm2zaw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdxmRNQ7uYWk-k77XKJ-cGP1eDfxNw8ayVbwJuqOXOXoMUdEwebdVaIdk9S1lqM7_KGQw7yrCSCM0as1dhAYIFSz03Y7dmzWLg0fjnEr31IM3YcNAkNzEKkXND49PhB9c3MK4qSsUCuZT0qqchj4TZ4xmAW0oOHm6OT7odHczMabL4Wqw5khR3RsBrUiAcoQ4i9kIGTQshcVpyZBycs5N8Dco7puK6MweRLRkXeOXyG1c6eZ7nm5ZgbKBiaXH-V5VdiTHynJpima7K_Z7uOpfZfAnM2Id4LYi8F6fe4-h_5ecc8c3LSpBTp60msyJvuOGI3GYLql6syiQfhll3JFAhLx-Bc8uVIetRSMBzlBQ9yX1ujbsmy9NiMVDquBw4pTvB",
+              "title": "Unpack why chips slid into a bear market",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "AAPL",
+            "NVDA",
+            "ORCL"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Semiconductors"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. forces carried out powerful strikes against Iran late Tuesday in response to attacks on three commercial vessels in the Strait of Hormuz. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter. Continued tariff benefits could boost profits. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% . News on new outlets in Chile and the Dominican Republic could feature. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. The metal coatings developer posted record sales in fiscal Q4, helped by rising infrastructure demand, and analysts are looking for sales of $434.6 million in the latest quarter. Watch for data center trends, and possible acquisition developments. Find out how AI data centers lift AZZ Divider ----------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+              "title": "management expecting revenue growth of between 4% and 5%",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+              "title": "membership loyalty renewal reach 90%",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "AZZ",
+            "LEVI",
+            "PSMT"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Quotes for the Next Bear Market ---------------------------------- Anthony Schiavone ANTHONY SCHIAVONE I think it's important for investors to prepare mentally and psychologically before a downturn hits. So with that in mind, here are a few of my favorite quotes to help you and me navigate the next bear market, whenever it inevitably arrives. * “History provides a crucial insight regarding market crises: they are inevitable, painful and ultimately surmountable.” — Shelby M.C. Davis * “In the middle of difficulty lies opportunity.” — Albert Einstein (allegedly) * “If you are going to be a net buyer of stocks in the future...you are hurt when stocks rise. You benefit when stocks swoon.” — Warren Buffett Spot the 8 signs the market is frothy Divider -----------------------------------",
+          "links": [],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 5",
+          "text": "Today’s Take: New CEO, Now What? ----------------------------------- Sanmeet Deo For some of the companies with star CEOs who are credited with a turnaround or successful business progression, there is a team of C-suite executives handling the operational and financial aspects of the business. — SANMEET DEO • TEAM RULE BREAKERS Matt Frankel The short answer is that it largely depends on two key factors — the quality of the departing CEO and the quality of succession planning that took place before the transition happened. The ideal recent case is Berkshire Hathaway (NYSE:BRKB ). — MATT FRANKEL • TEAM HIDDEN GEMS Here’s a sneak preview, but head to the article to share how you evaluate a leadership transition – and what tells you whether a company will survive losing a great CEO – or to submit questions to any of the featured analysts today! See more in Today’s Take Divider ------------",
+          "links": [],
+          "tickers": [
+            "BRKB"
+          ],
+          "themes": []
+        },
+        {
+          "title": "Item 6",
+          "text": "Your Take ------------ YESTERDAY'S TOP RESPONSE We asked, what investment principle took you the longest to learn, but has been incredibly valuable? 1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip. If your portfolio comprised just these three companies, and you bought each of them at the start of the year with the same amount of money, and had to buy more shares in one, completely close your position in another, and hold the final stock, what are you choosing to do and why? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. Divider The Morning Show ************************** Have an Appetite for More? ************************** Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [],
+          "tickers": [
+            "AVGO",
+            "MU",
+            "NVDA"
+          ],
+          "themes": [
+            "Semiconductors"
+          ]
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Apple makes moves for Chinese memory: Apple (NASDAQ:AAPL ) is testing DRAM chips from ChangXin Memory."
+          ]
+        },
+        {
+          "symbol": "AVGO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip."
+          ]
+        },
+        {
+          "symbol": "AZZ",
+          "mentions": 4,
+          "move": null,
+          "notes": [
+            "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. Find out how AI data centers lift AZZ Divider ----------------------------------"
+          ]
+        },
+        {
+          "symbol": "BRKB",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The ideal recent case is Berkshire Hathaway (NYSE:BRKB )."
+          ]
+        },
+        {
+          "symbol": "LEVI",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter."
+          ]
+        },
+        {
+          "symbol": "META",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Report: Meta’s ‘Super Sensing’ Glasses Begin Tests ----------------------------------------------------- Meta (NASDAQ:META ) – recommended by both Team Hidden Gems and Team Rule Breakers – has reached the prototype testing stage with its new generation of AI glasses, reports the Financial Times."
+          ]
+        },
+        {
+          "symbol": "MU",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Global Chip Wars Heating Up ------------------------------ DeepSeek is developing its own in-house AI processor, according to Reuters, intended to reduce the Chinese AI developer’s reliance on Nvidia (NASDAQ:NVDA ) and Huawei. * “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year.",
+            "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip."
+          ]
+        },
+        {
+          "symbol": "ORCL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year."
+          ]
+        },
+        {
+          "symbol": "PSMT",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% ."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": [
+        {
+          "kind": "earnings",
+          "date": "2026-07-08",
+          "time": "Scheduled",
+          "title": "Levi Strauss (LEVI)",
+          "symbol": "LEVI",
+          "note": "is scheduled to report second-quarter earnings today, with"
+        },
+        {
+          "kind": "earnings",
+          "date": "2026-07-08",
+          "time": "Scheduled",
+          "title": "AZZ (AZZ)",
+          "symbol": "AZZ",
+          "note": "– recommended by Team Hidden Gems – will report Q1 earnings"
+        }
+      ]
+    },
+    {
+      "title": "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters",
+      "file": "2026-07-08-market-briefstock-analysismarket-bullets-market-bullets-blue-origin-scores-130b-valuation-nvidia-hits-post-ai-boom-low-oi-19f41d011de6f997.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Wed, 08 Jul 2026 12:59:41 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [
+        {
+          "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+          "title": "Stock Market Today Live Updates",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+          "title": "Blue Origin Bezos Fundraising",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+          "title": "AI Financial explores sale",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+          "title": "Sambanova Ai Chip Funding Valuation",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1640,
+      "summaryHints": [
+        "​ 🇪🇸 Trump terminates trade with Spain | Wednesday - July 08, 2026 | View Online Presented by FinanceBuzz --------------- Market Overview --------------- S&P 500 -0.45% Pre: -0.51% Nasdaq -1.16% Pre: -0.62% Dow -0.25% Pre: -0.84% ------------------- Stock & Market News -------------------",
+        "* Market recap: All 3 main indices fell yesterday, with the Nasdaq down over 1%.",
+        "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%.",
+        "Eli Lilly (LLY  ) was an outlier, gaining 3%.",
+        "* Blue Origin pegged at $130B: Blue Origin   is raising $10B in its first external funding round at a $130B valuation."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "AAPL",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Apple expands Broadcom partnership: Apple (AAPL  ) committed more than $30B to Broadcom (AVGO  ) in a multiyear U.S.",
+            "appeal: A European court ruled against Apple (AAPL  ) in its challenge to rules covering the App Store and iOS, reinforcing regulators’ efforts to boost competition."
+          ]
+        },
+        {
+          "symbol": "AIFC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* AI Financial explores sale: Trump-backed AI Financial (AIFC  ) is mulling a sale of its core payments business for up to $15M after its crypto strategy faltered."
+          ]
+        },
+        {
+          "symbol": "AMD",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+          ]
+        },
+        {
+          "symbol": "AVGO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Apple expands Broadcom partnership: Apple (AAPL  ) committed more than $30B to Broadcom (AVGO  ) in a multiyear U.S."
+          ]
+        },
+        {
+          "symbol": "BA",
+          "mentions": 1,
+          "move": "+14.59%",
+          "notes": [
+            "* Alibaba bans Anthropic AI: Alibaba (BABA  ) will bar employees from using Anthropic’s   AI tools and require adoption of its own assistant after Anthropic accused the company of attempting to extract its AI capabilities through a distillation attack.",
+            "* Cargo plane vanishes: Pakistan launched air and sea search operations after a Boeing (BA  ) 737 cargo plane with 5 crew vanished over the Arabian Sea while approaching Karachi.",
+            "* 7:00 AM: MBA 30-Year Mortgage Rate"
+          ]
+        },
+        {
+          "symbol": "BABA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Alibaba bans Anthropic AI: Alibaba (BABA  ) will bar employees from using Anthropic’s   AI tools and require adoption of its own assistant after Anthropic accused the company of attempting to extract its AI capabilities through a distillation attack."
+          ]
+        },
+        {
+          "symbol": "BAC",
+          "mentions": 1,
+          "move": "+14.59%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Bank of America (BAC  ) will report Tuesday."
+          ]
+        },
+        {
+          "symbol": "DAL",
+          "mentions": 1,
+          "move": "+11.55%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Delta Air Lines (DAL  ) will report Friday."
+          ]
+        },
+        {
+          "symbol": "DJT",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Trump Media suit dismissed: A judge dismissed Trump Media’s (DJT  ) $3.8B defamation lawsuit against The Washington Post, ruling that the company failed to show actual malice."
+          ]
+        },
+        {
+          "symbol": "ERIC",
+          "mentions": 1,
+          "move": "+0.66%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Telefonaktiebolaget LM Ericsson (ERIC  ) will report Tuesday."
+          ]
+        },
+        {
+          "symbol": "FAST",
+          "mentions": 1,
+          "move": "+12.24%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Fastenal Company (FAST  ) will report Tuesday."
+          ]
+        },
+        {
+          "symbol": "GOOGL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Google sets Pixel event: Google (GOOGL  ) announced an Aug."
+          ]
+        },
+        {
+          "symbol": "GS",
+          "mentions": 1,
+          "move": "+10.08%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics The Goldman Sachs Group (GS  ) will report Tuesday."
+          ]
+        },
+        {
+          "symbol": "HKG",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Zhipu launches share sale: Chinese AI firm Zhipu, which trades as Knowledge Atlas (HKG:2513  ), plans to raise about $4B in a Hong Kong share sale after its stock surged nearly 1,500% since January."
+          ]
+        },
+        {
+          "symbol": "JPM",
+          "mentions": 1,
+          "move": "+8.13%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics JPMorgan Chase (JPM  ) will report Tuesday."
+          ]
+        },
+        {
+          "symbol": "LEVI",
+          "mentions": 1,
+          "move": "+5.09%",
+          "notes": [
+            "(LEVI  ) will report today after close."
+          ]
+        },
+        {
+          "symbol": "LLY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Eli Lilly (LLY  ) was an outlier, gaining 3%."
+          ]
+        },
+        {
+          "symbol": "META",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Meta launches AI image tool: Meta (META  ) debuted an AI image generator called Muse Image on Instagram and WhatsApp."
+          ]
+        },
+        {
+          "symbol": "MU",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+          ]
+        },
+        {
+          "symbol": "NVDA",
+          "mentions": 2,
+          "move": null,
+          "notes": [
+            "* Nvidia valuation tumbles: Nvidia (NVDA  ) has lost about $1T in market cap since May, leaving its shares at their cheapest valuation since before the AI boom.",
+            "* SambaNova raises $1B: SambaNova  , an AI chip startup, raised $1B at an $11B valuation, suggesting growing investor backing for companies challenging Nvidia (NVDA  )."
+          ]
+        },
+        {
+          "symbol": "PDC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "The prospective buyer is Perpetuals.com (PDC  ), which plunged 13% yesterday but rose 4.4% premarket."
+          ]
+        },
+        {
+          "symbol": "PENG",
+          "mentions": 1,
+          "move": "+47.64%",
+          "notes": [
+            "View definitions --------------- Recent Earnings --------------- Penguin Solutions (PENG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "PEP",
+          "mentions": 1,
+          "move": "+5.34%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics PepsiCo (PEP  ) will report tomorrow before market open."
+          ]
+        },
+        {
+          "symbol": "PSMT",
+          "mentions": 1,
+          "move": "+10.30%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics PriceSmart (PSMT  ) will report today after close."
+          ]
+        },
+        {
+          "symbol": "SKHY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(SKHY  ), a large South Korean memory semiconductor company with $86.70B in TTM revenue and 46.76% revenue growth YoY."
+          ]
+        },
+        {
+          "symbol": "SNDK",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+          ]
+        },
+        {
+          "symbol": "SPCX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+          ]
+        },
+        {
+          "symbol": "TARX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "(TARX  ), a late clinical-stage biopharma firm focused on eye conditions."
+          ]
+        },
+        {
+          "symbol": "UAL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* United must face window lawsuit: A judge approved a suit against United Airlines (UAL  ) alleging it charged premiums for “window” seats with no outside view."
+          ]
+        },
+        {
+          "symbol": "WFC",
+          "mentions": 1,
+          "move": "+4.68%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics Wells Fargo & Company (WFC  ) will report Tuesday."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Space Economy",
+        "Streaming And Media",
+        "Food Inflation",
+        "Financials",
+        "Semiconductors",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": [
+        {
+          "kind": "economic",
+          "date": "2026-07-08",
+          "time": "7:00 AM",
+          "title": "MBA 30-Year Mortgage Rate"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-07-08",
+          "time": "10:30 AM",
+          "title": "EIA Crude Oil & Gasoline Stocks Change"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-07-08",
+          "time": "2:00 PM",
+          "title": "FOMC Minutes"
+        }
+      ]
+    }
+  ],
+  "readingList": [
+    {
+      "title": "management expecting revenue growth of between 4% and 5%",
+      "note": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+          "title": "management expecting revenue growth of between 4% and 5%",
+          "label": "management expecting revenue growth of between 4% and 5%"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+          "title": "membership loyalty renewal reach 90%",
+          "label": "membership loyalty renewal reach 90%"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "AZZ",
+        "LEVI",
+        "PSMT"
+      ],
+      "score": 21
+    },
+    {
+      "title": "Unpack why chips slid into a bear market",
+      "note": "Global Chip Wars Heating Up ------------------------------ DeepSeek is developing its own in-house AI processor, according to Reuters, intended to reduce the Chinese AI developer’…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/qbqzQn1dS8ZpbDCqBm2zaw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdxmRNQ7uYWk-k77XKJ-cGP1eDfxNw8ayVbwJuqOXOXoMUdEwebdVaIdk9S1lqM7_KGQw7yrCSCM0as1dhAYIFSz03Y7dmzWLg0fjnEr31IM3YcNAkNzEKkXND49PhB9c3MK4qSsUCuZT0qqchj4TZ4xmAW0oOHm6OT7odHczMabL4Wqw5khR3RsBrUiAcoQ4i9kIGTQshcVpyZBycs5N8Dco7puK6MweRLRkXeOXyG1c6eZ7nm5ZgbKBiaXH-V5VdiTHynJpima7K_Z7uOpfZfAnM2Id4LYi8F6fe4-h_5ecc8c3LSpBTp60msyJvuOGI3GYLql6syiQfhll3JFAhLx-Bc8uVIetRSMBzlBQ9yX1ujbsmy9NiMVDquBw4pTvB",
+          "title": "Unpack why chips slid into a bear market",
+          "label": "Unpack why chips slid into a bear market"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "AAPL",
+        "NVDA",
+        "ORCL"
+      ],
+      "score": 19
+    },
+    {
+      "title": "Dig into Meta's mid-year check-in",
+      "note": "Report: Meta’s ‘Super Sensing’ Glasses Begin Tests ----------------------------------------------------- Meta (NASDAQ:META ) – recommended by both Team Hidden Gems and Team Rule B…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/zuceI4riKRroeDX4_rOgcw~~/AAQRxRA~/6OQ6OlzpOG3tGtHw47iDPg_Z0tE7HockSJbjBwbVyZxuRCGhZMhTOvDr66p-MzO1-Ay-JeqtS_Z95THof2wjwsZyobBrmuVkD6lKbtf6fyhsjTREGIO6pGkegMJJM6VA97ern48l6BjO4dAeVJaziJLlM5qRpd1W9nYSYRg5pmqAyVpf1xHoPS72bDAIfBE2QQPSq9J7gm80T425ZJcBGVpUqYG1-s1XKjCPILzycU4GKIxndTOxsS3rhew_Y2Vur00FQKBNPDiWdZokVv-JIXqjLnm_2RQC4Kcg8gNNkutu4jNJJ0IBTUbpF-uB3o_DWdxcjlTfD-BDHT3EZWGh6CDRGXb3EVRi8clR7PcFOOg5WmmUOT2k4pT2MGFXrNQ71ubJiICkr2_yWUM6YCwS60ueiUzCQi41WGpV602OD1OIx_I9yLyjXjqKNkEbeBbMAaJVBnikor8sVEMUpJyt_Q~~",
+          "title": "Dig into Meta's mid-year check-in",
+          "label": "Dig into Meta's mid-year check-in"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "META"
+      ],
+      "score": 17
+    }
+  ],
+  "macro": {
+    "tone": "Risk-Off",
+    "score": 8,
+    "items": [
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "Global Chip Wars Heating Up ------------------------------ DeepSeek is developing its own in-house AI processor, according to Reuters, intended to reduce the Chinese AI developer’s reliance on Nvidia (NASDAQ:NVDA ) and Huawei. The new chip is intended for the inference phase of AI once a model has been trained, and the development is in line with Beijing’s plans to minimize the country’s dependence on critical U.S. semiconductor technology. * “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year. * Apple makes moves for Chinese memory: Apple (NASDAQ:AAPL ) is testing DRAM chips from ChangXin Memory. The move comes as the company seeks U.S government permission to use more CXMT products. Unpack why chips slid into a bear market DividerA message from The Motley Fool <p><strong>We're putting $100,000 behind it.</strong></p> <p>\"This could be the portfolio I believe in most at The Motley Fool in our history\" &mdash; Tom Gardner</p> <p>Here's how you know he means it: we're investing $100,000 of Motley Fool's own money into it. Real capital, invested right alongside members who follow along.</p> <p>Two investing teams. Every risk level in mind. Equal weights across all 50 stocks so anyone can follow along.</p> <p><a href=\" the full 50-stock portfolio &rarr;</a></p> ----------------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/qbqzQn1dS8ZpbDCqBm2zaw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdxmRNQ7uYWk-k77XKJ-cGP1eDfxNw8ayVbwJuqOXOXoMUdEwebdVaIdk9S1lqM7_KGQw7yrCSCM0as1dhAYIFSz03Y7dmzWLg0fjnEr31IM3YcNAkNzEKkXND49PhB9c3MK4qSsUCuZT0qqchj4TZ4xmAW0oOHm6OT7odHczMabL4Wqw5khR3RsBrUiAcoQ4i9kIGTQshcVpyZBycs5N8Dco7puK6MweRLRkXeOXyG1c6eZ7nm5ZgbKBiaXH-V5VdiTHynJpima7K_Z7uOpfZfAnM2Id4LYi8F6fe4-h_5ecc8c3LSpBTp60msyJvuOGI3GYLql6syiQfhll3JFAhLx-Bc8uVIetRSMBzlBQ9yX1ujbsmy9NiMVDquBw4pTvB",
+            "title": "Unpack why chips slid into a bear market",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "Global Chip Wars Heating Up ------------------------------ DeepSeek is developing its own in-house AI processor, according to Reuters, intended to reduce the Chinese AI developer’s reliance on Nvidia (NASDAQ:NVDA ) and Huawei. The new chip is intended for the inference phase of AI once a model has been trained, and the development is in line with Beijing’s plans to minimize the country’s dependence on critical U.S. semiconductor technology. * “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year. * Apple makes moves for Chinese memory: Apple (NASDAQ:AAPL ) is testing DRAM chips from ChangXin Memory. The move comes as the company seeks U.S government permission to use more CXMT products. Unpack why chips slid into a bear market DividerA message from The Motley Fool <p><strong>We're putting $100,000 behind it.</strong></p> <p>\"This could be the portfolio I believe in most at The Motley Fool in our history\" &mdash; Tom Gardner</p> <p>Here's how you know he means it: we're investing $100,000 of Motley Fool's own money into it. Real capital, invested right alongside members who follow along.</p> <p>Two investing teams. Every risk level in mind. Equal weights across all 50 stocks so anyone can follow along.</p> <p><a href=\" the full 50-stock portfolio &rarr;</a></p> ----------------------------------------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/qbqzQn1dS8ZpbDCqBm2zaw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdxmRNQ7uYWk-k77XKJ-cGP1eDfxNw8ayVbwJuqOXOXoMUdEwebdVaIdk9S1lqM7_KGQw7yrCSCM0as1dhAYIFSz03Y7dmzWLg0fjnEr31IM3YcNAkNzEKkXND49PhB9c3MK4qSsUCuZT0qqchj4TZ4xmAW0oOHm6OT7odHczMabL4Wqw5khR3RsBrUiAcoQ4i9kIGTQshcVpyZBycs5N8Dco7puK6MweRLRkXeOXyG1c6eZ7nm5ZgbKBiaXH-V5VdiTHynJpima7K_Z7uOpfZfAnM2Id4LYi8F6fe4-h_5ecc8c3LSpBTp60msyJvuOGI3GYLql6syiQfhll3JFAhLx-Bc8uVIetRSMBzlBQ9yX1ujbsmy9NiMVDquBw4pTvB",
+            "title": "Unpack why chips slid into a bear market",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. forces carried out powerful strikes against Iran late Tuesday in response to attacks on three commercial vessels in the Strait of Hormuz. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter. Continued tariff benefits could boost profits. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% . News on new outlets in Chile and the Dominican Republic could feature. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. The metal coatings developer posted record sales in fiscal Q4, helped by rising infrastructure demand, and analysts are looking for sales of $434.6 million in the latest quarter. Watch for data center trends, and possible acquisition developments. Find out how AI data centers lift AZZ Divider ----------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+            "title": "management expecting revenue growth of between 4% and 5%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+            "title": "membership loyalty renewal reach 90%",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Oil Shock",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. forces carried out powerful strikes against Iran late Tuesday in response to attacks on three commercial vessels in the Strait of Hormuz. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter. Continued tariff benefits could boost profits. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% . News on new outlets in Chile and the Dominican Republic could feature. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. The metal coatings developer posted record sales in fiscal Q4, helped by rising infrastructure demand, and analysts are looking for sales of $434.6 million in the latest quarter. Watch for data center trends, and possible acquisition developments. Find out how AI data centers lift AZZ Divider ----------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+            "title": "management expecting revenue growth of between 4% and 5%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+            "title": "membership loyalty renewal reach 90%",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. forces carried out powerful strikes against Iran late Tuesday in response to attacks on three commercial vessels in the Strait of Hormuz. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter. Continued tariff benefits could boost profits. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% . News on new outlets in Chile and the Dominican Republic could feature. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. The metal coatings developer posted record sales in fiscal Q4, helped by rising infrastructure demand, and analysts are looking for sales of $434.6 million in the latest quarter. Watch for data center trends, and possible acquisition developments. Find out how AI data centers lift AZZ Divider ----------------------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+            "title": "management expecting revenue growth of between 4% and 5%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+            "title": "membership loyalty renewal reach 90%",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. forces carried out powerful strikes against Iran late Tuesday in response to attacks on three commercial vessels in the Strait of Hormuz. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter. Continued tariff benefits could boost profits. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% . News on new outlets in Chile and the Dominican Republic could feature. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. The metal coatings developer posted record sales in fiscal Q4, helped by rising infrastructure demand, and analysts are looking for sales of $434.6 million in the latest quarter. Watch for data center trends, and possible acquisition developments. Find out how AI data centers lift AZZ Divider ----------------------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+            "title": "management expecting revenue growth of between 4% and 5%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+            "title": "membership loyalty renewal reach 90%",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "Quotes for the Next Bear Market ---------------------------------- Anthony Schiavone ANTHONY SCHIAVONE I think it's important for investors to prepare mentally and psychologically before a downturn hits. So with that in mind, here are a few of my favorite quotes to help you and me navigate the next bear market, whenever it inevitably arrives. * “History provides a crucial insight regarding market crises: they are inevitable, painful and ultimately surmountable.” — Shelby M.C. Davis * “In the middle of difficulty lies opportunity.” — Albert Einstein (allegedly) * “If you are going to be a net buyer of stocks in the future...you are hurt when stocks rise. You benefit when stocks swoon.” — Warren Buffett Spot the 8 signs the market is frothy Divider -----------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/54m_fMqRsVKVJWsincQ8Rw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdrxYr5cingUan2L3HPGI4BlE2BxsD1D9ezFWJaYA_0HEye6hnp2o90dAQ0CQ1tC2y9O_-ZgNjK0AN2HMnjNdOpYqe0wjYfqXGVnNsbaOvsA8nI6uF1JyM2nwcQwsOHAWdbSHpqqnieMk3cbThAnbBXGFG-V1lcrjQ3jpIXjeb1wUpJffufmEHCH2Zitqlyp5VKPq_Gg7NWKXWbAMejB9ZKwFEvVEYt37_RhwGysalXz1O6uk-y-1TFG_ubC0sJLcOJZPuB40oKc1DwO8L0BBIqZY5b5_RnIq_3ZT-bcX37izwM1Jgxn_S18pMC6VOkXhT9cGBl2oYRFI-QG-bwvXxf__3eS52GF1yv-wO-Gssll8oJNK6VewNYUd7o2a3LJ4D",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/RgOq5pgfW6Yb4uA0SsXL8g~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DTaVg879nqfEYEaj-Rk0QLU4tNaMfN8p4uZMOIjoHDY0ZP4s0I6uLwi6ukga3OQRe_ovC9jXFzne8IKAPmGrVdjaF0-gHvvEzHDKa78pR3fPppGjnYNUzMD75dbZVXPRbpRQREmtxj03Hv_OIQKTwjvXt-zLZPxEtPmDKeArjiV9c6N8KgWWEQXTk271MMkmEm8Ohx9DlfofLnF3mzDfmwAi9sqRJhK-PxzRT9fMk3A88uee8B2bqJ8KIwdgP4d0kVDMd2Rx_Nd1NEk_xRyMZp1Inm_20y7OsAGclBLaAffgj1B3HXeXEbvs-QpyIO6o1n8BWtTTc6vZcJtA_yCNyWiy9RiG2FGc-qwp5r1KXgbp7RlyYE9i1tBZPAMX6SU3O",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zuceI4riKRroeDX4_rOgcw~~/AAQRxRA~/6OQ6OlzpOG3tGtHw47iDPg_Z0tE7HockSJbjBwbVyZxuRCGhZMhTOvDr66p-MzO1-Ay-JeqtS_Z95THof2wjwsZyobBrmuVkD6lKbtf6fyhsjTREGIO6pGkegMJJM6VA97ern48l6BjO4dAeVJaziJLlM5qRpd1W9nYSYRg5pmqAyVpf1xHoPS72bDAIfBE2QQPSq9J7gm80T425ZJcBGVpUqYG1-s1XKjCPILzycU4GKIxndTOxsS3rhew_Y2Vur00FQKBNPDiWdZokVv-JIXqjLnm_2RQC4Kcg8gNNkutu4jNJJ0IBTUbpF-uB3o_DWdxcjlTfD-BDHT3EZWGh6CDRGXb3EVRi8clR7PcFOOg5WmmUOT2k4pT2MGFXrNQ71ubJiICkr2_yWUM6YCwS60ueiUzCQi41WGpV602OD1OIx_I9yLyjXjqKNkEbeBbMAaJVBnikor8sVEMUpJyt_Q~~",
+            "title": "Dig into Meta's mid-year check-in",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/RXiQUoM_ZtoA41Sk1SGvdg~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DVOU_yVo8SXTKORrcZP-CnRS-s6vgi-htS6J70Xr8-wL2x0xBxKtZmtU40UvYnLBO9b8skJB5Em3H8Eu9M7S7zxUnDdK76QSe1-HfroQMl5whX0URu6GPRWkzGnbM_HLGFQX4fYDK8Q1JPfmGfCw-E9mEKXfOMkTQCQAOkP7jB-j6p9JaQMQXm9hUNVqD-3bicK679SAYuJ9KXz_lsQ4UghgucbXNKxcU3qMHNLMFCQxePZlJIBFFlw1xxuS6zsenqraF7vZbe9G7sH8SX3n1uWpMRgBWX7XD9ZynIBqqkqMB9Fr073VruxxrVf3cs9rqphU5FnD-SMJMCJiSM7W-qHhphf4EiPhk5J7Ayq_LmUvyV_6odRf1jv8YhO5OIxq6",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aqbQd9kthHDRKDYnxzX4zw~~/AAQRxRA~/ROHQDZtMbLaZL4iLtVVAyljJbHInwAL8OFNwyyOsVjmmWZvExAb05EFPkW0-dt__0XTTDfrxmF5ljnB56O32-moWFFpA-2uMNGftP2Q5IoJlaxz2fypBEaR55qJ4NoWxf_1HUtaGtp55W16SrCqIn_xsoPKDX8JzDKDRyXK6YPwOw-9z0QRLwk69Js0dN3CbbGcPi94tZEeiI-fm2WxgeHPm4RVgdKmeA185Jnjd_UdflMxPn4japRrhyJeIGFNZHzQzxnhBowXszvNyS6mb5qg-awP5PDmqOBHB9gwr_9bl2HnAtIKMaE328qAqD5vjC79lSZSUaMt3HPBKrUZT7Ai_BjFQp7BZINdS2I6c99bK3yl4Ks74PyQhzmw13f1BnmdbEFapX56ZeCzh5AoVFgBLtTN0cg76PMY0S7LGPObHyXwrjnBUo3JxlSzJiw18",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LaN8L_OHcF3czsXZBUtdvg~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DYtMaJf0lXhXFlQIorUi7Bccui9X-QC08OMdc0gECMD-KTNAYWbb3UIFilUdSz8L61pmkemC7k9H4nmIBlaZMzX8lzorfE3P6ENfBj3OxowlsdceeOenOE2OG8KEl9XspCIgYS6U0nLobYpoE6bgbjRL2x4mK4i0KlDae5hhsDcEP8oxS-NaUsotWAAaMZPmQFmDctcp22ZjWBZsqbt17Hn19jFR6pJlNLIkwhI04uXZyK4DfDV4Q8F5rczJF1VYy5XcHiDxvnA0no2r0ATG-0PWAfqr6P6zPtA97Q9ZbJm3z2VGMu83htfjsy1tRvhcyDf9C5OzHT8772Z9gzqc_zF134hmgobUfZ9EG-O5WFnex8AgMaq4GsEhrimHbU_CB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/qbqzQn1dS8ZpbDCqBm2zaw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdxmRNQ7uYWk-k77XKJ-cGP1eDfxNw8ayVbwJuqOXOXoMUdEwebdVaIdk9S1lqM7_KGQw7yrCSCM0as1dhAYIFSz03Y7dmzWLg0fjnEr31IM3YcNAkNzEKkXND49PhB9c3MK4qSsUCuZT0qqchj4TZ4xmAW0oOHm6OT7odHczMabL4Wqw5khR3RsBrUiAcoQ4i9kIGTQshcVpyZBycs5N8Dco7puK6MweRLRkXeOXyG1c6eZ7nm5ZgbKBiaXH-V5VdiTHynJpima7K_Z7uOpfZfAnM2Id4LYi8F6fe4-h_5ecc8c3LSpBTp60msyJvuOGI3GYLql6syiQfhll3JFAhLx-Bc8uVIetRSMBzlBQ9yX1ujbsmy9NiMVDquBw4pTvB",
+            "title": "Unpack why chips slid into a bear market",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/OIMvuepklKpdqQA94BRWvg~~/AAQRxRA~/FR1ZeebSStfDG-whPD3z53-6LARWgiQB0M81DwrBICiTXSSYK2f7PR2QlyEyT1k0sLSirWScWgLRPQcgEI0O1fxte5neI4mf6uiCxNM7bu1PmQBJK64SQz314O2RY9GKdcvyrATNKK5ZTs6nU-r2iA8zt5JSfucZ7FcG8RnEyufOcdkktRI7igwsOx7UH8UE8sTEZ4QyEin3Tgn7WAvR4aSUZ56fZFLlWQZ7bQzE0lynKgiYcL223iE3W5QDZIdT",
+            "title": "See the full 50-stock portfolio &rarr;",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9dWUEbULrgiLUHjMY0nRqA~~/AAQRxRA~/ROHQDZtMbLaZL4iLtVVAyljJbHInwAL8OFNwyyOsVjmmWZvExAb05EFPkW0-dt__kitr3JKcTsUqhfVhhdzFk1uVl8Lhn9_IZOQDRgLKX5Vf0MhSV1QhVN3VFU6_l4sqQ3D0vsmiD-6TorQRHjNRg0B5xFwRcCWsseP0tmuj0um2jqbKgnYLQFv0ezfMgd-LP_C6AR6_UZluZ2jVfPXnA8VeZ8XdIRtMaA48tMVFzyP45ASOCIpFhMcR8JVfz_6BvJNfqaC3-kcMDinPO2Ygdh7oRGdny8vgJV9gTTmPYByKvSfHAlODeU51AQR9wSiiJ0tyaGTKC-43CMqI7VxMAqO0ljh1NYb19NUPBwbimyCTczAValwO5qITpeyZKQ4QiCW6flWYSymVTaBUiJezdoEw7GFx9YBTPT7sAMwtWXJ0f7BO1CD5VUZj0HTR36lG",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+            "title": "management expecting revenue growth of between 4% and 5%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5vFgcGsMUZEaZJQUzaXS0A~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DDerjXG7qcTwwXJNWL60RDUe-LjSZ90UDAe5vkiILuURiRucljY1enFOwGxLPrV7jOsczMTzv_fd1NI_zMF8pa8ZMPjODklRqXVbStJM1XXF6ShtpEaeXELIQzQo8B7Keb-sDV4xGa2Jd9bvZwlLkxNvyLeiKSbVszOFiw1phlPTv228xXK-FZD1KBZgCHeXOkQdeiuOLmPgcMvmykPlFU2MBV1NGbq96l7hZofvXvt7YsM3j7VvDYFM44CO6YkvsyF2T-5I3CgcoHqaKIy8j-_v_QGy_6R6wKRqXF7ZoIRD5G1AfmmtUTwwIoaQ3r84nd2mdEGh19eHdC5bzYgt4-wKUL1zqZG-ZgNECSINyv1O4lwORqfaGTceDqNtn8oQ6",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+            "title": "membership loyalty renewal reach 90%",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Meta Testing New All-Seeing AI",
+        "note": "Your Take ------------ YESTERDAY'S TOP RESPONSE We asked, what investment principle took you the longest to learn, but has been incredibly valuable? 1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip. If your portfolio comprised just these three companies, and you bought each of them at the start of the year with the same amount of money, and had to buy more shares in one, completely close your position in another, and hold the final stock, what are you choosing to do and why? Share in the comments on today’s article! Have a question you’d love to hear your fellow members weigh in on? Send it to breakfastnews@fool.com ( breakfastnews@fool.com?subject=Your%20Take ) and it could feature in a future edition. Divider The Morning Show ************************** Have an Appetite for More? ************************** Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/54m_fMqRsVKVJWsincQ8Rw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdrxYr5cingUan2L3HPGI4BlE2BxsD1D9ezFWJaYA_0HEye6hnp2o90dAQ0CQ1tC2y9O_-ZgNjK0AN2HMnjNdOpYqe0wjYfqXGVnNsbaOvsA8nI6uF1JyM2nwcQwsOHAWdbSHpqqnieMk3cbThAnbBXGFG-V1lcrjQ3jpIXjeb1wUpJffufmEHCH2Zitqlyp5VKPq_Gg7NWKXWbAMejB9ZKwFEvVEYt37_RhwGysalXz1O6uk-y-1TFG_ubC0sJLcOJZPuB40oKc1DwO8L0BBIqZY5b5_RnIq_3ZT-bcX37izwM1Jgxn_S18pMC6VOkXhT9cGBl2oYRFI-QG-bwvXxf__3eS52GF1yv-wO-Gssll8oJNK6VewNYUd7o2a3LJ4D",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/RgOq5pgfW6Yb4uA0SsXL8g~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DTaVg879nqfEYEaj-Rk0QLU4tNaMfN8p4uZMOIjoHDY0ZP4s0I6uLwi6ukga3OQRe_ovC9jXFzne8IKAPmGrVdjaF0-gHvvEzHDKa78pR3fPppGjnYNUzMD75dbZVXPRbpRQREmtxj03Hv_OIQKTwjvXt-zLZPxEtPmDKeArjiV9c6N8KgWWEQXTk271MMkmEm8Ohx9DlfofLnF3mzDfmwAi9sqRJhK-PxzRT9fMk3A88uee8B2bqJ8KIwdgP4d0kVDMd2Rx_Nd1NEk_xRyMZp1Inm_20y7OsAGclBLaAffgj1B3HXeXEbvs-QpyIO6o1n8BWtTTc6vZcJtA_yCNyWiy9RiG2FGc-qwp5r1KXgbp7RlyYE9i1tBZPAMX6SU3O",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/zuceI4riKRroeDX4_rOgcw~~/AAQRxRA~/6OQ6OlzpOG3tGtHw47iDPg_Z0tE7HockSJbjBwbVyZxuRCGhZMhTOvDr66p-MzO1-Ay-JeqtS_Z95THof2wjwsZyobBrmuVkD6lKbtf6fyhsjTREGIO6pGkegMJJM6VA97ern48l6BjO4dAeVJaziJLlM5qRpd1W9nYSYRg5pmqAyVpf1xHoPS72bDAIfBE2QQPSq9J7gm80T425ZJcBGVpUqYG1-s1XKjCPILzycU4GKIxndTOxsS3rhew_Y2Vur00FQKBNPDiWdZokVv-JIXqjLnm_2RQC4Kcg8gNNkutu4jNJJ0IBTUbpF-uB3o_DWdxcjlTfD-BDHT3EZWGh6CDRGXb3EVRi8clR7PcFOOg5WmmUOT2k4pT2MGFXrNQ71ubJiICkr2_yWUM6YCwS60ueiUzCQi41WGpV602OD1OIx_I9yLyjXjqKNkEbeBbMAaJVBnikor8sVEMUpJyt_Q~~",
+            "title": "Dig into Meta's mid-year check-in",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/RXiQUoM_ZtoA41Sk1SGvdg~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DVOU_yVo8SXTKORrcZP-CnRS-s6vgi-htS6J70Xr8-wL2x0xBxKtZmtU40UvYnLBO9b8skJB5Em3H8Eu9M7S7zxUnDdK76QSe1-HfroQMl5whX0URu6GPRWkzGnbM_HLGFQX4fYDK8Q1JPfmGfCw-E9mEKXfOMkTQCQAOkP7jB-j6p9JaQMQXm9hUNVqD-3bicK679SAYuJ9KXz_lsQ4UghgucbXNKxcU3qMHNLMFCQxePZlJIBFFlw1xxuS6zsenqraF7vZbe9G7sH8SX3n1uWpMRgBWX7XD9ZynIBqqkqMB9Fr073VruxxrVf3cs9rqphU5FnD-SMJMCJiSM7W-qHhphf4EiPhk5J7Ayq_LmUvyV_6odRf1jv8YhO5OIxq6",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/aqbQd9kthHDRKDYnxzX4zw~~/AAQRxRA~/ROHQDZtMbLaZL4iLtVVAyljJbHInwAL8OFNwyyOsVjmmWZvExAb05EFPkW0-dt__0XTTDfrxmF5ljnB56O32-moWFFpA-2uMNGftP2Q5IoJlaxz2fypBEaR55qJ4NoWxf_1HUtaGtp55W16SrCqIn_xsoPKDX8JzDKDRyXK6YPwOw-9z0QRLwk69Js0dN3CbbGcPi94tZEeiI-fm2WxgeHPm4RVgdKmeA185Jnjd_UdflMxPn4japRrhyJeIGFNZHzQzxnhBowXszvNyS6mb5qg-awP5PDmqOBHB9gwr_9bl2HnAtIKMaE328qAqD5vjC79lSZSUaMt3HPBKrUZT7Ai_BjFQp7BZINdS2I6c99bK3yl4Ks74PyQhzmw13f1BnmdbEFapX56ZeCzh5AoVFgBLtTN0cg76PMY0S7LGPObHyXwrjnBUo3JxlSzJiw18",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/LaN8L_OHcF3czsXZBUtdvg~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DYtMaJf0lXhXFlQIorUi7Bccui9X-QC08OMdc0gECMD-KTNAYWbb3UIFilUdSz8L61pmkemC7k9H4nmIBlaZMzX8lzorfE3P6ENfBj3OxowlsdceeOenOE2OG8KEl9XspCIgYS6U0nLobYpoE6bgbjRL2x4mK4i0KlDae5hhsDcEP8oxS-NaUsotWAAaMZPmQFmDctcp22ZjWBZsqbt17Hn19jFR6pJlNLIkwhI04uXZyK4DfDV4Q8F5rczJF1VYy5XcHiDxvnA0no2r0ATG-0PWAfqr6P6zPtA97Q9ZbJm3z2VGMu83htfjsy1tRvhcyDf9C5OzHT8772Z9gzqc_zF134hmgobUfZ9EG-O5WFnex8AgMaq4GsEhrimHbU_CB",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/qbqzQn1dS8ZpbDCqBm2zaw~~/AAQRxRA~/5dQxC60Ts8Z46Bf4IoEVBqZVFH2r1OzPaVyvApSIt13lnrkDmfZ2cOpMytin8ErdxmRNQ7uYWk-k77XKJ-cGP1eDfxNw8ayVbwJuqOXOXoMUdEwebdVaIdk9S1lqM7_KGQw7yrCSCM0as1dhAYIFSz03Y7dmzWLg0fjnEr31IM3YcNAkNzEKkXND49PhB9c3MK4qSsUCuZT0qqchj4TZ4xmAW0oOHm6OT7odHczMabL4Wqw5khR3RsBrUiAcoQ4i9kIGTQshcVpyZBycs5N8Dco7puK6MweRLRkXeOXyG1c6eZ7nm5ZgbKBiaXH-V5VdiTHynJpima7K_Z7uOpfZfAnM2Id4LYi8F6fe4-h_5ecc8c3LSpBTp60msyJvuOGI3GYLql6syiQfhll3JFAhLx-Bc8uVIetRSMBzlBQ9yX1ujbsmy9NiMVDquBw4pTvB",
+            "title": "Unpack why chips slid into a bear market",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/OIMvuepklKpdqQA94BRWvg~~/AAQRxRA~/FR1ZeebSStfDG-whPD3z53-6LARWgiQB0M81DwrBICiTXSSYK2f7PR2QlyEyT1k0sLSirWScWgLRPQcgEI0O1fxte5neI4mf6uiCxNM7bu1PmQBJK64SQz314O2RY9GKdcvyrATNKK5ZTs6nU-r2iA8zt5JSfucZ7FcG8RnEyufOcdkktRI7igwsOx7UH8UE8sTEZ4QyEin3Tgn7WAvR4aSUZ56fZFLlWQZ7bQzE0lynKgiYcL223iE3W5QDZIdT",
+            "title": "See the full 50-stock portfolio &rarr;",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/9dWUEbULrgiLUHjMY0nRqA~~/AAQRxRA~/ROHQDZtMbLaZL4iLtVVAyljJbHInwAL8OFNwyyOsVjmmWZvExAb05EFPkW0-dt__kitr3JKcTsUqhfVhhdzFk1uVl8Lhn9_IZOQDRgLKX5Vf0MhSV1QhVN3VFU6_l4sqQ3D0vsmiD-6TorQRHjNRg0B5xFwRcCWsseP0tmuj0um2jqbKgnYLQFv0ezfMgd-LP_C6AR6_UZluZ2jVfPXnA8VeZ8XdIRtMaA48tMVFzyP45ASOCIpFhMcR8JVfz_6BvJNfqaC3-kcMDinPO2Ygdh7oRGdny8vgJV9gTTmPYByKvSfHAlODeU51AQR9wSiiJ0tyaGTKC-43CMqI7VxMAqO0ljh1NYb19NUPBwbimyCTczAValwO5qITpeyZKQ4QiCW6flWYSymVTaBUiJezdoEw7GFx9YBTPT7sAMwtWXJ0f7BO1CD5VUZj0HTR36lG",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/fsNEAN3DIdVaxQboYI_7tw~~/AAQRxRA~/aLyL9kKsvRGpRkaZE2Y3wIEV6mq7cFjrSTh9IifW4dCoV_twjyGf_QQQ_loX27pIhqajspGIrY0a3MLZNqnW00HcQRBBjHfo751cjKkrALrt9PULOutwOngbFEJBpMpaFx_lh26n28_7IGYFyoBUzvxZS2dO3OHI7NqyM-rrN6rqUhvK3LYVuJPn85BGwi2qU9G7kmFTT133KIQXYGOdSXzqmuSVQkI04FHtcYfTEA00Mfv_fG3U_r2YVCeUr5v5Fl8x9O7r27sU07y1gBcH5tKP8akTRxlQtsRPtBb_54aAjOWRV7SnCIibVbV6ibOBY_AW5eotxIMx8RDeRjdDHcT7KqeLVuqfnqCr2iNZsDJtO-6K-KxWQcxRukTGYH9X6llOOxK2kvst7un7phTkVtbFGBzbKZLY3JvqEPjAwnIa52NVxW0W8raT5Xrp_VexHzDD-XWizh6SDKELeIUnqw~~",
+            "title": "management expecting revenue growth of between 4% and 5%",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/5vFgcGsMUZEaZJQUzaXS0A~~/AAQRxRA~/MWCvITOZimPh8NgNG39SZi7G2qLcZhbU_qDrMEzb2gX6U7S76VrC5MG8IsPbF52DDerjXG7qcTwwXJNWL60RDUe-LjSZ90UDAe5vkiILuURiRucljY1enFOwGxLPrV7jOsczMTzv_fd1NI_zMF8pa8ZMPjODklRqXVbStJM1XXF6ShtpEaeXELIQzQo8B7Keb-sDV4xGa2Jd9bvZwlLkxNvyLeiKSbVszOFiw1phlPTv228xXK-FZD1KBZgCHeXOkQdeiuOLmPgcMvmykPlFU2MBV1NGbq96l7hZofvXvt7YsM3j7VvDYFM44CO6YkvsyF2T-5I3CgcoHqaKIy8j-_v_QGy_6R6wKRqXF7ZoIRD5G1AfmmtUTwwIoaQ3r84nd2mdEGh19eHdC5bzYgt4-wKUL1zqZG-ZgNECSINyv1O4lwORqfaGTceDqNtn8oQ6",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/y_NGJ4e520RKGqyw6sF8sQ~~/AAQRxRA~/_pt3L_yMkLYwUv4kLFm09hBOxGRlwuSRooKlLO_7-Us4Sm8nY3HMATubJtaGxdPpf7twpFtDptx7e_mCMX0aUJzard-21eT6iUAs_UG724qaEY3A5-8CQiFjiwkBmd9RvkhIadpnpU8yue_lRWpPny3dih84UuCArei3dNfzBAbAJrtiJlv-zkn8WDu6nTuNa0Y3vXCQ3SeO212s5bJrVoTBVaekLLBWMfBIMhuVWJSLOQLmc7SPeCDWLX6yZl4GDHX-IDOIfx7NkCbGScUEfCELy24ST-iYaLLkRgyBvsQvi4cfISj96GtqXMC7pw_0OmudFN50LrwuRJ02qEQkg3lIeHrRgqlNp51WPHJpMKOJfc_6xLCyWA9UjBHRa2MXtiBMoSpS4TrC91NQ_-qG-cpqnjt0RNELB3KhkTsBiPAWWrnCBvRdqVyA2Ql4aRzers5mecGVizw2EvXJj2XKMQ~~",
+            "title": "membership loyalty renewal reach 90%",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters",
+        "note": "​ 🇪🇸 Trump terminates trade with Spain | Wednesday - July 08, 2026 | View Online Presented by FinanceBuzz --------------- Market Overview --------------- S&P 500 -0.45% Pre: -0.51% Nasdaq -1.16% Pre: -0.62% Dow -0.25% Pre: -0.84% ------------------- Stock & Market News -------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+            "title": "Stock Market Today Live Updates",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+            "title": "Blue Origin Bezos Fundraising",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+            "title": "AI Financial explores sale",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+            "title": "Sambanova Ai Chip Funding Valuation",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters",
+        "note": "​ 🇪🇸 Trump terminates trade with Spain | Wednesday - July 08, 2026 | View Online Presented by FinanceBuzz --------------- Market Overview --------------- S&P 500 -0.45% Pre: -0.51% Nasdaq -1.16% Pre: -0.62% Dow -0.25% Pre: -0.84% ------------------- Stock & Market News -------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+            "title": "Stock Market Today Live Updates",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+            "title": "Blue Origin Bezos Fundraising",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+            "title": "AI Financial explores sale",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+            "title": "Sambanova Ai Chip Funding Valuation",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters",
+        "note": "​ 🇪🇸 Trump terminates trade with Spain | Wednesday - July 08, 2026 | View Online Presented by FinanceBuzz --------------- Market Overview --------------- S&P 500 -0.45% Pre: -0.51% Nasdaq -1.16% Pre: -0.62% Dow -0.25% Pre: -0.84% ------------------- Stock & Market News -------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+            "title": "Stock Market Today Live Updates",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+            "title": "Blue Origin Bezos Fundraising",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+            "title": "AI Financial explores sale",
+            "fetched": false
+          },
+          {
+            "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+            "title": "Sambanova Ai Chip Funding Valuation",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Treat import/export and margin-sensitive names with extra caution.",
+      "Consider smaller initial size until macro pressure cools."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "LEVI",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter.",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PSMT",
+      "score": 100,
+      "stance": "Buy Candidate",
+      "evidence": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% .",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AVGO",
+      "score": 95,
+      "stance": "Buy Candidate",
+      "evidence": "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip.",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "META",
+      "score": 95,
+      "stance": "Buy Candidate",
+      "evidence": "Report: Meta’s ‘Super Sensing’ Glasses Begin Tests ----------------------------------------------------- Meta (NASDAQ:META ) – recommended by both Team Hidden Gems and Team Rule Breakers – has reached the prototype testing stage with its new generation of AI glasses, reports the Financial Times.",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "MU",
+      "score": 95,
+      "stance": "Buy Candidate",
+      "evidence": "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip.",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "AAPL",
+      "score": 93,
+      "stance": "Buy Candidate",
+      "evidence": "* Apple makes moves for Chinese memory: Apple (NASDAQ:AAPL ) is testing DRAM chips from ChangXin Memory.",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 93,
+      "stance": "Buy Candidate",
+      "evidence": "Global Chip Wars Heating Up ------------------------------ DeepSeek is developing its own in-house AI processor, according to Reuters, intended to reduce the Chinese AI developer’s reliance on Nvidia (NASDAQ:NVDA ) and Huawei. * “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year.",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BA",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Alibaba bans Anthropic AI: Alibaba (BABA  ) will bar employees from using Anthropic’s   AI tools and require adoption of its own assistant after Anthropic accused the company of attempting to extract its AI capabilities through a distillation attack.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BAC",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Bank of America (BAC  ) will report Tuesday.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "DAL",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Delta Air Lines (DAL  ) will report Friday.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "FAST",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Fastenal Company (FAST  ) will report Tuesday.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "GS",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics The Goldman Sachs Group (GS  ) will report Tuesday.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "JPM",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics JPMorgan Chase (JPM  ) will report Tuesday.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PENG",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "View definitions --------------- Recent Earnings --------------- Penguin Solutions (PENG  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PEP",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics PepsiCo (PEP  ) will report tomorrow before market open.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "AZZ",
+      "score": 79,
+      "stance": "Buy Candidate",
+      "evidence": "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. Find out how AI data centers lift AZZ Divider ----------------------------------",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "HKG",
+      "score": 79,
+      "stance": "Buy Candidate",
+      "evidence": "* Zhipu launches share sale: Chinese AI firm Zhipu, which trades as Knowledge Atlas (HKG:2513  ), plans to raise about $4B in a Hong Kong share sale after its stock surged nearly 1,500% since January.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "WFC",
+      "score": 75,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics Wells Fargo & Company (WFC  ) will report Tuesday.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PDC",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "The prospective buyer is Perpetuals.com (PDC  ), which plunged 13% yesterday but rose 4.4% premarket.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "SKHY",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "(SKHY  ), a large South Korean memory semiconductor company with $86.70B in TTM revenue and 46.76% revenue growth YoY.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AMD",
+      "score": 69,
+      "stance": "Research Watch",
+      "evidence": "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "ERIC",
+      "score": 69,
+      "stance": "Research Watch",
+      "evidence": "* Financials   · As Reported   · Metrics Telefonaktiebolaget LM Ericsson (ERIC  ) will report Tuesday.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ORCL",
+      "score": 67,
+      "stance": "Research Watch",
+      "evidence": "* “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year.",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AIFC",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* AI Financial explores sale: Trump-backed AI Financial (AIFC  ) is mulling a sale of its core payments business for up to $15M after its crypto strategy faltered.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BABA",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Alibaba bans Anthropic AI: Alibaba (BABA  ) will bar employees from using Anthropic’s   AI tools and require adoption of its own assistant after Anthropic accused the company of attempting to extract its AI capabilities through a distillation attack.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GOOGL",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Google sets Pixel event: Google (GOOGL  ) announced an Aug.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LLY",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Eli Lilly (LLY  ) was an outlier, gaining 3%.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SNDK",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SPCX",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "negative price or sentiment context"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TARX",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "(TARX  ), a late clinical-stage biopharma firm focused on eye conditions.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BRKB",
+      "score": 59,
+      "stance": "Research Watch",
+      "evidence": "The ideal recent case is Berkshire Hathaway (NYSE:BRKB ).",
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "DJT",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* Trump Media suit dismissed: A judge dismissed Trump Media’s (DJT  ) $3.8B defamation lawsuit against The Washington Post, ruling that the company failed to show actual malice.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    },
+    {
+      "symbol": "UAL",
+      "score": 39,
+      "stance": "Risk Watch",
+      "evidence": "* United must face window lawsuit: A judge approved a suit against United Airlines (UAL  ) alleging it charged premiums for “window” seats with no outside view.",
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "regulatory or legal overhang"
+      ],
+      "nextCheck": "Wait for market reaction and avoid treating headline volatility as a clean long setup."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "AZZ",
+      "mentions": 4,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * AZZ (NYSE:AZZ ) – recommended by Team Hidden Gems – will report Q1 earnings after the market closes today. Find out how AI data centers lift AZZ Divider ----------------------------------"
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AAPL",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "* Apple makes moves for Chinese memory: Apple (NASDAQ:AAPL ) is testing DRAM chips from ChangXin Memory.",
+        "* Apple expands Broadcom partnership: Apple (AAPL  ) committed more than $30B to Broadcom (AVGO  ) in a multiyear U.S.",
+        "appeal: A European court ruled against Apple (AAPL  ) in its challenge to rules covering the App Store and iOS, reinforcing regulators’ efforts to boost competition."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LEVI",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * Levi Strauss (NYSE:LEVI ) is scheduled to report second-quarter earnings today, with management expecting revenue growth of between 4% and 5% year over year in the new quarter – and that’s after $30 million in shipments were already moved to the previous quarter.",
+        "(LEVI  ) will report today after close."
+      ],
+      "latestMove": "+5.09%"
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "Global Chip Wars Heating Up ------------------------------ DeepSeek is developing its own in-house AI processor, according to Reuters, intended to reduce the Chinese AI developer’s reliance on Nvidia (NASDAQ:NVDA ) and Huawei. * “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year.",
+        "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip.",
+        "* Nvidia valuation tumbles: Nvidia (NVDA  ) has lost about $1T in market cap since May, leaving its shares at their cheapest valuation since before the AI boom.",
+        "* SambaNova raises $1B: SambaNova  , an AI chip startup, raised $1B at an $11B valuation, suggesting growing investor backing for companies challenging Nvidia (NVDA  )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PSMT",
+      "mentions": 3,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "What to Watch Today: Markets, LEVI, PSMT, and AZZ ---------------------------------------------------- S&P 500 and Nasdaq futures slid around 1% in early trade as President Trump declared the ceasefire over, after U.S. * PriceSmart (NASDAQ:PSMT ) will give investors insight into consumer spending across its Latin American warehouse outlets, with a Q3 update expected after today’s closing bell – after Q2 saw the company’s 12-month membership loyalty renewal reach 90% .",
+        "* Financials   · As Reported   · Metrics PriceSmart (PSMT  ) will report today after close."
+      ],
+      "latestMove": "+10.30%"
+    },
+    {
+      "symbol": "AMD",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AVGO",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip.",
+        "* Apple expands Broadcom partnership: Apple (AAPL  ) committed more than $30B to Broadcom (AVGO  ) in a multiyear U.S."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "META",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "Report: Meta’s ‘Super Sensing’ Glasses Begin Tests ----------------------------------------------------- Meta (NASDAQ:META ) – recommended by both Team Hidden Gems and Team Rule Breakers – has reached the prototype testing stage with its new generation of AI glasses, reports the Financial Times.",
+        "* Meta launches AI image tool: Meta (META  ) debuted an AI image generator called Muse Image on Instagram and WhatsApp."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MU",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News",
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 24,
+      "primaryWeight": 14,
+      "notes": [
+        "1 Member 1mblawrence said “Knowing enough to realize how much you don't know.” See more great answers from our Foolish community TODAY’S QUESTION Gerber Kawasaki CEO Ross Gerber called the recent chip-stock pullback \"a gift\" for long-term buyers, arguing sellers are \"captured by very short term thinking.\" Writing on X, he described semiconductors as \"some of the least expensive stocks in the market\" and the weakness as \"a gift for those who want to retire,” singling out Nvidia, Micron (NASDAQ:MU ) and Broadcom (NASDAQ:AVGO ) as attractive after the dip.",
+        "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "AIFC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* AI Financial explores sale: Trump-backed AI Financial (AIFC  ) is mulling a sale of its core payments business for up to $15M after its crypto strategy faltered."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Alibaba bans Anthropic AI: Alibaba (BABA  ) will bar employees from using Anthropic’s   AI tools and require adoption of its own assistant after Anthropic accused the company of attempting to extract its AI capabilities through a distillation attack.",
+        "* Cargo plane vanishes: Pakistan launched air and sea search operations after a Boeing (BA  ) 737 cargo plane with 5 crew vanished over the Arabian Sea while approaching Karachi.",
+        "* 7:00 AM: MBA 30-Year Mortgage Rate"
+      ],
+      "latestMove": "+14.59%"
+    },
+    {
+      "symbol": "BABA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Alibaba bans Anthropic AI: Alibaba (BABA  ) will bar employees from using Anthropic’s   AI tools and require adoption of its own assistant after Anthropic accused the company of attempting to extract its AI capabilities through a distillation attack."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BAC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Bank of America (BAC  ) will report Tuesday."
+      ],
+      "latestMove": "+14.59%"
+    },
+    {
+      "symbol": "BRKB",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "The ideal recent case is Berkshire Hathaway (NYSE:BRKB )."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "DAL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Delta Air Lines (DAL  ) will report Friday."
+      ],
+      "latestMove": "+11.55%"
+    },
+    {
+      "symbol": "DJT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Trump Media suit dismissed: A judge dismissed Trump Media’s (DJT  ) $3.8B defamation lawsuit against The Washington Post, ruling that the company failed to show actual malice."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ERIC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Telefonaktiebolaget LM Ericsson (ERIC  ) will report Tuesday."
+      ],
+      "latestMove": "+0.66%"
+    },
+    {
+      "symbol": "FAST",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Fastenal Company (FAST  ) will report Tuesday."
+      ],
+      "latestMove": "+12.24%"
+    },
+    {
+      "symbol": "GOOGL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Google sets Pixel event: Google (GOOGL  ) announced an Aug."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics The Goldman Sachs Group (GS  ) will report Tuesday."
+      ],
+      "latestMove": "+10.08%"
+    },
+    {
+      "symbol": "HKG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Zhipu launches share sale: Chinese AI firm Zhipu, which trades as Knowledge Atlas (HKG:2513  ), plans to raise about $4B in a Hong Kong share sale after its stock surged nearly 1,500% since January."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "JPM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics JPMorgan Chase (JPM  ) will report Tuesday."
+      ],
+      "latestMove": "+8.13%"
+    },
+    {
+      "symbol": "LLY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Eli Lilly (LLY  ) was an outlier, gaining 3%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "ORCL",
+      "mentions": 1,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "* “Vera really stood out to us ‌as just like a dead-on fit”: AI startup Perplexity, meanwhile, said it will use Nvidia’s new CPUs, as Vice President Nate Kupp added they’re ideal ”for a lot of the core workloads that we have.” Nvidia has already noted OpenAI, Anthropic, and Oracle (NYSE:ORCL ) as intended Vera users, and predicts $20 billion in sales from the chips this fiscal year."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PDC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "The prospective buyer is Perpetuals.com (PDC  ), which plunged 13% yesterday but rose 4.4% premarket."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PENG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "View definitions --------------- Recent Earnings --------------- Penguin Solutions (PENG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+47.64%"
+    },
+    {
+      "symbol": "PEP",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics PepsiCo (PEP  ) will report tomorrow before market open."
+      ],
+      "latestMove": "+5.34%"
+    },
+    {
+      "symbol": "SKHY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(SKHY  ), a large South Korean memory semiconductor company with $86.70B in TTM revenue and 46.76% revenue growth YoY."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SNDK",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPCX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Micron (MU  ) sank nearly 5%, with SpaceX (SPCX  ), Sandisk (SNDK  ), and AMD (AMD  ) down around 7%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "TARX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(TARX  ), a late clinical-stage biopharma firm focused on eye conditions."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "UAL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* United must face window lawsuit: A judge approved a suit against United Airlines (UAL  ) alleging it charged premiums for “window” seats with no outside view."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "WFC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics Wells Fargo & Company (WFC  ) will report Tuesday."
+      ],
+      "latestMove": "+4.68%"
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Meta Testing New All-Seeing AI",
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Financials",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Food Inflation",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Regulatory Risk",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "kind": "earnings",
+      "date": "2026-07-08",
+      "time": "Scheduled",
+      "title": "Levi Strauss (LEVI)",
+      "symbol": "LEVI",
+      "note": "is scheduled to report second-quarter earnings today, with",
+      "source": "Breakfast News: Meta Testing New All-Seeing AI"
+    },
+    {
+      "kind": "earnings",
+      "date": "2026-07-08",
+      "time": "Scheduled",
+      "title": "AZZ (AZZ)",
+      "symbol": "AZZ",
+      "note": "– recommended by Team Hidden Gems – will report Q1 earnings",
+      "source": "Breakfast News: Meta Testing New All-Seeing AI"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-07-08",
+      "time": "7:00 AM",
+      "title": "MBA 30-Year Mortgage Rate",
+      "source": "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-07-08",
+      "time": "10:30 AM",
+      "title": "EIA Crude Oil & Gasoline Stocks Change",
+      "source": "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-07-08",
+      "time": "2:00 PM",
+      "title": "FOMC Minutes",
+      "source": "Market Bullets: Blue Origin scores $130B valuation, Nvidia hits post-AI boom low, oil climbs 6% as Iran ceasefire teeters"
+    }
+  ]
+}

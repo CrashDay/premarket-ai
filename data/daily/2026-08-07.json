@@ -1,0 +1,2940 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T13:30:29.099Z",
+  "sourceCount": 2,
+  "sources": [
+    {
+      "title": "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+      "file": "2026-08-07-market-brieffoolbreakfast-news-breakfast-news-gen-z-is-airbnbs-secret-weapon-19fdbff8d5b8634b.eml",
+      "from": "\"The Motley Fool\" <fool@motley.fool.com>",
+      "date": "Fri, 07 Aug 2026 11:33:05 +0000",
+      "profile": "Motley Fool Breakfast News",
+      "role": "pre-market market setup",
+      "weight": 14,
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/_8rVUEf08_q71qmiPnZmLw~~/AAQRxRA~/om5ETN8Haj37147oQIou-Vq_sEkH7FTjEnxzT9j6LFlzVYFyI9D3iDgjm5P0KQ8deGb3zY95gzYe_cv_KWFpJq-_q1QDPJ23ivwHr1gNXScGF-7UrZc7v57-rAaTthy87cYX0jP03YdzVuJL5bmIsqOEdz8-BN0kr4uCPw5VHUIu7E-Hla0Rdu9J0xZAiRBPJ1aFE-xC3429fS9snRTocBqIkp8dqWgmK-2x6eJvQcyykRkCLydqEscBeDM0qJFfeH4_4ZyU_e6P_RNnHmtgLPWwMm511FIh-3f-fmll72W3OgT-U4CvczrSUuSkAFb5lKDni4hJlsUnRGReZTBK7xy7lp-RjvbDDHLoHeBOLsHVksrQfqAEuJg4en5BSgNHKMLagSZAJX-T_NTJy_qj3zq855XlBYsjsinmW3f2dzleXrMD8mRBVwkJ9Z9MnSnC",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/6ZI-b6HvuHL5bAf_CsHGxQ~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0ivHdHmShby38eKmGp4JHeLpbxJuraugp37n5Wdn2jlX7wQAdyJlvj73iRMqMoVXQj3KKNh8gsz-iq5zIhAqmLxA7Uj5zg0o8OCoRCGQ2CVlSQOTDetsc2ISkXKWSul7_SVo1WkK54TQs-leDBZMClFgvmdqfw4JGyNl_GjITqP6XOSYrfE-JLnMjPqBgo7m4IbeiHkAz9nuueHm-8wphoaZ4t3lwBMN5LC_oP7cgYMVt0pCuYlCzuTZwy2px5ECeFf2V3F2EHLO6-x7xE9ciaurD1AstVZstlSsIQQcOuQIHqm1fuLimK_YPTHRAgCQxhYMkUmMNW0XKJit_BJcmKKWF66QqpvJjDLmOr-1XZvAI9hqQ8-1-2dejhP31UYNt",
+          "title": "The Trade Desk",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/61OrYaa4N1vplSj4B-r65g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uwIOlfOIo6Qw1bmL8cMDOyu1NxM9wolikLZdl76Iy2QRCRDxRXbU5SbaGn2JTQtGrw3hhSMWonmZUU443-Tz-VlQ7mvDtWg6iWJudzRywbF3Z2fJeyl66_jPi2j7x-xlAJcaOpcYWjOGSR1bH66HIyVoY5ngusY5TRACe3yDIk8J2gk20lTLVXr6rpYgfdr2FAvUHO8AYBSYRerqiv-Pxjd9EI-wm-SmwY09ng9dwSU59rf_nAns6nQnr4z-AbBwq5VgxYuTG14L00KRwaawLiP0wbAUZcXOQE-kLNNUGG3L8SfL75RUa5k4_E2MFklkJRfnb5NxLmU56TAlEfyoARlvraJmMEmUjleOt48wDdHbmRBIRvQOIGgSsACdzb6Zb",
+          "title": "The Trade Desk",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/tVDtOx3jFjSnmkspHXK9rQ~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7u_p9C9HLWLj0RGQPpzhA7Ra1tpAIfkNOesFZ4MO6LFhBXroK6ED4FPubdCvBO6s7Nded0izJhbS0WRkk0nh3KTdWhFmjABbjL1DZN-hjNpGO34CJ6nwqO0dM_EhXgSIv-Rzz6qb3vL1FNmQ7DYAsKa4lSyKKX2shljG1retGxDCjmZENrxQuc6RR_49wODrcJp_qR5AQgGhs61CD1AFMEEh61y0Dp7J0-XY6j5FNE5JNm67GPPEWuM2cnmW6CYbskbqL3gsGBjD0GTvCVMIotizmvvbzidG-XFH6D6rPgIkya7iEJEgliUEdaX65kVQcbwGTzsAW4QVy7T-n8uP6bZnfUQak6FFtv8HeHOdpseWk7HlsrfNsfuWcy1ScS8wpA",
+          "title": "Amazon",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/JUS1nVHN6HXyEjzBpY-e0g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uoYdR8oTn3TkW-EOHOac830YNtHaHUs6fPGCbxbSWYGgKGbeI5wKFkbLCYe50WJH_yaD4xgh1TDzOyuHRw8ad8pHjudYz19ZviqywQgbI13yCmVa9_8FH28wRGNuKtv274cZMLPu9LTOrIRct1qbgzy9ju6HRJt8S_PM2V98f0uuPPfIVY2w_-tnC7t-q33A10UxChqUBKsldh_Yl3PSbXqFPMHOpsbpZzS6K5Cy51u9lhvRRs0Y4o_hfdzu7pAJVngEgKpzKOVkCXLAiAAbaZ0wxHFwH1MGfWoDqorPzGtvzbkhNcHJCGRQGV8BB_ML-ljdcsEt44KIuIiXJlKMIsJvcY-Gg9jAxGGbhx7skBtrMnCpUmvx-hKfcUCXJcF_D",
+          "title": "Meta",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/T8w5AcBpRZpL57SB4of3Sg~~/AAQRxRA~/OdOwtEGlgVsALTUrxdJXxJiIhHXauXEHxaEBonSDHI3okvYNK7doRE_AcwfrgQxPezciZlSSqSv-M5SiBaMRJJss_ZTAg2odmkSLpDKXo9_Qm1rasOfJdkSSoqRDBxKtKBfFseUWLEgONRezf1Tkb6XFr1Lzo14uFkghBCTQVoiVk3E88bfrPzQrjPf0vXp_wvs-OLbwtYmufbLL6F5QEfjJoc-6PhuT8wq8REQLw30FRilFm3KlFpu6wlHr1RihKtMLArswM0Frp9iirhpMZREWcOpWrMoHaYNGDfUyonV0uCQHBUUAXDBD0KniIg33b0g5IiWUl06-K_EQRbbMWya8Cruq3tSrJfwUTmCY3r_ShN6kf-60IOYcJ_Rl8ZrKMnQSgxhBF0AeHt4u6k-2xFAX0jZ06jjZDorFTO6OBj4I5ElC--KywSqvX74sdRtcM2g7yLmvE6FhYTz628b4Dw~~",
+          "title": "Last night's Q2",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/2gj1nvWv_CppeB5SU3uFRg~~/AAQRxRA~/om5ETN8Haj37147oQIou-Vq_sEkH7FTjEnxzT9j6LFlzVYFyI9D3iDgjm5P0KQ8deGb3zY95gzYe_cv_KWFpJq-_q1QDPJ23ivwHr1gNXSex8gZUM3hexjObYKRCnhiasQLrxRqVXAvIr91Gk51NjWVGhiVwmAdIURg6fQ9sDxYHtJ5qQhDC7-2Xc7pUPjqjBaRxvJpEc4poysX9vTJfDSnrSdn7uxgwKH4618e-ErsFl_ol899el0wCRxKXYHydM2tAP3j9Uou0qSyL8HFAUNogkSDI6j1zp6WxjDQwBgtV6HOhjc4a48bINS_S50HHLbPs6cA4TP_dWP_rgvYX6FaG2QCxXDVMC5b5iA_19mNRNL5lRRMmXIjy0WBn5hPqopboB-w3EtjupUOkeLUG0tyntMJ8ScL9oL4MwazzctQJQkCBRAlTxTINxL4-hidR",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/cyblasiEP8t-mgZsgAlI0A~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uplQ98Sgk9kgVdjn9mHZrVGwOjf0BbFhf5tlT14_8NvUaWNmAhflR6WjtCqeP8cubf1CRO2MuVN5PEMRpgYVWcLhYkksZ1Fz8HHVslZi9bSTvr2ppkBINcgvCPpn6RHWPVEDQMVLy_43SObuPlPmLdbo5DY0g9_jyvfbF0mB3ihNizhtYP4r_JgKw1x3epkCMDJ_QkLX1422RDErpg2tA3phpVU-bECK7-PeYruzTOrXhtbyqqbTTrlmaUDMQu4taUUXoMzA_P0gQBqgkz0JUPI6kAseTIbM8hDbtf4Ah8W3ofPHLLZOwSYpLFsJrHx8tOwcAnTfJKFvN1NbNaaWSm6MXPcxDA254dm4cLJpvOkLjc1i_geraFW6BKJDx5UmC",
+          "title": "Airbnb",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/trHrk6az9FiKnBvjUI-gKg~~/AAQRxRA~/aIMz2pRmjwWTTKy7u34Uyyi5yMk4LLsvilbYeg7dRh1Wbx05pKqbFcr4TrJVzC-hTw3b8aonQmT8TzDmPO-bkr1oYCsXX2RJz2W4lRIDUU0h7DgtomX_pAAEd3NUTIBTwzJagyLj9K6IJ4u5gSk3jc68ZFvZPozBFmRIkek6UJWux4CZlDjna1RJG9S3BD7jZtJKgX7ugLpGNnv83m0V5L1I67VczeyQzl4UvKcJEqhSKwDX2xNNw31neNSXvDuGJD24dkQsB1fXV4QKbUbdMQjbg1YrIsmzZiRbEekd_fhb1nmyYYfhipjujLB8og4HX1I2pV_Pgm-_5xJ0iqmNWYskDVyoPFpk3-12EC31iibqmrWamZ4ZTHxzA7sF5eCrL0VrapsOpWIeKBFBHa0bLgEi3BSnEFJHVJGdFFsqzsO2VUzE_Ts-ZC4UkTCoT0JInyEYwbabQI_2W31zcyJV0g~~",
+          "title": "Motley Fool link",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/4UQbIfEG_3v0XLWSsQGHXA~~/AAQRxRA~/7ascrCxfDY0UezQ03_ziyEWp6a3RNhCcVHOgLql1TnnR5CMjNFNRmFi5KpA3LvxOCis6mC9S4GdJVQebt1Mu7T0HHyW595GsiK7cDeMBHejpI1Pt4NGT-MM8Kkpe1ada-GZbRcpaz2BEP2ysaqaSfJ0J0wHTmMxmfXhsuImLMa2G6k0A4yxX7PV1YaEJOIGt6n3aWLflCOB6BJNUbSZle2dQ0oeyW7sL4zpElEZffjM0DyXa1FOFzLDO2uKQyZWsSRS9QoxryAIjIAsjh8EWlWPJ46oJQA1V2YX30TE5j9CS-Bk9yyBhcbqNvJTOUx_2PnaX01IC8peXo022o4D_6vR3TfydJvc0E9bDj15H3_p6iNu3hD3zQrRSOxR99dd9kBbe6zGGBuIQKHGRnoL9MgAj0yImzZv2vFM95dXRghjjpTaY7J_hX2F4PTakJYUMYXxHVSmAq1psMcMcdvUYVw~~",
+          "title": "See the new features helping Airbnb",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/bzOyLJS4b8XC2LdBDTUI5Q~~/AAQRxRA~/0iDXHjBlts0ex0AKfF7AQ8FcUU5a2ZkpzqSi8fYROULlSYpbsBPPa1mrEQk-VjYmXs43OjU1JLQwx6C_HUNVCRTW5vrjO-a7eYyQys6pWI_0o7Xssm5w0t-NHYrPjkhf0q7JyBfgUTOUI8YAJt5BGvSvyqDgm4cWN6dUwGB5Bk5e5xsGVoJsE0VBAwTVy-l6Xlrkf4tg5L3HiGPujyq4zwfK_eE1hvZgFowALkGl4-JAp6-u9mP99-XTB75qA6i-",
+          "title": "See what's inside the Epic Portfolio &rarr;",
+          "fetched": false
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/E_CCBhLhVrSnau1a0zuJKA~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0a3nyWGlFBvnF2OJBxmBTS1gNuWWcz7ZrelM_ielDR6vM4hIlegCNKj_uS5T1cR0g7lbnu0hUOF1vzoXyhq2FsnwQwaGL26Ha1qsCB92I9frIbr6upK4qaopbW9QB-lwZM3lXiiQnuVisUrStWgCukhpI9M7H_jW1j1DHCtMGmcZLlPKp8Ujt1452FD9G6Ili4mJL3HqxUZrhhoe1KAII5QiazgzivJniJfpyeP7_rShhP_zmgaeo0OWR5cjgIV3lKFo1Zrm0ukGsLQa1zuXiEYXDkKGJ3DL9K6PEOKqrsPxtnLCZl3mAbDSAviX6CHFGfxKT2gzcrmxrVl30hYyV_6T86EbKrFb9js6d8NeMRmaJTRi7VJ0A2rYMQAs7FQdq",
+          "title": "Advanced Micro Devices",
+          "fetched": false
+        }
+      ],
+      "wordCount": 1344,
+      "summaryHints": [
+        "ABNB sees growth across the board, AMD buys AI startup to challenge Nvidia, and more… Breakfast News   Click here to read online .",
+        "AUGUST 7, 2026Thursday's MarketsS&P 500 7,710 (-0.18%)Nasdaq 26,348 (-0.06%)Dow 53,885 (-0.85%)Bitcoin 64,429 (-0.74%)------------------------------ 1.",
+        "No Buyers at The Trade Desk ------------------------------ We've recommended The Trade Desk about 100 times over the last decade.",
+        "The company runs the leading platform for buying ads across the open internet, beyond the walled gardens of Alphabet , Amazon , and Meta .",
+        "For years, it delivered major multibagger returns."
+      ],
+      "items": [
+        {
+          "title": "Item 1",
+          "text": "No Buyers at The Trade Desk ------------------------------ We've recommended The Trade Desk about 100 times over the last decade. The company runs the leading platform for buying ads across the open internet, beyond the walled gardens of Alphabet , Amazon , and Meta . For years, it delivered major multibagger returns. But growth has stalled, and in February, Rule Breakers cut it to hold and sent it to the Penalty Box. Last night's Q2 shows why it's staying there. * Team Rule Breakers: TTD's Q2 revenue rose just 3%, net income fell 40%, and it expects even less revenue next quarter. The ad market is expanding, yet The Trade Desk can't grab more than a slim sliver of it. * Team Hidden Gems: CEO Jeff Green insists they're on track. But growth is anemic compared to the over 25% revenue gains at both Amazon and Meta last quarter. This company is unstable, with wholesale turnover in the executive ranks. We have erred badly by holding so many positions in Hidden Gems. The Trade Desk stays in the penalty box for now, and maybe for good. These declines hurt and offer a strong reminder of the importance of portfolio diversification. We are reviewing our investment procedures related to our Trade Desk investments and will share our findings soon. Divider -----------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/6ZI-b6HvuHL5bAf_CsHGxQ~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0ivHdHmShby38eKmGp4JHeLpbxJuraugp37n5Wdn2jlX7wQAdyJlvj73iRMqMoVXQj3KKNh8gsz-iq5zIhAqmLxA7Uj5zg0o8OCoRCGQ2CVlSQOTDetsc2ISkXKWSul7_SVo1WkK54TQs-leDBZMClFgvmdqfw4JGyNl_GjITqP6XOSYrfE-JLnMjPqBgo7m4IbeiHkAz9nuueHm-8wphoaZ4t3lwBMN5LC_oP7cgYMVt0pCuYlCzuTZwy2px5ECeFf2V3F2EHLO6-x7xE9ciaurD1AstVZstlSsIQQcOuQIHqm1fuLimK_YPTHRAgCQxhYMkUmMNW0XKJit_BJcmKKWF66QqpvJjDLmOr-1XZvAI9hqQ8-1-2dejhP31UYNt",
+              "title": "The Trade Desk",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/61OrYaa4N1vplSj4B-r65g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uwIOlfOIo6Qw1bmL8cMDOyu1NxM9wolikLZdl76Iy2QRCRDxRXbU5SbaGn2JTQtGrw3hhSMWonmZUU443-Tz-VlQ7mvDtWg6iWJudzRywbF3Z2fJeyl66_jPi2j7x-xlAJcaOpcYWjOGSR1bH66HIyVoY5ngusY5TRACe3yDIk8J2gk20lTLVXr6rpYgfdr2FAvUHO8AYBSYRerqiv-Pxjd9EI-wm-SmwY09ng9dwSU59rf_nAns6nQnr4z-AbBwq5VgxYuTG14L00KRwaawLiP0wbAUZcXOQE-kLNNUGG3L8SfL75RUa5k4_E2MFklkJRfnb5NxLmU56TAlEfyoARlvraJmMEmUjleOt48wDdHbmRBIRvQOIGgSsACdzb6Zb",
+              "title": "The Trade Desk",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/tVDtOx3jFjSnmkspHXK9rQ~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7u_p9C9HLWLj0RGQPpzhA7Ra1tpAIfkNOesFZ4MO6LFhBXroK6ED4FPubdCvBO6s7Nded0izJhbS0WRkk0nh3KTdWhFmjABbjL1DZN-hjNpGO34CJ6nwqO0dM_EhXgSIv-Rzz6qb3vL1FNmQ7DYAsKa4lSyKKX2shljG1retGxDCjmZENrxQuc6RR_49wODrcJp_qR5AQgGhs61CD1AFMEEh61y0Dp7J0-XY6j5FNE5JNm67GPPEWuM2cnmW6CYbskbqL3gsGBjD0GTvCVMIotizmvvbzidG-XFH6D6rPgIkya7iEJEgliUEdaX65kVQcbwGTzsAW4QVy7T-n8uP6bZnfUQak6FFtv8HeHOdpseWk7HlsrfNsfuWcy1ScS8wpA",
+              "title": "Amazon",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/JUS1nVHN6HXyEjzBpY-e0g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uoYdR8oTn3TkW-EOHOac830YNtHaHUs6fPGCbxbSWYGgKGbeI5wKFkbLCYe50WJH_yaD4xgh1TDzOyuHRw8ad8pHjudYz19ZviqywQgbI13yCmVa9_8FH28wRGNuKtv274cZMLPu9LTOrIRct1qbgzy9ju6HRJt8S_PM2V98f0uuPPfIVY2w_-tnC7t-q33A10UxChqUBKsldh_Yl3PSbXqFPMHOpsbpZzS6K5Cy51u9lhvRRs0Y4o_hfdzu7pAJVngEgKpzKOVkCXLAiAAbaZ0wxHFwH1MGfWoDqorPzGtvzbkhNcHJCGRQGV8BB_ML-ljdcsEt44KIuIiXJlKMIsJvcY-Gg9jAxGGbhx7skBtrMnCpUmvx-hKfcUCXJcF_D",
+              "title": "Meta",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/T8w5AcBpRZpL57SB4of3Sg~~/AAQRxRA~/OdOwtEGlgVsALTUrxdJXxJiIhHXauXEHxaEBonSDHI3okvYNK7doRE_AcwfrgQxPezciZlSSqSv-M5SiBaMRJJss_ZTAg2odmkSLpDKXo9_Qm1rasOfJdkSSoqRDBxKtKBfFseUWLEgONRezf1Tkb6XFr1Lzo14uFkghBCTQVoiVk3E88bfrPzQrjPf0vXp_wvs-OLbwtYmufbLL6F5QEfjJoc-6PhuT8wq8REQLw30FRilFm3KlFpu6wlHr1RihKtMLArswM0Frp9iirhpMZREWcOpWrMoHaYNGDfUyonV0uCQHBUUAXDBD0KniIg33b0g5IiWUl06-K_EQRbbMWya8Cruq3tSrJfwUTmCY3r_ShN6kf-60IOYcJ_Rl8ZrKMnQSgxhBF0AeHt4u6k-2xFAX0jZ06jjZDorFTO6OBj4I5ElC--KywSqvX74sdRtcM2g7yLmvE6FhYTz628b4Dw~~",
+              "title": "Last night's Q2",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": []
+        },
+        {
+          "title": "Item 2",
+          "text": "Gen Z Is Powering Airbnb's Fastest Growth in Years ----------------------------------------------------- Image shows chart of Airbnb's net income over the past 3 years Airbnb rose over 7% in pre-market trading thanks to quarterly results that beat expectations on both revenue and earnings . The growth came from new blood: first-time bookers rose 11%, the fastest pace in four years, led by Gen Z. App bookings grew 23% and now make up 64% of total nights, up from 59% a year ago. * “We saw year-over-year growth accelerate not just in our expansion markets [like Latin America], but in many of our largest core markets as well”: Revenue, bookings, margin, and cash all moved the same way. When every line climbs together, that's a healthier business, not one number flattered by a single hot region. * Full-year outlook for revenue and adjusted EBITDA raised: The Team Rule Breakers and Team Hidden Gems recommendation expects platform demand and past investments to keep paying off. The question worth holding onto: whether this Gen-Z surge is a durable shift in who travels or a promo-driven spike that fades. If first-time bookers keep coming back next quarter, the runway is real. See the new features helping Airbnb DividerA message from The Motley Fool <p><strong>&ldquo;The money that I've invested has grown on top of itself and is making more money than I make now.&rdquo;</strong></p> <p>That's a real Motley Fool member. And it's exactly what a well-built portfolio is supposed to do &mdash; get out of your way and compound.</p> <p>Tom Gardner built a complete 50-stock portfolio designed to do just that. And The Motley Fool is investing $100,000 of its own money alongside the Motley Fool members who follow it.</p> <p>Two investing teams. Every risk level in mind. Equal weights across all 50 stocks so anyone can follow along.</p> <p><a href=\" what's inside the Epic Portfolio &rarr;</a></p> -------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/cyblasiEP8t-mgZsgAlI0A~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uplQ98Sgk9kgVdjn9mHZrVGwOjf0BbFhf5tlT14_8NvUaWNmAhflR6WjtCqeP8cubf1CRO2MuVN5PEMRpgYVWcLhYkksZ1Fz8HHVslZi9bSTvr2ppkBINcgvCPpn6RHWPVEDQMVLy_43SObuPlPmLdbo5DY0g9_jyvfbF0mB3ihNizhtYP4r_JgKw1x3epkCMDJ_QkLX1422RDErpg2tA3phpVU-bECK7-PeYruzTOrXhtbyqqbTTrlmaUDMQu4taUUXoMzA_P0gQBqgkz0JUPI6kAseTIbM8hDbtf4Ah8W3ofPHLLZOwSYpLFsJrHx8tOwcAnTfJKFvN1NbNaaWSm6MXPcxDA254dm4cLJpvOkLjc1i_geraFW6BKJDx5UmC",
+              "title": "Airbnb",
+              "fetched": false
+            },
+            {
+              "url": "https://clicks.fool.com/f/a/4UQbIfEG_3v0XLWSsQGHXA~~/AAQRxRA~/7ascrCxfDY0UezQ03_ziyEWp6a3RNhCcVHOgLql1TnnR5CMjNFNRmFi5KpA3LvxOCis6mC9S4GdJVQebt1Mu7T0HHyW595GsiK7cDeMBHejpI1Pt4NGT-MM8Kkpe1ada-GZbRcpaz2BEP2ysaqaSfJ0J0wHTmMxmfXhsuImLMa2G6k0A4yxX7PV1YaEJOIGt6n3aWLflCOB6BJNUbSZle2dQ0oeyW7sL4zpElEZffjM0DyXa1FOFzLDO2uKQyZWsSRS9QoxryAIjIAsjh8EWlWPJ46oJQA1V2YX30TE5j9CS-Bk9yyBhcbqNvJTOUx_2PnaX01IC8peXo022o4D_6vR3TfydJvc0E9bDj15H3_p6iNu3hD3zQrRSOxR99dd9kBbe6zGGBuIQKHGRnoL9MgAj0yImzZv2vFM95dXRghjjpTaY7J_hX2F4PTakJYUMYXxHVSmAq1psMcMcdvUYVw~~",
+              "title": "See the new features helping Airbnb",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": [
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 3",
+          "text": "AMD Joins Nvidia in Hardwiring AI Into Silicon ------------------------------------------------- Advanced Micro Devices has agreed to buy Taalas, a Toronto startup that hardwires AI models directly into silicon, and plans to plug the technology into its Helios rack systems. It's the second chip giant in a year to snap up this kind of specialist. * Why both AMD and Nvidia want fixed silicon: The deal lands seven months after Nvidia bought similar assets from Groq. When the two biggest names in AI chips both pay up for the same thing, they're pointing at a coming split: flexible GPUs keep training the models, while high-volume, latency-sensitive inference moves to purpose-built chips where efficiency beats flexibility. CEO Lisa Su put it plainly: there's no one-size-fits-all in chips. AMD is buying onto the right side of that divide before it hardens. * “We love investing in companies that aren't afraid of innovation and can quickly enter an emerging market”: AMD is outperforming the S&P 500 by 129% since the January 2024 Stock Advisor recommendation by Team Rule Breakers. Contributing analyst Toby Bordelon likes how fast AMD moves into new markets; he pointed to its quantum-computing push this week as another example. Get up to speed on AMD’s latest earnings Divider ---------------------------------------------------------------",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/E_CCBhLhVrSnau1a0zuJKA~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0a3nyWGlFBvnF2OJBxmBTS1gNuWWcz7ZrelM_ielDR6vM4hIlegCNKj_uS5T1cR0g7lbnu0hUOF1vzoXyhq2FsnwQwaGL26Ha1qsCB92I9frIbr6upK4qaopbW9QB-lwZM3lXiiQnuVisUrStWgCukhpI9M7H_jW1j1DHCtMGmcZLlPKp8Ujt1452FD9G6Ili4mJL3HqxUZrhhoe1KAII5QiazgzivJniJfpyeP7_rShhP_zmgaeo0OWR5cjgIV3lKFo1Zrm0ukGsLQa1zuXiEYXDkKGJ3DL9K6PEOKqrsPxtnLCZl3mAbDSAviX6CHFGfxKT2gzcrmxrVl30hYyV_6T86EbKrFb9js6d8NeMRmaJTRi7VJ0A2rYMQAs7FQdq",
+              "title": "Advanced Micro Devices",
+              "fetched": false
+            }
+          ],
+          "tickers": [
+            "NVDA"
+          ],
+          "themes": [
+            "AI Infrastructure",
+            "Semiconductors",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 4",
+          "text": "Cloudflare, Twilio, and Atlassian Rally on Broadening Demand --------------------------------------------------------------- Three software names reported strong quarters and rallied hard pre-market. The common thread: each stock rallied on a broadening base of customers and products, not on a few outsized deals. * Cloudflare , up over 16%. Revenue climbed 36% year over year , with record additions in paying customers, large customers, and developers alike. Strength across all three tiers shows the customer base itself is expanding, beyond the largest accounts. * Twilio , up around 16%. Revenue hit a record $1.50 billion , up 22%, and earnings beat consensus for the fifth straight quarter. It raised full-year guidance on demand across messaging, voice, and newer AI products. Five straight quarters of beats point to steady demand it can plan around. * Atlassian , up over 30%. Its Rovo AI assistant now reaches more than 80% of the Fortune 500, with Rovo-assisted actions up 50% from last quarter . Customers who adopt Rovo grow spending at over twice the rate of those who don't, so AI is pulling revenue up directly. Study how TEAM is building an AI empire Divider -------------------------------------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Earnings"
+          ]
+        },
+        {
+          "title": "Item 5",
+          "text": "Don't Price In Tesla's $119B Terafab Yet ------------------------------------------- Tesla and SpaceX outlined a $16.8 billion first phase for Terafab, a semiconductor complex planned for Grimes County, Texas, that would make, package, and test logic and memory chips for Tesla robots and SpaceX systems. Future expansion could lift total investment to $119 billion. * The big number is aspirational: The gap between the $16.8 billion first phase and the $119 billion headline is the tell. For a five-to-ten-year holder, what matters is capital intensity and returns. Fabs are brutally cash-hungry and cyclical, and Terafab would compete for cash with Tesla's other claims: autos, energy, and AI training compute. * Value Tesla on what ships, not what's promised: Tesla's 10-Q pegs AI5/AI6 chip production for 2027–2028, so treat first AI5 output in 2027 as the real milestone and value the stock on today's auto and energy fundamentals until then. If you hold or are weighing SpaceX, note its separate $5 billion, 1,800-job commitment by the early 2030s, and watch how its post-IPO disclosures break out Terafab spend. Crack the case for a SpaceX telecom buy Divider ------------",
+          "links": [],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure",
+            "Space Economy",
+            "Semiconductors"
+          ]
+        },
+        {
+          "title": "Item 6",
+          "text": "Your Take ------------ YESTERDAY'S TOP TAKE We asked, when a company you own ramps up spending on AI, what would you need to see before you'd trust it's paying off? Member beatSPdreamer said “If the goals of the spending make sense to me and I believe the story, that might be good enough.” TODAY'S QUESTION If Airbnb is on your watchlist, what would convince you its Gen-Z surge is here to stay? Share in the comments on today’s article! Divider The Morning Show ************************** Have an Appetite for More? ************************** Every market day at 9 a.m. Eastern, join our analysts for The Morning Show as they discuss the news, trends, and market happenings. Watch The Morning Show Google Follow Fool.com on Google How did you like this email? Positive Negative If you have any questions, check out our Help Center here . The Motley Fool, its directors, employees, contractors or staff may own positions in the companies mentioned in this email. For more details, please see our disclosure policy . The Motley Fool 2000 Duke Street Alexandria, VA 22314 Manage your email settings Copyright 2026 The Motley Fool. All rights reserved.",
+          "links": [
+            {
+              "url": "https://clicks.fool.com/f/a/cyblasiEP8t-mgZsgAlI0A~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uplQ98Sgk9kgVdjn9mHZrVGwOjf0BbFhf5tlT14_8NvUaWNmAhflR6WjtCqeP8cubf1CRO2MuVN5PEMRpgYVWcLhYkksZ1Fz8HHVslZi9bSTvr2ppkBINcgvCPpn6RHWPVEDQMVLy_43SObuPlPmLdbo5DY0g9_jyvfbF0mB3ihNizhtYP4r_JgKw1x3epkCMDJ_QkLX1422RDErpg2tA3phpVU-bECK7-PeYruzTOrXhtbyqqbTTrlmaUDMQu4taUUXoMzA_P0gQBqgkz0JUPI6kAseTIbM8hDbtf4Ah8W3ofPHLLZOwSYpLFsJrHx8tOwcAnTfJKFvN1NbNaaWSm6MXPcxDA254dm4cLJpvOkLjc1i_geraFW6BKJDx5UmC",
+              "title": "Airbnb",
+              "fetched": false
+            }
+          ],
+          "tickers": [],
+          "themes": [
+            "AI Infrastructure"
+          ]
+        }
+      ],
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "mentions": 0,
+          "move": null,
+          "notes": [
+            "AMD Joins Nvidia in Hardwiring AI Into Silicon ------------------------------------------------- Advanced Micro Devices has agreed to buy Taalas, a Toronto startup that hardwires AI models directly into silicon, and plans to plug the technology into its Helios rack systems. * Why both AMD and Nvidia want fixed silicon: The deal lands seven months after Nvidia bought similar assets from Groq."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Space Economy",
+        "Semiconductors",
+        "Earnings"
+      ],
+      "events": []
+    },
+    {
+      "title": "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast",
+      "file": "2026-08-07-market-briefstock-analysismarket-bullets-market-bullets-u.s.-sheds-23k-jobs-spacex-gains-6-on-lockup-expiration-airbnb-so-19fdc536c1c9087b.eml",
+      "from": "Stock Analysis <contact@stockanalysis.com>",
+      "date": "Fri, 07 Aug 2026 13:04:42 +0000 (UTC)",
+      "profile": "Stock Analysis Market Bullets",
+      "role": "pre-market market summary",
+      "weight": 10,
+      "links": [
+        {
+          "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+          "title": "SK Hynix expands capacity",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html",
+          "title": "Eli Lilly Novo Nordisk Earnings Glp1 Market",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+          "title": "Sinclair gains on scrapped TV station rule",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+          "title": "Jobs Report July 2026",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/07/china-crude-imports-july-hormuz-iran-war-.html",
+          "title": "China Crude Imports July Hormuz Iran War",
+          "fetched": false
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/06/trump-bbc-lawsuit-financial-records-court-stay.html",
+          "title": "Senate sees Fauci and Farm Bill drama",
+          "fetched": false
+        }
+      ],
+      "wordCount": 2297,
+      "summaryHints": [
+        "​ 📉 Participation rate hits 5-year low | Friday - August 07, 2026 | View Online --------------- Market Overview --------------- S&P 500 -0.18% Pre: +0.55% Nasdaq -0.06% Pre: +1.21% Dow -0.85% Pre: +0.34% ------------------- Stock & Market News -------------------",
+        "* SpaceX shares unlock: SpaceX (SPCX  ) climbed 6% after more than 900M shares became eligible for trading following its IPO lockup expiration.",
+        "The unlock more than doubled the public float, increasing near-term volatility.",
+        "* Airbnb raises outlook: Airbnb (ABNB  ) beat Q2 revenue estimates and raised its 2026 revenue outlook, driven by strong global travel demand, World Cup bookings, and growth from first-time users.",
+        "Shares rose 8% premarket."
+      ],
+      "items": [],
+      "tickers": [
+        {
+          "symbol": "ABNB",
+          "mentions": 2,
+          "move": "+16.54%",
+          "notes": [
+            "* Airbnb raises outlook: Airbnb (ABNB  ) beat Q2 revenue estimates and raised its 2026 revenue outlook, driven by strong global travel demand, World Cup bookings, and growth from first-time users.",
+            "* Financials   · As Reported   · Metrics   · Press Release Airbnb (ABNB  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "ACM",
+          "mentions": 1,
+          "move": "-5.96%",
+          "notes": []
+        },
+        {
+          "symbol": "AIG",
+          "mentions": 1,
+          "move": "-0.08%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release American International Group (AIG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "APO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* EasyJet agrees to takeover: Apollo (APO  ) will acquire U.K."
+          ]
+        },
+        {
+          "symbol": "BA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Alibaba shifts AI monetization: Alibaba (BABA  ) plans to require major users of its next open-source AI model to share revenue, pushing to monetize commercial adoption.",
+            "Boeing (BA  ) fell 3.3% on the news."
+          ]
+        },
+        {
+          "symbol": "BABA",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Alibaba shifts AI monetization: Alibaba (BABA  ) plans to require major users of its next open-source AI model to share revenue, pushing to monetize commercial adoption."
+          ]
+        },
+        {
+          "symbol": "BLSM",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "BZH",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Homebuilder buyout: Dream Finders (DFH  ) agreed to purchase Beazer Homes (BZH  ) for $2.2B, including debt, in an all-cash deal that will make it the 6th-largest U.S."
+          ]
+        },
+        {
+          "symbol": "CAH",
+          "mentions": 1,
+          "move": "+8.44%",
+          "notes": []
+        },
+        {
+          "symbol": "CBRS",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "COHR",
+          "mentions": 1,
+          "move": "+29.55%",
+          "notes": []
+        },
+        {
+          "symbol": "COP",
+          "mentions": 1,
+          "move": "+32.44%",
+          "notes": [
+            "View definitions --------------- Recent Earnings --------------- ConocoPhillips (COP  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "DDOG",
+          "mentions": 1,
+          "move": "+35.59%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Datadog (DDOG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "DFH",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Homebuilder buyout: Dream Finders (DFH  ) agreed to purchase Beazer Homes (BZH  ) for $2.2B, including debt, in an all-cash deal that will make it the 6th-largest U.S."
+          ]
+        },
+        {
+          "symbol": "DV",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Nielsen acquires DoubleVerify: Nielsen will purchase software company DoubleVerify (DV  ) in a deal valued at $2.15B, sending DoubleVerify up 13% premarket."
+          ]
+        },
+        {
+          "symbol": "FERG",
+          "mentions": 1,
+          "move": "+13.01%",
+          "notes": []
+        },
+        {
+          "symbol": "FISV",
+          "mentions": 1,
+          "move": "-4.06%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Fiserv (FISV  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "FOXA",
+          "mentions": 1,
+          "move": "+28.14%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Fox Corporation (FOXA  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "FSLR",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "FirstSolar (FSLR  ) gained 5% premarket, with FTC Solar (FTCI  ) up 4%."
+          ]
+        },
+        {
+          "symbol": "FTCI",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "FirstSolar (FSLR  ) gained 5% premarket, with FTC Solar (FTCI  ) up 4%."
+          ]
+        },
+        {
+          "symbol": "GOOGL",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug."
+          ]
+        },
+        {
+          "symbol": "HWM",
+          "mentions": 1,
+          "move": "+24.06%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Howmet Aerospace (HWM  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "KVUE",
+          "mentions": 1,
+          "move": "+3.02%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Kenvue (KVUE  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "LITE",
+          "mentions": 1,
+          "move": "+105.38%",
+          "notes": []
+        },
+        {
+          "symbol": "LLY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Lilly gains competitive advantage: Eli Lilly (LLY  ) strengthened its lead over Novo Nordisk (NVO  ) after both companies beat Q2 estimates and raised guidance."
+          ]
+        },
+        {
+          "symbol": "LON",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "budget airline EasyJet (LON:EZJ  ) for $7.6B after rival Castlelake withdrew."
+          ]
+        },
+        {
+          "symbol": "LTGO",
+          "mentions": 1,
+          "move": null,
+          "notes": []
+        },
+        {
+          "symbol": "MCHP",
+          "mentions": 1,
+          "move": "+38.08%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Microchip Technology (MCHP  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "META",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Meta faces massive payout: A judge demanded that Meta (META  ) pay $567M into a New Mexico abatement fund in a case tied to its platforms' contributions to youth mental health harms."
+          ]
+        },
+        {
+          "symbol": "MNST",
+          "mentions": 1,
+          "move": "+20.12%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Monster Beverage (MNST  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "NBIS",
+          "mentions": 1,
+          "move": "+448.69%",
+          "notes": []
+        },
+        {
+          "symbol": "NET",
+          "mentions": 1,
+          "move": "+35.87%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Cloudflare (NET  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "NFLX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug."
+          ]
+        },
+        {
+          "symbol": "NU",
+          "mentions": 1,
+          "move": "+46.89%",
+          "notes": []
+        },
+        {
+          "symbol": "NVO",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Lilly gains competitive advantage: Eli Lilly (LLY  ) strengthened its lead over Novo Nordisk (NVO  ) after both companies beat Q2 estimates and raised guidance."
+          ]
+        },
+        {
+          "symbol": "PBR",
+          "mentions": 1,
+          "move": "+59.75%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Petrobras (PBR  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "PH",
+          "mentions": 1,
+          "move": "+9.77%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Parker-Hannifin (PH  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "QSR",
+          "mentions": 1,
+          "move": "+4.56%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Restaurant Brands International (QSR  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "RKT",
+          "mentions": 1,
+          "move": "+105.97%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Rocket Companies (RKT  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "ROKU",
+          "mentions": 1,
+          "move": "+21.93%",
+          "notes": [
+            "(ROKU  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "RSG",
+          "mentions": 1,
+          "move": "+4.60%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Republic Services (RSG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "SBGI",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* Sinclair gains on scrapped TV station rule: Sinclair (SBGI  ) rose 6% yesterday — and another 1.6% premarket — after the FCC repealed a cap on TV station ownership, potentially allowing more acquisitions of local stations."
+          ]
+        },
+        {
+          "symbol": "SE",
+          "mentions": 1,
+          "move": "+35.75%",
+          "notes": []
+        },
+        {
+          "symbol": "SG",
+          "mentions": 1,
+          "move": "+4.60%",
+          "notes": [
+            "* Sweetgreen plunges on forecast cut: Sweetgreen (SG  ) fell 13% premarket after cutting its annual same-store sales forecast, citing weaker demand amid fears over a disease outbreak tied to fresh produce — despite no link to the salad chain's menu.",
+            "* Financials   · As Reported   · Metrics   · Press Release Republic Services (RSG  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "SKHY",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* SK Hynix expands capacity: SK Hynix (SKHY  ) plans to invest $38B to build new chip factories in South Korea, aiming to double memory capacity and meet strong AI-driven demand."
+          ]
+        },
+        {
+          "symbol": "SPCX",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* SpaceX shares unlock: SpaceX (SPCX  ) climbed 6% after more than 900M shares became eligible for trading following its IPO lockup expiration."
+          ]
+        },
+        {
+          "symbol": "SPG",
+          "mentions": 1,
+          "move": "+7.54%",
+          "notes": []
+        },
+        {
+          "symbol": "TEO",
+          "mentions": 1,
+          "move": "+9.31%",
+          "notes": []
+        },
+        {
+          "symbol": "TRGP",
+          "mentions": 1,
+          "move": "+4.23%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release Targa Resources (TRGP  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "TTWO",
+          "mentions": 2,
+          "move": "-2.61%",
+          "notes": [
+            "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug."
+          ]
+        },
+        {
+          "symbol": "USFD",
+          "mentions": 1,
+          "move": "+4.46%",
+          "notes": [
+            "* Financials   · As Reported   · Metrics   · Press Release US Foods Holding (USFD  ) has released its quarterly earnings."
+          ]
+        },
+        {
+          "symbol": "UWMC",
+          "mentions": 1,
+          "move": null,
+          "notes": [
+            "* UWM raises capital: United Wholesale Mortgage (UWMC  ) plummeted 35% after suspending its dividend and securing a $2.05B equity investment to strengthen liquidity."
+          ]
+        },
+        {
+          "symbol": "WBD",
+          "mentions": 1,
+          "move": "-11.16%",
+          "notes": [
+            "Discovery (WBD  ) has released its quarterly earnings."
+          ]
+        }
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Defense Spending",
+        "Space Economy",
+        "Industrial Automation",
+        "Streaming And Media",
+        "Semiconductors",
+        "Earnings",
+        "Regulatory Risk"
+      ],
+      "events": [
+        {
+          "kind": "economic",
+          "date": "2026-08-07",
+          "time": "8:30 AM",
+          "title": "Non Farm Payrolls"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-07",
+          "time": "8:30 AM",
+          "title": "Unemployment Rate"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-07",
+          "time": "8:30 AM",
+          "title": "Average Hourly Earnings MoM & YoY"
+        },
+        {
+          "kind": "economic",
+          "date": "2026-08-07",
+          "time": "8:30 AM",
+          "title": "Participation Rate"
+        }
+      ]
+    }
+  ],
+  "readingList": [
+    {
+      "title": "The Trade Desk",
+      "note": "No Buyers at The Trade Desk ------------------------------ We've recommended The Trade Desk about 100 times over the last decade. The company runs the leading platform for buying…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/6ZI-b6HvuHL5bAf_CsHGxQ~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0ivHdHmShby38eKmGp4JHeLpbxJuraugp37n5Wdn2jlX7wQAdyJlvj73iRMqMoVXQj3KKNh8gsz-iq5zIhAqmLxA7Uj5zg0o8OCoRCGQ2CVlSQOTDetsc2ISkXKWSul7_SVo1WkK54TQs-leDBZMClFgvmdqfw4JGyNl_GjITqP6XOSYrfE-JLnMjPqBgo7m4IbeiHkAz9nuueHm-8wphoaZ4t3lwBMN5LC_oP7cgYMVt0pCuYlCzuTZwy2px5ECeFf2V3F2EHLO6-x7xE9ciaurD1AstVZstlSsIQQcOuQIHqm1fuLimK_YPTHRAgCQxhYMkUmMNW0XKJit_BJcmKKWF66QqpvJjDLmOr-1XZvAI9hqQ8-1-2dejhP31UYNt",
+          "title": "The Trade Desk",
+          "label": "The Trade Desk"
+        },
+        {
+          "url": "https://clicks.fool.com/f/a/61OrYaa4N1vplSj4B-r65g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uwIOlfOIo6Qw1bmL8cMDOyu1NxM9wolikLZdl76Iy2QRCRDxRXbU5SbaGn2JTQtGrw3hhSMWonmZUU443-Tz-VlQ7mvDtWg6iWJudzRywbF3Z2fJeyl66_jPi2j7x-xlAJcaOpcYWjOGSR1bH66HIyVoY5ngusY5TRACe3yDIk8J2gk20lTLVXr6rpYgfdr2FAvUHO8AYBSYRerqiv-Pxjd9EI-wm-SmwY09ng9dwSU59rf_nAns6nQnr4z-AbBwq5VgxYuTG14L00KRwaawLiP0wbAUZcXOQE-kLNNUGG3L8SfL75RUa5k4_E2MFklkJRfnb5NxLmU56TAlEfyoARlvraJmMEmUjleOt48wDdHbmRBIRvQOIGgSsACdzb6Zb",
+          "title": "The Trade Desk",
+          "label": "The Trade Desk"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [],
+      "score": 20
+    },
+    {
+      "title": "Advanced Micro Devices",
+      "note": "AMD Joins Nvidia in Hardwiring AI Into Silicon ------------------------------------------------- Advanced Micro Devices has agreed to buy Taalas, a Toronto startup that hardwires…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/E_CCBhLhVrSnau1a0zuJKA~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0a3nyWGlFBvnF2OJBxmBTS1gNuWWcz7ZrelM_ielDR6vM4hIlegCNKj_uS5T1cR0g7lbnu0hUOF1vzoXyhq2FsnwQwaGL26Ha1qsCB92I9frIbr6upK4qaopbW9QB-lwZM3lXiiQnuVisUrStWgCukhpI9M7H_jW1j1DHCtMGmcZLlPKp8Ujt1452FD9G6Ili4mJL3HqxUZrhhoe1KAII5QiazgzivJniJfpyeP7_rShhP_zmgaeo0OWR5cjgIV3lKFo1Zrm0ukGsLQa1zuXiEYXDkKGJ3DL9K6PEOKqrsPxtnLCZl3mAbDSAviX6CHFGfxKT2gzcrmxrVl30hYyV_6T86EbKrFb9js6d8NeMRmaJTRi7VJ0A2rYMQAs7FQdq",
+          "title": "Advanced Micro Devices",
+          "label": "Advanced Micro Devices"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "score": 17
+    },
+    {
+      "title": "See the new features helping Airbnb",
+      "note": "Gen Z Is Powering Airbnb's Fastest Growth in Years ----------------------------------------------------- Image shows chart of Airbnb's net income over the past 3 years Airbnb rose…",
+      "links": [
+        {
+          "url": "https://clicks.fool.com/f/a/4UQbIfEG_3v0XLWSsQGHXA~~/AAQRxRA~/7ascrCxfDY0UezQ03_ziyEWp6a3RNhCcVHOgLql1TnnR5CMjNFNRmFi5KpA3LvxOCis6mC9S4GdJVQebt1Mu7T0HHyW595GsiK7cDeMBHejpI1Pt4NGT-MM8Kkpe1ada-GZbRcpaz2BEP2ysaqaSfJ0J0wHTmMxmfXhsuImLMa2G6k0A4yxX7PV1YaEJOIGt6n3aWLflCOB6BJNUbSZle2dQ0oeyW7sL4zpElEZffjM0DyXa1FOFzLDO2uKQyZWsSRS9QoxryAIjIAsjh8EWlWPJ46oJQA1V2YX30TE5j9CS-Bk9yyBhcbqNvJTOUx_2PnaX01IC8peXo022o4D_6vR3TfydJvc0E9bDj15H3_p6iNu3hD3zQrRSOxR99dd9kBbe6zGGBuIQKHGRnoL9MgAj0yImzZv2vFM95dXRghjjpTaY7J_hX2F4PTakJYUMYXxHVSmAq1psMcMcdvUYVw~~",
+          "title": "See the new features helping Airbnb",
+          "label": "See the new features helping Airbnb"
+        }
+      ],
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "tickers": [],
+      "score": 16
+    }
+  ],
+  "macro": {
+    "tone": "Mixed",
+    "score": 2,
+    "items": [
+      {
+        "theme": "Tariffs And Trade",
+        "source": "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+        "note": "No Buyers at The Trade Desk ------------------------------ We've recommended The Trade Desk about 100 times over the last decade. The company runs the leading platform for buying ads across the open internet, beyond the walled gardens of Alphabet , Amazon , and Meta . For years, it delivered major multibagger returns. But growth has stalled, and in February, Rule Breakers cut it to hold and sent it to the Penalty Box. Last night's Q2 shows why it's staying there. * Team Rule Breakers: TTD's Q2 revenue rose just 3%, net income fell 40%, and it expects even less revenue next quarter. The ad market is expanding, yet The Trade Desk can't grab more than a slim sliver of it. * Team Hidden Gems: CEO Jeff Green insists they're on track. But growth is anemic compared to the over 25% revenue gains at both Amazon and Meta last quarter. This company is unstable, with wholesale turnover in the executive ranks. We have erred badly by holding so many positions in Hidden Gems. The Trade Desk stays in the penalty box for now, and maybe for good. These declines hurt and offer a strong reminder of the importance of portfolio diversification. We are reviewing our investment procedures related to our Trade Desk investments and will share our findings soon. Divider -----------------------------------------------------",
+        "risk": 1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/6ZI-b6HvuHL5bAf_CsHGxQ~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0ivHdHmShby38eKmGp4JHeLpbxJuraugp37n5Wdn2jlX7wQAdyJlvj73iRMqMoVXQj3KKNh8gsz-iq5zIhAqmLxA7Uj5zg0o8OCoRCGQ2CVlSQOTDetsc2ISkXKWSul7_SVo1WkK54TQs-leDBZMClFgvmdqfw4JGyNl_GjITqP6XOSYrfE-JLnMjPqBgo7m4IbeiHkAz9nuueHm-8wphoaZ4t3lwBMN5LC_oP7cgYMVt0pCuYlCzuTZwy2px5ECeFf2V3F2EHLO6-x7xE9ciaurD1AstVZstlSsIQQcOuQIHqm1fuLimK_YPTHRAgCQxhYMkUmMNW0XKJit_BJcmKKWF66QqpvJjDLmOr-1XZvAI9hqQ8-1-2dejhP31UYNt",
+            "title": "The Trade Desk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/61OrYaa4N1vplSj4B-r65g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uwIOlfOIo6Qw1bmL8cMDOyu1NxM9wolikLZdl76Iy2QRCRDxRXbU5SbaGn2JTQtGrw3hhSMWonmZUU443-Tz-VlQ7mvDtWg6iWJudzRywbF3Z2fJeyl66_jPi2j7x-xlAJcaOpcYWjOGSR1bH66HIyVoY5ngusY5TRACe3yDIk8J2gk20lTLVXr6rpYgfdr2FAvUHO8AYBSYRerqiv-Pxjd9EI-wm-SmwY09ng9dwSU59rf_nAns6nQnr4z-AbBwq5VgxYuTG14L00KRwaawLiP0wbAUZcXOQE-kLNNUGG3L8SfL75RUa5k4_E2MFklkJRfnb5NxLmU56TAlEfyoARlvraJmMEmUjleOt48wDdHbmRBIRvQOIGgSsACdzb6Zb",
+            "title": "The Trade Desk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/tVDtOx3jFjSnmkspHXK9rQ~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7u_p9C9HLWLj0RGQPpzhA7Ra1tpAIfkNOesFZ4MO6LFhBXroK6ED4FPubdCvBO6s7Nded0izJhbS0WRkk0nh3KTdWhFmjABbjL1DZN-hjNpGO34CJ6nwqO0dM_EhXgSIv-Rzz6qb3vL1FNmQ7DYAsKa4lSyKKX2shljG1retGxDCjmZENrxQuc6RR_49wODrcJp_qR5AQgGhs61CD1AFMEEh61y0Dp7J0-XY6j5FNE5JNm67GPPEWuM2cnmW6CYbskbqL3gsGBjD0GTvCVMIotizmvvbzidG-XFH6D6rPgIkya7iEJEgliUEdaX65kVQcbwGTzsAW4QVy7T-n8uP6bZnfUQak6FFtv8HeHOdpseWk7HlsrfNsfuWcy1ScS8wpA",
+            "title": "Amazon",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/JUS1nVHN6HXyEjzBpY-e0g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uoYdR8oTn3TkW-EOHOac830YNtHaHUs6fPGCbxbSWYGgKGbeI5wKFkbLCYe50WJH_yaD4xgh1TDzOyuHRw8ad8pHjudYz19ZviqywQgbI13yCmVa9_8FH28wRGNuKtv274cZMLPu9LTOrIRct1qbgzy9ju6HRJt8S_PM2V98f0uuPPfIVY2w_-tnC7t-q33A10UxChqUBKsldh_Yl3PSbXqFPMHOpsbpZzS6K5Cy51u9lhvRRs0Y4o_hfdzu7pAJVngEgKpzKOVkCXLAiAAbaZ0wxHFwH1MGfWoDqorPzGtvzbkhNcHJCGRQGV8BB_ML-ljdcsEt44KIuIiXJlKMIsJvcY-Gg9jAxGGbhx7skBtrMnCpUmvx-hKfcUCXJcF_D",
+            "title": "Meta",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/T8w5AcBpRZpL57SB4of3Sg~~/AAQRxRA~/OdOwtEGlgVsALTUrxdJXxJiIhHXauXEHxaEBonSDHI3okvYNK7doRE_AcwfrgQxPezciZlSSqSv-M5SiBaMRJJss_ZTAg2odmkSLpDKXo9_Qm1rasOfJdkSSoqRDBxKtKBfFseUWLEgONRezf1Tkb6XFr1Lzo14uFkghBCTQVoiVk3E88bfrPzQrjPf0vXp_wvs-OLbwtYmufbLL6F5QEfjJoc-6PhuT8wq8REQLw30FRilFm3KlFpu6wlHr1RihKtMLArswM0Frp9iirhpMZREWcOpWrMoHaYNGDfUyonV0uCQHBUUAXDBD0KniIg33b0g5IiWUl06-K_EQRbbMWya8Cruq3tSrJfwUTmCY3r_ShN6kf-60IOYcJ_Rl8ZrKMnQSgxhBF0AeHt4u6k-2xFAX0jZ06jjZDorFTO6OBj4I5ElC--KywSqvX74sdRtcM2g7yLmvE6FhYTz628b4Dw~~",
+            "title": "Last night's Q2",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "AI Infrastructure",
+        "source": "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+        "note": "AMD Joins Nvidia in Hardwiring AI Into Silicon ------------------------------------------------- Advanced Micro Devices has agreed to buy Taalas, a Toronto startup that hardwires AI models directly into silicon, and plans to plug the technology into its Helios rack systems. It's the second chip giant in a year to snap up this kind of specialist. * Why both AMD and Nvidia want fixed silicon: The deal lands seven months after Nvidia bought similar assets from Groq. When the two biggest names in AI chips both pay up for the same thing, they're pointing at a coming split: flexible GPUs keep training the models, while high-volume, latency-sensitive inference moves to purpose-built chips where efficiency beats flexibility. CEO Lisa Su put it plainly: there's no one-size-fits-all in chips. AMD is buying onto the right side of that divide before it hardens. * “We love investing in companies that aren't afraid of innovation and can quickly enter an emerging market”: AMD is outperforming the S&P 500 by 129% since the January 2024 Stock Advisor recommendation by Team Rule Breakers. Contributing analyst Toby Bordelon likes how fast AMD moves into new markets; he pointed to its quantum-computing push this week as another example. Get up to speed on AMD’s latest earnings Divider ---------------------------------------------------------------",
+        "risk": -1,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/E_CCBhLhVrSnau1a0zuJKA~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0a3nyWGlFBvnF2OJBxmBTS1gNuWWcz7ZrelM_ielDR6vM4hIlegCNKj_uS5T1cR0g7lbnu0hUOF1vzoXyhq2FsnwQwaGL26Ha1qsCB92I9frIbr6upK4qaopbW9QB-lwZM3lXiiQnuVisUrStWgCukhpI9M7H_jW1j1DHCtMGmcZLlPKp8Ujt1452FD9G6Ili4mJL3HqxUZrhhoe1KAII5QiazgzivJniJfpyeP7_rShhP_zmgaeo0OWR5cjgIV3lKFo1Zrm0ukGsLQa1zuXiEYXDkKGJ3DL9K6PEOKqrsPxtnLCZl3mAbDSAviX6CHFGfxKT2gzcrmxrVl30hYyV_6T86EbKrFb9js6d8NeMRmaJTRi7VJ0A2rYMQAs7FQdq",
+            "title": "Advanced Micro Devices",
+            "fetched": false
+          }
+        ]
+      },
+      {
+        "theme": "Geopolitical Risk",
+        "source": "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+        "note": "Cloudflare, Twilio, and Atlassian Rally on Broadening Demand --------------------------------------------------------------- Three software names reported strong quarters and rallied hard pre-market. The common thread: each stock rallied on a broadening base of customers and products, not on a few outsized deals. * Cloudflare , up over 16%. Revenue climbed 36% year over year , with record additions in paying customers, large customers, and developers alike. Strength across all three tiers shows the customer base itself is expanding, beyond the largest accounts. * Twilio , up around 16%. Revenue hit a record $1.50 billion , up 22%, and earnings beat consensus for the fifth straight quarter. It raised full-year guidance on demand across messaging, voice, and newer AI products. Five straight quarters of beats point to steady demand it can plan around. * Atlassian , up over 30%. Its Rovo AI assistant now reaches more than 80% of the Fortune 500, with Rovo-assisted actions up 50% from last quarter . Customers who adopt Rovo grow spending at over twice the rate of those who don't, so AI is pulling revenue up directly. Study how TEAM is building an AI empire Divider -------------------------------------------",
+        "risk": 2,
+        "links": [
+          {
+            "url": "https://clicks.fool.com/f/a/_8rVUEf08_q71qmiPnZmLw~~/AAQRxRA~/om5ETN8Haj37147oQIou-Vq_sEkH7FTjEnxzT9j6LFlzVYFyI9D3iDgjm5P0KQ8deGb3zY95gzYe_cv_KWFpJq-_q1QDPJ23ivwHr1gNXScGF-7UrZc7v57-rAaTthy87cYX0jP03YdzVuJL5bmIsqOEdz8-BN0kr4uCPw5VHUIu7E-Hla0Rdu9J0xZAiRBPJ1aFE-xC3429fS9snRTocBqIkp8dqWgmK-2x6eJvQcyykRkCLydqEscBeDM0qJFfeH4_4ZyU_e6P_RNnHmtgLPWwMm511FIh-3f-fmll72W3OgT-U4CvczrSUuSkAFb5lKDni4hJlsUnRGReZTBK7xy7lp-RjvbDDHLoHeBOLsHVksrQfqAEuJg4en5BSgNHKMLagSZAJX-T_NTJy_qj3zq855XlBYsjsinmW3f2dzleXrMD8mRBVwkJ9Z9MnSnC",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/6ZI-b6HvuHL5bAf_CsHGxQ~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0ivHdHmShby38eKmGp4JHeLpbxJuraugp37n5Wdn2jlX7wQAdyJlvj73iRMqMoVXQj3KKNh8gsz-iq5zIhAqmLxA7Uj5zg0o8OCoRCGQ2CVlSQOTDetsc2ISkXKWSul7_SVo1WkK54TQs-leDBZMClFgvmdqfw4JGyNl_GjITqP6XOSYrfE-JLnMjPqBgo7m4IbeiHkAz9nuueHm-8wphoaZ4t3lwBMN5LC_oP7cgYMVt0pCuYlCzuTZwy2px5ECeFf2V3F2EHLO6-x7xE9ciaurD1AstVZstlSsIQQcOuQIHqm1fuLimK_YPTHRAgCQxhYMkUmMNW0XKJit_BJcmKKWF66QqpvJjDLmOr-1XZvAI9hqQ8-1-2dejhP31UYNt",
+            "title": "The Trade Desk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/61OrYaa4N1vplSj4B-r65g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uwIOlfOIo6Qw1bmL8cMDOyu1NxM9wolikLZdl76Iy2QRCRDxRXbU5SbaGn2JTQtGrw3hhSMWonmZUU443-Tz-VlQ7mvDtWg6iWJudzRywbF3Z2fJeyl66_jPi2j7x-xlAJcaOpcYWjOGSR1bH66HIyVoY5ngusY5TRACe3yDIk8J2gk20lTLVXr6rpYgfdr2FAvUHO8AYBSYRerqiv-Pxjd9EI-wm-SmwY09ng9dwSU59rf_nAns6nQnr4z-AbBwq5VgxYuTG14L00KRwaawLiP0wbAUZcXOQE-kLNNUGG3L8SfL75RUa5k4_E2MFklkJRfnb5NxLmU56TAlEfyoARlvraJmMEmUjleOt48wDdHbmRBIRvQOIGgSsACdzb6Zb",
+            "title": "The Trade Desk",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/tVDtOx3jFjSnmkspHXK9rQ~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7u_p9C9HLWLj0RGQPpzhA7Ra1tpAIfkNOesFZ4MO6LFhBXroK6ED4FPubdCvBO6s7Nded0izJhbS0WRkk0nh3KTdWhFmjABbjL1DZN-hjNpGO34CJ6nwqO0dM_EhXgSIv-Rzz6qb3vL1FNmQ7DYAsKa4lSyKKX2shljG1retGxDCjmZENrxQuc6RR_49wODrcJp_qR5AQgGhs61CD1AFMEEh61y0Dp7J0-XY6j5FNE5JNm67GPPEWuM2cnmW6CYbskbqL3gsGBjD0GTvCVMIotizmvvbzidG-XFH6D6rPgIkya7iEJEgliUEdaX65kVQcbwGTzsAW4QVy7T-n8uP6bZnfUQak6FFtv8HeHOdpseWk7HlsrfNsfuWcy1ScS8wpA",
+            "title": "Amazon",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/JUS1nVHN6HXyEjzBpY-e0g~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uoYdR8oTn3TkW-EOHOac830YNtHaHUs6fPGCbxbSWYGgKGbeI5wKFkbLCYe50WJH_yaD4xgh1TDzOyuHRw8ad8pHjudYz19ZviqywQgbI13yCmVa9_8FH28wRGNuKtv274cZMLPu9LTOrIRct1qbgzy9ju6HRJt8S_PM2V98f0uuPPfIVY2w_-tnC7t-q33A10UxChqUBKsldh_Yl3PSbXqFPMHOpsbpZzS6K5Cy51u9lhvRRs0Y4o_hfdzu7pAJVngEgKpzKOVkCXLAiAAbaZ0wxHFwH1MGfWoDqorPzGtvzbkhNcHJCGRQGV8BB_ML-ljdcsEt44KIuIiXJlKMIsJvcY-Gg9jAxGGbhx7skBtrMnCpUmvx-hKfcUCXJcF_D",
+            "title": "Meta",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/T8w5AcBpRZpL57SB4of3Sg~~/AAQRxRA~/OdOwtEGlgVsALTUrxdJXxJiIhHXauXEHxaEBonSDHI3okvYNK7doRE_AcwfrgQxPezciZlSSqSv-M5SiBaMRJJss_ZTAg2odmkSLpDKXo9_Qm1rasOfJdkSSoqRDBxKtKBfFseUWLEgONRezf1Tkb6XFr1Lzo14uFkghBCTQVoiVk3E88bfrPzQrjPf0vXp_wvs-OLbwtYmufbLL6F5QEfjJoc-6PhuT8wq8REQLw30FRilFm3KlFpu6wlHr1RihKtMLArswM0Frp9iirhpMZREWcOpWrMoHaYNGDfUyonV0uCQHBUUAXDBD0KniIg33b0g5IiWUl06-K_EQRbbMWya8Cruq3tSrJfwUTmCY3r_ShN6kf-60IOYcJ_Rl8ZrKMnQSgxhBF0AeHt4u6k-2xFAX0jZ06jjZDorFTO6OBj4I5ElC--KywSqvX74sdRtcM2g7yLmvE6FhYTz628b4Dw~~",
+            "title": "Last night's Q2",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/2gj1nvWv_CppeB5SU3uFRg~~/AAQRxRA~/om5ETN8Haj37147oQIou-Vq_sEkH7FTjEnxzT9j6LFlzVYFyI9D3iDgjm5P0KQ8deGb3zY95gzYe_cv_KWFpJq-_q1QDPJ23ivwHr1gNXSex8gZUM3hexjObYKRCnhiasQLrxRqVXAvIr91Gk51NjWVGhiVwmAdIURg6fQ9sDxYHtJ5qQhDC7-2Xc7pUPjqjBaRxvJpEc4poysX9vTJfDSnrSdn7uxgwKH4618e-ErsFl_ol899el0wCRxKXYHydM2tAP3j9Uou0qSyL8HFAUNogkSDI6j1zp6WxjDQwBgtV6HOhjc4a48bINS_S50HHLbPs6cA4TP_dWP_rgvYX6FaG2QCxXDVMC5b5iA_19mNRNL5lRRMmXIjy0WBn5hPqopboB-w3EtjupUOkeLUG0tyntMJ8ScL9oL4MwazzctQJQkCBRAlTxTINxL4-hidR",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/cyblasiEP8t-mgZsgAlI0A~~/AAQRxRA~/FRtUtFjziW0qGnSSQoaNVjtSyiDrREg0b1eBdvRsp9G9BDXFBurFKlmI8rxkGe7uplQ98Sgk9kgVdjn9mHZrVGwOjf0BbFhf5tlT14_8NvUaWNmAhflR6WjtCqeP8cubf1CRO2MuVN5PEMRpgYVWcLhYkksZ1Fz8HHVslZi9bSTvr2ppkBINcgvCPpn6RHWPVEDQMVLy_43SObuPlPmLdbo5DY0g9_jyvfbF0mB3ihNizhtYP4r_JgKw1x3epkCMDJ_QkLX1422RDErpg2tA3phpVU-bECK7-PeYruzTOrXhtbyqqbTTrlmaUDMQu4taUUXoMzA_P0gQBqgkz0JUPI6kAseTIbM8hDbtf4Ah8W3ofPHLLZOwSYpLFsJrHx8tOwcAnTfJKFvN1NbNaaWSm6MXPcxDA254dm4cLJpvOkLjc1i_geraFW6BKJDx5UmC",
+            "title": "Airbnb",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/trHrk6az9FiKnBvjUI-gKg~~/AAQRxRA~/aIMz2pRmjwWTTKy7u34Uyyi5yMk4LLsvilbYeg7dRh1Wbx05pKqbFcr4TrJVzC-hTw3b8aonQmT8TzDmPO-bkr1oYCsXX2RJz2W4lRIDUU0h7DgtomX_pAAEd3NUTIBTwzJagyLj9K6IJ4u5gSk3jc68ZFvZPozBFmRIkek6UJWux4CZlDjna1RJG9S3BD7jZtJKgX7ugLpGNnv83m0V5L1I67VczeyQzl4UvKcJEqhSKwDX2xNNw31neNSXvDuGJD24dkQsB1fXV4QKbUbdMQjbg1YrIsmzZiRbEekd_fhb1nmyYYfhipjujLB8og4HX1I2pV_Pgm-_5xJ0iqmNWYskDVyoPFpk3-12EC31iibqmrWamZ4ZTHxzA7sF5eCrL0VrapsOpWIeKBFBHa0bLgEi3BSnEFJHVJGdFFsqzsO2VUzE_Ts-ZC4UkTCoT0JInyEYwbabQI_2W31zcyJV0g~~",
+            "title": "Motley Fool link",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/4UQbIfEG_3v0XLWSsQGHXA~~/AAQRxRA~/7ascrCxfDY0UezQ03_ziyEWp6a3RNhCcVHOgLql1TnnR5CMjNFNRmFi5KpA3LvxOCis6mC9S4GdJVQebt1Mu7T0HHyW595GsiK7cDeMBHejpI1Pt4NGT-MM8Kkpe1ada-GZbRcpaz2BEP2ysaqaSfJ0J0wHTmMxmfXhsuImLMa2G6k0A4yxX7PV1YaEJOIGt6n3aWLflCOB6BJNUbSZle2dQ0oeyW7sL4zpElEZffjM0DyXa1FOFzLDO2uKQyZWsSRS9QoxryAIjIAsjh8EWlWPJ46oJQA1V2YX30TE5j9CS-Bk9yyBhcbqNvJTOUx_2PnaX01IC8peXo022o4D_6vR3TfydJvc0E9bDj15H3_p6iNu3hD3zQrRSOxR99dd9kBbe6zGGBuIQKHGRnoL9MgAj0yImzZv2vFM95dXRghjjpTaY7J_hX2F4PTakJYUMYXxHVSmAq1psMcMcdvUYVw~~",
+            "title": "See the new features helping Airbnb",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/bzOyLJS4b8XC2LdBDTUI5Q~~/AAQRxRA~/0iDXHjBlts0ex0AKfF7AQ8FcUU5a2ZkpzqSi8fYROULlSYpbsBPPa1mrEQk-VjYmXs43OjU1JLQwx6C_HUNVCRTW5vrjO-a7eYyQys6pWI_0o7Xssm5w0t-NHYrPjkhf0q7JyBfgUTOUI8YAJt5BGvSvyqDgm4cWN6dUwGB5Bk5e5xsGVoJsE0VBAwTVy-l6Xlrkf4tg5L3HiGPujyq4zwfK_eE1hvZgFowALkGl4-JAp6-u9mP99-XTB75qA6i-",
+            "title": "See what's inside the Epic Portfolio &rarr;",
+            "fetched": false
+          },
+          {
+            "url": "https://clicks.fool.com/f/a/E_CCBhLhVrSnau1a0zuJKA~~/AAQRxRA~/TVy9Nl8F_lJuS26LHJiNyBAzDhFKyNt24jJ4c0Xi4txpUibFrjy_OJOTZ3tjTpq0a3nyWGlFBvnF2OJBxmBTS1gNuWWcz7ZrelM_ielDR6vM4hIlegCNKj_uS5T1cR0g7lbnu0hUOF1vzoXyhq2FsnwQwaGL26Ha1qsCB92I9frIbr6upK4qaopbW9QB-lwZM3lXiiQnuVisUrStWgCukhpI9M7H_jW1j1DHCtMGmcZLlPKp8Ujt1452FD9G6Ili4mJL3HqxUZrhhoe1KAII5QiazgzivJniJfpyeP7_rShhP_zmgaeo0OWR5cjgIV3lKFo1Zrm0ukGsLQa1zuXiEYXDkKGJ3DL9K6PEOKqrsPxtnLCZl3mAbDSAviX6CHFGfxKT2gzcrmxrVl30hYyV_6T86EbKrFb9js6d8NeMRmaJTRi7VJ0A2rYMQAs7FQdq",
+            "title": "Advanced Micro Devices",
+            "fetched": false
+          }
+        ]
+      }
+    ],
+    "beforeBuying": [
+      "Watch oil, defense, transports, and broad-index reaction before adding risk.",
+      "Treat import/export and margin-sensitive names with extra caution."
+    ]
+  },
+  "candidates": [
+    {
+      "symbol": "ABNB",
+      "score": 87,
+      "stance": "Buy Candidate",
+      "evidence": "* Airbnb raises outlook: Airbnb (ABNB  ) beat Q2 revenue estimates and raised its 2026 revenue outlook, driven by strong global travel demand, World Cup bookings, and growth from first-time users.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MCHP",
+      "score": 81,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Microchip Technology (MCHP  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "CAH",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "COHR",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "COP",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "View definitions --------------- Recent Earnings --------------- ConocoPhillips (COP  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "DDOG",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Datadog (DDOG  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "FERG",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "FOXA",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Fox Corporation (FOXA  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "HWM",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Howmet Aerospace (HWM  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "LITE",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "MNST",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Monster Beverage (MNST  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "NBIS",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NET",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Cloudflare (NET  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "NU",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "PBR",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Petrobras (PBR  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "PH",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Parker-Hannifin (PH  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "RKT",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Rocket Companies (RKT  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ROKU",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "(ROKU  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SE",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SPG",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TEO",
+      "score": 73,
+      "stance": "Buy Candidate",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SKHY",
+      "score": 71,
+      "stance": "Buy Candidate",
+      "evidence": "* SK Hynix expands capacity: SK Hynix (SKHY  ) plans to invest $38B to build new chip factories in South Korea, aiming to double memory capacity and meet strong AI-driven demand.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVDA",
+      "score": 69,
+      "stance": "Research Watch",
+      "evidence": "AMD Joins Nvidia in Hardwiring AI Into Silicon ------------------------------------------------- Advanced Micro Devices has agreed to buy Taalas, a Toronto startup that hardwires AI models directly into silicon, and plans to plug the technology into its Helios rack systems. * Why both AMD and Nvidia want fixed silicon: The deal lands seven months after Nvidia bought similar assets from Groq.",
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "KVUE",
+      "score": 67,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Kenvue (KVUE  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "QSR",
+      "score": 67,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Restaurant Brands International (QSR  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "RSG",
+      "score": 67,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Republic Services (RSG  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "SG",
+      "score": 67,
+      "stance": "Setup Watch",
+      "evidence": "* Sweetgreen plunges on forecast cut: Sweetgreen (SG  ) fell 13% premarket after cutting its annual same-store sales forecast, citing weaker demand amid fears over a disease outbreak tied to fresh produce — despite no link to the salad chain's menu.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TRGP",
+      "score": 67,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Targa Resources (TRGP  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "USFD",
+      "score": 67,
+      "stance": "Setup Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release US Foods Holding (USFD  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "positive recent move",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "BA",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Alibaba shifts AI monetization: Alibaba (BABA  ) plans to require major users of its next open-source AI model to share revenue, pushing to monetize commercial adoption.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BABA",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Alibaba shifts AI monetization: Alibaba (BABA  ) plans to require major users of its next open-source AI model to share revenue, pushing to monetize commercial adoption.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BZH",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Homebuilder buyout: Dream Finders (DFH  ) agreed to purchase Beazer Homes (BZH  ) for $2.2B, including debt, in an all-cash deal that will make it the 6th-largest U.S.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "DFH",
+      "score": 63,
+      "stance": "Research Watch",
+      "evidence": "* Homebuilder buyout: Dream Finders (DFH  ) agreed to purchase Beazer Homes (BZH  ) for $2.2B, including debt, in an all-cash deal that will make it the 6th-largest U.S.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "fresh catalyst language",
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check chart structure, liquidity, valuation context, and whether the catalyst is already extended."
+    },
+    {
+      "symbol": "APO",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* EasyJet agrees to takeover: Apollo (APO  ) will acquire U.K.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "BLSM",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "CBRS",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "DV",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Nielsen acquires DoubleVerify: Nielsen will purchase software company DoubleVerify (DV  ) in a deal valued at $2.15B, sending DoubleVerify up 13% premarket.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "FSLR",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "FirstSolar (FSLR  ) gained 5% premarket, with FTC Solar (FTCI  ) up 4%.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "FTCI",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "FirstSolar (FSLR  ) gained 5% premarket, with FTC Solar (FTCI  ) up 4%.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "GOOGL",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LLY",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Lilly gains competitive advantage: Eli Lilly (LLY  ) strengthened its lead over Novo Nordisk (NVO  ) after both companies beat Q2 estimates and raised guidance.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LON",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "budget airline EasyJet (LON:EZJ  ) for $7.6B after rival Castlelake withdrew.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "LTGO",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "META",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Meta faces massive payout: A judge demanded that Meta (META  ) pay $567M into a New Mexico abatement fund in a case tied to its platforms' contributions to youth mental health harms.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NFLX",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "NVO",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Lilly gains competitive advantage: Eli Lilly (LLY  ) strengthened its lead over Novo Nordisk (NVO  ) after both companies beat Q2 estimates and raised guidance.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SBGI",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* Sinclair gains on scrapped TV station rule: Sinclair (SBGI  ) rose 6% yesterday — and another 1.6% premarket — after the FCC repealed a cap on TV station ownership, potentially allowing more acquisitions of local stations.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "SPCX",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* SpaceX shares unlock: SpaceX (SPCX  ) climbed 6% after more than 900M shares became eligible for trading following its IPO lockup expiration.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "UWMC",
+      "score": 55,
+      "stance": "Research Watch",
+      "evidence": "* UWM raises capital: United Wholesale Mortgage (UWMC  ) plummeted 35% after suspending its dividend and securing a $2.05B equity investment to strengthen liquidity.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "TTWO",
+      "score": 53,
+      "stance": "Research Watch",
+      "evidence": "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "AIG",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release American International Group (AIG  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "FISV",
+      "score": 47,
+      "stance": "Research Watch",
+      "evidence": "* Financials   · As Reported   · Metrics   · Press Release Fiserv (FISV  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    },
+    {
+      "symbol": "ACM",
+      "score": 37,
+      "stance": "Low Priority",
+      "evidence": "Mentioned in source material without a nearby explanatory note.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Confirm price trend, volume, upcoming events, and source quality before considering an entry."
+    },
+    {
+      "symbol": "WBD",
+      "score": 37,
+      "stance": "Low Priority",
+      "evidence": "Discovery (WBD  ) has released its quarterly earnings.",
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "positives": [
+        "aligned with active themes",
+        "higher-confidence source"
+      ],
+      "risks": [
+        "no major risk flag found in current sources"
+      ],
+      "nextCheck": "Check post-earnings trend, volume, guidance, and whether support holds."
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "ABNB",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Airbnb raises outlook: Airbnb (ABNB  ) beat Q2 revenue estimates and raised its 2026 revenue outlook, driven by strong global travel demand, World Cup bookings, and growth from first-time users.",
+        "* Financials   · As Reported   · Metrics   · Press Release Airbnb (ABNB  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+16.54%"
+    },
+    {
+      "symbol": "TTWO",
+      "mentions": 2,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug."
+      ],
+      "latestMove": "-2.61%"
+    },
+    {
+      "symbol": "ACM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "-5.96%"
+    },
+    {
+      "symbol": "AIG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release American International Group (AIG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "-0.08%"
+    },
+    {
+      "symbol": "APO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* EasyJet agrees to takeover: Apollo (APO  ) will acquire U.K."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Alibaba shifts AI monetization: Alibaba (BABA  ) plans to require major users of its next open-source AI model to share revenue, pushing to monetize commercial adoption.",
+        "Boeing (BA  ) fell 3.3% on the news."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BABA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Alibaba shifts AI monetization: Alibaba (BABA  ) plans to require major users of its next open-source AI model to share revenue, pushing to monetize commercial adoption."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "BLSM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "BZH",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Homebuilder buyout: Dream Finders (DFH  ) agreed to purchase Beazer Homes (BZH  ) for $2.2B, including debt, in an all-cash deal that will make it the 6th-largest U.S."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "CAH",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+8.44%"
+    },
+    {
+      "symbol": "CBRS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "COHR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+29.55%"
+    },
+    {
+      "symbol": "COP",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "View definitions --------------- Recent Earnings --------------- ConocoPhillips (COP  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+32.44%"
+    },
+    {
+      "symbol": "DDOG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Datadog (DDOG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+35.59%"
+    },
+    {
+      "symbol": "DFH",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Homebuilder buyout: Dream Finders (DFH  ) agreed to purchase Beazer Homes (BZH  ) for $2.2B, including debt, in an all-cash deal that will make it the 6th-largest U.S."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "DV",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Nielsen acquires DoubleVerify: Nielsen will purchase software company DoubleVerify (DV  ) in a deal valued at $2.15B, sending DoubleVerify up 13% premarket."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "FERG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+13.01%"
+    },
+    {
+      "symbol": "FISV",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Fiserv (FISV  ) has released its quarterly earnings."
+      ],
+      "latestMove": "-4.06%"
+    },
+    {
+      "symbol": "FOXA",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Fox Corporation (FOXA  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+28.14%"
+    },
+    {
+      "symbol": "FSLR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "FirstSolar (FSLR  ) gained 5% premarket, with FTC Solar (FTCI  ) up 4%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "FTCI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "FirstSolar (FSLR  ) gained 5% premarket, with FTC Solar (FTCI  ) up 4%."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "GOOGL",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "HWM",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Howmet Aerospace (HWM  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+24.06%"
+    },
+    {
+      "symbol": "KVUE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Kenvue (KVUE  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+3.02%"
+    },
+    {
+      "symbol": "LITE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+105.38%"
+    },
+    {
+      "symbol": "LLY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Lilly gains competitive advantage: Eli Lilly (LLY  ) strengthened its lead over Novo Nordisk (NVO  ) after both companies beat Q2 estimates and raised guidance."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LON",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "budget airline EasyJet (LON:EZJ  ) for $7.6B after rival Castlelake withdrew."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "LTGO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": null
+    },
+    {
+      "symbol": "MCHP",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Microchip Technology (MCHP  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+38.08%"
+    },
+    {
+      "symbol": "META",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Meta faces massive payout: A judge demanded that Meta (META  ) pay $567M into a New Mexico abatement fund in a case tied to its platforms' contributions to youth mental health harms."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "MNST",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Monster Beverage (MNST  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+20.12%"
+    },
+    {
+      "symbol": "NBIS",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+448.69%"
+    },
+    {
+      "symbol": "NET",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Cloudflare (NET  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+35.87%"
+    },
+    {
+      "symbol": "NFLX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Netflix and YouTube get GTA 6 preview: Take-Two’s (TTWO  ) Rockstar Games will premiere an extended look at Grand Theft Auto VI on Netflix (NFLX  ) and YouTube (GOOGL  ) on Aug."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "NU",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+46.89%"
+    },
+    {
+      "symbol": "NVO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Lilly gains competitive advantage: Eli Lilly (LLY  ) strengthened its lead over Novo Nordisk (NVO  ) after both companies beat Q2 estimates and raised guidance."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "PBR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Petrobras (PBR  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+59.75%"
+    },
+    {
+      "symbol": "PH",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Parker-Hannifin (PH  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+9.77%"
+    },
+    {
+      "symbol": "QSR",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Restaurant Brands International (QSR  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.56%"
+    },
+    {
+      "symbol": "RKT",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Rocket Companies (RKT  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+105.97%"
+    },
+    {
+      "symbol": "ROKU",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "(ROKU  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+21.93%"
+    },
+    {
+      "symbol": "RSG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Republic Services (RSG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.60%"
+    },
+    {
+      "symbol": "SBGI",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Sinclair gains on scrapped TV station rule: Sinclair (SBGI  ) rose 6% yesterday — and another 1.6% premarket — after the FCC repealed a cap on TV station ownership, potentially allowing more acquisitions of local stations."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SE",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+35.75%"
+    },
+    {
+      "symbol": "SG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Sweetgreen plunges on forecast cut: Sweetgreen (SG  ) fell 13% premarket after cutting its annual same-store sales forecast, citing weaker demand amid fears over a disease outbreak tied to fresh produce — despite no link to the salad chain's menu.",
+        "* Financials   · As Reported   · Metrics   · Press Release Republic Services (RSG  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.60%"
+    },
+    {
+      "symbol": "SKHY",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* SK Hynix expands capacity: SK Hynix (SKHY  ) plans to invest $38B to build new chip factories in South Korea, aiming to double memory capacity and meet strong AI-driven demand."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPCX",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* SpaceX shares unlock: SpaceX (SPCX  ) climbed 6% after more than 900M shares became eligible for trading following its IPO lockup expiration."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "SPG",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+7.54%"
+    },
+    {
+      "symbol": "TEO",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [],
+      "latestMove": "+9.31%"
+    },
+    {
+      "symbol": "TRGP",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release Targa Resources (TRGP  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.23%"
+    },
+    {
+      "symbol": "USFD",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* Financials   · As Reported   · Metrics   · Press Release US Foods Holding (USFD  ) has released its quarterly earnings."
+      ],
+      "latestMove": "+4.46%"
+    },
+    {
+      "symbol": "UWMC",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "* UWM raises capital: United Wholesale Mortgage (UWMC  ) plummeted 35% after suspending its dividend and securing a $2.05B equity investment to strengthen liquidity."
+      ],
+      "latestMove": null
+    },
+    {
+      "symbol": "WBD",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ],
+      "sourceProfiles": [
+        "Stock Analysis Market Bullets"
+      ],
+      "sourceWeight": 10,
+      "primaryWeight": 10,
+      "notes": [
+        "Discovery (WBD  ) has released its quarterly earnings."
+      ],
+      "latestMove": "-11.16%"
+    },
+    {
+      "symbol": "NVDA",
+      "mentions": 0,
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon"
+      ],
+      "sourceProfiles": [
+        "Motley Fool Breakfast News"
+      ],
+      "sourceWeight": 14,
+      "primaryWeight": 14,
+      "notes": [
+        "AMD Joins Nvidia in Hardwiring AI Into Silicon ------------------------------------------------- Advanced Micro Devices has agreed to buy Taalas, a Toronto startup that hardwires AI models directly into silicon, and plans to plug the technology into its Helios rack systems. * Why both AMD and Nvidia want fixed silicon: The deal lands seven months after Nvidia bought similar assets from Groq."
+      ],
+      "latestMove": null
+    }
+  ],
+  "themes": [
+    {
+      "name": "AI Infrastructure",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    },
+    {
+      "name": "Earnings",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    },
+    {
+      "name": "Semiconductors",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    },
+    {
+      "name": "Space Economy",
+      "mentions": 2,
+      "sources": [
+        "Breakfast News: Gen Z Is Airbnb's Secret Weapon",
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    },
+    {
+      "name": "Defense Spending",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    },
+    {
+      "name": "Industrial Automation",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    },
+    {
+      "name": "Regulatory Risk",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    },
+    {
+      "name": "Streaming And Media",
+      "mentions": 1,
+      "sources": [
+        "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "kind": "economic",
+      "date": "2026-08-07",
+      "time": "8:30 AM",
+      "title": "Non Farm Payrolls",
+      "source": "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-07",
+      "time": "8:30 AM",
+      "title": "Unemployment Rate",
+      "source": "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-07",
+      "time": "8:30 AM",
+      "title": "Average Hourly Earnings MoM & YoY",
+      "source": "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+    },
+    {
+      "kind": "economic",
+      "date": "2026-08-07",
+      "time": "8:30 AM",
+      "title": "Participation Rate",
+      "source": "Market Bullets: U.S. sheds 23K jobs, SpaceX gains 6% on lockup expiration, Airbnb soars on forecast"
+    }
+  ]
+}
